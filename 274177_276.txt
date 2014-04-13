@@ -1,0 +1,24 @@
+Use this area to offer a short preview of your email's content.
+
+View this email in your browser (*|ARCHIVE|*)
+
+http://www.gq-magazine.co.uk/comment/articles/2013-05/30/guardiancoffee-pop-up-shoreditch-review
+Via Liz Conlan. Olivia Hicks writes, on the Guardian's coffee outlet: "encouraging a workplace for journalists without enough table space to rest a laptop is clearly a novel approach". When I visited the Monocle cafe too soon after it opened, they seemed a little sad themselves at the lack of anything more than a coffee and a bun. Yes, I'm still annoyed about Milk Bar. First world problems.
+
+"You, your families, your friends and your countries are to be exterminated by the common decision of a few brutal but powerful men. To please these men, all the private affections, all the public hopes, all that has been achieved in art, and knowledge and thought and all that has been achieved in art, and knowledge and thought and all that might be achieved hereafter is to be wiped out forever." - Bertrand Russell, from Brixton Prison, 1961
+
+http://gizmodo.com/5910223/how-yahoo-killed-flickr-and-lost-the-internet (http://gizmodo.com/5910223/how-yahoo-killed-flickr-and-lost-the-internet )
+Sadly letting Flickr go. This is a great article from Mat Honan, with swearing, if that's your thing - I'm assuming it was written just before Flickr's recent rejig. Mat writes on some of the sad, well-known Yahoo backstory, the missed opportunities and fallings-out. Elsewhere on Gizmodo, there's the question of "Where do you upload your photos?" - I don't, any more. I use Apple's Photostream thing, which has its own worrying implications.
+
+"It is an illusion that youth is happy, an illusion of those who have lost it; but the young know they are wretched, for they are full of the truthless ideals which have been instilled into them, and each time they come in contact with the real they are bruised and wounded." - Somerset Maugham
+
+http://www.markbernstein.org/May13/WikipediaAndTheJews.html (http://www.markbernstein.org/May13/WikipediaAndTheJews.html )
+One mark of a great communicator is that they can approach issues that others keep clear of - and express directly why we should attend more directly to them. I've simply not thought a great deal about the oddities of Wikipedia, leaving people like Mark to work over the grubby realities I might wish to avoid. "The good is constantly under attack, and the amount of work required simply to avoid letting an article deteriorate increases with the interest in that article."
+
+I'm hacking on a geolocation thing, like Google Now's cards without the Google. Playing around in Javascript for now.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

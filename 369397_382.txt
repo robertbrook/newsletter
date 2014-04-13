@@ -1,0 +1,39 @@
+http://ojjs.org
+"A JavaScript library to build websites with objects." - a bit odd: it's pretty much (HTML + CSS + JS) - (HTML + CSS).
+
+https://tonx.org/
+Do these people deliver outside the US?
+
+http://www.google.com/patents/USD24688
+Henry Perky, the inventor of shredded wheat also holds patents including 'Design for a cereal cup', which seems very much like a open-ended cylinder in shredded wheat form; a coffee-roaster; a sort of shredded wheat wafer; an ornamented stove; a 'Machine for Preparing Food' and a 'Machine for manufacturing different varieties of cereals into unitary compound forms.'
+
+I looked at something on the internet. Now I shall look at something else.
+
+Open rate and click rate have been going through the floor for a week. I blame the weather.
+
+http://archive.org/details/wisdomvsfoolish00perkgoog
+Henry Perky's 'Wisdom vs. foolishness': "The proposition that man can take a part of each whole of two or more food products, naturally and perfectly organized in nature's laboratory, and combine these parts into a food in his laboratory so as to improve upon nature, is the most stupendous error in any age and any civilization."
+
+https://developer.palm.com/content/resources/develop/overview_of_webos/overview_of_webos_user_interface.html
+Time rushes past on the internet. I remind myself that HP bought Palm. And that Palm had WebOS. And that this is what it looked like. "Don't block the user; don't use a modal control when the same function can be carried out non-modally."
+
+http://en.wikipedia.org/wiki/Stiction
+"Polished glass is especially prone to stiction." - only this example made sense to me.
+
+Apple Mail on the desktop is pretty much unusable for me. I'm back on my IMAP provider's website. Could be worse.
+
+http://www.siscog.eu/list_detail.asp?idArea=4&idList=8&idListDetail=108
+London Underground's resource planning suppliers. Originally built in Lisp, though I'm not sure about later versions.
+
+This build is taking ages. And doesn't show anything on the command line. Alas.
+
+http://www.aaai.org/ojs/index.php/aimagazine/article/view/625/558
+'An Assessment of Tools for Building Large Knowledge-Based Systems'
+
+I'm considering moving to the new shiny Mailchimp editor, with images and everything. This would mean that the plain-text version would be automated, rather than me checking it by eye. I'm going to give it a go and hope it doesn't break things. Please could you drop me a line if it's unreadable? Or, of course, you could just unsubscribe. That would be okay too.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

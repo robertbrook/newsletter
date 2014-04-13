@@ -1,0 +1,20 @@
+479 - POTS AND PANS - on the web (*|ARCHIVE|*)
+
+I'm really not sure about 'people on the internet' any more. Is it a place for people? It is a personal space, or a person-able space? It doesn't feel like it, most of the time. It feels like a place for companies and experiences and brands. Which makes me wonder, what am I do there, here, on the web, at all, any more? If it's just a glorified Yellow Pages, complete with ads, why bother writing there? Why bother doing anything there, apart from pizza ads?
+
+Hence my increasing fretting and ambivalence over domain names. I've lost control of several recently - some deliberately, some not. But what's a domain worth, any more? Not in money terms, but in recognition and use. Who types in domains any more?
+
+And increasingly, OS and browser vendors are hiding URLs - even domains - from us. Even in search results. I suppose they're going the way of Hayes modem strings: things that were essential once, then useful, then technical details, now seemingly irrelevant.
+
+Seriously: can you imagine a time a year or so from now when you give someone a URL and they have either no idea what it is, no idea what do do with it, or no way of doing much if anything with it with the screen they're holding?
+
+It's like all commercialisations of technology. The old ways aren't destroyed deliberately, they're just routed around. I'm not suggesting a conspiracy to deprive us of utility and control here - just a description of 'market forces'. If you can sell a device that lets you use the web without having to care about URLs, that's great, right?
+
+Oddly, this is all coming at the same time as all these odd new TLDs. The prices and possible competition for these should suggest that I'm flat out wrong: that URLs are indeed valuable and people can't wait to buy new versions of their domains. Thanks to an American correspondent for reminding me of this. Do you remember when companies bought every TLD they could? I really don't think they're going to bother any more.
+
+But what will a browser without and address bar look like? We can see right away, of course. Just turn it off in the browser you're using on the desktop. Can you still find your way around? And if you're in an iOS screen, the address bar only appears now and then.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

@@ -1,0 +1,42 @@
+502 - AT THE SCIENCE MUSEUM - on the web (*|ARCHIVE|*)
+
+Good morning.
+
+https://code.google.com/p/gyp/source/browse/trunk/pylib/gyp/xcode_emulation.py
+"This module contains classes that help to emulate xcodebuild behavior on top of
+other build systems, such as make and ninja." XCode is the new Death Star.
+
+http://research.google.com/pubs/JonOrwant.html
+"Before Google, Dr. Orwant was director of research for France Telecom and CTO of O'Reilly Media."
+
+http://www.petrovi.de
+Slav Petrov: "I grew up in Berlin, Germany, but I am originally from Sofia, Bulgaria. I therefore consider myself a Berliner from Bulgaria. Whenever Bulgaria plays Germany in soccer, I support Bulgaria."
+
+https://www.eff.org/deeplinks/2013/12/google-removes-vital-privacy-features-android-shortly-after-adding-them
+Peter Eckersley: "... for the time being, users will need to chose between either privacy or security on the Android devices, but not both."
+
+https://www.google.com/tagmanager/
+"Google Tag Manager lets you add or update your website tags and mobile applications, easily and for free, whenever you want, without bugging the IT folks." I have absolutely no idea what this is.
+
+https://github.com/andrewshell/linkblog
+"Script to publish a link blog to Amazon S3 from an OPML file"
+
+http://www.jewishgen.org/jcr-uk/pre-1290/1290communities/north1290.htm
+'Medieval (Pre-1290) Jewish Communities in Northern England' ...
+
+http://www.jewishgen.org/jcr-uk/pre-1290/1290communities/Knaresborough1.htm
+... Murray Freedman: "A synagogue with a regular 'minyan' suggests the presence of at least 40-50 souls, yet it is doubtful that the total population of Knaresborough was more than a few hundred at the time [- the late 12th to 13th century].  And where exactly on Synagogue Yard was the synagogue situated?" - a minyan being a quorum of ten.
+
+http://www.paulirish.com/2010/the-protocol-relative-url/
+Paul Irish: 'The Protocol-relative URL' - much as I like it, is this a temporary hack?
+
+http://urlte.am
+"The URLTeam is the ArchiveTeam subcommittee on URL shorteners. We believe that they pose a serious threat to the internet's integrity. If one of them dies, gets hacked or sells out, millions of links will stop working. Thus we preemptively release backups, because URL shorteners are too busy to make backups themselves."
+
+http://url.spec.whatwg.org
+"The URL standard sets out to make URLs fully predictable and interoperable." Wait, we need a spec for that? One of Anne van Kesteren's aims: "Standardize on the term URL. URI and IRI are just confusing. In practice a single algorithm is used for both so keeping them distinct is not helping anyone."
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

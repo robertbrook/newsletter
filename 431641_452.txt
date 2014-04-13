@@ -1,0 +1,38 @@
+452 - SOHO
+
+On the web (*|ARCHIVE|*)  - Signup link (*|LIST:SUBSCRIBE|*)
+
+Hello!
+
+http://www.poets.org/viewmedia.php/prmMID/16137
+From yesterday's header image: "For some we loved, the loveliest and the best / That from his Vintage rolling Time hath pressed, / Have drunk their Cup a Round or two before, / And one by one crept silently to rest." - Edward Fitzgerald
+
+A month from now and it'll all be over. Pretty much.
+
+http://www.theeagleonline.co.uk/features/exercise-clockwork-bardufoss-norway/
+Exercise Clockwork, 2011: "The following morning, everyone had to undergo the dreaded Ice Breaking drills. This involves each individual jumping into a frozen lake with your Bergen packed with dry clothes inside ... Once in the water you must get your bergen out first, then swim a length of the freezing water. After this you must use your ski poles to help dig in to the ice in a dagger motion to drag yourself out of the water." ...
+
+http://www.thelocal.no/20131118/norway-gov-mulls-arctic-prisons-for-foreigners
+... this year: "Foreign criminals are taking up a lot of space in our jails, ... The armed forces have abandoned so much in North Norway, but the buildings are still there and could be used for foreign criminals. They have no family to visit them, they have no connection to Norway and it will free up capacity in southern Norway."
+
+http://www.jber.af.mil/11af/alaskaairspaceinfo/
+Alaska Airspace Info, from the US 11th Airspace and Range team.
+
+http://www.rethinkdb.com/docs/install/ubuntu/
+brew is fine on the Mac, but the Ubuntu install feels more permanent. I realise it's all ones and zeroes, of course. "RethinkDB is a new system and is likely to have quirks." - it's on the front page! "RethinkDB is built to store JSON documents, and scale to multiple machines with very little effort."
+
+https://dataset.readthedocs.org/en/latest/
+"Why do we see an awful lot of data stored in static files in CSV or JSON format, even though they are hard to query and update incrementally?"
+
+https://www.firebase.com/how-it-works.html
+"Firebase apps can be written entirely with client-side code, update in real-time out-of-the-box, scale automatically, and provide strong data security."
+
+http://pouchdb.com/getting-started.html
+"... a basic Todo web application based on TodoMVC that syncs to an online CouchDB server." - with PouchDB, "written to help web developers build applications that work as well offline as well as they do online ..."
+
+I haven't quite given up on the idea of a JSON-native database over HTTP.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

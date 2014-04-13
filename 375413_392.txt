@@ -1,0 +1,46 @@
+http://robertbrook.com/newsletter
+
+http://fadingcity.com
+
+
+http://www.joffrey.com/2013-2014-dancers
+Dancers in this season's Joffrey Ballet.
+
+Due to the unique way this newsletter is funded, I do see how many are opened, but I no longer see which - if any - links are clicked.
+
+http://www.washingtonpost.com/wp-dyn/content/article/2008/08/01/AR2008080102326.html
+Joby Warrick, Marilyn W. Thompson and Nelson Hernandez; 2008: "... FBI investigators began to focus on Ivins under the theory that he had used his knowledge of anthrax bacteria to pull off the nation's deadliest episode of biological terrorism. As a researcher for the Army's main lab for studying bioterror agents, Ivins had easy access to anthrax bacteria, including the specific strain of Bacillus anthracis used in the attacks on media outlets and congressional offices in the fall of 2001."
+
+http://www.btsrr.com/BTS-CATALOG-0913.pdf
+'Standard & Narrow Gauge Model Railroad Kits and Details', from 'Better Than Scratch'.
+
+http://www.tintinologist.org/guides/characters/w.html#wagg
+"Wagg is the representative of Rock Bottom Insurance. He bores people with stories about his Uncle Anatole, who is a barber. For his contribution in toppling General Tapioca in Tintin and the Picaros, Wagg and his Jolly Follies were admitted to the Order of San Fernando by Alcazar."
+
+http://www.lavasurfer.com/cereal-othercereals.html
+"Prof Weetos is a balding claymation figure with Weetos-rimed glasses, a white lab coat, and a Weetos tie."
+
+http://listserv.linguistlist.org/cgi-bin/wa?A2=ind9908D&L=lowlands-l&P=1132
+A sample of Marols: "Na mooie ni paaze da'k ee da poèzeke em zitte deklameire
+Allien mo vè aile 't amuzeire
+Neineie ... ik em aile wille demonsteire
+Dat as er zain dee uile me konviksen e stuk in uilen uur drinke.
+Dat da ni seulement en allien es vè te drinke" ...
+
+http://www.zompist.com/syldavian.html
+... "Czesztot wzryzkar nietz on waghabontz! Czesztot bätczer yhzer kzömmetz noh dascz gendarmaskaïa?" - "... Hergé regularly used Marols, the Brussels Flemish dialect his grandmother spoke. Another example is the Arabian city of Wadesdah — "What is that" in Marols ..."
+
+http://simplefocus.com/flowtype/
+Via John Keogh: a Javascript library that alters font-size and line-height "based on a specific element's width" - clever! A lovely, simple demo on that page too.
+
+https://dev.twitter.com/docs/embedded-timelines
+"To create a timeline you must be signed in to twitter.com and visit the widgets section of your settings page." Even embedded Twitter timelines need authorisation? That can't be right, surely.
+
+http://rakudo.org/how-to-get-rakudo/
+How to build Raduko.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

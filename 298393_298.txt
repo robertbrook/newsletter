@@ -1,0 +1,46 @@
+Right. Back to the URL-stream for a few days at least.
+
+http://www.historytoday.com/richard-cavendish/death-angelica-kauffman (http://www.historytoday.com/richard-cavendish/death-angelica-kauffman )
+"... a rare example of a highly successful and extremely rich female artist ..." - she died in 1807, aged 66.
+
+http://ohhdeer.com/product/pictor-cushion (http://ohhdeer.com/product/pictor-cushion )
+"Our cushions are Vegan" - okay. I do like this cushion, though.
+
+http://www.waterhousedodd.com/therese-lessore (http://www.waterhousedodd.com/therese-lessore )
+I'm still thinking of my visit to Brighton Museum. Thérèse Lessore actually lived in Brighton. In the opinion of Walter Sickert: "I cannot see her pictures going out of date."
+
+"WHIMSICAL JAZZ PIANO INSTRUMENTAL"
+
+https://en.wikipedia.org/wiki/Montague_Egg (https://en.wikipedia.org/wiki/Montague_Egg )
+"... a fair-haired, well-mannered young man, and elsewhere as being slightly portly also. He is not mentioned as being married, or having any romantic attachments or inclinations."
+
+http://www.forth.com/starting-forth/ (http://www.forth.com/starting-forth/ )
+Leo Brodie's 'Starting Forth'. Sorry, 'Starting FORTH'.
+
+http://prog21.dadgum.com/177.html (http://prog21.dadgum.com/177.html )
+The excellent James Hague: "When it comes to writing code, the number one most important skill is how to keep a tangle of features from collapsing under the weight of its own complexity. ... To a great extent the act of coding is one of organization. Refactoring. Simplifying. Figuring out how to remove extraneous manipulations here and there."
+
+http://nikic.github.io/2012/12/22/Cooperative-multitasking-using-coroutines-in-PHP.html (http://nikic.github.io/2012/12/22/Cooperative-multitasking-using-coroutines-in-PHP.html )
+I know this is all supposed to make PHP better, but I still miss when it was just - you know - PHP. Not that there's anything wrong with namespaces. But, well. I'm sure it'll be great.
+
+http://get-serve.com/get-started (http://get-serve.com/get-started )
+A little local server, in Ruby.
+
+http://www.goldschp.net/SIG/onfim/onfim.html (http://www.goldschp.net/SIG/onfim/onfim.html )
+Via @khairoun and others: "This is my Dad! He is a warrior. When I grow up, I want to be a warrior just like him!" - dude, nice hat.
+
+http://toys.byjp.me/thimblr/ (http://toys.byjp.me/thimblr/ )
+A thing in Ruby, a server, that helps you write Tumblr themes. Tumblr is still there, isn't it?
+
+http://en.wikipedia.org/wiki/Peeping_Tom_(film) (http://en.wikipedia.org/wiki/Peeping_Tom_(film) )
+"The film revolves around a serial killer who murders women while using a portable movie camera to record their dying expressions of terror. ... The film's controversial subject and the extremely harsh reception by critics effectively destroyed Powell's career as a director in the United Kingdom. However, it attracted a cult following, and in later years, it has been re-evaluated and is now considered a masterpiece." Wow. Talk about a turnaround.
+
+http://lloyd.smallpict.com/ (http://lloyd.smallpict.com/ )
+Lloyd Davis exploring Fargo, Dave Winer's latest service delivered over the web - an outliner, backed by Dropbox.
+
+
+
+*|LIST:ADDRESS|*
+Unsubscribe (*|UNSUB|*)
+
+============================================================

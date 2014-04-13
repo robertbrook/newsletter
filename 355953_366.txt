@@ -1,0 +1,32 @@
+Good morning, digital chums.
+
+Wonderful though Squarespace is, I do still intend to stop writing Fading City when my first year's subscription ends, which I think is in May next year.
+
+I continue to recommend Squarespace for many uses. I think, for a lot of people, it's really very good. But I'm still wanting to go back to something much simpler.
+
+I could just write something in one of the many quite reasonable flat html generators. I still have a soft spot for ttree, part of Perl's Template Toolkit.
+
+Or perhaps something in PHP on the command line would be even simpler. But it would be nice to be using something other people used as well. A very basic ttree setup, maybe.
+
+http://omz-software.com/editorial/index.html
+Editorial is an amazing text editor for the iPad. I look forward to seeing an iPhone version, even if it's Editorial Lite.
+
+http://fadingcity.com/posts/what-i-can-do
+I wrote something called "What I can do".
+
+Can anyone recommend a good 'star map' app for iOS? I mean just a big map with names of stars, not any of the exciting augmented reality things.
+
+http://en.wikipedia.org/wiki/Monster_Munch
+Then: "A tall, pink, gangly creature with a floppy tongue; A hat-wearing blue creature with floppy-ears and four arms; A yellow, one-eyed creature with a red nose; A fat, orange creature with pink hair". Now: "A tall, pink creature with a wide mouth; A furry, blue creature with an inverted head and one eye larger than the other; A large, red ogre-like creature with one eye larger than the other; An orange ogre-like creature with an arched back and one eye larger than the other".
+
+Another Guess-Who from our south London correspondent. An 89 year old animal rights activist, made their last film in 1968, released 31 albums, intended to dance professionally but changed those plans after an early car accident, rejected a part in 'The Graduate' on moral grounds, only went on TV to pay off debts incurred by a partner's business associate's multi-million dollar scams.
+
+Just as Facebook has come for many to mean 'the internet', Google's Mail has come to mean 'my inbox'.
+
+I unsubscribed from rdio and went back to Spotify, who seem fine not demanding that I join by means of Facebook. I'm "robertbrook2013" there, but I'm not sure if that helps.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

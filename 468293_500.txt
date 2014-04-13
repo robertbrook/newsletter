@@ -1,0 +1,54 @@
+500 - SHADOW - on the web (*|ARCHIVE|*)
+
+Good morning everyone. 500 newsletters! 500! That's a lot of newsletters. Around 200,000 words. #nuts
+
+http://www.canistream.it
+The hand of the market, in different guises. US-only, I expect.
+
+http://okfnlabs.org/bad-data/
+"Bad Data is site providing real-world examples of how not to prepare or provide data. It showcases the poorly structured, the mis-formatted, or the just plain ugly."
+
+http://fadingcity.com/suburbia/central-station-newcastle
+A great photo of works at Newcastle, around 1905 - provided by Newcastle Libraries.
+
+http://publicbodies.org
+"A URL for every part of government"
+
+Silly question time: if arc is written on top of Racket, could arc be written on top of clisp? What am I missing here?
+
+http://datapipes.okfnlabs.org
+"Data Pipes is a service to provide streaming, 'pipe-like' data transformations on the web ..." - excellent! And "CORS is supported so you can use this from pure JS web apps." ...
+
+https://github.com/okfn/datapipes
+... and here's the source: a node-express app ...
+
+http://datapipes.okfnlabs.org/csv/grep%20-i%20Parliament/html?url=https://github.com/okfn/publicbodies/raw/master/data/gb.csv
+... imagine some CSV, find every line with the text 'Parliament' in it, render it as HTML - here's the URL. Lovely.
+
+http://fadingcity.com/suburbia/polska-kuchnia
+The little Polish deli on Latchmere Road. It's been closed for ages. I wish it was still open.
+
+http://huffduffer.webscript.io
+Actually I'm so happy with my "Huffduffer Top Twenty" page that I've not deleted it. Yet. I did have the MP3s embedded but it made it load too slowly so they're gone. The Huffduffer embed shows an embedded player on Chrome, without a title - but a title on Safari linked to the source audio file. I'll try sorting that out later.
+
+https://github.com/internetarchive/wayback
+If you fancy running an instance of the Wayback Machine yourself, here's how to do that ...
+
+http://netpreserve.org/netpreserve.org/tools/openwayback
+... so you archive your own content ...
+
+http://ws-dl.blogspot.fr/2013/07/2013-07-15-wayback-machine-upgrades.html
+... with support for Memento: ("The HTTP-based Memento framework bridges the present and past Web. It facilitates obtaining representations of prior states of a given resource by introducing datetime negotiation and TimeMaps.")
+
+http://fadingcity.com/suburbia/the-primitives
+Morrissey wore one of their t-shirts, didn't he?
+
+http://www.flickr.com/groups/social-networking/
+"UCL Social Networking & Social Science Research Project: Images from our cross-cultural ethnographic study of social media and its impact on humankind."
+
+Have fun today.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

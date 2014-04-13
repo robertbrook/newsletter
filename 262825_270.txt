@@ -1,0 +1,42 @@
+The best thing, I think, I simply to become oneself as well as you can manage. Well, maybe best thing isn't quite what I mean.
+
+http://fadingcity.com/posts/i-know-what-i-like (http://fadingcity.com/posts/i-know-what-i-like )
+This was supposed to be about art.
+
+People love those energy drinks, don't they. You can almost hear the molars dissolving as you walk past.
+
+http://www.youtube.com/watch?v=hLj5AvRpP70 (http://www.youtube.com/watch?v=hLj5AvRpP70 )
+Alison Moyet. Vince Clarke. I'm going to copy her dance.
+
+From our correspondent: "Asana means steady and pleasant posture of the body. Pranayama means control over prana, life force. Pratyahara means withdrawal of the senses from externally objects. Half hour meditation would give you three months rest. Very hard to persist but worthwhile."
+
+http://alexdong.com/google-plus-is-skin-deep/ (http://alexdong.com/google-plus-is-skin-deep/ )
+"[Google Plus] sacrifices the usability of the product in exchange of a superficial look of pretty." I agree. I still have my paged web vs. streamed web thing to write. My basic idea is that we have the back-end to support activity streams, but not the front-end.
+
+I've been listening to a lot of adverts for Petri Wine and Kreml Hair Tonic.
+
+http://search.cpan.org/~rjbs/perl/pod/perldelta.pod (http://search.cpan.org/~rjbs/perl/pod/perldelta.pod )
+In the most recent mainline Perl update, 5.18.0: Unicode 6.2, regex set ops, lexical subroutines, lots of security tightening ...
+
+http://search.cpan.org/~rjbs/perl-5.18.0/lib/feature.pm (http://search.cpan.org/~rjbs/perl-5.18.0/lib/feature.pm )
+... "It is usually impossible to add new syntax to Perl without breaking some existing programs. This pragma provides a way to minimize that risk. New syntactic constructs, or new semantic meanings to older constructs, can be enabled by use feature 'foo', and will be parsed only when the appropriate feature pragma is in scope."
+
+"If there must be trouble, let it be in my day, that my child may have peace." - Thomas Paine
+
+http://search.cpan.org/~rjbs/perl-5.18.0/pod/perlcheat.pod (http://search.cpan.org/~rjbs/perl-5.18.0/pod/perlcheat.pod )
+Perl 5 cheatsheet ...
+
+http://perlmonks.org/?node_id=238031 (http://perlmonks.org/?node_id=238031 )
+... Perl 6 cheatsheet.
+
+"... the greatest thing by far is to have a command of metaphor. This alone cannot be imparted by another; it is the mark of genius, for to make good metaphors implies an eye for resemblances." - Aristotle, Poetics
+
+http://www.brainpickings.org/index.php/2013/05/08/raymond-chandler-on-writing/ (http://www.brainpickings.org/index.php/2013/05/08/raymond-chandler-on-writing/ )
+Via @redmamba - Raymond Chandler, at almost 70, to his agent Helga Greene: "I think I may have become a bit crotchety from loneliness, worry, illness and physical suffering. My ideas of what constitutes good writing are increasingly rebellious."
+
+Anyway. Don't be down-hearted. Enjoy.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

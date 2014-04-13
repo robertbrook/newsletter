@@ -1,0 +1,39 @@
+489 - HIP - on the web (*|ARCHIVE|*)
+
+Hello.
+
+http://www.cabinetmagazine.org/issues/28/sappol_ahren.php
+Eva Ahren and Michael Sappol: "The medical profession in general, and anatomists in particular, used the privilege to handle human bones as a kind of social power play." ... "Before modern ventilation and refrigeration, it was common to smoke in dissection halls, as a way to disguise and cope with the stench." Grisly photo included.
+
+http://lisptips.com
+'Common Lisp Tips' - a long-un-updated Tumblr, unfortunately.
+
+https://moot.it/blog/technology/frameworkless-javascript.html
+Tero Piirainen: "If you look at the history of frameworks in any programming language, it's a history of failures. Frameworks come and go. Today's JavaScript frameworks are all very young. Backbone, Angular, and Ember may be trendy now, but not necessarily in a few years' time."
+
+https://github.com/JeffBezanson/femtolisp
+"Before you say 'oh no, another lisp', consider the following: femtolisp is about 150kb, is very self-contained, and has the following features ..."
+
+https://news.ycombinator.com/item?id=6902706
+Some discussion of the British Library releasing images to Flickr Commons: "as long as these images aren't reasonably tagged they'll remain undiscovered"; "By leveraging Flickr, the library frees itself of the problems of dealing with tens of millions of users attempting to access its material."; "Flickr could one day be shut down, and eventually will be, however far on the future that may be. For resources like this such a disruption will be painful."; "Why not Wikimedia Commons?"
+
+I make myself unhappy by looking at things.
+
+http://commons.wikimedia.org/wiki/Commons:The_National_Archives_(United_Kingdom)
+"Thanks to a partnership with Wikimedia UK, the National Archives has been able to digitise and release into the public domain over 350 images from our collection of almost 2,000 original artworks by war artists working for the Ministry of Information during the Second World War. We hope we will eventually be able to release the whole collection."
+
+http://www.animator.ru/db/?ver=eng&p=show_film&fid=2672
+"It is the third film from a series of pictures about adventures of Cheburashka, Crocodile Gena and old women Shapokljak in which they act as defenders of the nature."
+
+http://warp.net/films
+Films from Warp.
+
+http://shapeshed.com/the-commoditisation-of-hack-days/
+George Ornbo: "As hacking becomes a commodity to be bought by businesses and corporations it changes the idea of a hack day entirely. ... At worst it is a cynical way to exploit developers to solve business problems and innovate for free."
+
+Enjoy today.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

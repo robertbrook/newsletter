@@ -1,0 +1,30 @@
+499 - SCULPTURE - on the web (*|ARCHIVE|*)
+
+Good morning.
+
+http://janetsjottings.wordpress.com/2013/11/28/writers-block/
+"I tried writing romantic fiction in my early 20s but I was motivated more by the possibility of making money than romance, and within three paragraphs usually had reverted to a realism that twisted the romance into satire."
+
+http://pragti.ch/blogging/2013/02/03/migrating-from-nanoc-to-jekyll/
+"Now, I am moving away from nanoc, and switching to jekyll. Why? Because nanoc is a little too complex for my taste. It can just do too much, and requires serious ruby skills. Jekyll is simpler, really made for much more simple blogging tasks that nanoc is. After plugins and extensions have been added, the flexibility is good and the simplicity is still great." Looks like I might have been wrong in suggesting that nanoc was simpler than Jekyll ...
+
+http://jekyllrb.com/docs/posts/
+... I wish is was a little more flexible, though: "How you name files in this folder is important. Jekyll requires blog post files to be named according to the following format ..." and "All blog post files must begin with YAML front-matter." I don't want dates in my folder names and I don't want YAML in my Markdown ...
+
+https://gist.github.com/robertbrook/7979391
+... looks like I should stick with my brutal rakefile.
+
+I like arc. One of the reasons I like it is that Paul Graham has pretty much deliberately cast it as a slow-growth Lisp. For that reason, it's not readily comparable to Clojure. Clojure will talk to pretty much anything via Java libs - if you want to make an http request in arc, you should start writing that yourself.
+
+So why not just jump into Clojure? Well, arc feels and looks simpler. Clojure does rely on the JVM and craps out to it now and then. Yea, arc does sit over the Scheme engine, but it's parens all the way down.
+
+Will arc, or something like it, be here in ten years? I'm not absolutely certain it'll be there in ten months. Probably, yes. But there's no guarantees. How about Clojure? Sure, Clojure will last. But, as Siracusa notes, how long with there be a JVM on the Mac?
+
+My old domain, which was my name with a .com, which I ran for fourteen years, not that I'm bitter, is now owned by a Swiss guy with a hotmail address. Not that I'm bitter.
+
+Have fun today.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

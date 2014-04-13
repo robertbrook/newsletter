@@ -1,0 +1,38 @@
+There's a large advert for a "gentlemens' club" up at Vauxhall. For some reason, it disturbs me. I do hope I am not becoming a prude. More of a prude.
+
+http://static.royalacademy.org.uk/files/kirchner-student-guide-13.pdf (http://static.royalacademy.org.uk/files/kirchner-student-guide-13.pdf )
+'Kirchner: Expressionism and The City' - a PDF 'student guide' for yet another exhibition at the Royal Academy I didn't make time to visit.
+
+I still feel like I should apologise for using a Mac. Of course, when they take away the Terminal I'll regret it all. The Mac-iOS mythos might be fantastic five years from now, or it might be consumer electronics.
+
+http://www.sparrowmailapp.com (http://www.sparrowmailapp.com )
+For some reason I had assumed that when Sparrow had been eaten by Google, it had lost all use to me. It turns out that the Mac and iOS Sparrow apps still exist - and work.
+
+I see quite a lot of Apple Pages in my near future. This doesn't delight me. There are far worse things, of course.
+
+http://www.amazon.com/gp/product/B007VTVRFA (http://www.amazon.com/gp/product/B007VTVRFA )
+Amazon reviews of Sim City V: "If you'd love to experience the nonstop thrills and excitement of SimCity, then please remove $60 from your bank and promptly pay someone to kick you repeatedly in the friggin' mouth." - "Go up to a random stranger, preferably a musclehead, hand him your $60 and ask him to punch you in the face. You'll get more out of your money, and it'll be less painful to watch." - "I'm giving the game 1 star because it's been a great way to re-heat my enchiladas in the oven. Otherwise, I'd give this game a 0." - "Heartbreakingly Greedy". Ouch.
+
+http://bookwhen.com/ (http://bookwhen.com/ )
+Online booking: people I know use this, so it can't be awful.
+
+I'm migrating away from Omnifocus to Apple Reminders.
+
+http://technologynotes.net/technology-notes/2012/9/26/building-a-better-ipad-outliner-with-nebulous-notes (http://technologynotes.net/technology-notes/2012/9/26/building-a-better-ipad-outliner-with-nebulous-notes )
+I'm in Nebulous Notes now. Omnigroup's lack of iCloud and Dropbox integration seems at best brave, at worse foolish. They're betting on their own Omnisync server. Like Simperium, it's a risk. I'm using Omni products less because of this. Still, I am hearing more about WebDAV. There's a gap there, I think, for a simplified WebDAV wrapper. There's the Things Cloud as well. Perhaps Apple are deliberately keeping some services off iCloud? Or at least making it difficult. Anyway. Looking at this writeup of macros in Nebulous, it looks like you could round trip with FoldingText. I'll try that.
+
+I'm wondering how possible an iOS version of FoldingText would be. I think it would work.
+
+http://diebrucke.tumblr.com (http://diebrucke.tumblr.com )
+Christopher Terrell: print-making. Lots of lovely little GIFs, wonderful art.
+
+"The next meeting is all about disappointment."
+
+Onwards.
+
+============================================================
+
+*|LIST:ADDRESS|*
+
+** BACK ISSUES (*|ARCHIVE|*)
+** UNSUBSCRIBE (*|UNSUB|*)

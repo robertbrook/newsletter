@@ -1,0 +1,34 @@
+My knees are feeling a little better. Perhaps a bit more walking and the warm weather has helped.
+
+http://www.magnoxsites.co.uk/remit (http://www.magnoxsites.co.uk/remit )
+"Wylfa, Magnox’s last remaining nuclear generation site, has been safely generating low carbon electricity since 1971." ... "Since Wylfa implemented the inter reactor transfer (IRX) programme in August 2012 they have generated 1.2Twh of electricity, or enough electricity to make 50 billion cups of coffee." Also includes a graph of the last fortnight of electricity generation.
+
+https://ngrok.com (https://ngrok.com )
+"I want to securely expose a local web server to the internet and capture all traffic for detailed inspection and replay."
+
+http://www.guardian.co.uk/commentisfree/2013/jul/16/the-apprentice-female-luisa-zissman-leah-totton (http://www.guardian.co.uk/commentisfree/2013/jul/16/the-apprentice-female-luisa-zissman-leah-totton )
+"[The Apprentice finalists] suggest that what women are spending their money on are props to make them seem less threatening, more pleasant and more attractive."
+
+http://www.freeformatter.com (http://www.freeformatter.com )
+Formatters, validators, encoders, minifiers, various utilities and lists. Lovely. There's even a Less compiler.
+
+http://adit.io/posts/2013-07-22-lenses-in-pictures.html (http://adit.io/posts/2013-07-22-lenses-in-pictures.html )
+"You should know what a functor is before reading this post." You guys!
+
+http://www.guardian.co.uk/commentisfree/2013/jun/14/spare-rib-grassroots-feminism-not-brand (http://www.guardian.co.uk/commentisfree/2013/jun/14/spare-rib-grassroots-feminism-not-brand )
+Marsha Rowe not taken with a relaunched Spare Rib: "The web offers a different opportunity today for women and for feminism. It is a marvellous opportunity. But that does not alter the fact that, by definition, a movement is not something that you pay to join."
+
+http://proxylocal.com (http://proxylocal.com )
+"ProxyLocal could proxy your local web-server and make it publicly available over the internet." This is starting to sound a little worrying.
+
+https://pagekite.net (https://pagekite.net )
+"The fast, reliable way to make localhost part of the Web." Cripes. This one is a paid-for service.
+
+http://mappingbeirut.blogspot.co.uk/2009/12/beirut-metro-map.html (http://mappingbeirut.blogspot.co.uk/2009/12/beirut-metro-map.html )
+Hassan Choubassi: "To go from UL Fine Arts II to Bareometer in Hamra region; take Metro line E1 in the direction of Charles Helou-Port until you reach the Hippodrome. Jamila Haboush crossed to west Beirut, through the Museum crossing point, to collect the body of her husband the taxi driver who was killed while driving some people to the airport on the other side of the city. You have to walk the way to Barbir line W2 in the direction of the Light House and go out at Barometer after 10 stops. She walked the length of the hippodrome in the shades of the pine trees It was a beautiful hot sunny day."
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

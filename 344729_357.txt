@@ -1,0 +1,44 @@
+Good morning friends.
+
+http://www.british-history.ac.uk/report.aspx?compid=47053
+Before Lambeth Bridge, there was the horse ferry. There was also an attempt to build the 'Royal Clarence Bridge', which failed to make it through Parliament. The crossing on the ferry sounds pretty terrifying at times.
+
+http://coding.smashingmagazine.com/2013/05/23/building-the-new-financial-times-web-app/
+A very comprehensive review of the FT's web app from Wilson Page: the whole thing seems rather adventurous. I'm glad people are doing this and experimenting with what's possible in the browser - but I'm far more confident with old tech. "Our application was drastically reworked to make the new requirements possible, and this took a lot of time. Having made this investment, we hope the new application not only meets (and even exceeds) the standard of the first product, but gives us a platform on which we can develop faster and more flexibly in the future."
+
+http://www.thetileapp.com
+One of several similar efforts: a Bluetooth 4.0 tag.
+
+http://www.brelson.com/2013/07/escaping-the-tyranny-of-expensive-notebooks/
+Brendan Nelson: "In the last few years I've become addicted to [Moleskine's] highly desirable yet expensive notebooks, making them the cackling recipients of money I might otherwise have spent on pistachio nuts." #snazzy
+
+http://www.bbc.co.uk/news/uk-23390982
+Mel Smith. Much missed.
+
+http://www.medievalsoldier.org
+A project "to challenge assumptions about the emergence of professional soldiery between 1369 and 1453."
+
+I was going to point to some guy's weird website here, but it doesn't feel right.
+
+http://coffitivity.com
+Via the excellent John Keogh: white noise, with latte.
+
+http://www.timeout.com/london/restaurants/jerk-city
+Thanks to Gary at Hackney Tools: "When everything around Wardour Street is changing so fast, there's something reassuring about Jerk City's refusal to move with the times."
+
+http://www.investopedia.com/university/commodities/commodities14.asp
+"The price of orange juice [is?] influenced by the following factors: The navel orange is the product of a single mutation that occurred in 1820. A monastery in Brazil discovered this seedless variety of orange and began to export cuttings to the U.S." #spoons
+
+http://fastml.com/processing-large-files-line-by-line/
+Processing large files with Python: a great summary.
+
+https://www.pactcoffee.com
+One of those coffee subscription outfits - but in London! In fact, just round the corner from where I used to live in Bermondsey. And under £7 for a quarter kilo. I should try these folks out.
+
+Have a good day.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

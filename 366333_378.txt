@@ -1,0 +1,46 @@
+Good morning, internet friends.
+
+The whole Apple monitoring chip thing: the M7. I still don't quite understand the benefit, to me, of measuring how far I walk, or whatever. I'm sure other people are interested in that, but I'm not. Again, perhaps I just don't get it. There's a lot I don't get, but I don't usually let it worry too much. You'd end up driving yourself mad.
+
+http://tools.wmflabs.org/catfood/commons_image_feed.php
+A tool to generate an RSS feed with a random selection of images from a Wikimedia Commons category.
+
+I lit the fire but it went out. Annoying.
+
+http://speckyboy.com/2013/09/11/responsive-design-is-not-about-screen-sizes-any-more
+Gorka Molero: "To be prepared for tomorrow's problems, we have to include performance as an essential consideration, as the desktop-centered web is disappearing before our eyes. The mobile user is hastier and readier and won't jump through hoops to get the content, and since more and more sites spring up every day, being fast will mean being ahead." Perhaps we'll get accessibility back with the rush to speed.
+
+I can't stand those navbars that stick around when I'm scrolling. I'm scrolling! Go away!
+
+http://project-open-data.github.io
+"The White House developed Project Open Data – this collection of code, tools, and case studies – to help agencies adopt the Open Data Policy and unlock the potential of government data. Project Open Data will evolve over time as a community resource to facilitate broader adoption of open data practices in government."
+
+I hate talking on the phone. Absolutely hate it.
+
+http://bin.hyperrest.com
+"A simple HTTP service with controlled behaviour ... The service makes use of HTTP headers ... in order to allow the client to control server behaviour." ...
+
+http://httpbin.org
+... inspiration for hyperrest: httpbin. I love this. It reminds me of ...
+
+https://github.com/tlevine/aaron-swartz/blob/master/www.aaronsw.com/2002/dtrt.py
+... Aaron's dtrt.py. For ages, I had a really crappy version of this in Perl. I'm going to write something again, in PHP.
+
+If Apple wants to be a "mobile" company, where does Mac OS go? Where do I go? First world problems.
+
+http://drunkandretired.com
+Cote and Charles are back!
+
+http://html5doctor.com/ins-del-s/
+What's the best reference for what browser supports what things in HTML5? There's so much of this new stuff.
+
+http://250bpm.com/blog:26
+More love for nanomsg, from Martin Sústrik.
+
+Have a lovely day. If possible.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

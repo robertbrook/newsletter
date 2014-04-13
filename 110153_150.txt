@@ -1,0 +1,57 @@
+A newsletter from Robert Brook
+------------------------------------------------------------
+*|ARCHIVE|*
+
+
+**
+------------------------------------------------------------
+It's a pity MusicBrainz Picard doesn't support AppleScript. But who does, now? When is Apple going to knife it? It must be soon, surely.
+
+http://www.daughterofthenight.com (http://www.daughterofthenight.com )
+An extensive record of the work of Tanith Lee.
+
+I'm still trying to sort out a nicer template for this newletter. So it'll look a little better on little screens. I'm not there yet, though.
+
+http://www.alpine-club.org.uk (http://www.alpine-club.org.uk )
+"The Alpine Club, the world's first mountaineering club ..."
+
+"... and the pain of her kiss was the last thing he felt in this world."
+
+http://www.londonsketchclub.com/membersonly.html (http://www.londonsketchclub.com/membersonly.html )
+Wonderful. Barman's name? View source, perhaps.
+
+I'm forty years old - and I have to admit I'm still not really sure how eBay works.
+
+http://www.countrylifeimages.co.uk (http://www.countrylifeimages.co.uk )
+The Country Life picture library.
+
+http://www.victorianlondon.org/index-2012.htm (http://www.victorianlondon.org/index-2012.htm )
+The Dictionary of Victoria London - most diverting!
+
+http://www.npg.org.uk/collections/search/portrait/mw56945/Clara-Giveen (http://www.npg.org.uk/collections/search/portrait/mw56945/Clara-Giveen )
+A silver print photograph of the suffragette Clara Giveen.
+
+http://www.tea.co.uk/teaguild (http://www.tea.co.uk/teaguild )
+The Tea Guild - "... a prestigious and unique organisation that represents and encourages those outlets who are dedicated to both brewing and serving tea ... "
+
+http://news.bbc.co.uk/1/hi/magazine/3153024.stm (http://news.bbc.co.uk/1/hi/magazine/3153024.stm )
+"The police got quite good. They would even send people along to meetings to take pictures and notes of what was being said, ... They eventually put an officer in plain clothes and on a motorbike to try and keep up. He was able to make some notes but failed to keep up with the suffragettes because he had not been given a bike with an automatic starter motor."
+
+http://www.moleseyhistory.co.uk/books/molesey/tm/tm_19.htm (http://www.moleseyhistory.co.uk/books/molesey/tm/tm_19.htm )
+"Having been imprisoned as early as 1909 for breaking windows in Newcastle when Lloyd George went to visit Tyneside, [Kitty Marion] went on hunger strike, and resisted forcible feeding with intense vigour. Barricading her cell door with furniture, she kept the staff at bay until the next day when they managed to chisel the hinges away. On another occasion, when all metal objects had been removed from her reach, she broke open the pillow with her teeth, scattered the contents around, tore up the prison bible, and in the middle of the night, by breaking the glass of the gaslight, managed to set fire to the accumulation."
+
+http://www.museumoflondon.org.uk/collections-research/collections-online/object.aspx?objectID=object-454536 (http://www.museumoflondon.org.uk/collections-research/collections-online/object.aspx?objectID=object-454536 )
+"During Marion's last spell in Holloway, she was forcibly fed 232 times over a period of 14 weeks and two days."
+
+http://www.amazon.com/David-Bird/e/B001IR1KL2/ (http://www.amazon.com/David-Bird/e/B001IR1KL2/ )
+"David Bird is the author of 108 bridge books, recently overtaking the total of the late Terence Reese. He is best known for his humorous bridge fiction, involving the monks of the St Titus monastery headed by the pompous Abbot, Hugo Yorke-Smith." That's bridge. The card game.
+
+A long day today; see you tomorrow.
+
+============================================================
+-
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:ADDRESS|* *|END:IF|*
+
+** Unsubscribe (*|UNSUB|*)
+** Y (*|UPDATE_PROFILE|*)
+** our profile (*|UPDATE_PROFILE|*)

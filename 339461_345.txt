@@ -1,0 +1,49 @@
+Good morning.
+
+I removed the "http" or "https" from the link text. Is that okay?
+
+fadingcity.com/calendar
+I'm going to retire the Fading City calendar and move to ...
+
+robertbrook.com/calendar
+... a public calendar on iCloud that's easier for me to add things to.
+
+"The C debugger, cdb, is marginally useful for digging through the dead bodies of C programs. db, the assembly language debugger, is actually more useful most of the time, but you have to know more about the machine and system to use it well. The most effective debugging tool is still careful thought, coupled with judiciously placed print statements." - 'UNIX for Beginners', Brian W. Kernighan
+
+www.goodwinsands.org.uk
+The afore-mentioned 'Goodwin Sands Potholing Club'.
+
+www.gold.ac.uk/media-communications/research/pastphds/
+Past PhDs at Goldsmiths. Fascinating stuff - I wish there was a way of searching these and others by topic or keyword. "Affect and Digital Synthesis: Digitality's Passive Grammatisation of Reality"; "Transnational perspectives on national identity and mediated place"; "The Functions of Contemporary Hollywood Film Music".
+
+gianatomy.tumblr.com
+"... a life-drawing project by Gendered Intelligence exploring the science of sex and gender through art ..." - will the future of Tumblr include less of this?
+
+chartio.com/blog/2013/08/csvdata
+Comma-separated data in chart.io.
+
+flask.pocoo.org
+I keep hearing things about flask. It's been around a while and seems to be enjoying a resurgence. #python
+
+lucumr.pocoo.org/2013/6/13/werkzeug-and-flask-releases/
+New in flask 0.1.0: json module, more consistent error handling and more.
+
+github.com/seancribbs/webmachine-ruby
+Thanks to Russell Garner for pointing me towards the Ruby version of webmachine. "Webmachine is very young, but it's still easy to construct an application for it!" ...
+
+github.com/seancribbs/webmachine-ruby/blob/master/examples/debugger.rb
+... that 'visual debugger'.
+
+I'm pretty much giving up on 'news'. As someone I'm overly fond of quoting says - if it's important, it'll reach me. In fact, if it's interesting, it already reaches me most of the time.
+
+en.wikipedia.org/wiki/Nuclear_drip_line
+"In nuclear physics, the boundaries for nuclear particle-stability are conceptualized as drip lines. The nuclear landscape is understood by plotting boxes, each of which represents a unique nuclear species, on a graph with the number of neutrons increasing on the abscissa and number of protons increasing along the ordinate ..." #spoons
+
+www.rsc.org/Publishing/ChemScience/Volume/2010/11/Extended_elements.asp
+An extended periodic table, including "elements up to proton number 172".
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

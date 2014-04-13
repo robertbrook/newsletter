@@ -1,0 +1,45 @@
+"Know this, that he that is a friend to himself, is a friend to all men." - Seneca
+
+http://slipstream.rousette.org.uk/posts/glenn-gould-and-the-goldberg-variations (http://slipstream.rousette.org.uk/posts/glenn-gould-and-the-goldberg-variations )
+"Classical music often seems rather serious, and something to be 'understood' in a scholarly way. I'm certainly not saying that's right, but it's often the impression people get. Gould's humming does away with that, because it forces you to see the music as something to love and to be transported by."
+
+http://devo.ps/blog/2013/03/06/troubleshooting-5minutes-on-a-yet-unknown-box.html (http://devo.ps/blog/2013/03/06/troubleshooting-5minutes-on-a-yet-unknown-box.html )
+'Tight deadlines, “exotic” technical stacks and lack of information usually made for memorable experiences.'
+
+https://starthq.com/ (https://starthq.com/ )
+A web app to find web apps. Makes sense.
+
+https://uncommon.cc/ (https://uncommon.cc/ )
+"Uncommon is a slow web community that celebrates the things we love. It's a place for wonder and whimsy—a trampoline, not a rabbit hole."
+
+http://www.crossrail.co.uk/route/maps/tube-map (http://www.crossrail.co.uk/route/maps/tube-map )
+Crossrail due to go through Canary Wharf? Didn't realise.
+
+http://commons.wikimedia.org/wiki/Category:La_vache_qui_rit (http://commons.wikimedia.org/wiki/Category:La_vache_qui_rit )
+Various laughing cows. Spot the serious cow.
+
+http://finlay.tumblr.com/post/529010691/embed-tumblr-into-your-website (http://finlay.tumblr.com/post/529010691/embed-tumblr-into-your-website )
+Reading Tumblr posts as XML using PHP. Nice that Tumblr's read API is this straightforward.
+
+http://lettersrb.com/ (http://lettersrb.com/ )
+Ruby debugging with single-letter methods. There's already 'p' an 'y' in Ruby - of course we should have expressive names, but in the old days we did all sort of crap with code. Pre-agile.
+
+I think the reason people think I'm 'tech'-ish is because I seem to concern myself with that sort of thing, apparently to the exclusion of other things. It's certainly not because I 'do' tech.
+
+http://www.mpegla.com/main/programs/M4V/Documents/m4vweb.pdf (http://www.mpegla.com/main/programs/M4V/Documents/m4vweb.pdf )
+This is where faith in markets gets you, I suppose. Of course, markets don't require faith - there are just markets. Or not. Markets exist wherever people can be persuaded there's something of value to buy. No, I'm not an economist.
+
+Mac OS has move away from cron and crontab to launchd and launchctl. I was going to link to the Mac developer page on launchd, but it keeps pushing me to some weird hashbang thing.
+
+Listening to Julie Goodyear on the wireless. I don't know her work very well, but she's quite an extraordinary story.
+
+http://www.bbc.co.uk/news/magazine-16722196 (http://www.bbc.co.uk/news/magazine-16722196 )
+Amal Fashanu, niece of Justin, quotes her father: "... wondering all the time, could I have done more and I keep coming up with the answer, yes I could have done more. Does that console me? No. We've cried for nearly two decades for Justin, it's enough."
+
+http://www.guardian.co.uk/music/2012/jul/11/lol-coxhill (http://www.guardian.co.uk/music/2012/jul/11/lol-coxhill )
+Via John Keogh: "The entire history of jazz could sometimes be heard in [Lol] Coxhill's playing, from Dixieland through swing and bebop to the soundbending experiments of the most avant-garde, but a melodic aspect to his performances could charm people who thought themselves allergic to jazz saxophone."
+
+============================================================
+Registered address: *|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

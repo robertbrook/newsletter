@@ -1,0 +1,39 @@
+I think one of my problems is that I have no particular love for data - nor am I entranced by technology.
+
+I wish mobile Safari let me "send to Reminders". Oh well. I suppose Apple decides what Apple lets me do.
+
+http://www.jamesaltucher.com/2013/03/stop-the-bs-now/ (http://www.jamesaltucher.com/2013/03/stop-the-bs-now/ )
+"You lose".
+
+http://tracker.archiveteam.org/yahoo-messages/ (http://tracker.archiveteam.org/yahoo-messages/ )
+A tracker for people helping to externally archive the Yahoo Messages forums.
+
+http://ruoyusun.com/2013/03/23/pragmatic-lua-basics-in-30-mins.html (http://ruoyusun.com/2013/03/23/pragmatic-lua-basics-in-30-mins.html )
+Ruoyu Sun, preferring Lua to PHP.
+
+Ridiculously, I still think of putting together my own little language. I could prototype it using Jison, I think. I could just make all the silly mistakes everyone else did decades ago. But I think I might enjoy doing that. Every time I think "Why doesn't it work like that?" I can just find out the hard way. For example: includes. Why not have a language that does 'hot' includes? I mean, the first time you call a library it's included? Like I said, silly mistakes.
+
+http://www.paulgraham.com/arcll1.html (http://www.paulgraham.com/arcll1.html )
+Here's a proper little language: arc. It uses Scheme as a VM, sort of.
+
+http://www.drdobbs.com/architecture-and-design/interview-with-alan-kay/240003442 (http://www.drdobbs.com/architecture-and-design/interview-with-alan-kay/240003442 )
+Alan Kay on computing as pop culture: "... pop culture holds a disdain for history. Pop culture is all about identity and feeling like you're participating. It has nothing to do with cooperation, the past or the future — it's living in the present. I think the same is true of most people who write code for money. They have no idea where [their culture came from] — and the Internet was done so well that most people think of it as a natural resource like the Pacific Ocean, rather than something that was man-made. When was the last time a technology with a scale like that was so error-free? The Web, in comparison, is a joke. The Web was done by amateurs."
+
+http://www.the-tls.co.uk/tls/public/article1083696.ece (http://www.the-tls.co.uk/tls/public/article1083696.ece )
+Evelyn Waugh on Churchill: "a master of sham-Augustan prose ... no specifically literary talent but a gift of lucid self-expression ..."
+
+http://jan-koenig.com/blog/?p=74 (http://jan-koenig.com/blog/?p=74 )
+"It seems that the best course might be to give people an opportunity to commit up front to their preferred path of action." – Dan Ariely
+
+http://blog.asmartbear.com/start-blogging.html (http://blog.asmartbear.com/start-blogging.html )
+I may start 'blogging' again in May. Not sure. Maybe. Nothing to write about, obviously. "The goal isn’t to generate art or invent new philosophies; the goal is to improve your ability to communicate and increase your sphere of influence." Hmm. I've pretty much given up on communicating - and I'm not into 'influence'.
+
+http://en.wikipedia.org/wiki/Further_and_better_particulars (http://en.wikipedia.org/wiki/Further_and_better_particulars )
+"... additional information required to provide sufficient accuracy with respect to a set of pleaded facts in an earlier document."
+
+Have a good day.
+
+============================================================
+Registered address: *|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

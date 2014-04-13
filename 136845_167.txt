@@ -1,0 +1,38 @@
+Yet another newsletter from Robert Brook
+
+View this email in your browser (*|ARCHIVE|*)
+
+http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE|*&t=*|URL:MC_SUBJECT|* Like (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE|*&t=*|URL:MC_SUBJECT|*)
+http://twitter.com/?status=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE|* Tweet (http://twitter.com/?status=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE|*)
+http://www.instapaper.com/hello2?url=*|URL:ARCHIVE|*&title=*|URL:MC_SUBJECT|* Read Later (http://www.instapaper.com/hello2?url=*|URL:ARCHIVE|*&title=*|URL:MC_SUBJECT|*)
+https://plus.google.com/share?url=*|URL:ARCHIVE|* +1 (https://plus.google.com/share?url=*|URL:ARCHIVE|*)
+
+Yesterday's issue was a little too much on the eye. Sorry about that. I'll try to tone it down a bit. So, in a note barely above whisper - For sale: my Lenovo T410, with extended battery pack. All offers considered. Good working condition. Lovingly caressed by my hand alone.
+http://www.bbc.co.uk/news/magazine-21412604 (http://www.bbc.co.uk/news/magazine-21412604 )
+Mary Beard on why anyone knows Latin: "You learn it so that you can read what the Romans wrote and what was written in Latin down to the 17th Century. You learn it to read Virgil." That seems a little disappointing. I was taught Latin at school, which I glad of. I certainly wasn't that good at it, nor at Greek, but I never thought of it just as a code to translate with. But then I don't know any modern languages either.
+
+I've got to that stage with rdio already that it took me months to reach with Spotify: I don't know enough music to choose what music I might want to listen to. #firstworldproblem
+
+http://texblog.org/2013/01/24/streamline-latex-collaboration-using-dropbox-with-spandex/ (http://texblog.org/2013/01/24/streamline-latex-collaboration-using-dropbox-with-spandex/ )
+I still have a thing for TeX. SpanDeX.io is an online TeX editor with Dropbox support - so you can write a document on your local machine as well as through the web. Lovely.
+
+http://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/Insula_Tiberina.html (http://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Italy/Lazio/Roma/Rome/_Texts/PLATOP*/Insula_Tiberina.html )
+A rather bare description of 'the island between to bridges' on the river Tiber.
+
+http://thelatinlanguage.org/london/ (http://thelatinlanguage.org/london/ )
+Learning Latin in London - at the Benedictine Study and Arts Centre in Ealing.
+
+http://www.pnas.org/content/early/2013/02/05/1204678110 (http://www.pnas.org/content/early/2013/02/05/1204678110 )
+'Automated reconstruction of ancient languages using probabilistic models of sound change': "We demonstrate this by showing that the reconstructed Austronesian protolanguages provide compelling support for a hypothesis about the relationship between the function of a sound and its probability of changing that was first proposed in 1955."
+
+http://www.plutorocks.com/ (http://www.plutorocks.com/ )
+"Images taken by the Hubble Space Telescope in 2011 and 2012 revealed two previously unknown moons of Pluto. So far, we have been calling them 'P4' and 'P5', but the time has come to give them permanent names. If it were up to you, what would you choose?"
+
+http://rubiken.com/blog/2013/02/11/web-dev-a-crazy-world.html (http://rubiken.com/blog/2013/02/11/web-dev-a-crazy-world.html )
+Jiang Guo: "Web development has been an open arena for multiple competing technologies since its birth, and even more so nowadays." A post about the downsides of the hectic pace of tech development. And that's why, with limited time and resources, I'm going to stick to some basic stuff that I already know, for a little while. It's not the time to try to work out real-time messaging on some alien cloud, not for me at least.
+
+Again, sorry for the odd formatting yesterday.
+
+============================================================
+
+** Unsubscribe (*|UNSUB|*)

@@ -1,0 +1,62 @@
+Now, it's time for a cup of tea.
+
+http://dillinger.io
+"Dillinger is a cloud-enabled HTML5 Markdown editor." Another one, from Joe McCann ...
+
+http://gunnarapp.com
+... who also came up with Gunnar: "a drag and drop file uploader for Rackspace Cloud Files".
+
+http://jan.tomka.name/sites/default/files/readline-commands.html
+A cheatsheet of readline commands, from Jan Tomka.
+
+http://www.english-heritage.org.uk/professional/research/buildings/survey-of-london/battersea/volumes/
+"The Survey of London is now in early 2013 completing its work in Battersea." - volumes 49 and 50, here in PDF drafts. An amazing bit of work ...
+
+http://www.english-heritage.org.uk/content/imported-docs/p-t/thehistoryofthemansionbletchleypark.pdf
+... also from English Heritage, "‘A Maudlin and Monstrous Pile’:
+The Mansion at Bletchley Park, Buckinghamshire" by Kathryn Morrison.
+
+http://www.codinghorror.com/blog/2013/09/the-2013-htpc-build.html
+Jeff Atwood: "I no longer own any laptops." Why? ...
+
+http://www.codinghorror.com/blog/2011/07/building-a-pc-part-vii-rebooting.html
+... oh, right.
+
+http://home.btconnect.com/ancientmonuments/new%20site%20main%20pages/publications.htm
+An index of publications of the Ancient Monuments Society, going back to 1953.
+
+http://www.vam.ac.uk/content/articles/a/history-of-pockets/
+A history of the pocket, at the V&A. I like the V&A. I should like to visit again soon.
+
+http://www.glias.org.uk/gliasnews.html
+I'm try out Scraperwiki's new "community" level account. This seems a good place to start with a test run. I can't see me getting much out of it unless I start paying. Do I have to publish it to CKAN before anyone can see it?
+
+I really couldn't face watching 'A Town Like Alice'. I found it too upsetting. 'On The Beach' is similarly dispiriting ...
+
+http://en.wikipedia.org/wiki/Virginia_McKenna
+... Virginia McKenna, who played Jean Paget in the 1965 film of Shute's book, is still with us.
+
+http://www.aolserver.com
+"AOLserver is a multithreaded, Tcl-enabled web server used for large scale, dynamic web sites." I used to use this. It wasn't too bad ...
+
+http://openacs.org
+... a more recent incarnation is the long-lived OpenACS. There was a release on 30th August!
+
+http://www.gutenberg.org/ebooks/7308
+H G Wells' "History of Mr. Polly". Baffling. I don't recommend it at all.
+
+http://tenkotv.com
+Lavinia Warner's Tenko site ...
+
+http://www.warnersisterstv.co.uk/lavinia.htm
+... "Important in TV history for being the first drama to feature actresses in ensemble in tough conditions, and for bringing a forgotten story to the screen, Tenko also brought in viewing figures of 18 million."
+
+And we're back.
+
+
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

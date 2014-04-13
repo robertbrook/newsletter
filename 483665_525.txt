@@ -1,0 +1,44 @@
+525 - THIS WAY UP - on the web (*|ARCHIVE|*)
+
+http://www.richardbaxter.co.uk/porcelain/index.html
+"Richard Baxter specialises in bright turquoise glazes but has recently begun to introduce other intense pigments in his exploration of this medium." His site doesn't really do his work justice. They look lovely in real life.
+
+http://www.reddit.com/r/breadit
+A Reddit on bread! Some amazing photos, too. I should really try making bagels again.
+
+https://gist.github.com/alandipert/675767
+"Convert OPML to org-mode style nested headings ..."
+
+http://www.head-fi.org
+I don't even understand most of the reviews.
+
+http://blog.justonepixel.com/geek/2014/01/27/paving-the-way-for-the-new-nodejs/
+Michel Tu on what's next in node. A useful concise summary.
+
+http://www.theguardian.com/music/2003/nov/08/popandrock.art
+Stuart Jeffries: "Perhaps as Sarapo drove up from the south of France with the corpse of Piaf in his car he had learned, as so many of Piaf's lovers did not, what love was all about and why it was important."
+
+I do miss Spotify, but not as much as I thought I would.
+
+http://manytricks.com/timesink/
+I'm quite aware of where my time and attention goes - not that I'm always content with that, but, if you'd like salt rubbed into that particular wound, this should be a great help.
+
+http://neurosciencedc.blogspot.com.au/2013/10/the-best-time-for-your-coffee.html
+Steven Miller: "In the morning then, your coffee will probably be the most effective if you enjoy it between 9:30 AM and 11:30 AM, when your cortisol levels are dropping before the next spike." #chronopharmacology
+
+http://www.nytimes.com/1991/06/10/obituaries/claudio-arrau-pianist-is-dead-at-88.html
+"I try to play the way a cat jumps. It must be completely natural. I have promised myself that whenever I feel a kind of routine creeping into my playing, I will stop. Now when I play I am almost in ecstasy, a creative ecstasy, which I wouldn't miss for anything. This is what I live for. ... All I wanted was music, ... I was even fed at the piano. Otherwise, it seems, I wouldn't eat. I used to play with my mouth open, and my mother put food in it."
+
+http://stackexchange.com/questions?tab=realtime
+Is there an API that streams stackexchange questions in real time? Maybe it's calling something ...
+
+http://stackexchange.com/genuwine
+... like this?
+
+http://www.apple.com/education/ipad/itunes-u/
+I'm sure I'm just being paranoid, but I keep expecting Apple to pull the rug out.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

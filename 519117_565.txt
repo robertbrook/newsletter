@@ -1,0 +1,47 @@
+565 - DARWIN'S GREENHOUSE - on the web (*|ARCHIVE|*)
+I got on a train and it went really fast, really fast. I got a bit frightened. Why? Creeping through Northampton. I can't remember if I've ever been here before.
+
+There's someone on the bus from the Bolivian Air Force. #battersea
+
+https://news.ycombinator.com/item?id=7403262
+"What you have here is a rudimentary persistent cache."
+
+This evening is that IndieWeb meetup. I'm already nervous.
+
+http://www.lrb.co.uk/v36/n06/bee-wilson/how-much-meat-is-too-much
+"Vegetarians, we say, are self-righteous and humourless; or fussy and weird; or like Hitler; we say that their diet makes them anaemic; ... [But thankfully] 'Farmageddon' is a curiously consoling book for a British meat-eater because, once you’ve waded through all the horror, you can think, at least I haven’t forced any tribespeople off their land lately and thank God I’m not buying my chickens in Taiwan." #godwin #lately
+
+I don't have much in common with anyone. A final realisation.
+
+http://search.cpan.org/~kni/JSON-Builder-0.01/JSON/Builder.pm
+Writing large JSON files in Perl.
+
+https://github.com/sharelatex/sharelatex
+"A web-based collaborative LaTeX editor" ...
+
+https://www.sharelatex.com
+... and online. Can someone remind me why producing Hansard in this would be a terrible idea? Or in LaTex at all?
+
+Two nearby pubs have closed down: one rumoured to reopen as a Tesco, the other as a rebrand.
+
+http://sethgodin.typepad.com/seths_blog/2014/02/the-most-important-question.html
+"Earn trust, earn trust, earn trust." A bit more of an issue where you're in an environment where it's rule by job title. For example. You don't have to have people trust you if you're just 'in charge' and what you say goes unchallenged.
+
+As the weather improves, the traffic jams onto Battersea Bridge get longer.
+
+http://search.cpan.org/~markellis/LucyX-Simple-0.008002/lib/LucyX/Simple.pod
+"Simple interface to Lucy. Use if you want to use Lucy and are lazy, but need more than Lucy::Simple provides :p"
+
+Blasted lamp keeps flickering. Hm. It just went out completely.
+
+https://www.tbray.org/ongoing/When/201x/2014/03/16/New-Hyphenation
+Tim Bray's site still runs on his own Perl code: "But hey, it’s mine; an old friend now, flaws and all, and there are lessons there; not that I have any urge to share it. Maybe in a decade or two, at which point it’ll be a playground for software archaeologists." I'm still thinking of using Template Toolkit.
+
+Have fun today.
+
+============================================================
+
+*|LIST:ADDRESS|*
+
+
+** Unsubscribe (*|UNSUB|*)

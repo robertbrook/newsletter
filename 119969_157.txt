@@ -1,0 +1,70 @@
+A newsletter from Robert Brook
+------------------------------------------------------------
+*|ARCHIVE|*
+
+
+**
+------------------------------------------------------------
+http://webapps.stackexchange.com/questions/39843/facebook-question (http://webapps.stackexchange.com/questions/39843/facebook-question )
+Facebook Friends are for ever. And, for everything. There is no going back.
+
+http://unplu.gg (http://unplu.gg )
+Power monitors with an API and an iOS app.
+
+https://www.verbling.com (https://www.verbling.com )
+Learn a language with video tutoring.
+
+http://www.zdnet.com/apps-no-root-your-device-serves-others-berners-lee-7000010661/ (http://www.zdnet.com/apps-no-root-your-device-serves-others-berners-lee-7000010661/ )
+TimBL states the obvious, obviously: if you don't have root on your device, it's not your device. Okay, sure, fine: but how do I explain this to my mum? Does she have to care about this? As long as she's not looking for a general-purpose computer, who cares, right?
+
+http://wunwun.com (http://wunwun.com )
+Concierge-style service, $15 flat, beta in New York.
+
+http://egghead.io (http://egghead.io )
+A great site of video tutorials on angular.js.
+
+http://blog.stackoverflow.com/2013/02/why-we-still-believe-in-working-remotely/ (http://blog.stackoverflow.com/2013/02/why-we-still-believe-in-working-remotely/ )
+"Why [Stack Exchange] believe in letting people work full-time from home": "It lets you hire good people who can’t move ... You don’t lose people to silly things like their significant other going to medical school ... When done right, it makes people extremely productive ... It makes you focus on more than butts in chairs." I'm most interested in the extremely productive bit. In fact, I'd settle for just productive. And not irritated. That would be great.
+
+http://code.google.com/p/booksleeve/ (http://code.google.com/p/booksleeve/ )
+"... pipelined, asynchronous, multiplexed and thread-safe access to redis ..."
+
+I was going to write something about US patent 5,490,216 - but I don't think I have it in me.
+
+http://kangax.github.com/nfe/#expr-vs-decl (http://kangax.github.com/nfe/#expr-vs-decl )
+"Function expressions vs. Function declarations" in Javascript: "How can one tell whether it is a function declaration or a function expression ... ?"
+
+http://code.google.com/p/besen/ (http://code.google.com/p/besen/ )
+"BESEN is an acronym for Bero's Ecma Script Engine, and it is a complete ECMAScript Fifth Edition Implemention in Object Pascal ..."
+
+http://sandboxie.com (http://sandboxie.com )
+A sandbox for Windows applications.
+
+http://www.planetplanet.org (http://www.planetplanet.org )
+One of the early 'planet' feed aggregators - and still going strong. As far as I can work out, it's pretty much all static files ....
+
+http://www.planetdjango.org (http://www.planetdjango.org )
+... here's an example of a 'planet' site, for Django blogs.
+
+http://www.terahertz.co.uk/index.php?option=com_content&view=article&id=214&Itemid=532 (http://www.terahertz.co.uk/index.php?option=com_content&view=article&id=214&Itemid=532 )
+Bolometers: optical sensors with "liquid helium bath cryostats".
+
+http://www.digitalmars.com/dscript (http://www.digitalmars.com/dscript )
+DMDScript: ECMAScript written in D.
+
+http://jsbin.com/welcome/1/edit (http://jsbin.com/welcome/1/edit )
+JS Bin: "a JavaScript, HTML and CSS playground". You can add Javascript libraries and test it all in a browser scratchpad. Very clever.
+
+http://help.algoriddim.com/customer/portal/articles/723344-itunes-match (http://help.algoriddim.com/customer/portal/articles/723344-itunes-match )
+Using Algoriddim with iTunes Match. I'm loving Algoriddim.
+
+http://www.spyflight.co.uk/darkgene.htm (http://www.spyflight.co.uk/darkgene.htm )
+Project Dark Gene: "It is presumed that Capt. Gennady Eliseev then made a conscious decision to ram the RF-4C to prevent it escaping, as the MiG-21 aircraft rammed the aircraft from the left and below, near the engine nozzles, probably cutting off the tail of the RF-4C, throwing it into a high-speed dive." Project Ibex: "a joint CIA+NSA / Iran enterprise for building and operating a series of observation and listening posts along the Soviet border"
+
+============================================================
+-
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:ADDRESS|* *|END:IF|*
+
+** Unsubscribe (*|UNSUB|*)
+** Y (*|UPDATE_PROFILE|*)
+** our profile (*|UPDATE_PROFILE|*)

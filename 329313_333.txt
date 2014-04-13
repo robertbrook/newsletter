@@ -1,0 +1,38 @@
+Sounds + Visions at SUBURBIA (http://fadingcity.com/suburbia/)
+
+See + Do at the CALENDAR (http://fadingcity.com/calendar/)
+
+http://html2haml.heroku.com (http://html2haml.heroku.com )
+A very useful page to convert HTML to HAML - it seems to do a jolly good job.
+
+http://voxeljs.com (http://voxeljs.com )
+My goodness, look at this stuff. "an open source voxel game building toolkit for modern web browsers". Rather a pity that my web browser doesn't seem to be quite modern enough.
+
+https://github.com/gradus/coffeecup (https://github.com/gradus/coffeecup )
+"CoffeeCup is a templating engine for node.js and browsers that lets you to write your HTML templates in 100% pure CoffeeScript." It looks rather like HAML.
+
+http://www.history.ac.uk/ihr/Focus/War/londonRation.html (http://www.history.ac.uk/ihr/Focus/War/londonRation.html )
+From 'Sources for the History of London 1939-45': "The Wartime Meals Division encouraged the setting up of industrial canteens, and lent local authorities money to start British Restaurants for the public." Churchill changed the name from 'Community Feeding Centres', which sounds rather a good idea. "Londoners proved fonder of British Restaurants and their equivalents than did inhabitants of the rest of the country." ...
+
+http://hansard.millbanksystems.com/commons/1941/apr/30/supply (http://hansard.millbanksystems.com/commons/1941/apr/30/supply )
+... Major Lloyd George speaks on 30th April, 1945: "I can speak from personal experience of the wonderful service that these restaurants render. I have been to several of them, particularly in London, and I really understand why they are appreciated. Many of these men who are taking their meals there would have no prospect of any hot meal at all unless they cooked it themselves at the end of a very heavy-day's work, because their families have been evacuated elsewhere. Everywhere I have heard admiration of the work that these restaurants are doing."
+
+http://www.suggsmcpherson.me (http://www.suggsmcpherson.me )
+The personal website of Graham McPherson. He seems to have trouble with his knees. Just like me.
+
+http://www.rachelquerrien.com/galeries/index.php?album=Dream+City (http://www.rachelquerrien.com/galeries/index.php?album=Dream+City )
+Rachel Querrien's photo-series, 'Fading City'. A much better title than 'Dream City', I think.
+
+https://soundcloud.com/jackdixon (https://soundcloud.com/jackdixon )
+"... his intricate productions sound as much at home on a packed, sweltering dance floor as they do on headphones in the sleepy half-light of the night bus home."
+
+https://code.google.com/p/gyp/wiki/GypLanguageSpecification (https://code.google.com/p/gyp/wiki/GypLanguageSpecification )
+"a tool for the Chromium project that generates native Visual Studio, Xcode and SCons and/or make build files from a platform-independent input format"
+
+"... if there were machines bearing the image of our bodies, and capable of imitating our actions as far as it is morally possible, there would still remain two most certain tests whereby to know that they were not therefore really men." Rene Descartes
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

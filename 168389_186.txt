@@ -1,0 +1,33 @@
+Can I get the Drafts iOS app to read from a different Dropbox folder? I mean instead of just /apps/Drafts? We're drifting into iCloud territory here. I can't see how iCloud is going to survive longer without an "all your files" view, even if they don't end up giving us iDisk back.
+
+Time Machine says it will finish in five days. Dropbox says it only needs four. Something doesn't feel quite right.
+
+https://github.com/ftrain/savepublishing (https://github.com/ftrain/savepublishing )
+Could someone rewrite this for appnet, please? I suppose I should try that myself ...
+
+https://github.com/ftrain/savepublishing/issues/29 (https://github.com/ftrain/savepublishing/issues/29 )
+... well, not just me then. I wonder if I can push text straight from Safari to a Mac app.net client. That would be nice. I had a look at the code. I could try, I think. Looks like it's written in Coffeescript. So, learn some Coffeescript. Can't quite understand the hosted bit yet, but it looks possible.
+
+If I do things that make me unhappy, or stay in an environment that makes me unhappy, I can't expect to be happy. I suppose. Hardly a revelation.
+
+I've been thinking about teaching and instruction a lot recently, trying not to use scare quotes. I'm not a teacher, or a manager. I do my best at whatever it is I do. Well, I try to. I'm not great at instruction, or telling anyone what to do. Thankfully, I'm rarely required to do that sort of thing.
+
+But I have been helping out older folk with computer and web stuff. Should I be offering choices, or making choices for them? If I know one thing would be better that another, I should just say that, I think. Sometimes I want just to restrain myself and wait until someone asks a direct question, to which I should try to give a direct answer.
+
+One useful method I've discovered, for me, is one question at a time - one answer at a time. Look, it's not as if I really know stuff. But if I can help, I should help.
+
+I still find myself saying to people "You should have a website" and then realising te only reason they're telling me anything is that I'm not on Facebook to see what they write. "You shuld have a website" doesn't really mean anything any more.
+
+Like John Siracusa sort-of said, computers are never fast enough. More links tomorrow, I promise.
+
+If you don't like looking inward, why not look outward?
+
+Have a good day.
+
+============================================================
+
+*|LIST:ADDRESS|*
+*|LIST:ADDRESS|*
+
+** BACK ISSUES (*|ARCHIVE|*)
+** UNSUBSCRIBE (*|UNSUB|*)

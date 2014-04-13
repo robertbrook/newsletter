@@ -1,0 +1,51 @@
+Hello!
+
+I visited 'Dungeness A', a long time ago. That was weird.
+
+http://bigcouch.cloudant.com (http://bigcouch.cloudant.com )
+I rather lost track of what happened with CouchDB. I'm pretty sure Apache is involved, somehow. And this code for Cloudant is being added in, I think? "While it appears to the end-user as one Apache CouchDB instance, it is in fact one or more BigCouch nodes in an elastic cluster, acting in concert to store and retrieve documents, index and serve views, and serve CouchApps."
+
+http://www.bbc.co.uk/caribbean/news/story/2011/03/110330_legacy_about_us.shtml (http://www.bbc.co.uk/caribbean/news/story/2011/03/110330_legacy_about_us.shtml )
+I had no idea that the BBC had a 'Caribbean service' until 2011.
+
+I launched emacs again. I probably shouldn't have done that.
+
+http://fadingcity.com/posts/developing (http://fadingcity.com/posts/developing )
+I wrote something about - I'm not sure what.
+
+My feet feel positively hot.
+
+http://www.vimtoarabia.com (http://www.vimtoarabia.com )
+Vimto is big in ... 'Arabia'?
+
+http://www.leancrew.com/all-this/2012/04/address-book-and-icloud-problems/ (http://www.leancrew.com/all-this/2012/04/address-book-and-icloud-problems/ )
+The thing about iCloud is this: that marketing is great, the promise is great, the delivery isn't great and the developer response has been cool at best. Yes, almost everything can be improved. "... I’m firmly in the camp of people who feel skeptical—if not outright hostile—toward Apple’s plan to come out with a new version of OS X every year. New versions mean new bugs, bugs that take time to find and squash."
+
+http://www.trinifood.com/home.php?cat=5 (http://www.trinifood.com/home.php?cat=5 )
+Chutneys and kuchelas from Trinidad. Kuchela is, I think, actually a sort of mango chutney, but made with green mango.
+
+http://outliner.smallpicture.com/fargoVerbs.js (http://outliner.smallpicture.com/fargoVerbs.js )
+Dave Winer seems to be porting UserTalk to Javascript. I wonder if he's seen Jison? Of course he has. What am I thinking ...
+
+https://gist.github.com/robertbrook/6091303 (https://gist.github.com/robertbrook/6091303 )
+... and this is what it looks like in CoffeeScript, pretty much.
+
+http://pouchdb.com (http://pouchdb.com )
+"PouchDB is an Open Source JavaScript Database inspired by Apache CouchDB that is designed to run well within the browser."
+
+http://fadingcity.com/suburbia/county-of-dorset (http://fadingcity.com/suburbia/county-of-dorset )
+BAC 1-11s always seemed a mix of the pedestrian 1970s and the exciting 1960s air design.
+
+http://www.croxleyraillink.com (http://www.croxleyraillink.com )
+Does this mean than Watford Junction would be on the Metropolitan line and the London Overground? I need a map. Not the Overground, of course. Goodness, I do need a map.
+
+http://markneary1dotcom1.wordpress.com/2013/07/23/resonances-of-mrs-slocombes-pussy/ (http://markneary1dotcom1.wordpress.com/2013/07/23/resonances-of-mrs-slocombes-pussy/ )
+A recommendation for Randalls of Uxbridge. I recommend reading more of Mark's blog.
+
+"Time for bed". I really need to get some proper sleep.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

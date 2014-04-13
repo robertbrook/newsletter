@@ -1,0 +1,70 @@
+https://news.ycombinator.com/item?id=98227 (https://news.ycombinator.com/item?id=98227 )
+"It's always worth it to learn new languages but would it be a better use of my time to start over and learn Lisp or just learn how to proficiently use Closures in Ruby?"
+
+"Art thou a Magistrate? then be severe:
+If studious, copie fair, what time hath blurr'd;
+Redeem truth from the jawes: if souldier,
+Chase brave employments with a naked sword
+Throughout the world. Fool not: for all may have,
+If they dare try, a glorious life, or grave." - George Herbert
+
+http://diamondversion.info/bio/ (http://diamondversion.info/bio/ )
+"Ito’s solos are an excellent noisist counterpoint for Diamond Version’s minimalist post-techno screens."
+
+Still thinking about blogging again. A thousand words a week, that should do it. Not sure what I could write about. Hm.
+
+http://mobile.theverge.com/2013/4/9/4206342/apple-bans-brian-k-vaughan-saga-from-comixology-over-sexual-content (http://mobile.theverge.com/2013/4/9/4206342/apple-bans-brian-k-vaughan-saga-from-comixology-over-sexual-content )
+Of course, Apple can restrict whatever content it likes on its own platforms, but readers will take a sorry story from this example.
+
+http://emberjs.com/guides/models/finding-models/ (http://emberjs.com/guides/models/finding-models/ )
+Models in Ember: identity mapping ...
+
+http://emberjs.com/guides/models/the-rest-adapter/#toc_json-root (http://emberjs.com/guides/models/the-rest-adapter/#toc_json-root )
+... and Ember wants a particular format for JSON input. I think.
+
+https://blog.dropbox.com/2013/04/yahoo-mail-dropbox/ (https://blog.dropbox.com/2013/04/yahoo-mail-dropbox/ )
+Funny how quickly these things come and go.
+
+http://hyperpolyglot.org/lisp (http://hyperpolyglot.org/lisp )
+"Lisp: Common Lisp, Racket, Clojure, Emacs Lisp ... a side-by-side reference sheet" - rather wonderful. What's with the full-stops before some of the Clojure things?
+
+https://github.com/postaljs/postal.js (https://github.com/postaljs/postal.js )
+"JavaScript pub/sub library supporting some advanced subscription features, plus message capture and replay"
+
+http://heelhook.github.io/chardin.js/ (http://heelhook.github.io/chardin.js/ )
+Oh, this is lovely. A simple, elegant overlay for HTML pages, suitable for 'instant help'. Do check out the demo.
+
+http://en.wikipedia.org/wiki/Nootropic (http://en.wikipedia.org/wiki/Nootropic )
+"smart drugs, memory enhancers, neuro enhancers, cognitive enhancers, and intelligence enhancers" - I think I'll stick with coffee for now, thanks.
+
+http://www.bafflegab.co.uk/scarifyers.asp (http://www.bafflegab.co.uk/scarifyers.asp )
+I've been enjoying these on the wireless.
+
+http://www.skorks.com/2013/04/the-best-way-to-pretty-print-json-on-the-command-line/ (http://www.skorks.com/2013/04/the-best-way-to-pretty-print-json-on-the-command-line/ )
+Pretty printing JSON with ppjson. I'm seeing a lot of JSON now. Feel better about that.
+
+http://www.andrenis.it/batteriatessera.htm (http://www.andrenis.it/batteriatessera.htm )
+If I do ever get round to living on an island, I could try here: the Isola di Tessera in the Venice lagoon. Looks a nice little place ...
+
+http://vec.wikipedia.org/wiki/San_Giàcomo_in_Pałuo (http://vec.wikipedia.org/wiki/San_Giàcomo_in_Pałuo )
+... or perhaps San Giàcomo in Pałuo, which also looks delightful ...
+
+http://en.wikipedia.org/wiki/Isola_di_San_Secondo (http://en.wikipedia.org/wiki/Isola_di_San_Secondo )
+... though a deserted island might be preferable.
+
+http://geekwagon.net/projects/tenksleft/ (http://geekwagon.net/projects/tenksleft/ )
+How many 10k hours do you have left? Me, about four and a half. Which means I can master four and a half new things, apparently. Or at least I have the time remaining to do so.
+
+http://blogs.perl.org/users/ovid/2013/04/random-thoughts-about-agile-software-development.html (http://blogs.perl.org/users/ovid/2013/04/random-thoughts-about-agile-software-development.html )
+"I'm sorry, but this gentleman to my right is the team lead. That lady behind me is the project manager. That lady over there is the product owner and that gentleman sitting over there says that he's my boss."
+
+Back in the smoke again. Joy.
+
+============================================================
+*|LIST:ADDRESS|*
+
+Thanks to Dave Briggs at  and Giles Turnbull at
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** http://gilest.org (http://gilest.org)
+** Unsubscribe (*|UNSUB|*)

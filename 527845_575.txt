@@ -1,0 +1,48 @@
+Vol. 2, No. 575. "CARAMEL".
+Good morning.
+
+I'm feeling much better about Scrivener now I've taken that corkboard background off.
+
+http://www.umcutrecht.nl/zorg/nieuws/2014/03/volledige-schedel-geïmplanteerd.htm
+"Met behulp van 3D print technologie werd een op maat gemaakte schedel van kunststof succesvol geïmplanteerd bij een 22-jarige vrouw." Amazing. I had no idea that 'replacement' bone could be so well-tolerated. Just twelve weeks after the operation: "De patiënt heeft haar gezichtsvermogen weer volledig terug, is klachtenvrij, is weer aan het werk en het is vrijwel niet te zien dat ze ooit geopereerd is."
+
+http://www.busybox.net/screenshot.html
+"Everybody loves to look at screenshots, so here is a live action screenshot of BusyBox."
+
+http://www.nationalarchives.gov.uk/hospitalrecords/details.asp?id=397
+From the Hospital Records Database: 'Sorrento Maternity Hospital, Birmingham' - since 1948, a maternity hospital; before that it treated disabled ex-servicemen under the Ministry of Pensions ...
+
+http://www.bhamb14.co.uk/index_files/SORRENTOMATERNITYHOSPITAL.htm
+... built "by William Adams; it was named after his favourite resort in Italy where he spent his honeymoon."
+
+http://en.wikipedia.org/wiki/Battle_of_the_Kalka_River
+"The Mongols executed Mstislav of Kiev and the Kievan nobles with the traditional Mongol caveat reserved for royalty and nobility: without shedding blood. Mstislav and his nobles were buried and suffocated under the Mongol general's victory platform at the victory feast." Grim.
+
+https://github.com/tweecode/twine/blob/master/tiddlywiki.py
+"A Python implementation of the Twee compiler ... the goal here is to provide classes
+that translate between Twee and TiddlyWiki output seamlessly." #AgeOfWonders
+
+https://github.com/techbelly/the-plays-the-thing/blob/master/bin/process.rb
+How Ben Griffiths processes XML files of Shakespeare plays into lovely, straightforward HTML. Actually, seeing as I'm here ...
+
+https://github.com/robertbrook/the-plays-the-thing
+... there we go: now I can break things without annoying him ...
+
+http://莎士比亚.org
+... oh my goodness.
+
+http://www.legislation.gov.uk/ukpga/1979/54
+The 'Sale of Goods Act 1979' - thirty-five uses of the word "reasonable" ... "A thing is deemed to be done in good faith within the meaning of this Act when it is in fact done honestly, whether it is done negligently or not."
+
+I lost another subscriber this week. I expect the suggestion that I banked with the Co-op might have been the final straw. #socialism
+
+"Collections".
+
+A giant man, with a giant beard, comes with my Darjeeling. I am reading H. G. Wells' "Floor Games" - an odd book - so now the cup-and-saucer in the giant's hand looks like a toy.
+
+============================================================
+
+*|LIST:ADDRESS|*
+
+
+** Unsubscribe (*|UNSUB|*)

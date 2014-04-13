@@ -1,0 +1,60 @@
+453 - COFFEE AND A SLICE
+
+On the web (*|ARCHIVE|*)  - Signup link (*|LIST:SUBSCRIBE|*)
+
+Hello!
+
+Lots of email. Lots of other things. On, on.
+
+https://developers.google.com/spectrum/
+"The Google Spectrum Database API provides PAWS-compatible JSON-RPC methods that allow devices to query the database to find available TV-band spectrum at a given geolocation." - US only, it seems.
+
+I still miss John Thaw.
+
+http://fpc.state.gov/documents/organization/115955.pdf
+2008: "What should be the role of sea-based systems in U.S. ballistic missile defense, and are DOD’s programs for sea-based BMD capabilities appropriately structured and funded?"
+
+http://www.knorr.co.uk/article/detail/394815/igor-zago
+"As a child I used to collect food like wild berries, asparagus, dandelion leaves, wild herbs and mushrooms and sell them to local restaurants."
+
+http://storify.com/BFBS/operation-prairie-thunder-in-canada
+BFBS on Storify: "The British Army undertake a massive training exercise in Western Canada. Our reporter Ali Gibson went along with them." ...
+
+http://bfbs.com/news/people/ali-gibson.html
+... "Between September and December last year Ali deployed to Afghanistan to report on the work of 4th Mechanized Brigade when they deployed on Op Herrick 17. She is currently back in Afghanistan working with 7th Armoured Brigade, the Desert Rats, on Op Herrick 19."
+
+https://modulus.io/features
+node hosting.
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list
+The Mozilla Developer Network's list of HTML5 elements, helpfully grouped.
+
+Morse does seem to be rather harsh with Lewis. In the TV version, I mean. Was it like that in the books?
+
+Are all car adverts silly? They seem to be.
+
+https://github.com/Modernizr/Modernizr/blob/master/feature-detects/elem/details.js
+Is there a way to detect the 'summary' and 'details' elements? I'm sure there was a really obvious way of doing that sort of thing. Aha! This looks like it.
+
+https://github.com/aFarkas/html5shiv
+"Who can I get mad at now?"
+
+Having to explain iPlayer buffering to my son. It's come to this.
+
+http://www.gemfury.com
+Private gem repository. Clever. Oh - it does Python and npm packages as well.
+
+https://soundcloud.com/thecavemouth
+This isn't me.
+
+http://support.apple.com/kb/PH3565
+"iCloud stores your documents and keeps them up to date across your iOS devices, the web, and your computer so that you always have the most current versions at hand, no matter which device you were using when you made your latest edits." That's what it says here, anyway.
+
+http://cloudpricecalculator.com
+Is this thing still on? Does it seem up-to-date?
+
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

@@ -1,0 +1,38 @@
+"I generally treat Chrome as if it's a giant Google ad tracing everything I do." Marco Arment
+
+http://www.sketchplanations.com/post/57652388913/cook-rice-like-a-pro-or-buy-a-rice-cooker-you
+How to cook rice. "No peeking".
+
+Chipping away at email. Slow going, but there's some progress.
+
+http://functionspace.org/topic/65/What-exactly-is-Quantum-Tunnelling-
+"Wikipedia states that quantum tunnelling refers to the quantum mechanical phenomenon where a particle tunnels through a barrier that it classically could not surmount. What do we mean by this line? Also, what role does it play in Nuclear Fusion?"
+
+A correspondent asks: "Can you give me some condensed description of what Merlin Mann and others like him are about? I can understand people blogging etc for a hobby, when their day job is actually building ships, but some sort of career?" Any volunteers?
+
+http://traintimes.org.uk
+I've used the official site. I've used the official app. And still, every time, this service is better, by far.
+
+BBEdit has an S/FTP client built in. Like most of BBEdit, it looks a bit odd. Like most of BBEdit, it works and is really fast. Really fast.
+
+http://lua-users.org/lists/lua-l/2012-04/msg00331.html
+'What makes Lua tick?' - it's small, fast, interfaces to C (if you're into that sort of thing), is open source, is "very, very elegant" despite not being Lisp, has "a simple, attractive, and approachable syntax", has "a long history" and "a vibrant and friendly user-community" ...
+
+http://lua-users.org/wiki/LpegTutorial
+... a tutorial for LPEG.
+
+Ruby webmachine is very impressive. Interesting even just to look at, for me.
+
+http://www.accesstoinsight.org/lib/authors/guruge/wheel419.html#ch-5
+"What both literature and art show very clearly is that Maara's personality as conceived by Buddhist writers and artists underwent a marked change with the spread of Buddhist culture. In India, in earlier times, Maara was yet a devaputta, in fact the handsome God of Love with all his traditional characteristics. Later on, closer to modern times, ... he becomes more and more pronouncedly demonic." - similar to Lucifer?
+
+"We're not going to stop using the wheel. We're not going to stop using the Internet." Archive Team
+
+http://www.palikanon.com/english/pali_names/aa/aananda.htm
+"[Ananda] inquired of the Buddha if women were at all capable of attaining the Fruits of the Path. The answer was in the affirmative, and Ānanda pushed home the advantage thus gained."
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

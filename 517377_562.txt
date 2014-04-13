@@ -1,0 +1,28 @@
+562 - GREENS - on the web (*|ARCHIVE|*)
+Good morning everyone.
+
+http://indiewebcamp.com/events/2014-03-19-homebrew-website-club
+Thank you especially to Lloyd Davis for reminding me about the next meeting of the 'Homebrew Website Club', at 'Go Free Range' on Worship Street in London - this Wednesday. I'm going to go, try to take notes that I'll understand and also try very hard not to fanboy too much about Tom Morris ...
+
+... thanks also to Lloyd for talking to me about "practice", as different from "goals". Merlin Mann recently also spoke on this, about the importance of not allowing the goal to become the goal, but having it be a carrot-on-a-stick - that's my gloss on that, of course - by which the goal becomes a prompt, or a coaxing thing, rather than an endpoint. I like that idea.
+
+http://www.positech.co.uk/democracy3/
+I've been playing 'Democracy'. At the end of each term in office, the population is better off by every metric. But, I've never been re-elected. I was even assassinated by a group of capitalists. Twice. Seriously: they'd gun me down over corporation tax rates? What is it with you people? Then I cut taxes to make the capitalists happy and I was killed by the socialists. I mean, really, what can you do.
+
+http://caseorganic.com/articles/2014/03/11/2/podcast-on-the-indieweb-in-beta-90-we-want-our-2003-back
+I'm listening to Amber Case on 'In Beta' with Christie Koehler and Kevin Purdy. There's lots to think about here, I think. I'm trying to keep up with the thinking around the 'indie web'. But, the supposed jump from admittedly crappy RSS feeds to almost invisible microformats seems somewhat naive.
+
+I'm going to have a cup of tea. Soon.
+
+I'm considering making my personal site into a very basic HTML flat file thing. That'll start. Soon. But why am I nervous about making it with Tinderbox, or LiveReload? And I don't really want to use Jekyll, since I don't really want it to be date-driven. Has anyone got any ideas? I might try LiveReload with handlebars.js.
+
+My old domain name, which was my IRL name, is now no longer owned by someone who puts ads on it. It seems to be owned by a real person who shares my name and who does real things in the world. I should be happy about that.
+
+Anyway. Have a great day today.
+
+============================================================
+
+*|LIST:ADDRESS|*
+
+
+** Unsubscribe (*|UNSUB|*)

@@ -1,0 +1,67 @@
+Morning folks.
+
+http://web.mit.edu/racket_v53/i386_ubuntu1204/doc/guide/define-struct.html
+I hadn't realised that Ruby's struct inherits from Racket. In Racket "even classes and objects are implemented in terms of structure types." Good.
+
+http://en.wikipedia.org/w/api.php
+The glorious MediaWiki API. "All features shown on this page should be working ..." ...
+
+https://www.mediawiki.org/wiki/API:Data_formats
+... the sorts of data you can get from the MediaWiki API ...
+
+http://blog.tommorris.org/post/22846871794/hackdiary-mediawiki-api-noodling-in-ruby-with
+... and here's Tom Morris noodling: "This is obviously rather an ugly way to write software. No unit tests! It’s, like, old school bad-old-days Ruby. I don’t care."
+
+http://www.tntreloading.com
+"The Source for Reloading". They mean guns. Reloading guns ...
+
+http://livereload.com
+... this is for reloading web things. Which is what I was actually looking for. Not the guns thing.
+
+http://wallyfly.com
+Wally Funk's website.
+
+https://twitter.com/ScienceNelson
+Did I point to Sue Nelson on Twitter? I probably did. Anyway, here she is.
+
+http://waaa.pbworks.com/w/page/4215591/OPMLtoOL
+"Convert an OPML file to an ordered list, with the addition of heirarchical numbering, both in text and as named anchors ..." - this was written six years ago!
+
+http://checkmatedynamics.com/PreparednessMindset
+"How many days can you survive without going to a grocery store?" Um ... what, including Waitrose? I'm going to hell, aren't I.
+
+http://seeyourfolks.com
+Wow. This is creepy. You should check this out and get as creeped as I did. In a good way, of course.
+
+http://www.marco.org/2013/10/15/godaddy-mt
+"GoDaddy is a horrible company run by horrible people selling horrible products." Marco doesn't actually hate Dreamhost.
+
+http://drakon-editor.sourceforge.net
+"DRAKON is a visual language for specifications from the Russian space program. DRAKON is used for capturing requirements and building software that controls spacecraft." There's an editor written over Active Tcl ...
+
+http://store.oberoncore.ru/lib/paper/grafit_A4.pdf
+... here's a PDF to help you out with that. You know, in Russian.
+
+http://package.json.nodejitsu.com
+"This is an interactive guide for exploring various important properties of the package.json packaging format for node.js applications." ...
+
+http://nodejs.org/api/repl.html
+... and here's the node repl ...
+
+https://gist.github.com/TooTallNate/2053342
+... perhaps weirdly, you can run a repl over the web.
+
+http://www.altheim.com/bunny/
+"... a comprehensive list of all known ... bunny names. ... Use of this list to obtain names for kitties, puppies, gerbils, hamsters, or other fuzzy pets is an abuse of this service and will not be tolerated."
+
+Enjoy!
+
+
+
+Unit Seven, Red Lion Quarter, Spalding PE11 1WD
+
+ARCHIVE (*|ARCHIVE|*)
+
+UNSUBSCRIBE (*|UNSUB|*)
+
+============================================================

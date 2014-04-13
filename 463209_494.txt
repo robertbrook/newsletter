@@ -1,0 +1,36 @@
+494 - FORGOTTEN - on the web (*|ARCHIVE|*)
+
+Hello.
+
+http://www.fsf.org/givingguide
+A more free holiday giving guide, you might have used.
+
+I like bits of Sherlock. I like almost none of Dr. Who. I much prefer the old Cybermen.
+
+http://bleeplabs.com/neb-kit/
+After soldering together my Nebulophone, I find I have one resistor left over and only little scratchy noises coming through. The LEDs flicker briefly. I think I shall have to investigate further with one of those ... those things that check that electricity is going through wires. One of those ...
+
+http://bleeplabs.com/wp/wp-content/uploads/2010/04/nebulophone-d01-guide-b.pdf
+... aha! I imagine this may be of some use.
+
+http://en.wikipedia.org/wiki/Hohenschwangau_Castle
+"After Ludwig's death in 1886, Queen Marie was the castle's only resident until she in turn died in 1889. Her brother-in-law, Prince Regent Luitpold of Bavaria, lived on the 3rd floor of the main building. He was responsible for the electrification in 1905 and the installation of an electric elevator."
+
+http://www.imdb.com/keyword/shot-in-the-head/
+'Best "Shot In The Head" Titles': you can refine these result further using keywords including "...  Beaten To Death (205) Beating (401) Betrayal (396) Binoculars (126) Black Comedy (163) Blackmail (90) Blockbuster (71) Blonde (68) Blood (1,077) Blood On Camera Lens (105) Blood On Shirt (72) Blood Spatter (396) Blood Splatter (501) Bloodbath (115) Boat (115) Body Landing On A Car (81) ..."
+
+I think I have some sort of meeting today. I'm sure I'll think of something.
+
+http://arduino.cc/en/Main/ArduinoWirelessShield
+"There are multiple parameters that need to be configured correctly for two modules to talk to each other (although with the default settings, all modules should be able to talk to each other)." ...
+
+http://electronics.stackexchange.com/questions/tagged/arduino
+... more useful Arduino answers, care of Stack Exchange.
+
+http://www.vlib.us/beats/malcolmmcneill.html
+Malcolm McNeill: "Bill and I decided on a full length word/image novel almost immediately. At the time he had written only eleven pages of text - still titled 'The Unspeakable Mr. Hart'. Then after a trip to the British Museum, we ordered a copy of the Dresden Codex and the book began for real. It was re-named 'Ah Puch is Here' after the Mayan Death God and much of the eleven pages were discarded. It was a daunting prospect, not the least because I also had to try and understand who Bill was." Bill? Bill was William Burroughs.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

@@ -1,0 +1,46 @@
+505 - on the web (*|ARCHIVE|*)
+
+No photo lead today. I wasn't in the mood.
+
+http://fadingcity.com/suburbia/chris-rea
+"rare photo of Chris Rea taken at a concert"
+
+http://www.alaskadispatch.com/article/20130422/swedish-air-force-fails-counter-mock-russian-attack
+Peter Rådberg: "There is no threat to Sweden, ... Russia isn’t capable of attacking Sweden, and if they did it would devastating for them."
+
+http://priceonomics.com/what-its-like-to-fail/
+"At one point, the water was shut off for several days when we failed to pay a bill. Under cover of darkness, we hooked up a hose to the outside spigot of our neighbor’s house and ran the hose into our kitchen. We filled pots to cook pasta with and to heat up for sponge baths. It’s amusing to think about now, but at the time it was mortifying. We were stealing water! From the nice old lady who lived next door!"
+
+Laggy scrolling. Get on that.
+
+http://travel.state.gov/content/passports/english/go/Sochi.html
+"The United States places great importance on the protection of human rights and fundamental freedoms of all people, including lesbian, gay, bisexual and transgender persons, as well as anyone attending or participating in the Olympic and Paralympic Games."
+
+http://thinkingrecords.co.uk
+James Lappin's records management blog: very clever re-tellings in cartoon form.
+
+http://www.arup.com/Projects/No_7_line/Details.aspx
+"The large-span caverns were excavated with a multi-drift top heading and split bench, each approximately 30ft (9.1m) high. The top heading was excavated with three staggered drifts, or faces, to ensure that no more than one third of the full span was unsupported at any time."
+
+Does anyone know how to get a site map in Squarespace? Not the sitemap.xml thing, the thing we had before that. A site map.
+
+I'm not going to write "the web we lost" again at Fading City. I'm going to write a "what next".
+
+http://koajs.com
+From the folks who brought you express. Is this still their focus? Let's see ...
+
+https://github.com/koajs/koa/commits/master
+... yup, still going strong.
+
+http://www.the-pope.com/nextid.html
+"... probably one of the least understood of all of the early HTML elements, being poorly documented, not explained in any depth anywhere, and those who obviously understood how it worked couldn't be bothered to explain it to the rest of us."
+
+http://www.commonsensemedia.org/movie-reviews/the-matrix
+Nell Minow: "Intense, but many teens will be able to handle it."
+
+Have fun today.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

@@ -1,0 +1,51 @@
+596 - Wooden
+Hello.
+
+http://area51.stackexchange.com/proposals/67420/astral
+"... those interested in the Astral projection aka out-of-body experiences (OBE) and astral world." #aka #obe
+
+http://danhon.com/newsletter/
+You really should.
+
+Is there an application on the Mac that syncs with Apple Reminders but doesn't behave as disgracefully as the native client?
+
+http://www.atlasobscura.com/places/hms-alliance-submarine-museum
+"Despite its size and grandeur the vessel fell into disrepair over the decades, with an alarming number birds taking roost in the ship's hull ..." - this looks amazing, but I'm not good in confined spaces. I'm not sure I could handle a tour of a submarine.
+
+http://www.html5rocks.com/en/tutorials/developertools/async-call-stack/
+Pearl Chen: "... in Chrome Canary DevTools, you can view the full call stack of asynchronous JavaScript callbacks ..." - does Safari do this, or something like it?
+
+https://twitter.com/HullCoin
+"An emerging local crypto-currency for the city of Hull. The aim of HullCoin is to address issues re. poverty in the city by issuing the currency to communities."
+
+http://blog.gadr.me/the-arrow-matters/
+Guilherme Rodrigues on why Coffeescript function syntax isn't that bad after all.
+
+http://tommorris.org/posts/8879
+"A web service I use now has a Chrome app, but I can’t use the Chrome app in Firefox." I'm on Safari. This is why we can't have nice things.
+
+I had to uninstall Minimetro. It was becoming too ... attractive.
+
+http://programming.oreilly.com/2014/03/java-8-now-what.html
+Richard Warburton on Java 8: "Lambdas, an improved collections library, new date and time support, and a host of under-the-hood tweaks, add up to a lot of compelling reasons for people to upgrade."
+
+https://gist.github.com/lelandbatey/8677901
+"This simple script will take a picture of a whiteboard and use parts of the ImageMagick library with sane defaults to clean it up tremendously." You lost me at ImageMagick.
+
+http://gordywright.tumblr.com/post/81204473592/card-pattern
+Lovely paint colours ...
+
+http://history.stackexchange.com/questions/12237/in-historical-accounts-what-relevance-did-the-color-yellow-have-as-it-relates-t
+... "I am just curious on the history of yellow and the significance it may have had."
+
+Saint Etienne still exists. Things can't be that bad.
+
+https://github.com/ttscoff/doing/
+Brett's "Doing" looks fantastic, similar in some ways to Taskwarrior. But Doing is in Ruby, so I can see inside easier. I'm going to prod it a bit for a few days to see how it feels. #computers #prodding
+
+============================================================
+
+*|LIST:ADDRESS|*
+
+
+** Unsubscribe (*|UNSUB|*)

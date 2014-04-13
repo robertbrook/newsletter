@@ -1,0 +1,39 @@
+Good morning friends.
+
+http://learn-elisp-for-emacs.org
+From Gordon Guthrie.
+
+"As one with a long experience of the difficulties of logic and of the deceptiveness of theories which seem irrefutable, I find myself unable to be sure of the rightness of a theory, merely on the ground that I cannot see any point on which it is wrong. But to have constructed a theory of logic which is not at any point obviously wrong is to have achieved a work of extraordinary difficulty and importance." Bertrand Russell, in his Introduction to Wittgenstein's 'Tractatus' ...
+
+... "This book will perhaps only be understood by those who have them- selves already thought the thoughts which are expressed in it ..." Wittgenstein's Preface to his 'Tractatus'. Yeah, thanks for that.
+
+All design is "mobile design".
+
+http://www.perpetualpc.net/seth_thomas_124.html
+David Tarsi on the 'Seth Thomas 124': "The number 2 wheel time, in my opinion, is the achilles heel of this clock. When overhauling one of these pay very close attention to the brass gear; specifically the gear teeth . If these teeth are worn it will be necessary to turn the wheel over or replace it. That is it. This problem will have to be addressed, or the clock will not work." ...
+
+http://www.enlight-inc.com/blog/
+... I think he's the same chap who writes this blog on 'Biological sand water filters and roof water harvesting'.
+
+"Nu am găsit pagina"
+
+http://www.faktaomfartyg.se/hoverspeed_great_britain_1990.htm
+I've been on one of these large catamarans. It was terrifying ...
+
+http://www.marinetraffic.com/ais/shipdetails.aspx?MMSI=219017081
+... not as big as this thing, though: 112m long and over ten thousand tonnes.
+
+http://www.nfl.com/allclear
+The NFL's policy on bags in stadiums. They're generally not in favour. "Prohibited items include, but are not limited to: purses larger than a clutch bag, coolers, briefcases, backpacks, fanny packs, cinch bags, seat cushions, luggage of any kind, computer bags and camera bags or any bag larger than the permissible size."
+
+http://showterm.io
+Interesting, but I didn't understand what it actually did. This is what happens: you install showterm, then run something like "showterm cal", then you get a link to showterm.io with an ID than shows the result as a short video. #spoons
+
+http://www.nigelofbermondsey.com/nigelofbermondsey_wp/about/
+Nigel of Bermondsey on the artist's life: "We split in 2001 when our appetite to work together ran out." ... "Gramercy was almost an excellent band but we split due to colossal misunderstandings."
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

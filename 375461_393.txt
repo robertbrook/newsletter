@@ -1,0 +1,37 @@
+http://robertbrook.com/newsletter
+
+http://fadingcity.com
+
+
+http://en.wikipedia.org/wiki/Ace_Trucking_Co.
+"... Grant and Wagner became tired of writing the series and made several attempts to end it (one series ended with the entire crew in prison), but reader demand kept bringing it back. The later stories show clear signs of the writers' annoyance at having to keep going on a series they had lost interest in - Ace started out as a smart and resourceful character, but ended up a greedy, dim-witted buffoon disliked even by his own crew." This made me rather sad. I liked that series.
+
+http://www.urbanjunkies.com/london/party-pics-archive-13/0919-festival-number-6.html
+Photos of a festival held at Portmeirion.
+
+http://www.makeuseof.com/tag/portable-software-usb/
+Software that will run from a USB drive. How long will this work?
+
+http://stallman.org/stallman-computing.html
+"The most powerful programming language is Lisp. If you don't know Lisp (or its variant, Scheme), you don't know what it means for a programming language to be powerful and elegant. Once you learn Lisp, you will understand what is lacking in most other languages. When you start a Lisp system, it enters a read-eval-print loop. Most other languages have nothing comparable to 'read', nothing comparable to 'eval', and nothing comparable to 'print'. What gaping deficiencies!"
+
+https://github.com/jeroenjanssens/data-science-toolbox
+Again, apologies if I've posted this before. From Jeroen Janssens: "A collection of command-line tools that facilitate the obtaining, scrubbing, and exploring of data."
+
+http://www.aeonmagazine.com/being-human/children-today-are-suffering-a-severe-deficit-of-play/
+Peter Gray: "I don’t expect to convince most people, any time soon, that we should abolish schools as we know them today and replace them with centres for self-directed play and exploration. But I do think there is a chance of convincing most people that play outside of school is important. We have already taken too much of that away; we must not take away any more."
+
+http://www.shanehudson.net/2013/09/19/stop-deleting-content/
+Shane Hudson on breaking links. He's right ...
+
+http://www.creativebloq.com/net/creative-bloq-welcomes-readers-net-magazine-9134344
+... good news, perhaps? "We've migrated around 250 of 1,800 old articles. More are coming online every day. Please bear with us."
+
+https://twitter.com/thehappyfarmer2
+"Mycroft Woody Perry is The Happy Farmer, Follow me as I learn the pitfalls of beef farming and buy the best beef, bacon and sausages you'll ever taste"
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

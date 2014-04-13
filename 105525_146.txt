@@ -1,0 +1,48 @@
+A newsletter from Robert Brook
+------------------------------------------------------------
+*|ARCHIVE|*
+
+
+**
+------------------------------------------------------------
+The fastmail.fm webmail UI is slowing down. This makes me nervous. And there's still no decent Mac desktop mail client. Sparrow was great, but got eaten by the Goog. Sad.
+
+http://www.broadcastingcable.com/article/491396-NCTA_s_Powell_Usage_Based_Pricing_About_Fairness_Not_Capacity.php (http://www.broadcastingcable.com/article/491396-NCTA_s_Powell_Usage_Based_Pricing_About_Fairness_Not_Capacity.php )
+Yesterday my data SIM told me it had run out of gigs, or something. Come back next month, it said. Thanks! I thought it was all about contention rates and stuff like that. Turns out maybe not, Turns out maybe just money. "Asked by [US Minority Media and Telecommunications Association] president David Honig to weigh in on data caps, [US National Cable and Telecommunications Association president Michael] Powell said that while a lot of people had tried to label the cable industry's interest in the issue as about congestion management. 'That's wrong,'' he said. 'Our principal purpose is how to fairly monetize a high fixed cost.''
+
+http://m.theatlantic.com/technology/archive/2011/06/something-entertaining-if-youre-feeling-smart/241039/ (http://m.theatlantic.com/technology/archive/2011/06/something-entertaining-if-youre-feeling-smart/241039/ )
+"If links are done the right way, [Mark Bernstein] says, the long tail will indeed prevail and a wide variety of info will continue to find its proper audience. But if they are done the wrong way, the natural result could over time be a winner-take-all pattern, like what we've seen in other parts of life. A few main sites will receive even huger amounts of traffic; the vast majority of sites will get no traffic whatsoever and become invisible, as if they didn't exist at all."
+
+http://www.acronym.org.uk (http://www.acronym.org.uk )
+The Acronym Institute for Disarmament Diplomacy
+
+http://rethinkingchildhood.com/2013/01/22/neighbourhood-america-mother/ (http://rethinkingchildhood.com/2013/01/22/neighbourhood-america-mother/ )
+Tim Gill on "poor neighbourhood design": "... we in the UK have plenty of examples of town planning that places too much emphasis on the needs of car drivers."
+
+http://toogl.es/#/search/cat%20and%20paste (http://toogl.es/#/search/cat%20and%20paste )
+YouTube search that's actually not horrible.
+
+http://en.wikipedia.org/wiki/Pálinka (http://en.wikipedia.org/wiki/Pálinka )
+'The most alcoholic pálinkas are (informally) referred to as "kerítésszaggató" in Hungarian, which literally means "fence-ripper" (referring to a drunkard's loss of balance).'
+
+http://www.bbc.co.uk/news/magazine-21122072 (http://www.bbc.co.uk/news/magazine-21122072 )
+"The concept of vegetarianism absolutely does not exist in Tanzania." ... "Vegetables are what they feed animals before they kill and serve them." ... "... in Hungary they serve meat with a side of meat."
+
+http://www.korguser.net/wist/ (http://www.korguser.net/wist/ )
+"Korg's innovative technology which allows for wireless sync-start between two WIST-compatible apps on two iPads and/or iPhones located near each other." Hmm. Must try this out.
+
+https://github.com/jashkenas/coffee-script/wiki/List-of-languages-that-compile-to-JS (https://github.com/jashkenas/coffee-script/wiki/List-of-languages-that-compile-to-JS )
+'List of languages that compile to Javascript' - some amazing stuff in there.
+
+http://www.troyhunt.com/2013/01/the-impending-crisis-that-is-windows-xp.html (http://www.troyhunt.com/2013/01/the-impending-crisis-that-is-windows-xp.html )
+Worrying predictions from Troy Hunt: "... support for IE 8 will drop off rapidly, users of XP will find an increasingly broken web, the cost of building software in XP organisations will increase. Those same organisations will have some really, really tricky decisions to make about their OS future."
+
+See you again tomorrow.
+
+============================================================
+-
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:ADDRESS|* *|END:IF|*
+
+** Unsubscribe (*|UNSUB|*)
+** Y (*|UPDATE_PROFILE|*)
+** our profile (*|UPDATE_PROFILE|*)

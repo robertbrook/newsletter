@@ -1,0 +1,54 @@
+Why are there queues at central London bureaux de change?
+
+I have a script to write. After I finish this, I think.
+
+http://arxiv.org/pdf/1304.3674v1.pdf (http://arxiv.org/pdf/1304.3674v1.pdf )
+Ian Gent's "Recomputation Manifesto" -
+
+1. Computational experiments should be recomputable for all time
+2. Recomputation of recomputable experiments should be very easy
+3. Tools and repositories can help recomputation become standard
+4. It should be easier to make experiments recomputable than not to
+5. The only way to ensure recomputability is to provide virtual machines
+6. Runtime performance is a secondary issue
+
+http://www.independent.co.uk/news/world/ches-daughter-dies-true-to-uncle-until-the-end-1597693.html (http://www.independent.co.uk/news/world/ches-daughter-dies-true-to-uncle-until-the-end-1597693.html )
+Hilda Guevara died in 1995. He son, Canek, said "This revolution is in ruins. [Che] would be proud of me. Che Guevara was a rebel. He never would have approved of what has become of this revolution."
+
+http://www.gregreda.com/2013/07/15/unix-commands-for-data-science/ (http://www.gregreda.com/2013/07/15/unix-commands-for-data-science/ )
+Greg Reda: "While it's sometimes difficult to remember all of the parameters for the Unix commands, getting familiar with them has been beneficial to my productivity and allowed me to avoid many headaches when working with large text files." - a lot of tips, with more in the comments.
+
+https://www.eff.org/who-has-your-back-2013 (https://www.eff.org/who-has-your-back-2013 )
+The EFF asks "Who Has Your Back?" this year. Presumably 'the government' means the American one.
+
+http://libcello.org (http://libcello.org )
+"a GNU99 C library which brings higher level programming to C" - looks really weird, but then I've never been a real programmer.
+
+Everything smells like it's burning.
+
+http://en.wikipedia.org/wiki/Klaatu_barada_nikto (http://en.wikipedia.org/wiki/Klaatu_barada_nikto )
+"Well, it's just something I kind of cooked up. I thought it sounded good."
+
+http://www.vincebuffalo.com/2013/01/26/bioinfo-interfaces.html (http://www.vincebuffalo.com/2013/01/26/bioinfo-interfaces.html )
+"Earlier in our bioinformatics careers, we’re trained in file formats, writing scripts, and calling large programs via the command-line. This becomes a hammer, and all problems start looking like nails."
+
+I can hear a piano.
+
+https://coderwall.com/p/68ozza (https://coderwall.com/p/68ozza )
+Jonathan Block on setting up an 'emergency website' in static HTML on Amazon in case the real one folds under pressure. Even better might be having as much as possible of the original site already being flat HTML on Amazon.
+
+I like Anil Dash's voice.
+
+http://www.filetransporter.com/learn-more/ (http://www.filetransporter.com/learn-more/ )
+Transporter just feels like a stop-gap. Like it's solving a temporary problem. It's great, but still.
+
+http://www.javascriptoo.com (http://www.javascriptoo.com )
+"every javascript project you should be looking into". Literally, all of them. On one page.
+
+Have fun today.
+
+*|LIST:ADDRESS|*
+
+Back Issues (*|ARCHIVE|*)  - Unsubscribe (*|UNSUB|*)
+
+============================================================

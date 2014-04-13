@@ -1,0 +1,61 @@
+451 - MEMORIAL
+
+On the web (*|ARCHIVE|*)  - Signup link (*|LIST:SUBSCRIBE|*)
+
+'Ignominity'?
+
+http://www.chorleyadvancedmotorists.com
+"Improving the safety of roads in Lancashire"
+
+I bet I have some weird dreams because of that.
+
+http://drunkandretired.com
+Still strong.
+
+My hands are shaking.
+
+http://igw.tuwien.ac.at/designlehren/Site/Welcome.html
+Peter Purgathofer ...
+
+http://lex.iguw.tuwien.ac.at/groups/gespraeche/
+... his podcast.
+
+Beautiful, troubling things.
+
+http://en.wikipedia.org/wiki/Lambert_Simnel
+"King Henry pardoned young Simnel ... and gave him a job in the royal kitchen as a spit-turner."
+
+Three minutes.
+
+http://en.wikisource.org/wiki/We_choose_to_go_to_the_moon
+"I'm the one who is doing all the work, so we just want you to stay cool for a minute. / However, I think we're going to do it, and I think that we must pay what needs to be paid. I don't think we ought to waste any money, but I think we ought to do the job."
+
+And now, nurofen!
+
+http://www.vagrantbox.es
+I'm thinking about development on the Mac. It's hardware I like, but I'm increasingly nervous about the Apple 'ecosystem'. I'm trying Vagrant out, which seems a lovely bit of software. Vagrant sits over Virtualbox - and Virtualbox is an Oracle thing. So, I'd have two layers I'd be depending on, although both of those are open source. And I'm hopeful that I'd be able to find something like Vagrant and something like Virtualbox if they go away. But, this means I can run something like archlinux on a Mac laptop. Doesn't it? Am I missing something obvious?
+
+http://fadingcity.com/suburbia/mars-a-prison-hulk
+Later used to train French marines.
+
+That 'apps using significant energy' thing on Mavericks is very useful.
+
+http://fadingcity.com/suburbia/marina-tsvetaeva
+A photograph of Marina Tsetaeva, by an unknown photographer, 1913.
+
+http://www.executedtoday.com/tag/jan-van-leiden/
+I've been listening to Dan Carlin's 'Hardcore History' podcast - recently on the Munster anabaptist uprising. "Only in Münster did the Anabaptists realize the full flower of their project, albeit for a very brief period of time. Winning power over the course of the year 1533 by dint of internal politicking, energetic recruitment, and fortuitous imperial distraction, ... turning the place into a visionary 'New Jerusalem.'"
+
+http://www.fjallraven.com/equipment/backpacks-and-bags
+Do these bags really need gender identifiers?
+
+http://stackoverflow.com/questions/4151495/should-gemfile-lock-be-included-in-gitignore
+I think I've finally stopped looking at this: "Gemfile.lock should be in your repository." There. Done. Finally.
+
+http://www.jiscdigitalmedia.ac.uk/guide/selecting-a-video-digitisation-system
+If you're into that sort of thing: digitising analogue video tapes.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

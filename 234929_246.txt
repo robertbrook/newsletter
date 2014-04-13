@@ -1,0 +1,50 @@
+http://www.youtube.com/watch?v=WQGLMAqrTqE (http://www.youtube.com/watch?v=WQGLMAqrTqE )
+HASYMO's 'City of Light', a remix, over the original video.
+
+Left my headphones behind. Disaster.
+
+http://adit.io/posts/2012-03-10-building_a_concurrent_web_scraper_with_haskell.html (http://adit.io/posts/2012-03-10-building_a_concurrent_web_scraper_with_haskell.html )
+"Let’s make a concurrent web scraper! We will use Haskell, because it allows easy concurrency."
+
+I really have churned out some dreadful code recently. It starts out not working, the slowly improves until it does work. Success!
+
+http://expobermuda.com/index.php/articles/166-nicknames (http://expobermuda.com/index.php/articles/166-nicknames )
+I have a friend from Bermuda who has the same first name as me: his nickname is "Red", though I've not heard him called that for many years. Here's a selection of fantastic nicknames, including "Socky", "Jumbo", "Fast Eddie", "Punchy" and "The Cat with the Yellow Shades". Unsurprisingly, some of these aren't exactly complimentary. Some you may find derogatory.
+
+A few days ago I met two people deliberately at White City station - and another three there in the same ten minutes by chance: one from work, one from the BBC and one who had lived opposite the station for years without me ever knowing. It was lovely to see you all!
+
+http://www.w3.org/TR/css3-flexbox/ (http://www.w3.org/TR/css3-flexbox/ )
+A lot of interest in the flexbox spec - implementations don't seem to have calmed down yet. "In the flex layout model, the children of a flex container can be laid out in any direction, and can "flex" their sizes, either growing to fill unused space or shrinking to avoid overflowing the parent."
+
+The rain and cold have stopped in London, mostly. So we're starting to dig up the roads again.
+
+http://bem.info (http://bem.info )
+Thanks to Liz Conlan for telling me what BEM probably stands for: "BEM stands for Block-Element-Modifier."
+
+Someone just mistook me for the postman.
+
+http://www.import2.com (http://www.import2.com )
+"... a simple, easy-to-use online data import service that helps you transfer business or personal data between cloud apps." - Salesforce, Tumblr and two I've not heard of.
+
+I do miss Spotify, a little. But my musical taste is so restricted that old YouTube videos usually do the trick.
+
+http://www.amazon.co.uk/How-Boil-Egg-Jan-Arkless/dp/0716022206/ (http://www.amazon.co.uk/How-Boil-Egg-Jan-Arkless/dp/0716022206/ )
+A correspondent tells me that there's more than one way to boil and egg - at least, I think so. From the reviews: "The spaghetti bolognaise is one recipe that I remember with much fondness." ... "When my ex-wife announced an unexpected divorce in 1990, I had to learn very quickly, how to cook; in order to survive."
+
+http://www.imdb.co.uk/title/tt1343727/ (http://www.imdb.co.uk/title/tt1343727/ )
+A rather under-rated film, I think: Dredd, 2012. From the reviews: "For sci-fi action fans, it's an instant classic. For everyone else, it's a dark, bloody mess."
+
+http://stackoverflow.com/questions/8419061/backbonejs-with-xml-ajax (http://stackoverflow.com/questions/8419061/backbonejs-with-xml-ajax )
+"How do I go create Backbone collections out of an ajax call to a server that provides data in XML?"
+
+============================================================
+*|LIST:ADDRESS|*
+
+Thanks to Dave Briggs at  and Giles Turnbull at
+
+Every Friday: Roo's Letter
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** http://gilest.org (http://gilest.org)
+** http://tinyletter.com/rooreynolds (http://tinyletter.com/rooreynolds)
+** Unsubscribe (*|UNSUB|*)

@@ -1,0 +1,46 @@
+558 - A BIT FURTHER UP - on the web (*|ARCHIVE|*)
+
+"Everything is relative." - John Siracusa
+
+https://en.wikipedia.org/wiki/Giulia_Tofana
+"After her death, her body was thrown over the wall of the church that had provided her with sanctuary. Some of the users [of poisons provided by Tofana] and purveyors were also arrested and executed, while other accomplices were bricked into the dungeons of the Palazzo Pucci."
+
+http://www.cs.northwestern.edu/academics/courses/325/readings/luv-slides.pdf
+Peter Norvig, Kent Pitman: 'Tutorial on Good Lisp Programming Style'.
+
+https://github.com/blog/1778-webhooks-level-up
+You can now set up 'custom' webhooks in Github, including specific JSON messages. Lovely.
+
+http://librecat.org/catmandu/2013/06/21/catmandu-cheat-sheet.html
+If you've got further than I have with Catmandu, you'll find this cheatsheet useful.
+
+http://www.economist.com/blogs/freeexchange/2014/01/working-hours
+Longer hours at work equal shorter hours of life, maybe: "If there is such a relationship between working hours and health, then shorter work hours might actually raise a person's total lifetime work by allowing them to live and work for longer."
+
+http://glyphrstudio.com
+"... a free, html5 based font editor" ...
+
+http://www.fontlab.com/font-editor/fontographer/
+... I used to use Fontographer. It's still available! For just over $400.
+
+http://www.wikipaintings.org/en/anna-ostroumova-lebedeva
+I really like these prints by Anna Ostroumova-Lebedeva ...
+
+http://thebluelantern.blogspot.co.uk/2009/02/st-petersburg-woodcuts.html
+... Jane Librizzi writes: "In Ostroumova-Lebedeva's prints we see the city that Dostoesvky described as 'abstract' and 'intentional'. Strong horizontal axis depict the city's location on the flat lowlands near the Gulf of Finland. Yellow is a favored background color, hinting at the importance of the sun in this extremely northern city, as otherwise the artist worked in muted shades."
+
+http://osrc.dfm.io/robertbrook
+I don't feel that this summary of my Github interactions is that accurate, or useful. Anything that suggests I might be a "pretty serious JavaScript expert" isn't something I'd be happy referring to ...
+
+https://blog.jcoglan.com/2013/11/15/why-github-is-not-your-cv/
+... "Fine, but how are we supposed to hire people? The hard way. Sorry everyone, but it’s the best we’ve got. People’s problem-solving ability and reasoning can’t be surmised from reading the end result of those processes, you have to talk to them."
+
+I'm not actually looking for a job, obviously. I don't think I have particularly transferrable skills. Skills, sure. Just not ones normal people are interested in.
+
+http://berliner.jcoglan.com
+Ruby's Sinatra, sort-of ported to Coffeescript.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

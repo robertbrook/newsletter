@@ -1,0 +1,52 @@
+438 - INNARDS
+
+Web archive (*|ARCHIVE|*)
+
+Good morning folks.
+
+Anything that depends on "a period of economic wars" is something I can't settle myself to.
+
+http://www.ica.org.uk/39637/Film/How-to-Survive-a-Plague.html
+Tonight and tomorrow night: "The appalling indifference and hostility towards people living with HIV in the 1980s and the efforts of New York-based campaigners to combat this are the subject of journalist and director David France’s inspiring, instructive film." ...
+
+http://www.ica.org.uk/39646/Film/ICA-Cinematheque-The-Fountainhead.html
+... also tonight: "famously berserk".
+
+http://www.bbc.co.uk/news/magazine-23109590
+Matthew Davis: "On the floor, sticking up from the mud are the rusting paraphernalia of daily life in the field - a metal plate and bucket, a mug."
+
+http://createdigitalmusic.com/2013/06/propellerheads-thor-synth-on-ipad-redesigned-for-touch-and-why-thatd-be-nice-on-pc/
+Peter Kirn's review: "Hey! Stop playing airy trance pads when you’re ordering your espresso!" ...
+
+http://www.boulangerlabs.com/products/csoundtouch/
+... "Csound Touch allows you to render, process, compose, and perform with the Csound language." - not yet available on iOS.
+
+http://en.wikipedia.org/wiki/Joe_Strummer
+"'Strummer' redirects here. For those who strum stringed musical instruments, see strummers." ...
+
+http://www.wsws.org/en/articles/2003/01/stru-j13.html
+... Paul Bond: "Strummer and Jones were at each other’s throats and the former became known backstage as The Great Stromboli for his rages. Strummer eventually sacked Jones and the band broke up." ... "Headon has spoken movingly of his distress that his addiction precipitated the break-up of the band. Strummer regretted sacking Jones, regarding it as an unpardonable breach of their relationship."
+
+http://learnvimscriptthehardway.stevelosh.com
+I don't expect there's an easy way. A beautifully presented book. Lulu.com says "Our shipping carriers require your phone number for validation." What? Anyway, I bought a copy ...
+
+https://bitbucket.org/sjl/bookmarkdown/overview
+... Steve's "bookmarkdown". #python
+
+https://github.com/adambard/learnxinyminutes-docs
+"Code documentation written as code! How novel and totally my idea!"
+
+https://arkos.io
+"Install arkOS to your Raspberry Pi with all the services you want pre-installed. Plug the Pi into your router, then customize it to your heart’s content from your browser."
+
+I need to write something for my dad about running Forth on the Mac. I might try to persuade him to install brew. It feels like the only option.
+
+http://dream.dei.unipd.it
+"DREAM is a EU funded project, aimed at preserving, reconstructing, and exhibiting the devices and the music of the Studio di Fonologia Musicale di Milano della Rai."
+
+Have fun.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

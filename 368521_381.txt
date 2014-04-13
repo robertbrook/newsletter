@@ -1,0 +1,40 @@
+I tried calibrating a laptop display recently. It was a disaster and I'm back on the default settings. What a relief.
+
+http://remote.bergcloud.com/publications/222
+Subscribers to my Little Printer publication - latest UK Parliament news - is racing towards double figures. Maybe. You can subscribe yourself ...
+
+http://ukpnews.herokuapp.com
+... or take a look at what it would look like.
+
+I'm in my 40s and I still meet people whose political views genuinely scare me.
+
+http://www.flickr.com/photos/brook/7999229078
+On Flickr: "Joined 23 June 2004 | Your Pro account will expire on 23rd September, 2013" Should I? I probably shouldn't. Goodbye, Flickr. Maybe I should write about that.
+
+http://www.ergonis.com/downloads/beta/
+I use KeyCue from Ergonis: here's where you can pick up beta versions of their software.
+
+"Even if you lose yourself in wrath for a hundred thousand years, at the end you will discover, it is me, who is the culmination of your dreams." Rumi, Jalal ad-Din Muhammad Balkhi
+
+http://www.lodgescotia178.co.uk/page9.htm
+Tea magnate and freemason Thomas Lipton: "He was the principal speaker during the first authenticated wireless telephone call across the Atlantic in October 1922, a small town in Canada was named after him in 1924, and, in 1925, to commemorate his 75th birthday, he handed over the keys of a large villa in Cambuslang for conversion to the 'Lipton Memorial Nursing Home'."
+
+https://github.com/hacketyhack/hackety_hack-lessons
+"A set of lessons to learn Ruby programming, from the Hackety Hack project."
+
+https://github.com/infused/dbf
+"DBF is a small fast Ruby library for reading dBase, xBase, Clipper and FoxPro database files" ... Well, I can read that file now.
+
+http://act2.me/teach-kids-programming-a-collection-of-resources/
+"These resources are meant for teachers and parents who want to have their children fall in love with computers and see the magic of programming." I have feeling about this. I think there's a gap here. Most of this stuff is Not Good Enough.
+
+http://www.continuousthinking.com/2012/12/27/einstein-quotes-and-my-associated-ramblings.html
+Zach Dennis: "Often times, I don’t think linearly (or sequentially). I won’t say that I’m a visual thinker, but at times it’s as if there is a vast array of dots in my head where each dot represents part of an idea, and they aren’t in any particular order, but my brain knows how they’re connected and seems to be able to make sense of them."
+
+Onwards.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

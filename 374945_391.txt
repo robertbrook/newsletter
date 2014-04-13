@@ -1,0 +1,31 @@
+http://robertbrook.com/newsletter
+
+http://fadingcity.com
+
+Given the choice between making someone angry or disappointing them, which do you choose?
+
+http://blog.lizconlan.com/experiments-with-elasticsearch-1.html
+A comprehensive introduction to Elasticsearch. Very useful.
+
+A south London correspondent wonders "how this iPad could take my temperature". Well, there are temperature monitors you can buy and plug into an iPad, but I'm pretty sure they're for industrial or catering use. I don't know of any medical thermometers that work with the iPad.
+
+After my rather listless wandering off from Flickr, a couple of firmer views. One correspondent concurs that the new interface is "horrible", that it does work as a repository at least and that there are worse options than the constraint of having to have a Yahoo account. Also, there's the social graph issue: if you have friends on Flickr and like seeing their photos, Flickr is the place you want to be.
+
+Oddly, I'm pretty sure I do still have friends on Flickr and I'm sure I'd like seeing their photos - but I stopped posting there myself some time ago and I feel less in touch with the flow. Leaving doesn't seem like too much of a wrench.
+
+Another correspondent, regarding Flickr, notes "a RESTful API that was an insult to the term" and the old "fiddly" interface - something I always had problem with myself. But! The New Flickr does offer a terabyte of storage: who else does something similar? And, yes, some people prefer the new design. Another leap forward: there's no requirement for a Yahoo account - though you'll need a Google or Facebook account. I'm not sure how the New Flickr is treating it's API.
+
+I note that a new signup to Flickr now requires a "mandatory mobile number". I don't have a mobile number. Oh well.
+
+What about the outliers: Dropbox and iCloud? I think Dropbox is later in the game of photo-grabbing, but seems to take it more seriously than Apple. Then again, Dropbox's whole thing is to be multi-platform as well as multi-client - Apple certainly wants to entice people being the garden walls and keep them there.
+
+"Are we on Earth?"
+
+Then again, Apple do seem to be getting into people taking photos on iOS hardware. The current iCloud implementation - the thing formerly known as Photostream - is less horrible than it used to be, but it still has a long way to go. It's no Ping, of course.
+
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

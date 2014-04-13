@@ -1,0 +1,44 @@
+Honestly, if that's what iOS 7 is going to look like, I'm out. The colours? That font? No thanks.
+
+http://paulstamatiou.com/how-to-lighttpd-php5-on-textdrive (http://paulstamatiou.com/how-to-lighttpd-php5-on-textdrive )
+Just reminding myself about port mapping in Virtualmin.
+
+http://www.cyberciti.biz/faq/list-installed-perl-modules-unix-linux-appleosx-bsd/ (http://www.cyberciti.biz/faq/list-installed-perl-modules-unix-linux-appleosx-bsd/ )
+How to list all your installed Perl modules. Yes, there's still Perl.
+
+http://www.oreillynet.com/pub/a/rss/2000/05/09/meerkat_api.html (http://www.oreillynet.com/pub/a/rss/2000/05/09/meerkat_api.html )
+Meerkat, from Rael Dornfest. I loved this thing and used it a lot. "You want to know where the future is? No, not plastics. The future, my friends, is Web APIs." That was 13 years ago.
+
+I clicked something I should not have clicked. I felt distressed.
+
+http://instagram.com/sheeps_sell (http://instagram.com/sheeps_sell )
+Sheep for sale, in Kuwait, adverts on Instagram. At least I think that's what's going on here.
+
+http://dev.w3.org/2006/waf/widgets/imp-report/ (http://dev.w3.org/2006/waf/widgets/imp-report/ )
+User agents supporting the 'Packaged Web Apps' standards: including the Apache Wookie Java server and the Opera browser. Not exactly taking off widely just yet.
+
+http://www.guardian.co.uk/commentisfree/oliver-burkemans-blog/2013/jul/17/exciting-train-videos-calming (http://www.guardian.co.uk/commentisfree/oliver-burkemans-blog/2013/jul/17/exciting-train-videos-calming )
+"Inside the calming online subculture of extremely long, extremely uneventful rail travel videos"
+
+http://www.colophon-foundry.org/products/maritime-poster (http://www.colophon-foundry.org/products/maritime-poster )
+"An editioned poster of 50 copies utilising the International Maritime Signalling Flags." Beautiful.
+
+http://support.apple.com/kb/PH2796 (http://support.apple.com/kb/PH2796 )
+Adding what Apple calls an "HTML5 widget" in iBooks. Is this what W3C calls a widget? I can't tell ...
+
+http://support.apple.com/kb/ht5068 (http://support.apple.com/kb/ht5068 )
+... and here's Apple spec for their widgets. Again, nothing to do with Dashboard Widgets, are they?
+
+http://blog.arvidandersson.se/2012/03/28/minimalicous-testing-in-ruby-1-9 (http://blog.arvidandersson.se/2012/03/28/minimalicous-testing-in-ruby-1-9 )
+An overview of Ruby's Minitest.
+
+Some of my Google Maps URLs seem to be resolving to an advertising landing page.
+
+http://www.bbc.co.uk/news/magazine-23255526 (http://www.bbc.co.uk/news/magazine-23255526 )
+"I go out to work but only because I have to, to survive. The rest of my time I spend in my room. My parents and sisters do not know how I am suffering. I could never tell them. If I was forced to move out, the only way I would leave is in a body bag." ... "Both my ex-wife and my wife have commented on the fact that I don't seem to have any friends of my own. That's not quite true, but not far wrong. I remain with the feeling that in the long term I am going to end up living, and dying, on the street."
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

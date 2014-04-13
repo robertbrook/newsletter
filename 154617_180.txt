@@ -1,0 +1,43 @@
+https://github.com/plt/racket/wiki/Videos (https://github.com/plt/racket/wiki/Videos )
+Videos on Racket, previously PLT Scheme.
+
+http://howfuckedisthet.com (http://howfuckedisthet.com )
+Delightful. Yes, someone has the London equivalent, but it's just a parking page at Dreamhost. A pity.
+
+http://stackoverflow.com/questions/12017161/chaining-futures-in-akka-and-spray (http://stackoverflow.com/questions/12017161/chaining-futures-in-akka-and-spray )
+"I need to query a RESTful service that always returns a JSON response. I need to contact it a few times, always with some more information that I learned from the previous request. I'm using Akka2, Scala, Jerkson and Spray-Can."
+
+http://www.cut-the-knot.org/classes/Last.shtml (http://www.cut-the-knot.org/classes/Last.shtml )
+"My Erdös number remains 3."
+
+http://www.tfl.gov.uk/corporate/projectsandschemes/23939.aspx (http://www.tfl.gov.uk/corporate/projectsandschemes/23939.aspx )
+Wifi underground! Wonderful! Only, I'm on O2 rather than Virgin, EE or Vodafone. And I have a SIM for data, but no voice calls and no number. No wifi for me then.
+
+http://arstechnica.com/business/2013/02/london-real-estate-anticipates-us-tech-expansion-into-europe/ (http://arstechnica.com/business/2013/02/london-real-estate-anticipates-us-tech-expansion-into-europe/ )
+I didn't realise Google were opening up at Kings Cross. "[10 years ago], you would not leave a dog tied to a lamppost [in King’s Cross] ...” - well, quite. I worked in a theatre there for a while ...
+
+http://www.scofieldsperformances.com/audiodescr-2.htm#eurydice (http://www.scofieldsperformances.com/audiodescr-2.htm#eurydice )
+... on a production of Jean Anouilh's 'Euridyce'. "This is an old-fashioned adaptation. By our MTV-influenced standards the pacing is glacial and some of the voices seem overly theatrical ..." - not that performance, though.
+
+http://www.filetransporter.com/learn-more/ (http://www.filetransporter.com/learn-more/ )
+This got a nod from 'Mac Power Users': I wish the features listing was a little more engaging.
+
+http://www.guardian.co.uk/commentisfree/2013/feb/17/no-more-excuses-go-vegetarian (http://www.guardian.co.uk/commentisfree/2013/feb/17/no-more-excuses-go-vegetarian )
+John Harris: "Even if you have the money to buy organic meat at your local independent butcher, you will still collide with a couple of inescapable facts: that, as the Animal Aid revelations proved, organic butchery is no guarantee of ethical standards, and that getting our nutrition from meat-eating is unsustainably inefficient." Comments: "a massively confused article", "I would rather die than go vegetarian!", "I don't want to slaughter my own meat but I'm perfectly happy to pay someone to do it on behalf so I can enjoy it." Ho hum.
+
+http://www.worldslargestship.com (http://www.worldslargestship.com )
+A clever URL from Maersk.
+
+http://en.wikipedia.org/wiki/Jante_Law (http://en.wikipedia.org/wiki/Jante_Law )
+"You are not to think you're anyone special or that you're better than us."
+
+http://www.newstatesman.com/culture/2012/11/terry-pratchett-sex-death-and-nature (http://www.newstatesman.com/culture/2012/11/terry-pratchett-sex-death-and-nature )
+Terry Pratchett: “We have a problem now that people think they are not going to die, ...Previous generations understood about death, and undoubtedly would have seen a reasonable amount of death. Once you get into the Victorian era, you might well have seen the funerals of many of your siblings before you were very old. When people go to funerals these days, they don’t really know what to do. They don’t go to church anyway – that’s because they’re sensible – but they don’t know what to sing or when to go up or where to stand.”
+
+Anyway. Have a good day. A productive day. Good morning.
+
+
+============================================================
+
+** back issues (*|ARCHIVE|*)
+** unsubscribe (*|UNSUB|*)

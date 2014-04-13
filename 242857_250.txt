@@ -1,0 +1,50 @@
+"Computers."
+
+http://www.skulpt.org (http://www.skulpt.org )
+"Skulpt is an entirely in-browser implementation of Python." ...
+
+https://github.com/bnmnetp/skulpt (https://github.com/bnmnetp/skulpt )
+... here's the code ...
+
+http://interactivepython.org (http://interactivepython.org )
+... and here's something built with it. Very clever.
+
+"Hey! That's really not stupid!" - Merlin Mann
+
+http://freron.com/ (http://freron.com/ )
+After a nod from @marxculture - I bought a copy of MailMate, "The email client for the rest of us." Maybe it's just me, but that tag line sounds wrong. I'm going to say that the tag line is just wrong. MailMate is a near-industrial strength IMAP client, which also lets you send email, if you're into that. Pretty straightforward, not too many bells and whistles. Love it.
+
+I am resolved to read more - and write more. Onwards.
+
+http://www.squarespace.com/pricing (http://www.squarespace.com/pricing )
+What would be even better would be: tell me, up-front, how much you're going to charge me, in total, for one and two years. Just tell me.
+
+And by writing I mean typing, of course.
+
+http://onlinejournalismblog.com/2010/07/07/an-introduction-to-data-scraping-with-scraperwiki/ (http://onlinejournalismblog.com/2010/07/07/an-introduction-to-data-scraping-with-scraperwiki/ )
+You know this already, of course. Here's an overview of Scraperwiki from the journalism end: "... remember that part of the skill of programming is being able to find code from elsewhere instead of having to write it all yourself. It’s about standing on the shoulders of giants as much as being a great Romantic original. Journalists could learn a lot from that ethos."
+
+I'd not describe anything as actual writing.
+
+http://www.reddit.com/r/perth/comments/1cwxjk/i_am_an_aboriginal_person_ama/c9kw04a?context=2 (http://www.reddit.com/r/perth/comments/1cwxjk/i_am_an_aboriginal_person_ama/c9kw04a?context=2 )
+"To put this in perspective, most Aboriginal people consider Australian people to be incredibly entitled. The English felt they were entitled to take our land. The Australians still consider themselves entitled to live here. And whilst we didn’t previously live without any inter-tribal warfare, we did end up finding a way to live in balance with each other."
+
+I'm saving up for next year's Oystercard. Such is the level to which I've descended.
+
+http://the-magazine.org/2/the-wet-shave (http://the-magazine.org/2/the-wet-shave )
+Following my limp-wristed bleatings on cutting myself shaving, a sharp correspondent suggests I take another look at Lex Friedman's "boring article" in 'The Magazine' - oooh, get back in the knife drawer, as we used to say. Now, in this article he writes about a "manual razor", meaning a safety razor. I'm pretty good with one of those. The thing I slashed myself up with was a Shavette. Think cut-price Sweeney Todd.
+
+http://arstechnica.com/apple/2013/02/omni-group-unveils-omnifocus-2-omniplan-omnioutliner-4-for-mac/ (http://arstechnica.com/apple/2013/02/omni-group-unveils-omnifocus-2-omniplan-omnioutliner-4-for-mac/ )
+Jaqui Cheng's review of Omnifocus 2, the Mac desktop version. I like the sound of the cheaper "standard" edition: I can live without custom perspectives and AppleScript. From the comments: "Good software costs money. Great software costs more."
+
+Easy to joke that Google Plus is quiet, but: it's quiet.
+
+============================================================
+*|LIST:ADDRESS|*
+
+Doing it properly: Dave Briggs  - Giles Turnbull  - Roo Reynolds
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** http://gilest.org (http://gilest.org)
+** http://tinyletter.com/rooreynolds (http://tinyletter.com/rooreynolds)
+** Unsubscribe (*|UNSUB|*)

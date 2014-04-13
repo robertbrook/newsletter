@@ -1,0 +1,44 @@
+Read back issues (*|ARCHIVE|*)  - Sounds and visions in Suburbia (http://fadingcity.com/suburbia)
+Good morning.
+
+I was getting into antlr but then I noticed the jvm. Nope.
+
+https://news.ycombinator.com/item?id=6002172 (https://news.ycombinator.com/item?id=6002172 )
+"Why is there no quantified self apps for Android?"
+
+http://en.wikipedia.org/wiki/File:Wikimedia-servers-2005-04-12.png (http://en.wikipedia.org/wiki/File:Wikimedia-servers-2005-04-12.png )
+How Wikipedia works: metallic purple doughnuts.
+
+http://arxiv.org/pdf/1304.5485v1.pdf (http://arxiv.org/pdf/1304.5485v1.pdf )
+"Quipper is a recently developed programming language for expressing quantum computations. This paper gives a brief tutorial introduction to the language, through a demonstration of how to make use of some of its key features."
+
+http://www.bbc.co.uk/news/entertainment-arts-23217830 (http://www.bbc.co.uk/news/entertainment-arts-23217830 )
+Grayson Perry lined up for the Reith lectures, on art in the 21st century. I'm looking forward to this.
+
+http://www.bbc.co.uk/news/business-23238749 (http://www.bbc.co.uk/news/business-23238749 )
+Robert Peston: "Here is the thing."
+
+http://www.guardian.co.uk/commentisfree/2013/jul/09/man-of-now-irritating-advert (http://www.guardian.co.uk/commentisfree/2013/jul/09/man-of-now-irritating-advert )
+Borderline baffling car ads in Australia. After watching the 'woman' version, I though the 'man' one was some weak parody. The 'woman' one would work as a rap. The 'man' one just falls flat.
+
+http://www.wlmht.nhs.uk/bm/broadmoor-hospital/the-broadmoor-siren/ (http://www.wlmht.nhs.uk/bm/broadmoor-hospital/the-broadmoor-siren/ )
+There's a siren to alert local of escapes from Broadmoor. They test it every Monday morning.
+
+I was going to post a video of a performance of Michael Nyman's "If", but I couldn't find one I liked.
+
+http://www.theatlantic.com/technology/archive/2013/06/healthcaregov-code-developed-by-the-people-and-for-the-people-released-back-to-the-people/277295/ (http://www.theatlantic.com/technology/archive/2013/06/healthcaregov-code-developed-by-the-people-and-for-the-people-released-back-to-the-people/277295/ )
+A friend is wondering if it's any use learning 'flat HTML' - here's a good reason. Bryan Sivak, United States Department of Health and Human Services CTO, on healthcare.gov: "You're just using HTML5, CSS, and Javascript, all being done in responsive design. The way it's being built matters. You could in theory do the same with application servers and a CMS, but it would be much more complex. What we're doing here is giving anyone with basic skills to basic changes on the fly. You don't need expensive consultants."
+
+http://magicalnihilism.com/2013/07/03/red-men/ (http://magicalnihilism.com/2013/07/03/red-men/ )
+I think I should like to read this: 'The Red Men' by Matthew De Abaitua. Though I'm not a futurist, or a techno-utopian. Do you think that matters?
+
+https://gist.github.com/danking/1068185 (https://gist.github.com/danking/1068185 )
+"A very simple example showing how to use Racket's lexing and parsing utilities", from Daniel King.
+
+We decide to use Technology X. We fail to deliver. Either the technology is at fault, or we are. Am I missing something?
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

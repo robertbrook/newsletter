@@ -1,0 +1,58 @@
+http://www.ambrosiasw.com/ambrosia_times/january_96/3.1HowTo.html (http://www.ambrosiasw.com/ambrosia_times/january_96/3.1HowTo.html )
+"In this month's How To, we will be taking a look at the magical mystery extension from Connectix called RAM Doubler. Yes, we've all heard about it, we've loved it, we've hated it, we've had it work, and had it not work."
+
+http://www.polygon.com/2013/4/5/4183864/minecraft-scrolls-0x10c-the-past-present-and-future-of-mojang-as-seen (http://www.polygon.com/2013/4/5/4183864/minecraft-scrolls-0x10c-the-past-present-and-future-of-mojang-as-seen )
+Markus Persson on work and life after Minecraft: "While Mojang has its near future sketched out in terms of game development, Persson continues to play around with new ideas and ways to make games. Currently he's been tinkering with HTML5 game development to try and determine what the platform is capable of. ... Persson says that he believes JavaScript is almost fast enough to support the sorts of games he would want to make, but this experimenting remains a personal interest for now. He has no plans to release a game in HTML5."
+
+http://esprima.org (http://esprima.org )
+"... a high performance, standard-compliant ECMAScript parser written in ECMAScript" - wait a minute: Javascript in Javascript?
+
+https://github.com/substack/node-falafel (https://github.com/substack/node-falafel )
+"This module is like burrito, except that it uses esprima instead of uglify for friendlier-looking ast nodes."
+
+http://greig.cc/journal/2013/4/less (http://greig.cc/journal/2013/4/less )
+"I turned the honesty up a notch too far with my family and wish I hadn't. If you're reading this, I still love you Mum/Dad/sister/brother. I just had to hire a van to move flat. Most of the boxes are still sitting unopened in a spare room."
+
+http://www.cyclelove.net/2013/03/manual-for-speed/ (http://www.cyclelove.net/2013/03/manual-for-speed/ )
+My goodness, look at his legs!
+
+http://www.tfl.gov.uk/businessandpartners/syndication/27319.aspx (http://www.tfl.gov.uk/businessandpartners/syndication/27319.aspx )
+TfL's "Accessible App" competition. Five grand in it, apparently.
+
+http://www.zeropercent.us (http://www.zeropercent.us )
+"The system automatically alerts volunteers at nearby soup kitchens and shelters, through text and email, until it can find one volunteer who accepts to pick up the donation." US only so far.
+
+http://brunch.io (http://brunch.io )
+"an assembler for HTML5 applications"
+
+https://www.blossom.io (https://www.blossom.io )
+Basecamp meets Trello. Ish.
+
+https://www.cozycloud.cc/apps/ (https://www.cozycloud.cc/apps/ )
+What was that Joyent thing called? Connector?
+
+https://github.com/yusugomori/DeepLearning (https://github.com/yusugomori/DeepLearning )
+"Deep Belief Nets ... Restricted Boltzmann Machine ... Stacked Denoising Autoencoders"
+
+http://www.ebi.ac.uk (http://www.ebi.ac.uk )
+"EMBL-EBI provides freely available data from life science experiments, performs basic research in computational biology and offers an extensive user training programme, supporting researchers in academia and industry."
+
+http://haproxy.1wt.eu/hap-in-the-sky.html (http://haproxy.1wt.eu/hap-in-the-sky.html )
+Floating wifi, I think: lovely!
+
+http://support.apple.com/kb/TS2481 (http://support.apple.com/kb/TS2481 )
+"Sync Services: Advanced troubleshooting for contact and calendar syncing" - if you've got as far as this page, you're really in trouble.
+
+http://www.theregister.co.uk/2013/04/04/it_architecture_industry_reinvention/ (http://www.theregister.co.uk/2013/04/04/it_architecture_industry_reinvention/ )
+"The line-of-business manager typically views the systems as support to the business process and a cost to be managed. The IT Architect views the enterprise systems as a set of capabilities that must be progressively modernized to support business innovation. The IT Project Manager is focused on delivering projects to time and cost."
+
+See you tomorrow.
+
+============================================================
+*|LIST:ADDRESS|*
+
+Thanks to Dave Briggs at  and Giles Turnbull at
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** http://gilest.org (http://gilest.org)
+** Unsubscribe (*|UNSUB|*)

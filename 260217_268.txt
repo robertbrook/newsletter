@@ -1,0 +1,42 @@
+http://en.wikipedia.org/wiki/Cornell_University_Programming_Language (http://en.wikipedia.org/wiki/Cornell_University_Programming_Language )
+"CUPL had a very simple syntax similar to BASIC and to PL/I. The processor was designed to offer extensive error correction and diagnostic capabilities. This would allow student programs to execute even if they contained minor syntax errors. The compiler also included spelling correction capabilities so that if a variable name is referenced only once, the compiler would assume that it was a misspelling of some other intended name."
+
+Why doesn't Dropbox have a basic text editor, in-app?
+
+http://en.wikipedia.org/wiki/The_Adventure_of_the_Speckled_Band (http://en.wikipedia.org/wiki/The_Adventure_of_the_Speckled_Band )
+"We had a fine rock boa to play the title-rôle, a snake which was the pride of my heart, so one can imagine my disgust when I saw that one critic ended his disparaging review by the words, 'The crisis of the play was produced by the appearance of a palpably artificial serpent.' I was inclined to offer him a goodly sum if he would undertake to go to bed with it."
+
+http://www.codeforest.net/creating-simple-tasks-app-with-backbone-js-and-slim-micro-framework-part-1 (http://www.codeforest.net/creating-simple-tasks-app-with-backbone-js-and-slim-micro-framework-part-1 )
+A relatively straightforward walkthrough of using the PHP Slim framework with Backbone.
+
+"I'll make you cushions for life!"
+
+http://nerds.blinkplan.com/mongodb-http-console/ (http://nerds.blinkplan.com/mongodb-http-console/ )
+A simple description of the "http console" for mongo.
+
+Right, off to the power station.
+
+http://en.wikipedia.org/wiki/Quantum_Monte_Carlo (http://en.wikipedia.org/wiki/Quantum_Monte_Carlo )
+"... it allows us to model a many-body wavefunction of our choice directly. Specifically, we can use a Hartree-Fock approximation as our starting point but then multiplying it by any symmetric function, of which Jastrow functions are typical, designed to enforce the cusp conditions." Must read more.
+
+Power station thing was pretty weird.
+
+http://constitutionmaking.org (http://constitutionmaking.org )
+"Our goal is to provide designers with systematic information on design options and constitutional text, drawing on the CCP's comprehensive dataset on the features of national constitutions since 1789." - They all seem to be PDFs, unless I'm missing something.
+
+"He wore a moustache."
+
+http://jankfree.org (http://jankfree.org )
+"Let's Make the Web Jank-free!" - I've never quite got used to the American use of the word "jank". Over here it still means to be stabbed, doesn't it?
+
+"Does this story have a moral?"
+
+http://www.mastodonc.com/dashboard (http://www.mastodonc.com/dashboard )
+Mastadon C has a great dashboard measuring the 'live carbon rating' for many major cloud providers. "Cloud computing uses almost 2x as much power as the whole of the UK. These ratings show you the greenest place to send work right now."
+
+Onwards.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

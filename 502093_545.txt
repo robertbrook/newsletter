@@ -1,0 +1,31 @@
+545 - SPECIAL OFFER - on the web (*|ARCHIVE|*)
+
+http://fadingcity.com/posts/the-plan
+I wrote this.
+
+My bus, my own personal bus, pulled up behind a van recently with the inscription "No Tools Left In This Van Overnight" - edited possibly by the van driver to read "No Fools Left In This Van Overnight". I was slightly impressed by that. But then I thought "who says 'fools' any more?". I'm still thinking about it.
+
+http://bluerobot.com/web/css/fouc.asp/
+Remember FOUC? That still happens, with web fonts, a lot. Some pages I look at spend seconds loading snazzy web fonts. Is it worth the wait?
+
+People already arguing in the 'Quiet Carriage', about - the noise made by someone turning off a mobile phone. My goodness! This makes my mild bouts of pique look almost normal. Actually I had no idea we were in the 'Quiet Carriage', so I may have been unwittingly transgressing all this time. You know, blinking too loudly, double-clicking on the iPad screen, that sort of thing. Awful.
+
+http://search.cpan.org/search?query=Tiny
+I'm trying to use the MetaCPAN API to list recent module releases by size. I'm not doing that well, so far. I'm falling back on this rather clumsy query. I'm sure I should give it another go.
+
+And another thing, about the writing. Thankfully no-one is really interested enough to recommend writing tools to me, despite my apparent inability to bother proof-reading my own work. If anyone did, though, I'm ready for them. Thanks, but no thanks. I don't want some blasted app telling me my sentences are too long, or short, or that I repeat myself, or that I should find an alternate word for whatever, or whatever. I'll write what I like, you nannying algo!
+
+http://en.wikipedia.org/wiki/Naryn_(dish)
+"... an Uzbek pasta dish made with fresh hand-rolled noodles and horse meat." I'm pretty sure I've never had hand-rolled noodles.
+
+I'm still not sleeping well. I used to put it down to being too hot, or cold, or something. Now I put it down to age and angst.
+
+http://www.codinghorror.com/blog/2014/02/app-pocalypse-now.html
+I think apps - or as I like to call them, "apps" - might well spoil everything. For everybody. For ever.
+
+Enjoy today. Really. Enjoy it. I mean, you never know, do you. Anything might happen. Those stairs look slippery. It would be terrible if you slipped on those stairs. By accident.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

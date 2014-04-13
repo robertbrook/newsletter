@@ -1,0 +1,36 @@
+http://dostoevskiansmiles.blogspot.co.uk/2008/10/on-nature-of-desideratum.html (http://dostoevskiansmiles.blogspot.co.uk/2008/10/on-nature-of-desideratum.html )
+Matthew Toll: "Samurai, Chōnin and the Bakufu: Between Cultures of Frivolity and Frugality."
+
+I'm listening to more history podcasts - including one on the history of Byzantium, one on Ottoman history. Amazing stuff.
+
+http://msdn.microsoft.com/en-us/library/aa753582(v=vs.85).aspx (http://msdn.microsoft.com/en-us/library/aa753582(v=vs.85).aspx )
+Apple's Safari browser gradually hides anything too developery, yet oddly still allows both importing and exporting bookmarks, which seems quite old-fashioned. When iCloud is running "cloud tabs" and bookmark syncing, what's with 1990s style bookmark export? I mean, who still does that?
+
+I always had Marcus de Sautoy down as "just" a mathematician, but his recent series on measurement and precision is even better.
+
+http://www.bbc.co.uk/news/magazine-22915026 (http://www.bbc.co.uk/news/magazine-22915026 )
+Sam Fuchs: "Everyone's sort of mentally obese, ... I feel like distraction has a big part to do with our generation's story." Adam Gray: "We will not be a great generation, ... We are too self-absorbed, spending most of our time on frivolous things, like posting photos of ourselves. We are cool kids, we are the cool generation." This is what's 'cool' now?
+
+"And what's a life? A weary pilgrimage, / Whose glory in one day doth fill the stage / With childhood, manhood, and decrepit age." Francis Quarles
+
+http://www.asktheeu.org/en/list/successful (http://www.asktheeu.org/en/list/successful )
+'Successful' responses to FOI requests of the EU institutions.
+
+"Let us embrace, and from this very moment vow an eternal misery together." Thomas Otway
+
+http://eviltrout.com/2013/06/15/ember-vs-angular.html (http://eviltrout.com/2013/06/15/ember-vs-angular.html )
+Robin Ward: "A few years ago, many Rails developers I knew were excited about Sinatra. Sinatra is far simpler than Rails. It allocates a fraction of the objects Rails does. I observed a pattern as those developers started to build out their applications. Some were used to Rails’ large toolbox of convenience functions so they included ActiveSupport. Some needed ORMs so they included ActiveRecord. At that point, what was the advantage of Sinatra? You were basically running a Rails application." - Well, then they made the wrong call in the first place, right?
+
+"For see, the dapple-grey coursers of the morn / Beat up the light with their bright silver hoofs, / And chase it through the sky." John Marston
+
+http://www.triage.cc (http://www.triage.cc )
+A great little iPhone app for email triage. Now works with generic IMAP accounts, too.
+
+http://words.steveklabnik.com/returning-to-free-software-a-guide (http://words.steveklabnik.com/returning-to-free-software-a-guide )
+Steve Klabnik: "A month or two ago, I made a conscious decision that I would return to using as much Free Software as possible. The PRISM debacle of the last week confirmed my fears and reasoning ..." - can anyone fill in the gap for me here? How does using free software conceal your communications? Surely if you're using Facebook - or whatever - using Firefox on Ubuntu, you're still using Facebook?
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

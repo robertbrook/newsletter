@@ -1,0 +1,55 @@
+http://www.accesstoinsight.org/lib/authors/buddharakkhita/wheel365.html
+"It is told that five hundred monks received instructions from the Buddha in the particular techniques of meditation suitable to their individual temperaments."
+
+"You sit in your own judgement."
+
+http://www.bis-space.com/2013/06/29/11225/frozen-peas
+British space science, powered by frozen peas: "Unsurprisingly when considering how much of the microcontroller is insulation, the reading from the sensor was fairly resilient to change until we utilized a bag of frozen peas and the light bulb in the theater lectern to alter the external conditions."
+
+I am wearing my 'Back To Work' t-shirt. I imagine Merlin would be as embarrassed as I would be.
+
+http://www.sketchplanations.com/post/57918663721/on-microwaves-every-time-i-stop-and-think-about-a
+So things you want to cook in a microwave have to contain water, then. Obviously.
+
+http://www.bbc.co.uk/rd/blog/2013/08/irfs-weeknotes-153
+An owl. An owl? An owl.
+
+http://tools.wmflabs.org/fist/fist.php
+"Search for free images to add to Wikipedia articles, or replace non-free images and placeholders."
+
+http://williambock.com
+William Bock is an artist.
+
+http://shapeshed.com/precompilers-and-dialects/
+George Ornbo on TypeScript: "I welcome our Microsoft overlords to the underground".
+
+Finally saying goodbye to the Apple Safari 'Reading List'.
+
+That wifi bin story and the response from @stml are making me think too much. I mean, really, the whole thing is quite odd.
+
+http://www.massmoca.org/event_details.php?id=760
+"In 1963 Jerry Gretzinger doodled a map of a small imaginary town. His sketch took on a life of its own and today comprises over 2,600 hand-crafted panels spanning a jawdropping 2,000 square feet." ...
+
+http://uppercasemagazine.com/blog/2012/10/2/jerrys-map
+... "Jerry is able to abandon himself to the randomness of his map, which, ironically, he's designed himself, choosing all of the variables. For example, a limited color palette means that there can only be a certain amount of disharmony." ...
+
+http://fadingcity.com/suburbia/jerrys-map
+... and on Vimeo, embedded.
+
+http://learnvimscriptthehardway.stevelosh.com
+A wonderful work on Vimscript - and a readable layout. Recommended ...
+
+https://bitbucket.org/sjl/bookmarkdown/
+... written with bookmarkdown.
+
+http://regex.learncodethehardway.org
+"If you run into strings like '\s+.?(?i)a+b?' and your eyes glaze over like a pair of old fashioned donuts, then this book is for you."
+
+http://joelmccracken.github.io/entries/why-you-should-learn-elisp/
+"Learning almost any amount of Emacs Lisp makes your life better immediately."
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

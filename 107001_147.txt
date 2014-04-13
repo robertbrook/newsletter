@@ -1,0 +1,48 @@
+A newsletter from Robert Brook
+------------------------------------------------------------
+*|ARCHIVE|*
+
+
+**
+------------------------------------------------------------
+http://legacy.cs.uu.nl/daan/download/parsec/parsec.html (http://legacy.cs.uu.nl/daan/download/parsec/parsec.html )
+"Parsec is an industrial strength, monadic parser combinator library for Haskell."
+
+http://code.google.com/p/clojure-contrib/wiki/DatalogOverview (http://code.google.com/p/clojure-contrib/wiki/DatalogOverview )
+Datalog in Clojure. I always rather liked datalog.
+
+http://bakerframework.com (http://bakerframework.com )
+You lost me at XCode.
+
+http://blogs.perl.org/users/toby_inkster/2013/01/ask-not-what-your-user-can-do-for-you.html (http://blogs.perl.org/users/toby_inkster/2013/01/ask-not-what-your-user-can-do-for-you.html )
+Asking nicely in Perl: "The Ask::API provides default implementations of question, file_selection, multiple_choice, etc, which you can override if you choose to, but that is optional."
+
+http://en.wikipedia.org/wiki/Chaim_Soutine (http://en.wikipedia.org/wiki/Chaim_Soutine )
+"Soutine once horrified his neighbours by keeping an animal carcass in his studio so that he could paint it (Carcass of Beef). The stench drove them to send for the police, whom Soutine promptly lectured on the relative importance of art over hygiene. There's a story that Marc Chagall saw the blood from the carcass leak out onto the corridor outside Soutine's room, and rushed out screaming, 'Someone has killed Soutine.'"
+
+http://www.renesys.com/blog/2013/01/cuban-mystery-cable-activated.shtml (http://www.renesys.com/blog/2013/01/cuban-mystery-cable-activated.shtml )
+Cuba's internet access used to be just through three satellite providers. Apparently Telefonica has joined in with a cable, but lag times indicate it's not quite up to speed. Cable in, satellite out, perhaps.
+
+http://m.guardian.co.uk/society/2013/jan/17/transgender-protest-observer-offices-burchill (http://m.guardian.co.uk/society/2013/jan/17/transgender-protest-observer-offices-burchill )
+Reaction to writers in the Guardian commenting on transgender people: "... we do not feel that the paper has adequately acknowledged the role of transphobia in the media in perpetuating and erasing the day-to-day discrimination and violence which we as a community face as a consequence of such attitudes as those expressed in [Julie] Burchill's article. Instead, the paper has opted for an erasure of the incident without addressing its cause ..."
+
+Jean Dubuffet: "Our culture is like a garment that does not fit us, or in any case no longer fits us. This culture is like a dead language that no longer has anything in common with the language of the street. It is increasingly alien to our lives."
+
+http://aws.typepad.com/aws/2012/12/root-domain-website-hosting-for-amazon-s3.html (http://aws.typepad.com/aws/2012/12/root-domain-website-hosting-for-amazon-s3.html )
+Previously you could host a static web site on Amazon S3 using a domain with a subdomain: now you can do it with root domains. Another direct and useful post from Jeff Barr.
+
+http://blogs.hbr.org/cs/2012/12/the_top_five_career_regrets.html (http://blogs.hbr.org/cs/2012/12/the_top_five_career_regrets.html )
+Daniel Gulati lists the 'top five career regrets': "I wish I hadn't taken the job for the money", "I wish I had quit earlier", "I wish I had the confidence to start my own business", "I wish I had used my time at school more productively" and "I wish I had acted on my career hunches".
+
+http://www.pvsps.cz/data/document/20110715/9_Regret.pdf (http://www.pvsps.cz/data/document/20110715/9_Regret.pdf )
+Isabelle M. Bauer: "Coping with Life Regrets across the Adult Lifespan" [PDF]. "The adaptive value of using primary control strategies (aimed at undoing regrets) versus secondary control strategies (aimed at changing internal appraisals of regrets) for regulating regret is discussed from a lifespan developmental perspective."
+
+Regards.
+
+============================================================
+-
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:ADDRESS|* *|END:IF|*
+
+** Unsubscribe (*|UNSUB|*)
+** Y (*|UPDATE_PROFILE|*)
+** our profile (*|UPDATE_PROFILE|*)

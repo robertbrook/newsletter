@@ -1,0 +1,44 @@
+533 - THE OLD BLOCK - on the web (*|ARCHIVE|*)
+
+Ahoy!
+
+http://en.wikipedia.org/wiki/All_Souls_Church,_Langham_Place
+"To our eye, the church itself, apart from the tower, (for such it almost is) is perhaps, one of the most miserable structures in the metropolis,—in its starved proportions more resembling a manufactory, or warehouse, than the impressive character of a church exterior; an effect to which the Londoner is not an entire stranger." - All Souls; reviewed in 'The Mirror of Literature, Amusement, and Instruction'; 1828 ...
+
+... I took the photo that accompanies this issue while staring down at my feet, a thing I often do. I expect I was waiting before a fascinating meeting: BBC people being fascinating, me being under-whelming in return. Happy days ...
+
+... the Wikipedia entry in almost as sharp as the quote above: "Its circular peripteral portico, capped with a smaller peripteral tower, in turn capped with an anomalous slender cone, giving the appearance of a 20th-century three-stage space rocket suggesting he may have envisaged the structure as a futurist vehicle for transporting all souls to heaven ..."
+
+http://paulclarke.com/photography/about/
+Oh look there's Paul being mauled by a dog. #brutal
+
+I think Dropbox could take a big chunk of the 'static apps' market. First step, run a Dropbox JS CDN.
+
+"Work is the never ending burden without which all other burdens would be unbearable." - Klaus Mann
+
+http://en.wikipedia.org/wiki/Paul_Daniels
+Newton Edward Daniels, son of Handel Newton Daniels. #til
+
+I am tremendously tired. I shall make every effort this weekend to keep all exertions to a minimum. I have no ends left to this candle.
+
+http://www.paulig.fi
+Coffee. From Finland.
+
+http://pem-musing.blogspot.co.uk/2014/02/a-gulp-of-coffee-your-gulpfile-in.html
+"Streams and their piping abilities produce a ton of parenthesis obfuscating the semantic of your development with unnecessary grammar and syntax requirements." Totally.
+
+https://github.com/jashkenas/coffee-script/wiki/%5Bextensibility%5D-writing-DSLs
+DSLs in Coffeescript: "Implicit parentheses, commas and objects combine to give you an expressive language that compiles to good old JavaScript."
+
+http://danielhough.co.uk/blog/interfake/
+"It's a quick, easy and platform-independent way for developers working on applications to spin up dummy APIs using a single JSON file."
+
+http://archive.org/help/json.php
+"We have been moving the majority of our services from formats like XML, OAI and other to the more modern JSON format and method of client/server interaction."
+
+More blustery weather this weekend here in London. Much worse elsewhere.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

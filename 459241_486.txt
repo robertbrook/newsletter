@@ -1,0 +1,39 @@
+486 - THISTLE - on the web (*|ARCHIVE|*)
+
+http://longstandingbug.com/sound-synthesis.html
+"I've been playing with sound in Clojure lately so I thought I'd document what I've learned."
+
+I want to write something about means versus ends, but it's not falling right.
+
+http://www.telegraph.co.uk/news/obituaries/1549209/Susan-Elliott.html
+"On one outing to the Colony Room with the artist Francis Bacon and his boyfriend John Edwards, Susan Elliott was handcuffed to a barstool by Edwards, who went off home without unlocking her. She made her way back to north London and managed to get into bed beside her husband without disturbing him, concealing the stool by her side of the bed. Denholm Elliott set off for filming the next morning none the wiser, and she then hailed another cab to take her to Bacon's studio in Reece Mews, where she was released, and then taken for lunch to Wheeler's, by her captors."
+
+I was thinking about HTML5 engines being "not browsers".
+
+http://scripting.com/2013/12/28/microsoftAndNetbooks
+Dave Winer: "Because the new netbooks, from Google and Apple, are closed systems, where the netbooks were wide open. I could access my file server from my netbook. I could put any software on it, or take it off, same with music and movies. Apple and Google are running gulags, the netbooks were Woodstock." Apple's netbook: presumably the iPad?
+
+Swimming the Solent? What?
+
+http://labs.spotify.com/2013/12/12/what-it-feels-like-being-an-ipad-on-a-stick-on-wheels/
+"Although, I admit, it was quite fun to sometimes bump into people and see them shriek in surprise at being accosted by an ipad on a stick on wheels, with a grinning guy on the screen."
+
+Hovering over a button, as so often.
+
+http://fadingcity.com/suburbia/the-black-hole
+"The Black Hole is a source of Enlightenment."
+
+"It from bit. Otherwise put, every 'it' - every particle, every field of force, even the space-time continuum itself - derives its function, its meaning, its very existence entirely - even if in some contexts indirectly - from the apparatus-elicited answers to yes-or-no questions, binary choices, bits." - John Wheeler, 1990
+
+I can't get the blasted fire to light. Try again.
+
+https://nodejsmodules.org/tags/imap
+Popular node IMAP modules.
+
+http://www.nyu.edu/gsas/dept/philo/faculty/block/papers/Psychologism.htm
+"Intelligence (or more accurately, conversational intelligence) is the disposition to produce a sensible sequence of verbal responses to a sequence of verbal stimuli, whatever they may be."
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

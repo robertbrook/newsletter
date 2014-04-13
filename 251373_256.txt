@@ -1,0 +1,61 @@
+I remember tooth-powder. You know, before tooth-paste.
+
+http://gitlab.org (http://gitlab.org )
+"Self hosted Git management software"
+
+Are people in therapy people without friends?
+
+http://www.worldwidewords.org (http://www.worldwidewords.org )
+I signed up to this because of John Roderick.
+
+"Where's my parade?" Ha! I like that. Also, I'd quite like to go on a parade.
+
+http://www.imidipatchbay.com (http://www.imidipatchbay.com )
+This looks like a great solution to a problem I clearly don't have. That's a rather liberating thing.
+
+"I can see why this is confusing to you."
+
+http://matt.might.net/articles/how-to-native-iphone-ipad-apps-in-javascript/ (http://matt.might.net/articles/how-to-native-iphone-ipad-apps-in-javascript/ )
+From Matt Might, a great summary of all the non-XCode methods of, basically, making an HTML thing look like a native thing on an iOS screen. I know there are differing views on this, but it's still useful.
+
+"Freaky people are people too."
+
+http://stackoverflow.com/questions/9810984/how-do-i-get-retrieve-my-rest-data-using-ember-data (http://stackoverflow.com/questions/9810984/how-do-i-get-retrieve-my-rest-data-using-ember-data )
+Reading a REST endpoint in ember-data. Has ember-data calmed down yet?
+
+"We should probably put that person to death immediately."
+
+http://stackoverflow.com/questions/226663/parse-rss-with-jquery (http://stackoverflow.com/questions/226663/parse-rss-with-jquery )
+JQuery is fine. JQuery plugins are also fine. But sometimes you don't need all the bells and whistles.
+
+Low tide. Police escorting the ferries past ... a place.
+
+http://aspirecode.com/flatland-the-best-minimal-theme-for-sublime-text/ (http://aspirecode.com/flatland-the-best-minimal-theme-for-sublime-text/ )
+"The theme makes intelligent use of color to highlight key bits of UI without pulling your focus away from the code. For example, splashes of color make selected search options buttons stand out, something that both the default Sublime theme and Soda fail to do." I might try that out.
+
+A tourist guide with a swagger stick?
+
+http://mattsears.com/articles/2011/12/10/minitest-quick-reference (http://mattsears.com/articles/2011/12/10/minitest-quick-reference )
+A lovely writeup of Minitest, with great examples.
+
+I was walking across the front of St Martin's and listening to someone saying something that made me burst out laughing. Some dreadful remark, I think. I felt embarrassed by it, because I was passing by a person who seemed to be sitting on the steps as a penance, or taking part in a vigil. How awful.
+
+http://www.guardian.co.uk/commentisfree/2013/may/09/men-victims-of-male-aggression-speak-up (http://www.guardian.co.uk/commentisfree/2013/may/09/men-victims-of-male-aggression-speak-up )
+"For legal reasons, this article will not be open to comments"
+
+Lovely though Notes by Trafalgar Square is, I don't make a habit of going there any more. I assume their prices are creeping up to keep the crowds down. Understandable - and maybe it even works - but these prices are too rich for me now.
+
+http://www.guardian.co.uk/media/2013/may/08/charlotte-raven-spare-rib-radical-feminism (http://www.guardian.co.uk/media/2013/may/08/charlotte-raven-spare-rib-radical-feminism )
+Charlotte Raven: "The case for carrying on can't be argued, ... Suicide is rhetoric. Life is life." From a prospective reader of the new 'Spare Rib': "I am utterly desperate for an antidote to the suffocating proliferation of vacuous crud that spews from every vein of the media ..."
+
+Have a lovely day today. Ray of sunshine and all that. I keep on hoping.
+
+============================================================
+*|LIST:ADDRESS|*
+
+Doing it properly: Dave Briggs  - Giles Turnbull  - Roo Reynolds
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** http://gilest.org (http://gilest.org)
+** http://tinyletter.com/rooreynolds (http://tinyletter.com/rooreynolds)
+** Unsubscribe (*|UNSUB|*)

@@ -1,0 +1,26 @@
+Good morning internet denizens!
+
+http://scripting.com/2013/09/10/lookingForInnovationInASmartPhone
+Dave Winer: "We've already seen the Jobs phone. Now it's time for Woz's."
+
+https://itunes.apple.com/gb/app/id364142755?mt=8&affId=1860684
+Via John Keogh. 'Pocket Universe: Virtual Sky Astronomy for iPad', from John Kennedy, who confesses - "This is an iPad specific version of Pocket Universe. I am embarrassed to say I've lost the source code, and I cannot update it to work properly with iOS7, which is why it's now FREE." ...
+
+http://mailchimp.com/features/mailchimp-editor-for-ipad/
+... also on the iPad, Mailchimp have come out with an absolutely excellent 'Editor for iPad'. I may well use this full-time for the newsletter, depending on how my experiments go. So far, it's very impressive. It's one of a few native iOS apps that really are better than the web equivalents. I'm a bit nervous of just pasting text in and hoping for the best: it's not gone very well before. Some desktop mail clients don't make links clickable by default - yes, again, I see the point of Markdown.
+
+That's not to say the the Mailchimp - or previously Instapaper - sites couldn't be as good or better than an app, but they just aren't at the moment. In the battle of web vs. app, the developer with the budget wins.
+
+When I said "we're losing so much of the web", I meant that a lot of what people used to control and create on the web has either faded away, or been passed over, or been absorbed. You might well say that this is the order of things: that we don't use starting-handles on cars any more or use CB radio either; and that I should get with the programme.
+
+But I don't think it is necessarily a natural progression. Years ago I used to think that the big vendors would always want the web to be more like television: not for a particular malign purpose, just that this was the model they'd worked with and would wish to continue working with.
+
+There's no boot stamping on a human's internet face, quite yet. We're mostly willingly going into this, a web managed for us by Google and Facebook and Apple and Twitter. They give us lovely things, but what are we giving them in exchange? More than just our date of birth. We're ceding territory, every day.
+
+Have fun today.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

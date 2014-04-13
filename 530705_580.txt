@@ -1,0 +1,63 @@
+Vol. 2, No. 580. "MONITOR".
+http://fadingcity.com/posts/conference
+I wrote this, about going to a conference.
+
+Every day I feel a sort of rising horror. And I'm not sure why. Something about loss and decay.
+
+"The answer lies in abstractions."
+
+http://blog.baugues.com/autoworkers
+"It’s an obscenely good time to be a developer. Enjoy it while it lasts." Really? So developers aren't just replaceable cogs? We can't just send someone on a two-day training course? No?
+
+I'm at a software demo. My goodness, this chap's desktop is a mess.
+
+http://dan.iel.fm/optimize.js/examples/gaussfit/
+"Fit a Gaussian with a Background" - totally just did that.
+
+http://majorityleader.gov/floor/3-31-14.pdf
+An example of the timetable issued by the 'Majority Leader' in the US. Still a PDF. Interesting ...
+
+http://www.majorityleader.gov/Floor/daily.html
+... wait, is this the same thing?
+
+I knew I was right about that guy! Look! He's out the back, vaping! Vaping! #vaping
+
+My eye isn't getting any worse, so I'm going to believe it's getting better. My knee isn't getting any worse, so ditto.
+
+https://gondor.io
+"Gondor was designed for people who want to deploy their Python sites early and often."
+
+I'm forgetting. I'm forgetting. I forgot my headphones. Worst thing ever.
+
+http://www.animatedengines.com
+Animated engines ...
+
+http://507movements.com
+... and mechanical movements.
+
+More forgetting goes here.
+
+http://www.state.gov/documents/organization/58822.pdf
+A paper on the sea-border between Italy and Tunisia, January 1980. I hadn't realised that Lampedusa was so far to the south.
+
+Oh no! Another un-subscriber. Oh dear. Perhaps it's me mentioning Perl? I can see how that might be upsetting for people.
+
+http://invisible-island.net/mawk/mawk.html
+Thanks to Russell Garner: "mawk is an interpreter for the AWK Programming Language."
+
+This chap has a great line in batting the speaker's thing. You know, that thing with the mics poking up out of it. A sort of pulpit for the laity. Anyway: every time he taps it with his beautifully manicured and tanned hands, a boom rings out from the loudspeakers. Podium! That's what they call those things. The podium.
+
+SPOG is new, for me. The concept of control of a system through a "single pane of glass". #spog
+
+I've been persuaded to go on to the next bit of tai chi, rather than my plan of going back to the start again. I hope I can keep up.
+
+Apparently one exabyte costs a billion dollars. Storage, I mean.
+
+Have fun.
+
+============================================================
+
+*|LIST:ADDRESS|*
+
+
+** Unsubscribe (*|UNSUB|*)

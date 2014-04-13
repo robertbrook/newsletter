@@ -1,0 +1,75 @@
+550 - JUNCTION - on the web (*|ARCHIVE|*)
+
+Good morning.
+
+http://www.tinkerforge.com
+One of the first 'circuit-fab' outfits I've seem marketing to several audiences, rather than just "hobbyists".
+
+https://www.dropbox.com/arbitration_optout
+I opted out. I have no idea if this has any legal meaning in the UK.
+
+http://blog.lessmilk.com/make-html5-games-with-phaser-1/
+Phaser, an apparently simple Javascript game library.
+
+https://koding.com
+I don't get it.
+
+http://search.cpan.org/~khs/Parse-Token-Lite-0.200/lib/Parse/Token/Lite.pm
+"Simply parse String into tokens with rules which are similar to Lex."
+
+http://tweetminster.co.uk
+Well, things have certainly changed here since I last looked. Amazing.
+
+When I die, I'll die gratefully.
+
+http://doc.scrapy.org/en/latest/intro/overview.html
+"Scrapy is an application framework for crawling web sites and extracting structured data which can be used for a wide range of useful applications, like data mining, information processing or historical archival." Hmm, okay, let's have a go. Ah - 'sudo pip install scrapy' needs to build some libraries on this machine. Fingers crossed. Right: let's try scraping the list of members of the Commons from data.parliament.uk. Wow; this thing is fast - and I like the 'shell'.
+
+https://twitter.com/Kasparov63
+Yes, that Kasparov. He has things to say about Ukraine ...
+
+http://www.reddit.com/r/UkrainianConflict
+... on Reddit, including some live update feeds.
+
+I got one and now I'm like everyone else.
+
+http://www.eurocorps.org/bdd/contract/IFB031813R-318-EGM662.pdf
+"A force for NATO and the European Union" - they prefer Lenovo T530s.
+
+My poor old joints really are complaining in the damp and the cold.
+
+http://disclosurelo.gs
+"Read all the information released by Australian Federal Government agencies under the FOI Act in one place!" - is there a UK equivalent?
+
+https://github.com/defunkt/zen
+"Distraction free writing for Atom." I've not even seen it running yet.
+
+http://tommorris.org/posts/8830
+"... free market horseshit ..."
+
+http://en.wikipedia.org/wiki/Category:Fictional_goats
+Fictional goats ...
+
+http://en.wikipedia.org/wiki/Category:Scandinavian_legendary_creatures
+... "Creatures found in the legends and folktales of the Scandinavian countries." ...
+
+http://en.wikipedia.org/wiki/List_of_Lithuanian_household_gods
+... "Because of such difficulties obtaining data, there is no accepted list of Lithuanian gods. Different authors present wildly contradictory reconstructions of Lithuanian pantheon." ...
+
+http://wp.stolaf.edu/about/mission/umyahyah/
+... "Um! Yah! Yah!, Um! Yah! Yah!
+Um! Yah! Yah!, Um! Yah! Yah!
+Um! Yah! Yah!, Um! Yah! Yah!
+Um! Yah! Yah! Yah!"
+
+There was a time I'd like to stories on Medium. That time is not now.
+
+http://slobodenpristap.mk/list/successful
+Another Alaveteli site.
+
+Have a lovely day.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

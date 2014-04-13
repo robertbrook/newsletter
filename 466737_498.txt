@@ -1,0 +1,35 @@
+498 - BLOCK - on the web (*|ARCHIVE|*)
+
+http://mining.thegenesisblock.com
+I still don't really understand what bitcoin is. No, don't worry, you don't have to tell me.
+
+http://www.nytimes.com/2014/01/07/us/18-billion-price-put-on-effort-to-block-carp.html
+Michael Wines: "Officials have taken a number of steps to keep the carp out of the lake, including physically removing scores of thousands of them from the Illinois River, the source of all five waterways, and installing an underwater electric barrier on the Chicago Sanitary and Ship Canal inland from the five streams. ... The electric barrier was once believed to be effective, but a recent report by the Army Corps and the federal Fish and Wildlife Service said entire schools of fish frequently slip through it, swept along by barge wakes or in water beneath metal boat hulls where the electric current is weakened."
+
+http://fadingcity.com/suburbia/mountain-of-dogfish
+A mountain - of dogfish.
+
+https://github.com/sofish/pen
+A lovely in-page Markdown editor.
+
+http://www.environment-agency.gov.uk/homeandleisure/pollution/water/120363.aspx
+"Yellow Fish is very simple. It raises awareness with an enjoyable and low cost activity to support our message – Only rain down the drain!"
+
+http://programming.oreilly.com/2013/10/repeatable-development-environments-with-vagrant.html
+Mitchell Hashimoto, on Vagrant: "The development environments are now sandboxed within virtual machines. The benefits here are twofold. First, the environments can run on Mac OS X, Windows, or Linux. There is no more struggling with Cygwin or quirks between OS X and Linux. In addition to this, you gain all the sandboxing benefits of virtualization."
+
+http://en.wikipedia.org/wiki/List_of_business_improvement_districts_in_London
+Perhaps Lloyd told me about this. "inmidtown (previously inholborn)"; "London Riverside", it's in Rainham; "New Bayswater"; "Successful Sutton".
+
+http://news.gc.ca/web/article-en.do?mthd=tp&crtr.page=1&nid=806659&crtr.tp1
+The long-delayed retirement of Sea King helicopters in Canada, to be replaced by Sikorsky's CH 148 Cyclone in 2018. "Sikorsky has agreed to pay Canada $88.6 million in liquidated damages for non-delivery."
+
+http://www.independent.co.uk/news/people/news/cocktails-and-a-slurp-or-two--keith-floyds-final-day-1787742.html
+"He started with a couple of Hix fixes, which are these champagne cocktails, had a few glasses of white burgundy and then had half a bottle of Cote de Rhone which he and his lady friend took with them to finish elsewhere. He ordered grouse and the boys delivered him partridge by mistake; though I think he saw the funny side."
+
+Onwards.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

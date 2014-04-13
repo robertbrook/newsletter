@@ -1,0 +1,46 @@
+I keep thinking of things I find interesting and then assume I should write about them. Actually, the easiest things for me to write about are the entirely unremarkable or common-place. More difficult by far is to write about stuff I haven't yet understood, or even perhaps come to any view on. I could just end up writing about being over-whelmed by certain ideas.
+
+http://www.b-list.org/weblog/2013/apr/05/good-tools/ (http://www.b-list.org/weblog/2013/apr/05/good-tools/ )
+James Bennett argues for the permanence of good tools. He's an emacs user, it seems - and makes a good point especially on the extensibility of Unix-native editors. But this has another side to it: that "black magic" sometimes seems to obscure functionality. Personally, I've used emacs, vi and Sublime Text. Most of my editing is done here - in Nebulous Notes on an iPad Mini.
+
+Should I be able to connect to a Mac Mini when it's sleeping, over VNC or whatever Apple has called it? I think I should be Googling "wake on LAN" and "power nap".
+
+http://www.toolblog.de (http://www.toolblog.de )
+"Produktiv und Persönlich"
+
+"Without a body you can't really make a diagnosis."
+
+https://itunes.apple.com/gb/app/devonthink-to-go/id395722470?mt=8 (https://itunes.apple.com/gb/app/devonthink-to-go/id395722470?mt=8 )
+This really is a stretch, even for my more than usually rococo software choices. I'm trying to set up Devonthink on iOS syncing from a Mac - and I've not quite managed it yet. Devonthink is amazing, though.
+
+"Come along Watson - and try to look as much like a plumber as possible!"
+
+https://medium.com/editors-picks/ (https://medium.com/editors-picks/ )
+Who are the 'editors' at Medium?
+
+Sometimes London is a little too open in plan.
+
+http://christopheviau.com/d3_tutorial/ (http://christopheviau.com/d3_tutorial/ )
+A great introductory run-through on D3, by Christophe Viau.
+
+My previous broadband provider has been eaten by Sky. Now I get daily dropouts. Not fun.
+
+https://lirias.kuleuven.be/bitstream/123456789/119065/1/TEM1994-3_289-304p.pdf (https://lirias.kuleuven.be/bitstream/123456789/119065/1/TEM1994-3_289-304p.pdf )
+Lauwers and Willekens: 'Five Hundred Years of Bookkeeping: A Portrait of Luca Pacioli' - "Pacioli recommends the Venetian method of double-entry bookkeeping above all others. Three major books are at the direct basis of this system: the memorandum (memoriale), the journal (giornale), and the ledger (quaderno)."a
+
+I was going to write something about the newsletter here, but it felt too meta. But then again, so did that.
+
+http://erector.rubyforge.org (http://erector.rubyforge.org )
+"... a Builder-like view framework ..."
+
+I'm thinking of having non-sponsors. Or, people I sponsor. That sounds like a great idea. I'm also thinking of a doughnut and a cup of tea.
+
+http://www.emilynussbaum.com/lingua_franca/1998/05/does_the_exotic_become_erotic.php (http://www.emilynussbaum.com/lingua_franca/1998/05/does_the_exotic_become_erotic.php )
+Emily Nussbaum on the work of Daryl Bem: "... childhood gender nonconformity was ... 'not only the strongest but the only significant childhood predictor' of adult homosexuality." Ken Zucker criticises the concept as 'utopian', "a good romantic fantasy" and even "naive".
+
+Have a good day today. Try not to fret.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

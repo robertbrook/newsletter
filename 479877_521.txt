@@ -1,0 +1,48 @@
+521 - WORLD'S END - on the web (*|ARCHIVE|*)
+
+Good morning everyone.
+
+http://goodpostcardclub.com
+"The business of the Club is conducted via postcards. You will never get any email about it, or have to remember any passwords." Right. All systems go. Now, where can I buy a book of second-class stamps? Are there still stamps?
+
+http://fadingcity.com/posts/exchange
+I wrote something about 'exchange', sort of.
+
+https://twitter.com/adrianshort/status/428098209081073664
+I'm not sure what cheers me more, that someone said I was "a Dan Ashcroft for our times", or that it was Adrian Short who said it ...
+
+http://scripting.com/2014/01/27/theFutureWasMoreExciting.html
+... "it's time for tech to come down to earth. We've heard all the hype, we were part of the dream that made you so rich. Now, we have to deal with the aftermath, not just us, but you too."
+
+http://sketchup.google.com/3dwarehouse/details?mid=86b695b084685862d9ab9337051193c2
+Today's photo is of a shop called 'Sound Of A Pound', in Leominster. Here's a 3D model of it, made by Tom Harvey: "Leominster is a small market town in the Northern part of Herefordshire county in the West of England near the Welsh border. Running South from the Buttercross is the High Street. On the East side is the Sound of a Pound shop." ...
+
+https://plus.google.com/103801729496481121675/posts
+... here's more of Tom's very impressive modelling including write-ups and photos of his working area. It's great that people publish their work so generously. Thanks Tom!
+
+https://www.ableton.com/en/blog/ice-caves-free-live-pack-afrodjmac-and-subaqueous/
+Thanks to @bobcatrock: "Working with recordings that Isaac took from the stunning ice caves found in the US state of Washington, Brian made recordings for Instrument Racks using the quirky features of the Casio SK-1 and Teenage Engineering OP1 samplers."
+
+And I've unsubscribed from Spotify. Yes, again. I'm hanging around Soundcloud and Youtube.
+
+http://www.bbc.co.uk/comedy/hyperdrive/
+I liked Hyperdrive.
+
+I should eat something.
+
+http://blog.gabrielsaldana.org/quick-note-taking-with-emacs-and-org-capture/
+A clearly-presented introduction to org-capture templates.
+
+http://dev.w3.org/csswg/css-regions/
+The CSS Regions Module: "allows content from one or more elements to flow through one or more boxes", in progress ...
+
+http://test.csswg.org/harness/results/css-regions-1_dev/grouped/
+... how's your browser doing with regions support?
+
+"Electric communication will never be a substitute for the face of someone who with their soul encourages another person to be brave and true" - Charles Dickens, via @bobcatrock
+
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

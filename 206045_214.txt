@@ -1,0 +1,49 @@
+http://esolangs.org/wiki/German (http://esolangs.org/wiki/German )
+"German has two commands, BEER and SCHNITZEL."
+
+http://matthewdaly.co.uk/blog/2012/02/24/yet-another-tutorial-for-building-a-blog-using-python-and-django-part-1/ (http://matthewdaly.co.uk/blog/2012/02/24/yet-another-tutorial-for-building-a-blog-using-python-and-django-part-1/ )
+A pleasingly direct and presumably accurate one-line-bio from Matthew Daly. "I'm a web developer in Norfolk."
+
+http://thecodist.com/article/the-absolute-need-to-understand (http://thecodist.com/article/the-absolute-need-to-understand )
+I don't have this, "the absolute need to understand". I'm still thinking about what sort of work I'm able to do. Don't get me wrong, I do stuff. I have a job and everything. Well, I have a job. But I don't share what programmers have. But, neither do I share what managers have. I've most often seen management described as, pretty much, making other people do things you don't even believe in yourself. I don't think I could do that. I've no urge to tell people what to do. We end up with "leaders" modelled on primary school teachers. Bad primary school teachers.
+
+Theseus' boat. The boat of Theseus? Is that it?
+
+http://forecast.io/#/f/51.5010,-0.1939 (http://forecast.io/#/f/51.5010,-0.1939 )
+I was on a bus, okay. I think it looks great.
+
+I wish I could write shorthand. But then, I have no reason to know shorthand. So there's that.
+
+http://codecrap.com/ (http://codecrap.com/ )
+This code is crap.
+
+The Apple Podcast app has lost that laughable UI, but still doesn't make much of the metadata attached to most podcasts. Show notes, links, chapter markers?
+
+I still think that Apple will eventually head back to something like OpenDoc. iCloud documents might be the beginning of a revival of document-first working. Rather than app-first.
+
+I've been troubled by the ground-swell of posts from dev folk railing against iCloud. Until recently, I didn't care: after all, everything I use that sits on iCloud works fine - and I'm not a dev person, so implementation wasn't my problem.
+
+But recently, there's been more volume, more people pointing out that if devs don't like iCloud then users like me won't get nice things. I want iCloud to work. I assume Apple does too. And Apple developers. iCloud not working means what - back to Dropbox? That would be okay, wouldn't it?
+
+http://ask.metafilter.com/238158/Not-Leaning-In (http://ask.metafilter.com/238158/Not-Leaning-In )
+Leaning in? I think I get it. Sounds weird though. Being ambitious, I suppose ...
+
+http://beta.guardian.co.uk/theguardian/2013/mar/15/facebook-sheryl-sandberg-lean-in (http://beta.guardian.co.uk/theguardian/2013/mar/15/facebook-sheryl-sandberg-lean-in )
+"... that slightly gimlet-eyed cheerfulness one associates with corporate advancement" ...
+
+http://statspotting.com/can-you-be-nice-and-successful/ (http://statspotting.com/can-you-be-nice-and-successful/ )
+... but you can't be "nice" and "successful" anyway.
+
+Feeling weirdly up-beat for a moment there. The ups are as disconcerting as the downs, though. It'll pass.
+
+http://www.pyglet.org/ (http://www.pyglet.org/ )
+"... a cross-platform windowing and multimedia library for Python."
+
+I suppose if I fret about "Sign in with Facebook" and "Sign in with Twitter", I should feel at least as uneasy with "Sign in with GitHub".
+
+http://lerdorf.on.ca (http://lerdorf.on.ca )
+
+============================================================
+Registered address: *|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

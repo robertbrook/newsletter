@@ -1,0 +1,60 @@
+http://modularscale.com
+Something for planning font sizes.
+
+http://webdesign.maratz.com/lab/utf_table/
+UTF-8 entities. Old school.
+
+http://www.typetester.org
+Compare fonts online. Nice.
+
+http://www.theliteraryplatform.com/collective/
+The Literary Platform Collective: "working at the heart of books and technology".
+
+http://baty.net/Posts/2013/07/EasierpublishingofmyTind.html
+"I sometimes forget that Tinderbox can do everything." ...
+
+http://baty.net/Posts/2013/02/BloggingwithTinderbox.html
+... and here Jack explains 'Blogging with Tinderbox' - a lovely, simple summary.
+
+http://www.jefclaes.be/2013/08/but-i-already-wrote-it.html
+If you've written the code, should you always keep it? "The cost of implementing a feature is just a tiny portion of what it costs to support that feature through its entire lifetime." Rebuttals in the comments.
+
+https://github.com/scopatz/nanorc
+'Improved Nano Syntax Highlighting Files' ...
+
+http://staffwww.fullcoll.edu/sedwards/Nano/NanoKeyboardCommands.html
+... Nano's keyboard commands. Honestly, I think you could do pretty well in just Nano.
+
+http://www.nytimes.com/2013/08/18/technology/an-inventor-wants-one-less-wire-to-worry-about.html?pagewanted=all
+"It's one thing to pull an idea out of your head and shape it into a prototype. But it’s a whole other thing to figure out how that device will get out of your test kitchen and into the marketplace." We're missing too much of this chain.
+
+http://www.redonline.co.uk/red-women/interviews/allegra-mcevedy
+Allegra McEvedy - I'm a fan. I eat in her Leon on the Strand sometimes. A year back, I remember chancing across her, smoking I thing, in one of the alleyways opposite. She seemed nervous. October last year: " I worked with Leon, until I felt it needed fresh eyes. I had success, but emotionally I was still finding my way."
+
+http://blog.rzimmerman.me/how-kal-compiles-itself/
+Robert Zimmerman: "Kal is written in itself and is self-compiling." - "Kal is written completely in Kal. The compiler is a recursive descent parser that creates an abstract syntax tree, then traverses that tree to generate JavaScript." #spoons
+
+https://github.com/jonathanchu/emacs-powerline
+'Powerline for Emacs' - it looks lovely.
+
+https://github.com/jedi4ever/veewee
+"... a tool for easily (and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images."
+
+http://onethingwell.org
+An old favourite. Maybe I should put some RSS feed thing together.
+
+Vesper still doesn't sync with anything. I'm still waiting and hoping. Sad, really.
+
+http://ergoemacs.org/emacs/emacs_package_system.html
+Xah Lee: 'A Guide on Emacs 24 Package System'.
+
+http://en.wikipedia.org/wiki/Coco_(folklore)
+The complex etymologies of the folkloric 'coco'.
+
+Onwards.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

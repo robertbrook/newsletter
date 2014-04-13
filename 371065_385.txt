@@ -1,0 +1,57 @@
+https://github.com/pagekite/Mailpile
+"An experimental indexing and search engine for e-mail"
+
+http://hackneytools.com/2013/09/slideshow-2-bridgewood-neitzert/
+Gary Cook visited 'Bridgewood & Neitzert Ltd, Violin Repairers, Dealers and Makers' and made this wonderful slideshow.
+
+https://en.wikipedia.org/w/index.php?title=Special%3ALinkSearch⌖=hansard.millbanksystems.com
+Links from Wikipedia to hansard.millbanksystems.com.
+
+http://rubydoc.info/gems/rspec-expectations/frames
+Expectations in rpsec. Just reminding myself ...
+
+http://stackoverflow.com/questions/5902368/how-do-i-configure-rspec-with-sinatra-to-dynamically-determine-which-sinatra-app
+... "How do I configure RSpec with Sinatra to dynamically determine which Sinatra app is running before my test suite runs?" ...
+
+http://www.johncdavison.com/Sinatra_Rspec_&_Spec_helper_testing
+... John Davison: "Well written tests are the DNA of high-quality software."
+
+http://finerthings.in/mac/
+"All things apps, tips, tricks, and polish that help you work and play better on the Mac."
+
+http://mths.be/osx
+Mathias Bynens' Mac 'rc' file - if forwards to Github. There's a great deal of stuff there I'm going to borrow.
+
+http://apple.stackexchange.com/users/259/john-siracusa
+John Siracusa on 'Ask Different'.
+
+I am not playing GTA. I am playing Bioshock.
+
+http://scripting.com/2013/09/17/concordInGplDay2
+"Remember who I am and what my experience is." - winning friends and influencing people!
+
+http://getfireshell.com
+An all-in-one kit for JS OPAs.
+
+http://semantic-ui.com
+Another go at 'semantic' markup. But it's still just layering classes and IDs over tags which are already semantic. Why can't we just use them? I wonder if I could do something about that.
+
+http://kumailht.com/responsive-elements/
+I have to say I am looking forward to a time when responsive design no longer has to exist. What happened to flexbox, anyway? ...
+
+http://www.broken-links.com/2013/07/10/web-platform-technologies-in-safari-6-1-and-7/
+... ah, I see, we're still waiting for Safari 7 ...
+
+http://umaar.github.io/css-flexbox-demo/
+... here's a demo of flexbox.
+
+http://www.theguardian.com/society/2013/aug/03/will-self-psychiatrist-drug-medication
+Will Self on psychiatry: "... what, in essence, do psychiatrists specialise in, if not mood-altering drugs? ... what do psychiatrists have to offer ... beyond their capacity to legally administer psychoactive drugs, and in some cases forcibly confine those they deem to be mentally ill?" - "Sooner or later we will all have to wake up, smell the snake oil, and realise that while medical science may bring incalculable benefit to us, medical pseudo-science remains just as capable of advance."
+
+Have fun today.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

@@ -1,0 +1,45 @@
+566 - WHAT IS THIS I DON'T EVEN - on the web (*|ARCHIVE|*)
+Good morning.
+
+http://tumblr.iamdanw.com
+I strongly recommend reading Dan W. on Tumblr. Not always the cheeriest of reads, but always enlightening. I read everything he points to ...
+
+https://github.com/ekansa/open-context-code
+... this is in github.com's robots.txt. Why?
+
+"We all want to be famous people, and the moment we want to be something we are no longer free." - Jiddu Krishnamurti
+
+https://github.com/rogerwang/node-webkit
+I still think this is kind of a big deal: "node-webkit is an app runtime based on Chromium and node.js. You can write native apps in HTML and Javascript with node-webkit. It also lets you call Node.js modules directly from the DOM and enables a new way of writing native applications with all Web technologies." #intel
+
+I just had an (external) hard drive fail on me, in use, for the first time ever. That's a pretty good record for hard drives generally, I think. I must have used dozens of them over the past couple of decades - and this is the first to become unresponsive. I can forgive a failure rate that low ...
+
+http://www.backblaze.com
+... I've stopped using Time Machine on that screen and switched over to Backblaze. Yes, I know they're not the same sort of thing.
+
+I'd like ReadKit to crash less often, if that's possible.
+
+http://pacemaker.net
+iPad app to mix music from iTunes and Spotify.
+
+I really like the just-paste-it-in approach that Opa and Factor have to angle-bracket-data.
+
+http://talks.cam.ac.uk/talk/index/51554
+Due the day before my birthday: Martin Dyer on 'The Chromatic Number of Random Hypergraphs'.
+
+One of the rare downsides of using Mailchimp to send out mails is that it doesn't make it easy to use 'bare' URLs. They keep wanting to add tracking codes. I don't want tracking codes. Unfortunately my mailing list is so small, I'll never get big enough to have them enable the feature to turn them off. Oh well. Anyway: I am sorry to those reading in plain text who see those ridiculous URLs - I do wish I'd been able to stop that.
+
+http://gilest.org/strategies-alpha.html
+Outrageously, I have a suggestion: all the things should just be one line, preferably without a full stop at the end. Giles, you can have that one for free ...
+
+http://www.enoshop.co.uk/product/oblique-strategies?filter=Oblique%20Strategies
+... meanwhile, "Brian Eno Does Not Have A Twitter Account".
+
+Seven minutes.
+
+============================================================
+
+*|LIST:ADDRESS|*
+
+
+** Unsubscribe (*|UNSUB|*)

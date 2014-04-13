@@ -1,0 +1,42 @@
+439 - POT OF PENS
+
+Web archive (*|ARCHIVE|*)
+
+Morning folks.
+
+http://www.ica.org.uk/39079/Film/The-Perverts-Guide-to-Ideology.html
+This evening: "The quirky, genial Žižek employs cleverly chosen clips from a huge variety of movies ... to illustrate his fascinating monologue, frequently appearing on sets and in costumes which replicate scenes from the films in question. For example, dressed as a chubbier, bearded Travis Bickle, he expounds the darker subtexts of Taxi Driver's plot from within the anti-hero's grotty apartment."
+
+http://noflojs.org
+I didn't have much joy with this.
+
+http://shortdomainsearch.net
+"... a list of short, available single-word domain names ..." - with some esoteric TLDs.
+
+http://createdigitalmusic.com/2011/02/how-to-use-midi-to-make-an-ipad-more-musically-connected-productive-video-resources/
+Peter Kirn explains MIDI to young people.
+
+http://www.native-instruments.com/en/products/traktor/traktor-for-ios/traktor-kontrol-z1/overview/setup-examples/
+"The Z1 is used for mixing, EQing, and filtering. TRAKTOR KONTROL X1 controls loops, cue points, and effects on two decks."
+
+http://nbubna.github.io/HTML/
+"HTML is a small, powerful way for you to enjoy working directly with the DOM." Er ... oh, right. HTML.js is a sort of accessor library. "Isn't extending the DOM a bad idea? ... Only if you care to prop up the diminishing market share of IE6/7/8."
+
+http://www.marco.org/2013/08/13/google-blindness
+"If you buy into Apple’s ecosystem too much, Android will be limited, annoying, and incomplete to you — especially if you try to keep Google away from most of your data. Alternately, if you buy mostly into Google’s ecosystem and avoid most of Apple’s services, ... iOS’ downsides and limits may feel unjustified and Android will feel more integrated." I'm still thinking about running Ubuntu on a Lenovo laptop again. Or arch, if not Ubuntu.
+
+https://www.mobilewikiserver.com/Scratch.html
+Will we ever see Scratch on iOS? Perhaps ...
+
+http://daringfireball.net/linked/2010/04/16/scratch
+... "The only way something like Scratch could get into the App Store would be if it used WebKit as its interpreter."
+
+https://news.ycombinator.com/item?id=6217536
+Discussion of Stripe in the UK: "easy to get started with and I believe their documentation is the best in the industry"; "wonderfully simple, but if you want to process any real amount of credit cards they seem really expensive"; "Stripe may work out more expensive than PayPal, but that extra cost is probably offset by the amount spent on heart medication."
+
+I'm finally getting over my latest cold.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

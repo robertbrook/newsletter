@@ -1,0 +1,59 @@
+Listening to Cory Doctorow on the wireless. He sounds rather young, still.
+
+http://www.guardian.co.uk/culture/2013/may/12/brighton-festival-review-michael-rosen (http://www.guardian.co.uk/culture/2013/may/12/brighton-festival-review-michael-rosen )
+Susannah Clapp reviews Michael Rosen's Brighton Festival: "not shackled to a theme yet together capture the city's particular atmosphere. They are sometimes haunted, sometimes hurdy-gurdy."
+
+Scarves? What's wrong with scarves now?
+
+http://www.eastgrinsteadmuseum.org.uk/thetownthatdidntstare/ (http://www.eastgrinsteadmuseum.org.uk/thetownthatdidntstare/ )
+Before the modern Paralympics, there was Ludwig Guttmann and the 26 beds of Ward X, Stoke Mandeville.
+
+"I'd rather be myself. Myself and nasty. Not somebody else, however jolly." - Bernard Marx, in 'Brave New World'
+
+http://de.wikipedia.org/wiki/Im_Dickicht_der_St%C3%A4dte (http://de.wikipedia.org/wiki/Im_Dickicht_der_St%C3%A4dte )
+I listened to Mark Ravenhill's adaptation of this as "Jungle of Cities" on the wireless recently. The whole thing was deeply upsetting, as I suppose was intended ...
+
+http://www.bbc.co.uk/programmes/b01ryflg (http://www.bbc.co.uk/programmes/b01ryflg )
+... I'm sure by now it's no longer in iPlayer. I look forward to being able to link to iPlayer content for longer than just a few days. It seems more than just a pity that Mark's work is just sitting on a server somewhere.
+
+I've been trying out Factor: reading OPML from the web.
+
+http://erlangonxen.org/ (http://erlangonxen.org/ )
+"LING VM runs directly on top of Xen hypervisor." - Erlang on bare metal.
+
+Hearing a lot of talk about using proxies to reach geo-locked content. I can't be bothered. Piracy deterred by apathy.
+
+http://www.guardian.co.uk/world/2013/may/12/kumamon-japan-mascot-plutokun (http://www.guardian.co.uk/world/2013/may/12/kumamon-japan-mascot-plutokun )
+"With his cherubic face and green helmet bearing the chemical symbol for plutonium, Pluto-kun fell out of favour after an appearance in an animated educational film in which a boy who downs a glass of plutonium, with no apparent ill-effects."
+
+I have mixed feelings about App.net. I'm still there, just. I need to catch up on some of the tech dev that's been going on around it.
+
+http://www.imore.com/amazon-cloud-drive-photos-comes-iphone-and-ipod-touch-5gb-free-storage-new-customers (http://www.imore.com/amazon-cloud-drive-photos-comes-iphone-and-ipod-touch-5gb-free-storage-new-customers )
+Amazon wants your photos. Dropbox wants your photos. But, they're on Apple's platform - so what's the point? Surely both Amazon and Dropbox realise that Apple won't let them eat that lunch? Why do they bother? It makes sense on non-iOS platforms, but where will iCloud let these services in?
+
+Three minutes should do it. A fair bit of scouring required.
+
+http://net.tutsplus.com/tutorials/php/quick-tip-deploy-php-to-heroku-in-seconds/ (http://net.tutsplus.com/tutorials/php/quick-tip-deploy-php-to-heroku-in-seconds/ )
+Plugging Postgres into PHP on Heroku.
+
+"Go lower."
+
+http://sliderulemuseum.com/SR_Course.htm (http://sliderulemuseum.com/SR_Course.htm )
+I'm learning how to use a slide rule. I might need a magnifying glass. And a reason to know the cosine ... of ... anything.
+
+On the train to the dentist.
+
+http://www.kenstone.net/fcp_homepage/que_audio_sniper_for_zoom_douglas.html (http://www.kenstone.net/fcp_homepage/que_audio_sniper_for_zoom_douglas.html )
+Via @redmamba - Ken Stone on microphones.
+
+The reason I don't want to share my opinion so much now is that people just want to tell me I'm wrong. So I just keep quiet.
+
+http://www.bbc.co.uk/news/magazine-22512160 (http://www.bbc.co.uk/news/magazine-22512160 )
+"Hell is full of popes."
+
+Have a lovely day today.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

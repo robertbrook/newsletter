@@ -1,0 +1,37 @@
+"If you feel like you are the smartest person in the room, you're in the wrong room."
+
+http://www.macobserver.com/tmo/article/apples-os-x-10.9-a-new-hope (http://www.macobserver.com/tmo/article/apples-os-x-10.9-a-new-hope )
+John Martellaro on the prospects for MacOS 10.9: another push for a new filesystem, a note against supposed over-simplification and exposing more tech details to the end user. All entirely laudable, but surely not the direction Apple is going in?
+
+"... all the understated elegance of a Christmas grotto."
+
+http://ajjuliani.com/why-medium-may-succeed-where-quora-did-not/ (http://ajjuliani.com/why-medium-may-succeed-where-quora-did-not/ )
+The people who like Quora are ... well, getting stuff from Quora, presumably. Does anyone still like Quora? It seems to be the result of taking gamification to an unbearable extreme. Someone's still making money, right? I worry, a little, that Medium might head in the direction of the Well rather than MetaFilter. That "having something on the front page" pattern is certainly important. A clear sign of "give me a reason to come back here".
+
+Of course, I might start talking about sticky eyeballs.
+
+http://en.wikipedia.org/wiki/Edmund_Bacon_(architect) (http://en.wikipedia.org/wiki/Edmund_Bacon_(architect) )
+One degree.
+
+I'm getting closer every year to realising my dream of actually getting to the Chelsea Flower Show. This, despite not being a gardener of any sort. This year there's been the Chelsea Fringe, including knitting at the Battersea Flower Station and boxes around Sloane Square. It's been fun.
+
+http://www.guardian.co.uk/theobserver/2003/apr/13/magazine.features7 (http://www.guardian.co.uk/theobserver/2003/apr/13/magazine.features7 )
+Ian McCulloch: "I was always having a laugh, or I thought I was. In fact, I was completely lost, really. But to be honest, it was good to go to that place, and I'm not sure I've come back from it. It's normal for me to be confused, and all over the shop emotionally."
+
+"People have the notion of saving the world by shifting things around, changing the rules, and who's on top, and so forth. No, no! Any world is a valid world if it's alive." - Joseph Campbell
+
+http://www.danacentre.org.uk/events (http://www.danacentre.org.uk/events )
+I've not been to the Dana Centre for ages.
+
+Oh dear. Another unsubscription. I think people might have signed up expecting something in particular, possibly to do with where I work - and got something else instead. Perhaps I should write a description page so people know what they're in for. At least the 'unsubscribe' process is relatively painless.
+
+https://github.com/mhinz/vim-startify (https://github.com/mhinz/vim-startify )
+"A start screen for vim." From Marco Hinz.
+
+Have a lovely day.
+
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

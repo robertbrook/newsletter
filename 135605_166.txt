@@ -1,0 +1,49 @@
+Four hundred words daily from Robert Brook
+
+Read this on the web (*|ARCHIVE|*)
+
+http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE|*&t=*|URL:MC_SUBJECT|* Like (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE|*&t=*|URL:MC_SUBJECT|*)
+http://twitter.com/?status=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE|* Tweet (http://twitter.com/?status=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE|*)
+http://www.instapaper.com/hello2?url=*|URL:ARCHIVE|*&title=*|URL:MC_SUBJECT|* Read Later (http://www.instapaper.com/hello2?url=*|URL:ARCHIVE|*&title=*|URL:MC_SUBJECT|*)
+https://plus.google.com/share?url=*|URL:ARCHIVE|* +1 (https://plus.google.com/share?url=*|URL:ARCHIVE|*)
+
+For sale: my Lenovo T410, with extended battery pack. All offers considered. Good working condition.
+
+http://aaltowebapps.com/websocketsChatPusher.html (http://aaltowebapps.com/websocketsChatPusher.html )
+I'm still fighting with this and likely going in too hard. If I have a six-week project to do, I don't think trying to learn enough about WebSockets or rewriting things in node is a good idea. I shall stick to the knitting ...
+
+https://github.com/injekt/sinatra-pusher-example/blob/master/views/layout.erb (https://github.com/injekt/sinatra-pusher-example/blob/master/views/layout.erb )
+... but look! So simple! So tempting to cut and paste. Must resist.
+
+https://github.com/blog/699-making-github-more-open-git-backed-wikis (https://github.com/blog/699-making-github-more-open-git-backed-wikis )
+So are the Github wikis git repositories I can already access with - er - git?
+
+https://github.com/blog/774-git-powered-wikis-improved (https://github.com/blog/774-git-powered-wikis-improved )
+Or are they standalone repositories with Gollum perched over them?
+
+http://c2.com/cgi/wiki?PersonalWiki (http://c2.com/cgi/wiki?PersonalWiki )
+This used to be the canonical page for personal wikis, but it looks pretty dated now.
+
+http://middlemanapp.com/getting-started/ (http://middlemanapp.com/getting-started/ )
+"Middleman is a command-line tool for creating static websites using all the shortcuts and tools of the modern web development environment." That means Sinatra. In this case.
+
+http://middleman-blog-editor.awardwinningfjords.com (http://middleman-blog-editor.awardwinningfjords.com )
+Could someone produce of these for Jekyll? And it be open source?
+
+http://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Pope_St._Celestine_V (http://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Pope_St._Celestine_V )
+The last year of the life of Pope Celestine V: "... he was delivered into the hands of Boniface, who confined him closely in a narrow room in the tower of the castle of Fumone near Anagni ... Here, after nine months passed in fasting and prayer, closely watched but attended by two of his own religious, though rudely treated by the guards, he ended his extraordinary career in his ninety-first year. That Boniface treated him harshly, and finally cruelly murdered him, is a calumny."
+
+http://search.cpan.org/~mstrout/Moo-1.000008/lib/Moo.pm (http://search.cpan.org/~mstrout/Moo-1.000008/lib/Moo.pm )
+Meanwhile, on CPAN: Moo, the successor to Moose. Sort of. "If Moo detects Moose being loaded, it will automatically register metaclasses for your Moo and Moo::Role packages, so you should be able to use them in Moose code without anybody ever noticing you aren't using Moose everywhere." I miss Perl, I really do.
+
+http://perl5maven.com/perl-tutorial (http://perl5maven.com/perl-tutorial )
+"The Perl Maven tutorial will teach you the basics of the Perl programming language. You'll be able to write simple scripts, analyze log files and read and write CSV files." Recommended as a modernised approach to Perl ...
+
+http://perlhacks.com/2013/02/perl-books-2/ (http://perlhacks.com/2013/02/perl-books-2/ )
+... in sharp contrast to these dated recommendations criticised by Dave Cross - and rightly so. "My rules for recommending books are pretty simple. They should be books that I’ve found useful and they should have been published in the last few years. And given the falling numbers of Perl books that are published each year, that’s now a rather small number of books."
+
+Have a calm and productive day. Thanks for reading.
+
+============================================================
+
+** Unsubscribe (*|UNSUB|*)

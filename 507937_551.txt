@@ -1,0 +1,59 @@
+551 - TANIYA - on the web (*|ARCHIVE|*)
+
+Good morning.
+
+http://fadingcity.com/posts/programming
+I wrote this, sort of about programming. A bit.
+
+Today's photo is of Taniya dry cleaners on Wandsworth Road. It looks like the end for this place, after hanging on long past anyone really expected ...
+
+http://www.flickr.com/photos/by-jack/
+... here's Amanda Vincent-Rous on Flickr, where there's a great deal to satisfy the most ardent laundrette enthusiast ...
+
+http://cargocollective.com/photos-by-jack
+... and at Cargo Collective ...
+
+http://plebeianphotography.tumblr.com
+... and on Tumblr. Wonderful.
+
+Rumours of iTunes Radio in the UK?
+
+http://search.cpan.org/~ether/YAML-Tiny-1.60/lib/YAML/Tiny.pm
+"The YAML specification is huge. Really, really huge. It contains all the functionality of XML, except with flexibility and choice, which makes it easier to read, but with a formal specification that is more complex than XML."
+
+Please speak to me no further of "innovation".
+
+http://search.cpan.org/~derf/Travel-Status-DE-IRIS-0.03/lib/Travel/Status/DE/IRIS.pm
+"... an unofficial interface to IRIS based web departure monitors such as ..." ...
+
+https://iris.noncd.db.de/wbt/js/index.html?typ=ab&style=qrab&bhf=EE&SecLang=&Zeilen=20&footer=0&disrupt=0
+... see also "annunciator", sort of.
+
+The tai chi instructor clearly doesn't work long days in an office. But we do! He should bear that in mind when expecting great things of us.
+
+http://search.cpan.org/~ezdb/Data-Table-1.70/Table.pm
+Yingyao Zhou: "Data type related to database tables, spreadsheets, CSV/TSV files, HTML table displays, etc." ...
+
+https://sites.google.com/site/easydatabase/
+... complete with the Data::Table cookbook. It has a picture of a duck on the front.
+
+We try, of course, but there's only so much that we can do. He doesn't seem to see that.
+
+http://search.cpan.org/~sharyanto/Data-Format-Pretty-YAML-0.07/lib/Data/Format/Pretty/YAML.pm
+"Pretty-print data structure as YAML".
+
+I mean, it's hardly dumb insolence. It's usually exhaustion.
+
+http://www.drdobbs.com/web-development/a-forth-html-generator/212501814?pgno=1
+Craig Lindley, December 2008: "It's been a long time since I've programmed in Forth but for my current project it seemed like the correct choice of programming language." Unfortunately it looks like MinForth is no more.
+
+http://simpleopendata.com
+"Avoid publishing text as Microsoft Word files." ... "Publishing text as PDF is okay." ... "Never publish tabular data as PDF." ... "The most effective format for publishing table data is CSV."
+
+http://search.cpan.org/~jmates/Math-SlideRule-0.04/lib/Math/SlideRule.pm
+"Simulate an analog computer. ... Slide rule support for Perl."
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

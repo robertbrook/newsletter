@@ -1,0 +1,60 @@
+A newsletter from Robert Brook
+------------------------------------------------------------
+*|ARCHIVE|*
+
+
+**
+------------------------------------------------------------
+As predicted, I've not quite got my head around Mailchimp's wonderful user interface. I'm not quite sure how to get the font size looking okay on the phone, tablet and desktop screen at the same time. I'm pretty sure it's possible but I've not cracked it yet I'm afraid.
+
+http://m.guardian.co.uk/commentisfree/2013/jan/15/beyonce-photographed-underwear-feminism (http://m.guardian.co.uk/commentisfree/2013/jan/15/beyonce-photographed-underwear-feminism )
+Hadley Freeman on Beyonce and feminism: "Knowles rightly hates the fact that women are humiliated by being paid less than their male counterparts. But they are similarly humiliated by being fed the message that it doesn't matter how successful, powerful or smart you are – all that matters is how sexually available you are willing to make yourself look."
+
+http://www.slashgear.com/nokia-releases-3d-case-printing-files-for-lumia-820-18265821/ (http://www.slashgear.com/nokia-releases-3d-case-printing-files-for-lumia-820-18265821/ )
+As jokingly suggested by me in 'The Two Chairmen', Nokia actually releases templates for 3D printed phone cases.
+
+https://github.com/jtauber/quantumpy (https://github.com/jtauber/quantumpy )
+"basic quantum computing concepts implemented in Python"
+
+http://www.wired.com/underwire/2013/01/hobbit-contract-legal-analysis/ (http://www.wired.com/underwire/2013/01/hobbit-contract-legal-analysis/ )
+Tolkien vs. contract law.
+
+http://colmtuite.com/three-reasons-why-wireframing-tools-suck (http://colmtuite.com/three-reasons-why-wireframing-tools-suck )
+Wireframes I never liked, nor screenshots. Give me running code, however crappy. "Playing with drop shadows, gradients and pre-designed sign up forms might be fun for a complete beginner but when you're a serious designer trying to design complex user flows, these toys just get in your way."
+
+http://www.youtube.com/watch?v=yDaV9C0ERP8 (http://www.youtube.com/watch?v=yDaV9C0ERP8 )
+"Early Wu style Taijiquan" - from 1937. Not quite what I spend my Saturday mornings doing in Holland Park, but close.
+
+https://github.com/WhiteHouse/petitions (https://github.com/WhiteHouse/petitions )
+The White House's petitions system: written in Drupal. Barack Obama: "... we’ll share that technology so any government in the world can enable its citizens to do the same."
+
+http://programmers.stackexchange.com/questions/75486/why-arent-young-programmers-interested-in-mainframes
+Hey, I'm interested in mainframes! But wait, I'm neither young nor a programmer, so I don't suppose I count.
+
+http://barrythebarber.com/tools (http://barrythebarber.com/tools )
+What Barry the Barber uses.
+
+http://curious.astro.cornell.edu/question.php?number=416 (http://curious.astro.cornell.edu/question.php?number=416 )
+Why do planets rotate? "...  stars like the Sun spin from the original angular momentum that was there in the solar nebula from which it formed. Not only that, all orbital motion of the planets (including the spin) is due to this orginal angular momentum."
+
+http://www.fitzpatrickstemperancebar.co.uk (http://www.fitzpatrickstemperancebar.co.uk )
+My kinda joint. "Britain’s Last Original Temperance Bar! Carrying on the tradition of serving refreshing cordials in the true style of the Fitzpatrick family."
+
+http://stevelosh.com/blog/2012/10/the-homely-mutt/ (http://stevelosh.com/blog/2012/10/the-homely-mutt/ )
+Tempted by mutt to read your mail? Here's a great guide on setting it up on a Mac.
+
+http://www.fontsquirrel.com (http://www.fontsquirrel.com )
+Free fonts. Good free fonts, I understand.
+
+http://strata.oreilly.com/2013/01/u-s-house-open-data-open-government.html (http://strata.oreilly.com/2013/01/u-s-house-open-data-open-government.html )
+Alex Howard on US House data in XML. "...  here’s hoping that the entire Congress takes more steps to make the content and status of proposed laws more accessible to the hundreds of millions of people its members represent around the country."
+
+See you tomorrow.
+
+============================================================
+-
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:ADDRESS|* *|END:IF|*
+
+** Unsubscribe (*|UNSUB|*)
+** Y (*|UPDATE_PROFILE|*)
+** our profile (*|UPDATE_PROFILE|*)

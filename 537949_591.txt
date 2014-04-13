@@ -1,0 +1,42 @@
+Vol. 2, No. 591. "BRANCHING".
+Good morning everyone.
+
+http://cloudappreciationsociety.org
+"At The Cloud Appreciation Society we love clouds, we’re not ashamed to say it and we’ve had enough of people moaning about them. Read our manifesto and see how we are fighting the banality of ‘blue-sky thinking’."
+
+Three weeks. A mere three weeks.
+
+https://images.nationalarchives.gov.uk
+"We charge a supply fee of £35.00 per image." Even the popups are watermarked. When the Flickr Commons finally passes on, it'll be things like this that will remain - link courtesy of Giles Turnbull.
+
+I really want to write an IMAP client that's not an IMAP client. In Racket, for learning? In node-WebKit? In PHP, for hacky simplicity?
+
+http://supplydrops.com
+"Let people you trust upload to your Dropbox." Dropbox: something else for me to fret about.
+
+Apple's Airdrop seems like a Cinderella feature. Strange. I think I tried it twice. It doesn't appear much in iOS UI.
+
+http://www.foldr.org/~michaelw/projects/regex/regexp-test-suite.lisp
+A lisp regex test suite, including the infamous 'Gadaffi tests' ... "M[ou]'?am+[ae]r .*([AEae]l[- ])?[GKQ]h?[aeu]+([dtz][dhz]?)+af[iy]" ...
+
+http://stackoverflow.com/questions/5365283/regular-expression-to-search-for-gadaffi
+... which dates back to at least November 1998 ...
+
+https://metacpan.org/pod/Regexp::Assemble
+... leads me to have another look at the extraordinary 'Regexp::Assemble' from David Landgren. Days of the week: "(?^:(?:(?:T(?:hur|ue)|Wedne)s|S(?:atur|un)|Fri|Mon)day)", numbers: "(?^:(?:t(?:hree|en|wo)|f(?:ive|our)|s(?:even|ix)|(?:ni|o)ne|eight))", months of the year: "(?^:(?:(?:(?:Sept|Dec|Nov)em|Octo)ber|J(?:u(?:ly|ne)|anuary)|Ma(?:rch|y)|February|April))". Amazing. The debug flag is insane. I used Perl as my primary code language before Ruby: Ruby is certainly elegant, but Perl is still ahead on the heavy lifting.
+
+Windows 7 is a bit odd. Then again, I am running it on a Pentium D, so I suppose I might act a bit strangely now and then.
+
+http://api.metacpan.org/source/MARCEL/Regexp-Common-AT-Profanity-1.100860/lib/Regexp/Common/AT/Profanity.pm
+How to swear in Austrian German. You'll have to shift from ROT13 first.
+
+The new Racket docs are great, but there's no mobile view. I wonder if I can download the source files somewhere and put together something for little screens ... rehosting docs is okay, right?
+
+I was going to point to a medical thing but I came over all faint.
+
+============================================================
+
+*|LIST:ADDRESS|*
+
+
+** Unsubscribe (*|UNSUB|*)

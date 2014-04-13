@@ -1,0 +1,62 @@
+"The whole thing that makes a mathematician’s life worthwhile is that he gets the grudging admiration of three or four colleagues." - Donald Knuth
+
+http://www.flickr.com/photos/brook/7214550108 (http://www.flickr.com/photos/brook/7214550108 )
+Through the trees and up into the light.
+
+Still getting used to this tooth. I hate all that stuff.
+
+http://pagesperso-systeme.lip6.fr/Christian.Queinnec/WWW/LiSP.html (http://pagesperso-systeme.lip6.fr/Christian.Queinnec/WWW/LiSP.html )
+"This book covers Lisp, Scheme and other related dialects, their interpretation, semantics and compilation. To sum it up in a few figures: 500 pages, 11 chapters, 11 interpreters and 2 compilers."
+
+Slowest bus ever.
+
+http://search.cpan.org/~tokuhirom/Furl-2.12/lib/Furl.pm (http://search.cpan.org/~tokuhirom/Furl-2.12/lib/Furl.pm )
+"Furl is yet another HTTP client library. LWP is the de facto standard HTTP client for Perl 5, but it is too slow for some critical jobs, and too complex for weekend hacking. Furl resolves these issues. Enjoy it!" - I still miss Perl.
+
+I'm too old for horrible coffee. I'm throwing that stuff out. Bad coffee is almost as bad as no coffee.
+
+https://github.com/nathanmarz/storm (https://github.com/nathanmarz/storm )
+"Storm is a distributed realtime computation system. Similar to how Hadoop provides a set of general primitives for doing batch processing, Storm provides a set of general primitives for doing realtime computation."
+
+The ironwork at the bottom of Albert Bridge looks like the deck of an early U-boat.
+
+http://www.ninakatchadourian.com (http://www.ninakatchadourian.com )
+I like Nina's maps.
+
+Instead of getting irritated at that problem I was having parsing OPML recursively, I just decided not to do it. Problem solved.
+
+http://www.wowheritage.org.uk/nominations/nomination.php?NominationID=18 (http://www.wowheritage.org.uk/nominations/nomination.php?NominationID=18 )
+"The evidence suggests that Figsbury Ring was only occupied intermittently, either for gatherings or as a place of refuge." - I love these places. I'd like a long, very warm English summer and no company for three months. I'd just like to go around drawing them. And I don't even draw.
+
+I should write about my terrible code.
+
+http://www.lucuma.co.uk (http://www.lucuma.co.uk )
+"Lúcuma is a free online magazine about the new age lifestyle, written and created by the people who are surfing the waves of change. We are passionate about living in harmony with nature and expressing our joys." Fair enough.
+
+I am worrying less about that tooth.
+
+http://langbaumann.com (http://langbaumann.com )
+Sabina Lang and Daniel Baumann: mostly stairs.
+
+I've got used to worse things, over the years.
+
+http://www.stereophonic-supply.co/kirk-degiorgio-dingwalls-special/ (http://www.stereophonic-supply.co/kirk-degiorgio-dingwalls-special/ )
+"A six-hour homage to Gilles Peterson and Patrick Forge’s legendary Dingwalls club night."
+
+Thank goodness I'm not using Twitter any more. I don't think people could bear it.
+
+http://folksy.com/shops/enlightenedcushions (http://folksy.com/shops/enlightenedcushions )
+"Using Modern Vintage, along with Spiritual imagery of Modern Paganism and English Literature, Enlightened Cushions embraces the science versus art dichotomy, meshing together its wonderment."
+
+I think I may be having time zone issues.
+
+http://weedsuptomeknees.wordpress.com (http://weedsuptomeknees.wordpress.com )
+Pete Polanyk: music, video and gardening. Wonderful.
+
+
+
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

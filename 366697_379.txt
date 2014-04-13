@@ -1,0 +1,54 @@
+http://cirw.in//blog/time-to-move-on.html
+Conrad Irwin on the problem with MVC: "you end up stuffing too much code into your controllers, because you don't know where else to put it."
+
+http://andre.arko.net/2013/09/11/vim-is-the-worst-editor/
+André Arko: "Vim is a terrible editor, but it makes me less angry than all the other editors".
+
+http://www.washingtonpost.com/blogs/wonkblog/wp/2013/09/09/how-the-cult-of-shareholder-value-wrecked-american-business/?print=1
+Steven Pearlstein: "For too many corporations, 'maximizing shareholder value' has also provided justification for bamboozling customers, squeezing suppliers and employees, avoiding taxes and leaving communities in the lurch. For any one profit-maximizing company, such behavior may be perfectly rational. But when competition forces all companies to behave in this fashion, it’s hardly clear that society is better off."
+
+http://www.pharo-project.org/pharo-download/alpha-3-0
+Alphas of Pharo 3.0. Smalltalk, yo. I crashed it.
+
+https://editorial-app.appspot.com/workflows
+Workflows for the Editorial iPad editor ...
+
+http://omz-software.com/editorial/docs/ios_workflows/reference.html
+... Editorial workflows reference ...
+
+http://www.macstories.net/stories/editorial-for-ipad-review/
+... that massive writeup that really does crash some browsers.
+
+http://fadingcity.com/suburbia/bolak
+Blue language.
+
+Un-actioned email has tipped over a hundred again. Time to get to work.
+
+I was looking for the lyrics to a Prince song, for ... er ... research purposes. Laptop fans went mad and I had to force quite Safari.
+
+http://www.sheenaeaston.com
+I must admit I'm a bit underwhelmed by Sheena Easton's website.
+
+http://brooksreview.net/2013/05/keyboard-maestro-6/
+From a review of Keyboard Maestro: "oh baby is it awesome".
+
+http://merlinm.com/meetup
+Merlin's going to do it again, he says. If you're local, you might like to check it out ...
+
+http://dansent.me
+... and if you do listen to Merlin et al., but you missed the latest offer codes, you should check this out.
+
+http://www.raptitude.com/2012/07/most-lives-are-lived-by-default/
+David Cain: "From the other side of a major change, the thought of continuing the with way things were will seem absurd."
+
+http://theinternationalcoalition.blogspot.fr/2011/07/noam-chomsky-top-10-media-manipulation_08.html
+CHOMSKY. DO YOU READ IT?
+
+http://www.newyorker.com/online/blogs/elements/2013/09/psychiatry-prozac-ssri-mental-health-theory-discredited.html
+"Despite their continued failure to understand how psychiatric drugs work, doctors continue to tell patients that their troubles are the result of chemical imbalances in their brains."
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

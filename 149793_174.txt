@@ -1,0 +1,52 @@
+http://todomvc.com/ (http://todomvc.com/ )
+There are so many JavaScript - er - things. So many of the things. There was a site where you could compare languages doing stuff. It was called Rosetta Stone. I think. Anyway! I don't think there's a real equivalent for the many flavours of JavaScript thing. TodoMVC is great, though. Addy Osmani's site allows you to compare several frameworks as they battle each other to produce a basic todo app. Site. Thing.
+
+Honestly, I'm not sleeping well. I'd still like a direct comparison - here's a loop in ember, here's a loop in angular and so on.
+
+I saw a man squeeze his tea bag.
+
+I am on a bus, crawling over the bridge. I am listening to a podcast. I am laughing.
+
+I can understand why some music or films appear in one iTunes geographic store and not another, but apps?
+
+http://familyforest.wordpress.com/2010/03/17/ancestor-of-all-the-irish/ (http://familyforest.wordpress.com/2010/03/17/ancestor-of-all-the-irish/ )
+"Milesius is said to be the ancestor of all Irish people, and this book presents in standard genealogical format his generation-by-generation descendants leading into Hollywood movies and standard history books."
+
+I keep trying text editors and IDEs - actually, not so many IDEs as text editors. I've settled on Sublime Text as a sane compromise. I just didn't trust any IDE enough. Too much magic.
+
+http://blog.factor.io/post/40630996125/6-reasons-yahoo-pipes-failed (http://blog.factor.io/post/40630996125/6-reasons-yahoo-pipes-failed )
+"Unix pipes for the web" - docs too thin, waiting list for signup. Let's see where we are in a week. "I am not an executive at Yahoo so I won’t get a chance to grow Pipes passed its awkward adolescence to the beast it could have been. I am, however, doing the next best thing: I am building Factor." And yes, the blog is on Tumblr.
+
+I fancy seeing that Lincoln film.
+
+http://bakingforbritain.blogspot.co.uk/2005/09/chelsea-buns-of-london.html (http://bakingforbritain.blogspot.co.uk/2005/09/chelsea-buns-of-london.html )
+"My experience of the ones we were served at school had soggy bottoms, and were filled with what we were pretty sure were dead flies." - Anna bakes her own Chelsea buns - "The buns were much nicer than those school buns I recall, and not a fly in sight."
+
+A friend suggested that I go on "holiday" to Japan for eight or nine years. At least I think that's what he was saying.
+
+http://www.samontab.com/web/2011/08/use-your-old-nokia-symbian-phone-as-a-music-web-server/ (http://www.samontab.com/web/2011/08/use-your-old-nokia-symbian-phone-as-a-music-web-server/ )
+Sebastian Montabone: "Use your old Nokia symbian phone as a music web server"
+
+Chipping away. Chipping away.
+
+https://github.com/machinalis/quepy (https://github.com/machinalis/quepy )
+"A python framework to transform natural language questions to queries in a database query language."
+
+Police helicopter over Battsersea. Used to happen a lot more in Bermondsey.
+
+"Squeezed. Like a lemon."
+
+Anyway. I have email to write. Again.
+
+http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE|*&t=*|URL:MC_SUBJECT|* Like (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE|*&t=*|URL:MC_SUBJECT|*)
+http://twitter.com/?status=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE|* Tweet (http://twitter.com/?status=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE|*)
+http://www.instapaper.com/hello2?url=*|URL:ARCHIVE|*&title=*|URL:MC_SUBJECT|* Read Later (http://www.instapaper.com/hello2?url=*|URL:ARCHIVE|*&title=*|URL:MC_SUBJECT|*)
+https://plus.google.com/share?url=*|URL:ARCHIVE|* +1 (https://plus.google.com/share?url=*|URL:ARCHIVE|*)
+http://www.linkedin.com/shareArticle?url=*|URL:ARCHIVE|*&mini=true&title=*|URL:MC_SUBJECT|* Share (http://www.linkedin.com/shareArticle?url=*|URL:ARCHIVE|*&mini=true&title=*|URL:MC_SUBJECT|*)
+
+============================================================
+
+** b (*|ARCHIVE|*)
+** ack issues (*|ARCHIVE|*)
+** u (*|UNSUB|*)
+** nsubscribe (*|UNSUB|*)

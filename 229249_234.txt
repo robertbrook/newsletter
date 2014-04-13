@@ -1,0 +1,40 @@
+Well hello there!
+
+http://www.bbc.co.uk/news/magazine-22110887 (http://www.bbc.co.uk/news/magazine-22110887 )
+Pepe El Moody is a pseudonym?!
+
+I'm not sure that looking away is always for the best.
+
+http://www.triage.cc/ (http://www.triage.cc/ )
+The Triage iOS email app looks interesting. But it doesn't work with my mail provider yet, which is a bit of a bummer. I'm waiting for the update.
+
+Thinking about people who want to change the world, people who think that's a thing.
+
+http://www.loper-os.org/?p=69 (http://www.loper-os.org/?p=69 )
+This is difficult. Your employer wants you to be a generic, replaceable resource unit - don't they? So if you've got a dozen cogs, why would your employer expect magic to come out of that? "Every innovative work of mankind has been the product of one – sometimes two, rarely three – minds.  And never the work of a herd.  No mathematical theorem, no enjoyable novel, no work of art of any importance, have ever been produced by a herd.   I fail to see why innovative software ought to play by a different set of rules."
+
+Apparently it's a bit like piloting a helicopter. One hand is better.
+
+http://www.grantland.com/story/_/id/9123674/don-king-faces-end-career (http://www.grantland.com/story/_/id/9123674/don-king-faces-end-career )
+Jay Caspian Kang: "Don King no longer sits on boxing's throne, but he has nostalgia by the balls." King later quotes Roosevelt: "It is not the critic who counts: not the man who points out how the strong man stumbles or where the doer of deeds could have done better." - later still, Martin Luther King: "No lie can live forever."
+
+Depressed. Really. I am. Not this, not this. I should have gone to Monmouth. Also, I'll move from pull to push. And off some of the screens. Lets see how that goes.
+
+I should read books again. I mean, on paper.
+
+http://rinabeana.com/poemoftheday/index.php/2010/02/25/queen-kong-by-carol-ann-duffy/ (http://rinabeana.com/poemoftheday/index.php/2010/02/25/queen-kong-by-carol-ann-duffy/ )
+"When he died, I held him all night, shaking him like a doll, licking his face, breast, soles of his feet, his little rod. But then, heartsore as I was, I set to work. He would be pleased. I wear him now around my neck, perfect, preserved, with tiny emeralds for eyes. No man has been loved more. I’m sure that, sometimes, in his silent death, against my massive, breathing lungs, he hears me roar." - 'Queen Kong' by Carol Ann Duffy, my formatting.
+
+I still feel a bit miffed that Markdown seems to have beaten Textile.
+
+============================================================
+*|LIST:ADDRESS|*
+
+Thanks to Dave Briggs at  and Giles Turnbull at
+
+Every Friday: Roo's Letter
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** http://gilest.org (http://gilest.org)
+** http://tinyletter.com/rooreynolds (http://tinyletter.com/rooreynolds)
+** Unsubscribe (*|UNSUB|*)

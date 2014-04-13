@@ -1,0 +1,46 @@
+553 - THE OFFICE, BY BIKE - on the web (*|ARCHIVE|*)
+
+Good morning everyone.
+
+One of my greatest fears at work - and I do have a lot of fear at work - is that I'll come into the office one morning to be greeted by someone saying "Don't worry about coming into work any more Robert, we've done it all! There's nothing left for you to do!". Now, admittedly I've not heard of this situation arising in anyone else's employment, but it's theoretically possible ...
+
+... I mean, your employer might go bust, or be bought out, or ... run out of things to sell, or slowly realise they're trying to sell something people don't actually want to buy, or the budget dries up, or something like that. But 'doing everything' seems unlikely. I worry about it every day.
+
+Slowest internet connection ever. #suspicious
+
+I'm getting rather angry about things. I'm trying to divert my energies into something useful, being code for now. I'm writing, amongst other things, a gulpfile in Coffeescript which downloads ... er ... stuff, converts the stuff into text, chops up the text into bits, stores the bits and then makes RSS feeds out of the bits in different orders. At least, that's the idea. I'm about half-way through. It's a bit of a niche interest.
+
+There, I feel ever so slightly calmer already.
+
+http://rsdebate.nic.in/bitstream/123456789/226465/2/IQ_163_06051992_U1042_p233_p234.pdf
+Hansard from 1993. Hmm.
+
+Incredibly tired. Can't sleep. This is getting difficult. Well, I suppose I am getting to answer a lot of email. No interruptions if you're typing away at three in the morning!
+
+I've picked up the feed reading habit again. Some tech blogs but mostly books and art. I'm not bothered about "news" or keeping up to date. I just see what's on the top of the stack now and then.
+
+http://online.wsj.com/news/articles/SB10001424052702304585004579417533278962674
+"Big Mama's and Papa's Pizzeria in Los Angeles delivered pizzas to the Dolby Theatre audience during the Oscar telecast. An earlier version of this article misspelled the pizzeria's name as Big Mamma's and Pappa's." That URL is a terrible topping. There's only one true pizza. Marinara. Look it up.
+
+http://ubiome.com
+Is this real? Surely not. "... learn what bacteria are in your body"?
+
+http://www.truthinoliveoil.com
+Finally.
+
+http://www.flickr.com/photos/dasplayhaus/
+Jennis Li Cheng Tien, Berlin: her Flickr account 'dasplayhaus' is wonderful ...
+
+http://dasplayhaus.tumblr.com
+... also on Tumblr ...
+
+http://www.saatchiart.com/profile/298797
+... and for money, art.
+
+http://www.flickr.com/photos/25670129@N04/11341493235/
+Vogue Ukraine.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

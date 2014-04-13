@@ -1,0 +1,44 @@
+A newsletter from Robert Brook
+------------------------------------------------------------
+*|ARCHIVE|*
+
+
+**
+------------------------------------------------------------
+http://support.apple.com/kb/TS4124 (http://support.apple.com/kb/TS4124 )
+The fact that Apple has to explain what the iCloud icons in iTunes actually mean is surely a sign something's gone wrong. Lots of people seem to think Apple is dumbing down consumer UIs. I don't think they're doing that at all ...
+
+http://photoshopsecrets.tumblr.com (http://photoshopsecrets.tumblr.com )
+... whereas Adobe make no claim to be making cleaner UIs, so this tumblr site of Photoshop tips makes a lot of sense.
+
+http://tomtunguz.com/why-to-do-lists-are-failing-us/ (http://tomtunguz.com/why-to-do-lists-are-failing-us/ )
+Tomasz Tunguz: "Task managers will move from an ask-and-ask model to an ask-and-tell model. Today I have to ask the app to create a task and later ask the app to see which tasks to accomplish. ... The next wave of task managers will ask for two more fields, who and where, in addition to what." Interesting, but surely it'll depend on your to-do list actually being on a computer.
+
+http://www-history.mcs.st-andrews.ac.uk/Biographies/Church.html (http://www-history.mcs.st-andrews.ac.uk/Biographies/Church.html )
+Alonzo Church: a strangely dry bio.
+
+http://www.scottaaronson.com/writings/bignumbers.html (http://www.scottaaronson.com/writings/bignumbers.html )
+"Contrary to popular belief, gray mush is not only hard-wired for intelligence: it surpasses silicon even in raw computational power. But this is unlikely to remain true for long." I still have my old-school position on this and I'm willing to be argued with. Human 'intelligence' is more than computation, but if you're willing to thing of the world just in the sense of a series of chess moves, I have a super-computer to show you.
+
+http://thisyear.jp (http://thisyear.jp )
+Today's date in the Japanese calendar. I think.
+
+https://www.db.com (https://www.db.com )
+Deutsche Bank's logo, which looks a bit like ...
+
+http://www.minimallyminimal.com/blog/2012/7/3/the-next-microsoft.html (http://www.minimallyminimal.com/blog/2012/7/3/the-next-microsoft.html )
+... The Next Microsoft?
+
+http://blog.sanctum.geek.nz/advanced-vim-registers/ (http://blog.sanctum.geek.nz/advanced-vim-registers/ )
+When you cat and paste in Vim, you can use one of 26 'named registers' to store and manipulate the text. You can add text rather than just deleting the old stuff, look over several registers together, paste into a register that you can't read from and much more. Some automatic registers store the current file name, last used command and so on.
+
+http://www.randsinrepose.com/archives/2013/01/01/the_process_myth.html (http://www.randsinrepose.com/archives/2013/01/01/the_process_myth.html )
+"Anyone who interacts with process has a choice. You can either blindly follow the bulleted lists or you can ask why. They’re going to ignore you the first time you ask, the second time, too. The seventh time you will be labeled a troublemaker and you will run the risk of being uninvited to meetings, but I say keep asking why. ... healthy process is awesome if it not only documents what we care about, but is willing to defend itself. It is required to stand up to scrutiny and when a process fails to do so, it must change."
+
+============================================================
+-
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:ADDRESS|* *|END:IF|*
+
+** Unsubscribe (*|UNSUB|*)
+** Y (*|UPDATE_PROFILE|*)
+** our profile (*|UPDATE_PROFILE|*)

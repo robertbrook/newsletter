@@ -1,0 +1,41 @@
+515 - OH GO ON GO ON GO ON GO ON GO ON - on the web (*|ARCHIVE|*)
+
+http://fadingcity.com/posts/all-for-the-best
+I wrote this.
+
+Thanks to Ilicco Elia for letting me know that the BBC Playlister is available as exported data for YouTube and Deezer. That's the first time I'd hear of Deezer. Is that a real thing or is he having me on? Wait a minute, I could check ...
+
+http://www.bbc.co.uk/blogs/internet/posts/BBC-Playlister-exporting-tracks
+... turns out Deezer is a real thing. Tom Kershaw: "In relation to the JavaScript structure we had a separate module for each view and some additional modules to manage BBC Playlister API calls, use of Spotify components and helpers. We can recommend Spotify components, which enables rapid development of an app without having to worry about the details of design and implementation."
+
+https://pushover.net
+Notification push for Android and iOS. How long will these two present similar targets?
+
+http://wearefuturegov.com/2013/10/introducing-popcash-a-simple-app-for-complicated-personal-finances/
+I wonder how PopCash is doing - "We’ll be building the Popcash prototype as part of Lewes and Eastbourne Lab, as well as seeking the next round of funding to take the prototype to a full product." Backed by credit unions. Interesting. I should find out about this.
+
+http://lostconsciousness.com/2013/12/21/distraction-so-coin-much-gender-wow/
+"Has currency, the concept of money, always been gendered? Has Bitcoin merely thrown a light on something that always was there, obscured by time and common practice?"
+
+I am fighting with iTunes again.
+
+http://fadingcity.com/suburbia/toccata
+"See Even crawling on the floor doing the pedals on the church organ and Marcus playing guitar from the preachers chair." I used to play the organ: I could have done with someone else on the foot pedals. I have shorter legs than that guy.
+
+Brett Terpstra has a surprisingly low estimation of himself.
+
+http://www.synerconlwf.co
+Thanks to a correspondent in The North: "... a rich database of incidents where poor information governance / recordkeeping has contributed to dire outcomes."
+
+http://mmth.us/simplify/support.html
+"The simplest way to control Spotify, Rdio and iTunes" - three pounds on the Mac App Store.
+
+My neck hurts.
+
+http://indiephone.eu
+"Companies like Google and Facebook tempt us with seamless and beautiful experiences that are free yet Disney-esque in nature. They do not truly empower us. How can they, when we do not own the information we create, store, and share with them?" - via Dominic Tinley.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

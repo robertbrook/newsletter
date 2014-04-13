@@ -1,0 +1,40 @@
+531 - PATTERN - on the web (*|ARCHIVE|*)
+
+Hello!
+
+The web seems a mess right now. Messes aren't always bad, of course, but the flurry of activity around 'experience design', fragmentation and acceleration of certain technologies makes it a particularly fraught time.
+
+https://github.com/drdrang/drtwoot
+I can't imagine people will see this as news, since it's been around for some time. If you're on a Mac and you're okay with code, here's a pretty plain Twitter client. "When Twitter removed Basic Authentication in August of 2010, Dr. Twoot could no longer work as a standalone client. It now requires a running web server on your local machine and a CGI script to make the OAuth requests to Twitter." That you have to go to these lengths in another indication of ... well, something.
+
+Of course I have views and opinions about the place I work - and about how that place stores and publishes information. However, I am not employed to make those decisions, nor do I feel content expressing my own views when people who bear far more responsibility than I do are available to comment. It's not my job. It's their job. If you want my personal views, you can always ask. I'm quite prepared to share them privately. I'm almost certain that's still allowed.
+
+http://www.datatau.com
+YC News for 'data'. I'm not sure how often it gets updated.
+
+I think the clock needs winding. Tomorrow morning, I'll do it.
+
+http://indiephone.eu
+I'm not sure why I had this tab open. "What’s an OS? Why should you care? Our thoughts exactly." Oh, wait, Aral Balkan. That's why ...
+
+http://gitlab.org
+... and the source for that site is hosted using GitLab ...
+
+https://gitlab.com/gitlab-org/gitlab-ce/
+... the source of which is also hosted, on - er - it.
+
+http://reclinejs.com
+"A simple but powerful library for building data applications in pure Javascript and HTML."
+
+http://search.cpan.org/~gaas/HTML-Parser-3.71/lib/HTML/TokeParser.pm
+Again, a flurry of Perl and - well, maybe I'll use this later. For something else.
+
+http://shancarter.github.io/mr-data-converter/
+"I will convert your Excel data into one of several web-friendly formats, including HTML, JSON and XML."
+
+Hopefully I shall be a little more cheery tomorrow.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

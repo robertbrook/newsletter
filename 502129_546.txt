@@ -1,0 +1,33 @@
+546 - PINK PINK - on the web (*|ARCHIVE|*)
+
+"The wars of appurtenance, of appropriation, that rage in families: no. No violence. Only insistence and profundity. And to each, his or her profound destinal mission: becoming human." - Helene Cixous
+
+http://fmg.ac/Projects/MedLands/ITALY,%20Kings%20to%20962.htm#_Toc203638170
+The Amal Goth kings of Italy, including Theodemir, son of Vandalarius. "King of the Ostrogoths in Pannonia, under his brother Valamir, he ruled over the western part of their domain which covered the county of Somogy and northeastern Croatia." His un-named wife's only daughter with him, Amalafrida, was murdered. Amalafrida's son Theodahad was murdered. Amalafrida's daughter Amalaberga was described by Geoffrey of Tours as a "wicked and cruel woman" - and killed her husband.
+
+I still can't get ReadKit to start up cleanly on this particular machine. It crashes every time. Their support email didn't respond, which is a pity.
+
+https://github.com/square/maximum-awesome
+"Config files for vim and tmux, lovingly tended by a small subculture of peace-loving hippies. Built for Mac OS X." - from Square ...
+
+http://got-ravings.blogspot.co.uk/2008/08/vim-pr0n-making-statuslines-that-own.html
+... all about statuslines in Vim. Helpful disclaimer: "This blog is rated M (Mommy). If you are easily offended, it is recommended that you read this with your mommy present so you can cry if need be." ...
+
+https://github.com/scrooloose?tab=repositories
+... even more Vimmery here.
+
+Should I give up on the Fitbit Force ever reaching the UK?
+
+http://aralbalkan.com/notes/on-owning-your-own-data/
+"Google, Facebook, etc., are the landlords who rent you your home for free or for a reduced fee in exchange for the right to snoop on you. You store your stuff on their services. Google even sells you cheap hardware and free software to make it easy for you to use their services. And, unless you are an über geek who can set up their own server and install, configure, and run open source software, you have no other alternatives."
+
+http://en.wikipedia.org/wiki/Brownie_(elf)
+"Brownies are said to inhabit houses and aid in tasks around the house. However, they do not like to be seen and will only work at night, traditionally in exchange for small gifts of food. Among food, they especially enjoy porridge and honey."
+
+http://dangoldin.com/2013/12/01/drowning-in-javascript/
+"Almost every site I visit has at least one analytics library, a few advertising libraries, and some social network sharing libraries."
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

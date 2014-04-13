@@ -1,0 +1,61 @@
+462 - EDGE
+
+On the web (*|ARCHIVE|*)  - Signup link (*|LIST:SUBSCRIBE|*)
+
+Good morning.
+
+http://iodocs.opml.org
+How to set up an Instant Outliner server - I imagine this may be somewhat outdated by now.
+
+http://fadingcity.com/suburbia/how-to-set-up-a-basic-http-api-with-erlang-in-10-minutes
+A video on basic Erlang http.
+
+http://crypt.codemancers.com/posts/2013-09-26-setting-up-emacs-as-development-environment-on-osx/
+A comprehensive 'by hand' setup of emacs for ruby on OS X.
+
+http://www.raretunes.org
+"Recordings range from near-studio quality to crowded and noisy house sessions, from digital media to old bits of tape, vinyl and 78s."
+
+http://wiki.opencog.org/w/Setup_OpenCog_development_environment_VM_using_Vagrant
+A customised Vagrant setup for development. Very useful.
+
+https://en.wikipedia.org/wiki/Pickfair
+"In 2012, Pia Zadora claimed on Season 4, Episode 4 of the BIO channel's 'Celebrity Ghost Stories' that the real reason she demolished Pickfair was not due to termite infestation but because it was haunted by the laughing ghost of a woman who allegedly died there while having an affair with Douglas Fairbanks."
+
+https://gumroad.com/l/nshipster
+"NSHipster: Obscure Topics in Cocoa & Objective-C" - $19.
+
+http://www.pbs.org/thewar/detail_5232.htm
+"The largest kamikaze was the giant battleship 'Yamato', dispatched to Okinawa with sufficient fuel for only a one-way trip. She was to inflict as much damage as possible before being destroyed; the Japanese hoped the Yamato might finish off the Allied fleet after the latter had been weakened by kamikaze attacks, then beach herself as a stationary battery."
+
+http://sass-lang.com/documentation/file.SASS_CHANGELOG.html
+"Tune up some heuristics for eliminating redundant generated selectors."
+
+http://www.indiegogo.com/projects/nomad-micro-home-easily-assembled-under-30k
+The Nomad Micro Home: yours for $5k.
+
+I'm surprised; that's it's December already, that we're already a week into it. Time flies and so on.
+
+https://discussions.apple.com/message/23119700#23119700
+"Declined events show up anyway. How can I solve this?" #facebook
+
+Five minutes.
+
+https://discussions.apple.com/message/11081690#11081690
+"Every time you post you show a different computer and a different operating system. Please clear that up."
+
+Apple Support Communities are no fun.
+
+Two minutes. Better to, than not.
+
+http://stackoverflow.com/questions/7305108/viewing-a-file-over-a-network-meaning-of-k
+One of those very hard to Google things: "I have 'showcmd' set, and often when viewing (NOT editing) a file over a network, I observe the characters '~@k' appearing in the showcmd position." #vim
+
+No-one wants to be chasing people around, really, do they?
+
+Enjoy today.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

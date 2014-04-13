@@ -1,0 +1,33 @@
+http://learningoutsiders.com/ourlearningwebsite/2012/12/14/pyrolysis-chemiluminescence-oxidation-and-incandescence/ (http://learningoutsiders.com/ourlearningwebsite/2012/12/14/pyrolysis-chemiluminescence-oxidation-and-incandescence/ )
+"Today we learned about fire because we wanted to know why fire was hot. We started by getting some small birthday cake candles, matches, a baking tin, a jar and some water."
+
+I wished I'd saved that page. It was wonderful writing. Oh! I did save that page with Instapaper! Slowly leaving Instapaper.
+
+http://www-cs-faculty.stanford.edu/~uno/programs.html (http://www-cs-faculty.stanford.edu/~uno/programs.html )
+Knuth: "I write lots of CWEB programs, primarily for my own edification. If there is sufficient interest, I'll make a large subset of them available via the Internet. For now, I'm listing only a few. The first two show ... that exactly 2,432,932 knight's tours are unchanged by 180-degree rotation of the chessboard."
+
+Quite a few write ups of how difficult it is to use name-of-js-framework goes here. Also someone on how Ruby is old hat. And so it goes.
+
+http://www.hasbean.co.uk/blogs/articles/6488493-how-has-bean-began (http://www.hasbean.co.uk/blogs/articles/6488493-how-has-bean-began )
+A wonderful writeup from Stephen Leighton on his early days. He's a hugely enthusiastic man - and, pleasingly, sells some of the best coffee I've ever drunk ...
+
+http://www.hasbean.co.uk/collections/8-10/products/back-to-the-future-espresso-blend (http://www.hasbean.co.uk/collections/8-10/products/back-to-the-future-espresso-blend )
+... including this wonderful "Back To The Future" espresso blend. Honestly, I enjoyed it more than stuff almost twice the price. Delicious!
+
+I'd still like to try making a 'raw' node.js thing. No frameworks. Is that a thing?
+
+http://www.telegraph.co.uk/motoring/news/7859211/Range-Rover-creator-Charles-Spencer-Spen-King-1925-2010.html (http://www.telegraph.co.uk/motoring/news/7859211/Range-Rover-creator-Charles-Spencer-Spen-King-1925-2010.html )
+Charles Spencer King, who died in 2010: "A hugely popular figure as well as a fierce engineering talent ..."
+
+Right: who's this? I'll tell you tomorrow ... Born in south London in 1907; left after a year of his degree at UCL; left after a year of his degree at Bonn; spoke French, Greek, Danish, Russian, German, Italian, Dutch and Gaelic; worked at Reuters with Ian Fleming; left for Canada at 21, worked as an insurance salesman, schoolteacher, lumberjack and gold miner; returned to England on a Dutch freighter, penniless; was secretary to the British Ice Hockey Association, was a hockey goal-keeper and managed the national team, in Berlin, when he was 25; raced cars, not that sucessfully, at Brooklands; became a policeman in the Saar Territory; fought in the Spanish Civil War; grew a beard; joined the Royal Navy Volunteer Reserve and injured by shell shrapnel at 36; attempted but failed to become an MP at 43; played in the same rugby team as Fanny Craddock's husband; starred in four films with Gregory Peck; married for the second time three days before his death, again penniless.
+
+https://github.com/mizzy/serverspec (https://github.com/mizzy/serverspec )
+Gosuke Miyashita's serverspec. This could be very useful. A spec tester for servers.
+
+http://statspotting.com/the-real-reason-why-non-programmers-are-paid-more/ (http://statspotting.com/the-real-reason-why-non-programmers-are-paid-more/ )
+Seems a little naive, this.
+
+============================================================
+Registered address: *|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

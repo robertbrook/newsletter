@@ -1,0 +1,35 @@
+555 - OVER VAUXHALL - on the web (*|ARCHIVE|*)
+
+At work: FileTransporter's 'Connected Desktop' won't launch. At home: ReadKit won't launch. Efficient!
+
+I'm going to write something about what people call 'stress'.
+
+I really have stopped even looking at Twitter now. It's no fun for me. I can't play with the bigger boys any more.
+
+http://www.howtobrewcoffee.com/Vietnamese.htm
+At "Milk No Sugar" in Brighton. A nice man is showing me how to make Vietnamese coffee. This place has space to sit, it's just down from the station, serves food, has wifi and a toilet. Amazing. I've had better coffee, but it was still pretty good. I bought a Vietnamese coffee filter - it looks like a small metal cup and saucer with a filter in it. I didn't order a Vietnamese coffee though, since he insisted it needed sugar in it. I think I may have offended him by suggesting that it sounded a bit like ...
+
+http://cocinayvino.net/vinos/bebidas-no-alcoholicas/2170-cafe-bombon.html
+... a cafe bombon, which I used to drink in a place called 'Homemade' on Barry Road in East Dulwich. It was great there. I had pancakes, too. Very nice. Anyway, that coffee: "Primero se pondrá en la taza la leche condensada, tanta cantidad como desee. Acto seguido, se echará el café, sin remover. Se presenta con la característica espuma del expreso en la parte de arriba. La diferentes densidades de los líquidos hace que el café quede en la parte superior mientras que la leche condensada queda en la parte inferior." I might still try it.
+
+http://search.cpan.org/~tmharish/HTML-Miner-1.03/lib/HTML/Miner.pm
+HTML::Miner is a bit like my brutal URL idea, but not quite there. I'm tending very much to writing it in Perl, though. A hammer and magic bullet combined.
+
+http://search.cpan.org/~frew/IO-All-0.59/lib/IO/All.pod
+I feel very happy knowing that IO::All seems to be acceptable in Modern Perl. I always enjoyed using it.
+
+http://htmlparsing.com/perl.html
+"How to parse HTML the right way, without regular expressions" ...
+
+http://search.cpan.org/~gaas/HTML-Parser-3.71/Parser.pm
+... including the venerable HTML::Parser of happy memory.
+
+I think I've got ReadKit back on it's feet again on this screen. Not sure how I can persuade FileTransporter to come alive, though. Hey, ReadKit? Are you still eating my CPU? Or, maybe not. Force quit. #beachballing
+
+http://www.theguardian.com/society/2014/jan/31/inside-london-billionaires-row-derelict-mansions-hampstead
+"owl skeletons"
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

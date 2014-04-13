@@ -1,0 +1,56 @@
+Here's a version of today's post, with the links back in.
+I've not quite worked out how to do it automatically.
+http://www.jstween.org/ (http://www.jstween.org/ )
+"While good for simple effects, popular JavaScript libraries like jQuery lack the Oomph required to animate complex user interactions in the DOM. JSTween was designed from the ground up for speed and precision ..."
+
+http://css-tricks.com/when-using-important-is-the-right-choice/ (http://css-tricks.com/when-using-important-is-the-right-choice/ )
+Chris Coyier on using "!important" in CSS: he argues it's good for making elements "robust" - together with the little-used in-browser style sheet.
+
+http://bbedit-hints.tumblr.com/ (http://bbedit-hints.tumblr.com/ )
+I really need to plough through this: "The (Unofficial) BBedit Hints Weblog".
+
+https://github.com/sbellity/futon4mongo (https://github.com/sbellity/futon4mongo )
+"A port of CouchDB's Futon web interface to MongoDB"
+
+http://aspen.io/ (http://aspen.io/ )
+Aspen, a python framework. "Aspen maps your URLs directly to the filesystem. It’s way simpler than regular expression routing or object traversal." Hm. I like that.
+
+http://threecrickets.com/prudence/ (http://threecrickets.com/prudence/ )
+"a container and platform for scalable web frontends and network services"
+
+http://jsbooks.revolunet.com/ (http://jsbooks.revolunet.com/ )
+Books on JavaScript available free on the web. Non-horrible ones, by the look of it. Actually this looks great. I should squash all these into Devonthink.
+
+http://www.jsdb.io/?sort=trending (http://www.jsdb.io/?sort=trending )
+Recent Javascript libs. Trending. If you will.
+
+https://github.com/thoughtbot/appraisal (https://github.com/thoughtbot/appraisal )
+This is why I'm not really a programmer. "A Ruby library for testing your library against different versions of dependencies."
+
+http://eggerapps.at/pgcommander/ (http://eggerapps.at/pgcommander/ )
+A Postgres client for Mac, written by ...
+
+http://jakobegger.at/2013/leaving-academia.html (http://jakobegger.at/2013/leaving-academia.html )
+... Jakob Egger, who wrote this a couple of months ago: "I decided that I've spent enough time being educated."
+
+http://www.visitproteus.com (http://www.visitproteus.com )
+I absolutely love this game. It's not even a game. One of the best ten dollars you could choose to spend.
+
+http://paulgraham.com/raq.html (http://paulgraham.com/raq.html )
+"Like dogs, kids can tell very accurately whether or not someone wishes them well." Also: "I would guess a smart person can learn to hack sufficiently well in 6 months to a year." Let's go through that last one. Paul Graham, that guy, thinks that it'll take up to a year - a year - for a smart person to learn to hack sufficiently well. So you have to be smart already, spend a year - and coming out, you'll be able to hack, sufficiently well.
+
+http://stringjs.com/ (http://stringjs.com/ )
+Things with strings in JavaScript.
+
+http://historypodcasters.com/ (http://historypodcasters.com/ )
+I've been listening to a few history podcasts recently. I find the amateurs more easy on the ear than some of the stuff in iTunes U. Perhaps I've just not explored enough. At the moment I'm listening to the history of Byzantium - and some BBC recent history podcasts. I'd really like to find something about the Victorians, the end of the British Empire and Charlemagne.
+
+http://www.flavourjournal.com/content/1/1/7 (http://www.flavourjournal.com/content/1/1/7 )
+Speaking of spoons: "food was rated as significantly more pleasant, and perceived to be of higher quality, when tasted with a heavier metallic spoon as compared to a metallic-looking plastic spoon". #spoons
+
+Onwards.
+
+*|LIST:ADDRESS|*
+Unsubscribe (*|UNSUB|*)
+
+============================================================

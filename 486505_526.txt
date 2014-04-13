@@ -1,0 +1,23 @@
+526 - RONNIE - on the web (*|ARCHIVE|*)
+
+Morning all.
+
+http://fadingcity.com/posts/compartmentalization
+I wrote this, on "compartmentalization". If anyone would like to suggest something that will calm me down for a week, that would be great.
+
+I was almost distracted for a moment there, but I'm back on track. With this thing. Anyway - I have a question. I have a pretty simple lookup table: if you chose this, you get that - that sort of thing. I'd like to write a very basic one-page 'app' that acts as a 'wizard'. I don't want to save any information on the client or server side; I just want to step through a decision tree. Can anyone point me to something that would help me do that? I'm looking at a few results for 'Javascript decision tree' but I wondered if anyone had any recommendations. Am I looking at the right thing?
+
+I'm at the Milk Bar on Bateman Street. I've not been here for a long time. It's changed, quite a bit. It's a lot less spartan than before. A bit twee, now, I think. Maybe that's the style. Opposite, the Lorelei is long gone. Everything feels a bit temporary, like a down-market pop-up. The coffee is perfectly serviceable, but that's no enough to replace the feeling of the place from a couple of years ago.
+
+Whereas, Monmouth. Well, these people know their onions. They're still the best, I think, if you're okay with the idea of drinking coffee in what often feels like the gun-deck of the Victory. Packed in with strangers you're going to get to know well, lots of banging, yelling, that's sort of thing. No amputations, though.
+
+Squarespace updated their terms and conditions in January. Revisions include: "You may not upload individual files larger than 20MB, except audio files which may be up to 168MB."; "The Site may contain links to other web sites owned by third parties ('Third Party Sites'). Please note that when you click on any of these links, you are entering another website for which we have no responsibility or control." and "We reserve the right, in our sole discretion, to modify or replace any part of this Agreement at any time, effective upon the date of the change."
+
+I still think Squarespace is value for money. I continue to use and recommend it. But, well, it's still their service. And their terms and conditions.
+
+Have fun.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

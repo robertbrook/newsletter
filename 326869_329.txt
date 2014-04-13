@@ -1,0 +1,20 @@
+Good morning.
+
+http://en.wikipedia.org/wiki/Tootsie_Pop (http://en.wikipedia.org/wiki/Tootsie_Pop )
+"At an office meeting employees were asked to share any ideas for new candies. Mr. Weisgram had been thinking beforehand. Just the other day, Clara, his daughter, had shared a lick of her lollipop, at the same time, Weisgram had a Tootsie Roll in his mouth. He thought about how good it tasted and up popped an idea. The board loved his idea and began to plan for the creation of this new candy. Committees were formed and changes made until finally everything was ready. Tootsie Pops are produced up to this day and additional flavors are added once every while." What?
+
+http://www.colorforth.com/HOPL.html (http://www.colorforth.com/HOPL.html )
+I inherited both Forth and Lisp from my dad. This is Chuck Moore's early history of Forth. "None of the books about Forth quite capture its flavor." ... "Forth is a text-based language that is essentially context-free." ... "LISP is to Lambda Calculus as Forth is to Lukasewcleicz Postfix." ... "I rewrote my code in COBOL and learned the truth about business software." ... "Since the dictionary would be searched from newest to oldest definitions, recursion would normally occur." - I like that! "After giving notice, I wrote an angry poem and a book that has never been published. It described how to develop Forth software and encouraged simplicity and innovation." ... "I struggled with the concept of meta-language, language that talks about language. Forth could now interpret an assembler, that was assembling a compiler, that would compile the interpreter." ... "I don't think ideas should be patentable. Hindsight agrees that Forth's only chance lay in the public domain. Where it
+has flourished."
+
+http://web.mclink.it/MI2701/rivista/1994ld/lukasiewicz94ld.pdf (http://web.mclink.it/MI2701/rivista/1994ld/lukasiewicz94ld.pdf )
+The CV (!) of the chap who came up with 'Polish Notation', Jan Łukasiewicz. "In September 1939, at the beginning of the second world-war, we lost our home with all our property by German bombs and fire." The CV seems to have been witnessed by his wife - and includes a list of papers in Polish, French, German and English.
+
+http://joannasfood.blogspot.co.uk/2008/01/baked-shredded-wheat.html (http://joannasfood.blogspot.co.uk/2008/01/baked-shredded-wheat.html )
+"You get two Shredded Wheat, spread them liberally with butter, put them in an ovenproof dish and into a hot oven for an unspecified period of time. Not too long, because you don't want it to burn. When they come out, you pour a little of this so-called Marmite stock on and around the SW, and serve."
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

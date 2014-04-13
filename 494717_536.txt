@@ -1,0 +1,39 @@
+536 - THE TOWER OF LONDON - on the web (*|ARCHIVE|*)
+
+Good morning.
+
+"Love is the extra effort we make in our dealing with those whom we do no like." - Quentin Crisp
+
+http://www.gutenberg.org/files/15944/15944-h/15944-h.htm
+"... if any person accustomed to drink wine would but try malt liquor for a month, he would find himself so much the better for it, that he would soon take to the one, and abandon the other. Some suppose the superior bottom of the British soldiery to be owing, in a great measure, to their use of malt liquor."
+
+https://store.tinygreenpc.com/tiny-green-pcs/microsvr/microsvr.html
+"Fanless low power microserver with Intel Core i7, 16BG ECC RAM, 4 x internal hard disk bays and 6Gbe ports - all within a ruggedised metal design" - £1200 LESS VAT.
+
+http://programming.oreilly.com/2013/12/supercomputing-on-the-cheap-with-parallella.html
+Federico Lucifredi: "Packing impressive supercomputing power inside a small credit card-sized board running Ubuntu, Adapteva's $99 ARM-based Parallella system includes the unique Ephiphany numerical accelerator that promises to unleash industrial strength parallel processing on the desktop at a rock-bottom price."
+
+http://svtsim.com/moonjs/agc.html
+A simulation of the Apollo Guidance Computer, written to Javascript using Emscripten: "The simulated DSKY communicates with a simulated AGC, which in turn runs a copy of Colossus 249, the flight software that flew on the Apollo 9 Command Module."
+
+http://elearning.algonquincollege.com/coursemat/dat2343/lectures.f03/12-LMC.htm
+"Although it is completely inaccurate, it is sometimes convenient to imagine a computer's processing as if it were being managed by a 'little man' inside the computer." - how wonderful!
+
+https://wilwheaton.net/2013/12/not-everyone-is-going-to-like-the-thing-you-made-and-thats-okay/
+"... If you enjoyed making a thing, and you’re proud of the thing you made, that’s enough. Not everyone is going to like it, and that’s okay."
+
+https://github.com/jedi4ever/veewee
+"Veewee is a tool for easily (and repeatedly) building custom Vagrant base boxes, KVMs, and virtual machine images."
+
+http://tin.cr
+"Edit and save files from Chrome Developer tools. Live reload for Chrome."
+
+http://www.theguardian.com/music/tomserviceblog/2013/apr/23/contemporary-music-guide-xenakis
+Tom Service: "This music is expressive: not in a conventionally emotional way, perhaps, but it has an ecstatic, cathartic power. [Iannis] Xenakis's music – and its preternaturally brilliant performers - allows its listeners to witness seismic events close at hand, to be at the middle of a musical happening of cosmic intensity."
+
+Have fun today.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

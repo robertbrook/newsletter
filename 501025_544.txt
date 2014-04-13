@@ -1,0 +1,47 @@
+544 - UNDERNEATH THE ARCHES - on the web (*|ARCHIVE|*)
+
+Hello!
+
+http://qt-project.org/wiki/The_Qt_Governance_Model
+"The Qt Project is a meritocratic, consensus-based community interested in Qt."
+
+http://scripting.com/2014/01/21/myOwnExperiencesWithTheBattleForLife.html
+Dave Winer on 'battling disease', then the following 'battle for life'.
+
+I have a creeping feeling of calendar chaos. I'm sure it'll all work out for the best.
+
+http://en.wikipedia.org/wiki/British_Rail_Class_91
+I honestly didn't realise that this locomotive was two of them: it runs "back end first" on occasion.
+
+Nasty URLs irritate and distress me. I hope you don't make nasty URLs. I'm sure you don't. You don't look the type.
+
+http://alexandria.tue.nl/extra2/200112997.pdf
+"Loudspeaker-driven thermo-acoustic refrigeration" ... "the generation of sound by heated surfaces and the process of heat transfer from one place to another by sound." Some amazing illustrations ...
+
+http://www.coolsound.us/work.html
+... "High amplitude sound waves are generated inside a specially-shaped cavity called a resonator, pressurized to several atmospheres. The resulting pressure fluctuations can be designed to occur hundreds or even thousands of times per second and can generate temperature differences well in excess of 100 degrees Fahrenheit."
+
+http://tools.wmflabs.org/geohack/geohack.php?pagename=Congdon%27s_Shop&params=50.57937_N_4.42721_W_type:city(50)_region:GB
+There's a place in Cornwall called "Congdon's Shop" ...
+
+http://www.ukniwm.org.uk/server/show/conMemorial.26143/fromUkniwmSearch/1
+... this is what I was looking for: the war memorial at the crossroads.
+
+http://en.wikiquote.org/wiki/Joan_Vollmer
+"Joan's idea of a good time was to go to Child's at 110th Street and Broadway and sip 'kummel' and have deep conversations about Plato and Kant while listening to classical music. Or she would spend the entire morning in the bathtub, with bubble-bath up to her chin, reading Proust. If you wanted to talk to her you had to do it in the bathroom."
+
+http://en.wikipedia.org/wiki/Mark_Hanbury_Beaufoy
+"... an English vinegar manufacturer and Liberal member of parliament. He wrote 'A Father's Advice', a famous piece of verse about gun safety."
+
+http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts
+Drafts specs for 'Harmony', the next version of ECMAscript - of which Javascript is an expression. The PDFs linked to usefully include change marks.
+
+http://www.theguardian.com/childrens-books-site/2014/feb/24/rick-yancey-quickfire-interview-the-5th-wave
+Q. "What advice would you give to your 10-year-old self?"
+A. "You're not half as clever as you think you are and life will be twice as difficult as you think it will be."
+That seems a bit depressing.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

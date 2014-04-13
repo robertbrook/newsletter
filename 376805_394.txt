@@ -1,0 +1,34 @@
+http://robertbrook.com/newsletter
+
+http://fadingcity.com
+
+
+I think I'm going to write something about getting older. I've not left off my other stuff, though. I do need a better way of managing chunks of text. Omnioutliner, perhaps. Wait - I think I mean Tinderbox. Time to write.
+
+http://en.wikipedia.org/wiki/San_Theodoros
+"An interesting detail is the ridiculous proliferation of colonels ..."
+
+http://fadingcity.com/suburbia/vivaldi-syncopating
+Vivaldi's Cello sonata, no. 8. I like the second movement. If you're not a Spotify user, is this playable?
+
+"Just a friendly reminder that your Flickr Pro account has expired." Yeah thanks.
+
+https://wiki.appcelerator.org/display/guides/Deploying+to+iOS+devices#DeployingtoiOSdevices-Registeryourtestdevices
+Is it possible to 'deploy' an iOS app to a device without going through the App Store? I mean, my own device, at the end of a USB cable? Hm. Looks like it. Goodness, I'm too old for this. This isn't for me at all. What was I thinking?
+
+http://www.mt-archive.info/Bar-Hillel-1960-App3.pdf
+Yehoshua Bar-Hillel, 1960: "It is an old prejudice, but nevertheless a prejudice, that taking into consideration a sufficiently large linguistic environment as such will suffice to reduce the semantical ambiguity of a given word." ... "We know all these additional facts by inferences which we are able to perform, at least in this particular case, instantaneously, and it is clear that they are not, in any serious sense, stored in our memory. Though one could envisage that a machine would be capable of performing the same inferences, there exists so far no serious proposal for a scheme that would make a machine perform such inferences in the same or similar circumstances under which an intelligent human being would perform them." ...
+
+http://www.hutchinsweb.me.uk/Bar-Hillel-2000.pdf
+... "Previously, he had left open the possibility that computers with learning (or ‘self-organizing’) capabilities might be able to improve their initial algorithms and thereby improve output. He dropped the last vestiges of his cyberneticist past. He was now [1962] convinced that computers could never acquire full common-sense ‘knowledge’ and ‘understanding’ of the ‘real world’, and would never be capable of ‘learning’ language ..."
+
+http://data.gov.uk/blog/open-data-user-group-response-to-rm-postcode-address-file-licensing-consultation-–-september-2013
+Heather Savory, Open Data User Group chair: "... the consultation does little to simplify the current PAF licensing regime, or to help the Royal Mail drive the wider use of its PAF data in the fast-growing digital economy."
+
+
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

@@ -1,0 +1,45 @@
+https://code.djangoproject.com/wiki/DjangoFriendlyWebHosts (https://code.djangoproject.com/wiki/DjangoFriendlyWebHosts )
+A bit late now, but still.
+
+http://www.uneasysurvival.co.uk (http://www.uneasysurvival.co.uk )
+From Brenda Burrell.
+
+http://programmers.stackexchange.com/questions/55284/is-lisp-still-useful-in-todays-world-which-version-is-most-used/188048#188048 (http://programmers.stackexchange.com/questions/55284/is-lisp-still-useful-in-todays-world-which-version-is-most-used/188048#188048 )
+"People who use LISP don't tend to shout too loudly about it ..." - why?
+
+http://software-lab.de/down.html (http://software-lab.de/down.html )
+No homebrew formula for picolisp? That's a pity.
+
+http://www.newlisp.org/index.cgi?page=Downloads (http://www.newlisp.org/index.cgi?page=Downloads )
+Bah. Newlisp sits on the JVM.
+
+http://www.rail-reg.gov.uk/server/show/ConWebDoc.11063 (http://www.rail-reg.gov.uk/server/show/ConWebDoc.11063 )
+"Third party developers have significant concerns about how NRE deal with their applications and about the operation of the Code in practice. It is not clear to us, at this stage, what the marketplace would have looked like, for example, should NRE have adopted a more open data approach and whether this would, therefore, be a preferred outcome."
+
+http://www.klutz.com (http://www.klutz.com )
+Big in pens.
+
+Thinking about Nicholas Monsarrat - and how much I enjoyed reading 'The Cruel Sea' when I was young.
+
+http://www.bbc.co.uk/blogs/internet/posts/Linked-Data-Connecting-together-the-BBCs-Online-Content (http://www.bbc.co.uk/blogs/internet/posts/Linked-Data-Connecting-together-the-BBCs-Online-Content )
+The BBC continues to insist on Real Names. Here's Oli Bartlett on the systems which support their Olympics site. "Currently we're working on getting data and content around music, politics, learning and sport (beyond football and the Olympics) into the platform. We're also investigating ways in which to get archived content into the platform as there are huge opportunities for publishing this in new ways using linked data." I have things to think about here. Thank goodness I don't have any direct responsibility for any ... er ... similar systems.
+
+http://www.digitalpersona.com (http://www.digitalpersona.com )
+The cafe on 4 Millbank has fingerprint readers for the staff. That seems a bit creepy, but I suppose it makes sense.
+
+http://shkspr.mobi/blog/2013/02/shakespeare-and-emoticons/ (http://shkspr.mobi/blog/2013/02/shakespeare-and-emoticons/ )
+Terence Eden: 'Ah, yes, the famous "Unlocking knowledge by locking away behind paywalls" strategy. We all know how well that works out... '
+
+http://blogs.oucs.ox.ac.uk/oxcert/2013/02/18/google-blocks/ (http://blogs.oucs.ox.ac.uk/oxcert/2013/02/18/google-blocks/ )
+I recall something recently being criticised as "too chatty". Here's Oxford University on blocking Google Docs, sounding positively lighthearted as some points.
+
+http://etherpad.org (http://etherpad.org )
+I was going to install this but I ran out of patience during the download. Goodness me, what have I turned into?
+
+http://math.stackexchange.com (http://math.stackexchange.com )
+I have a maths problem. At least, I think I have. I don't know if I should try to ask a question on the maths Stack Exchange site. Here's my problem: I've got a long series of ... things. The series looks sort-of random, but might not be. I'm pretty sure there are repeating events in this pseudo-random series, but I'm not sure how to find them. I can think of a couple of incredibly clumsy ways of trying to find these repeating events, but I'm sure there must be a proper way to do it. I'm worried about asking a really silly question. Got any ideas?
+
+============================================================
+
+** back issues (*|ARCHIVE|*)
+** unsubscribe (*|UNSUB|*)

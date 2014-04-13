@@ -1,0 +1,46 @@
+560 - A REFLEX - on the web (*|ARCHIVE|*)
+http://fadingcity.com/posts/stress
+I wrote this.
+
+Why does the Apple App Store show me things I've already bought as 'recommended'? Someone explained it all in one word recently: "Oracle".
+
+http://tablets.perl6.org
+Backing off Perl 6 for a bit. Amazing, though. "These are the Perl 6 Tablets, a comprehensive manual, aiming to support many different ways of learning. The content is nicely sorted and indexed and many links allow you to follow your interest freely." Still under construction, just like the old days.
+
+Oh no, not the XCode dance again.
+
+http://moarvm.org
+"... MoarVM is a virtual machine built especially for Rakudo Perl 6 and the NQP Compiler Toolchain."
+
+Logistics!
+
+http://en.wikipedia.org/wiki/Barbara_Daly_Baekeland
+"Murdered at her London home, her son Anthony stabbed her with a kitchen knife, killing her almost instantly. When the police arrived, they found Anthony, who was 25 years old at the time, ordering Chinese food over the phone."
+
+Was there always 'pop music'?
+
+http://fadingcity.com/suburbia/steroidogenesis
+Can anyone recommend a good book on neuro-anatomy - and on whatever this is, you know, diagrams of chemical processes in the body? #please #thankyou
+
+http://en.wikipedia.org/wiki/Cytochrome_P450
+"The cytochrome P450 superfamily of monooxygenases ... is a large and diverse group of enzymes that catalyze the oxidation of organic substances. The substrates of CYP enzymes include metabolic intermediates such as lipids and steroidal hormones, as well as xenobiotic substances such as drugs and other toxic chemicals." Fascinating. Amazing! The body as machine.
+
+Lots of mail to reply to. I have a little list. Actually a big list. It's not because I'm important and get lots of email, nor is it because I won't reply, but because I want to think and reply individually to so many things I care about.
+
+https://github.com/jbclements/java/blob/master/java/doc.txt
+"The libraries of the 'java' collection provide utilities for manipulating Java
+programs in both source and binary format." From Racket to Java.
+
+Let's call it TWELVE. #12
+
+http://vijayan.ca/blog/2012/02/21/javascript-type-model/
+"Javascript has always been a language with warts, but those warts are a reflection of its history. It’s the ugly duckling that inadvertantly took over the world. It’s the language the dynamic web was built on. It is what it is. However, I understand if you disagree, if this eating-french-fries-off-the-fine-china really gets under your skin."
+
+"Functioning as a manager."
+
+============================================================
+
+*|LIST:ADDRESS|*
+
+
+** Unsubscribe (*|UNSUB|*)

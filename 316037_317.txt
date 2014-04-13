@@ -1,0 +1,51 @@
+Back Issues (*|ARCHIVE|*)  - Unsubscribe (*|UNSUB|*)
+
+I watched a bit of television recently. There's a Swedish policeman called Wallander on BBC 4. He's great.
+
+https://github.com/cldwalker/tux (https://github.com/cldwalker/tux )
+A Sinatra shell: "Use it to interact with your helpers, view rendering and your app’s response objects. Tux also gives you commands to view your app’s routes and settings."
+
+http://www.html5rocks.com/en/tutorials/webcomponents/template/ (http://www.html5rocks.com/en/tutorials/webcomponents/template/ )
+The template element in HTML5. Only in Chrome, so far. It looks pretty interesting.
+
+http://risk.english-heritage.org.uk/register.aspx?id=1001 (http://risk.english-heritage.org.uk/register.aspx?id=1001 )
+English Heritage, 'Heritage At Risk', register entry for an "Orangery built in 1793 to the design of William Burgh, in a Palladian style. It stood in the grounds of Thornton House, demolished in the 1940s. Now standing in the middle of a housing estate."
+
+http://www.reddit.com/r/technology/comments/1gwkjf/nsa_controversy_boosts_interest_in_private/ (http://www.reddit.com/r/technology/comments/1gwkjf/nsa_controversy_boosts_interest_in_private/ )
+I've chosen to use Google without logging in any more. It's a step.
+
+http://www.bbc.co.uk/news/uk-england-bristol-22982940 (http://www.bbc.co.uk/news/uk-england-bristol-22982940 )
+Reaction to Bristol's car-free Sunday: "a great idea that other cities should copy", "Bristol is Brilliant", "not a moment too soon", "a council being courageous and doing the right thing even though it will cost them votes", "What an excellent idea, can’t wait for it to be tried in London."
+
+http://www.despawson.com/Tools%20and%20materials.html (http://www.despawson.com/Tools%20and%20materials.html )
+Tools and materials for working with rope.
+
+http://www.kirkheaton.info/documents/Laneside.pdf (http://www.kirkheaton.info/documents/Laneside.pdf )
+A history of the cemetery at Laneside Kirkheaton, with plot and name records. A rather strange story, with half of the cemetery being 'dedicated', the other half 'consecrated'. A very English compromise, even for the dead.
+
+http://apple.stackexchange.com/questions/400/please-share-your-hidden-os-x-features-or-tips-and-tricks (http://apple.stackexchange.com/questions/400/please-share-your-hidden-os-x-features-or-tips-and-tricks )
+There's a surprising amount shipped with every Mac that even most Mac users miss. Worth a look.
+
+http://openweathermap.org/API (http://openweathermap.org/API )
+An interesting idea, but little take-up yet.
+
+http://tenderlovemaking.com/2012/07/30/is-it-live.html (http://tenderlovemaking.com/2012/07/30/is-it-live.html )
+'Live Streaming' in Rails 4. I wonder if I'll ever actually use Rails 4.
+
+I am looking at old books for family tree research. Old books, scanned by Google.
+
+http://www.altfeedreader.com (http://www.altfeedreader.com )
+I still don't regret not holding on to RSS feeds.
+
+http://www.loa.org/dawnpowell/commentary-vidal.jsp?print=true (http://www.loa.org/dawnpowell/commentary-vidal.jsp?print=true )
+Gore Vidal on Dawn Powell. None of this can be quoted. You shall just have to read it.
+
+http://calnewport.com/blog/ (http://calnewport.com/blog/ )
+Merlin Mann recently recommended Cal Newport's book. Cal Newport also has a blog.
+
+http://www.cyclinganalytics.com (http://www.cyclinganalytics.com )
+If you're a cyclist, this may be of interest. Bikes have a 'power meter'?
+
+*|LIST:ADDRESS|*
+
+============================================================

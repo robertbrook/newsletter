@@ -1,0 +1,66 @@
+541 - MORE ROSES - on the web (*|ARCHIVE|*)
+
+Good morning.
+
+http://www.virtualtrials.com/pdf/Stupp_NovoTTF.pdf
+"This is the first controlled trial evaluating an entirely novel cancer treatment modality delivering electric fields rather than chemotherapy. No improvement in overall sur- vival was demonstrated, however efficacy and activity with this chemotherapy-free treatment device appears comparable to chemotherapy regimens that are commonly used for recurrent glioblastoma."
+
+A helpful recent command line thing: 'tree -CAfa'.
+
+https://github.com/technomancy/leiningen/blob/stable/doc/TUTORIAL.md
+Is this really the canonical method to start up with Clojure? Not exactly straightforward.
+
+http://fadingcity.com/suburbia/john-cage-his-diary
+What a lovely soft voice he has.
+
+I've finished that Tobias Hill book - next up is Helene Cixous' "Stigmata". I read it some time ago but I think it's time for a reminder.
+
+http://fadingcity.com/suburbia/1000-knives-the-end-of-asia
+Somewhat funky ...
+
+http://fadingcity.com/suburbia/1000-knives-a-remix
+... somewhat bouncy.
+
+http://www.theguardian.com/commentisfree/2014/feb/10/public-money-private-wealth-london-north-v-south
+Aditya Chakrabortty: "This is no longer north v south: it's the rest of the country versus a small elite in London, on which is lavished a surplus of political attention, public funds and opportunities."
+
+https://soundcloud.com/grum
+I like Grum ...
+
+https://soundcloud.com/onra
+... and I like Onra.
+
+I always seem to be performing surgery, of one sort or another.
+
+http://vuejs.org/examples/firebase.html
+Using vue.js with Firebase.
+
+http://upstart.ubuntu.com
+"Upstart is an event-based replacement for the /sbin/init daemon which handles starting of tasks and services during boot, stopping them during shutdown and supervising them while the system is running."
+
+https://basecamp.com/personal
+"In the near future, we may open Basecamp Personal purchases to the public." May? Huh?
+
+https://owncloud.com/blog/enterprise-file-sync-share-race-bottom-continues-someone-foot-bill
+"... if you are an enterprise that needs to get control back of your sensitive company data, why do you want to subsidize all these free users?"
+
+http://www.filosync.com
+"Filosync is an enterprise-ready file sync/share product for teams from the makers of Arq backup."
+
+http://mdswanson.com/blog/2013/08/11/write-things-tell-people.html
+Matt Swanson: "Do things, write about it".
+
+I'm not sure what was supposed to go here.
+
+http://fadingcity.com/suburbia/technopolis-volk-remix
+"A cheeky little tribute to Japan's finest" - it's great.
+
+http://www.wolframalpha.com/input/?i=mozart%2c%20shakespeare%2c%20bach
+Shakespeare died before Bach was born. Bach died before Mozart was born.
+
+Have fun.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

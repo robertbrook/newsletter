@@ -1,0 +1,60 @@
+http://arclanguage.org/install (http://arclanguage.org/install )
+If arc runs over the Racket VM, isn't it just a Scheme dialect? Not that there's anything wrong with that, of course ...
+
+https://github.com/Pauan/ar (https://github.com/Pauan/ar )
+... here's one of several successor projects to arc, Arc/Nu. Maybe I could run this just as a dialect within Racket.
+
+I'd like to stay awake with this code, but I'm just too tired. Okay maybe just another half hour. Tops.
+
+http://www.flintoff.org/conversations-that-change-everything (http://www.flintoff.org/conversations-that-change-everything )
+John-Paul Flintoff's TED talk: "Conversations that change everything".
+
+Most subscribers to this newsletter are from the UK and on iPhones. Takes all sorts.
+
+http://documentcloud.github.io/docsplit/ (http://documentcloud.github.io/docsplit/ )
+"a command-line utility and Ruby library for splitting apart documents into their component parts"
+
+My mum sent me a photo of two cement mixers on a barge.
+
+http://blog.law.cornell.edu/voxpop/tag/crown-legislation-markup-language/ (http://blog.law.cornell.edu/voxpop/tag/crown-legislation-markup-language/ )
+In August 2010, the Legal Information Institute at Cornell on the launch of legislation.gov.uk. I'm sure John Sheridan hasn't aged a day.
+
+Man alive, last week's unsubs are missing out. This stuff is gold.
+
+http://ask.metafilter.com/238228/manualdigital (http://ask.metafilter.com/238228/manualdigital )
+"One of my kinks is being watched by strangers online. How can I make sure this is safe?"
+
+XCode. Irritating. Can't imagine how people manage to wade through it to make iOS apps.
+
+http://www.igorfaletski.com/zen-of-no-desk (http://www.igorfaletski.com/zen-of-no-desk )
+Igor Faletski on, basically, hot-desking. The benefits seem to depend on working with people who aren't awful.
+
+http://www.trekdek.com/2013/03/30/when-everything-is-fine-but-its-not/ (http://www.trekdek.com/2013/03/30/when-everything-is-fine-but-its-not/ )
+"They want to feel what it’s like to be in control of their lives." Illusion, all of it. There is no control, no order.
+
+http://eloquentjavascript.net/contents.html (http://eloquentjavascript.net/contents.html )
+Eloquent Javascript, available online.
+
+http://www.sussex.ac.uk/Users/nc81/images/Flyer3.jpg (http://www.sussex.ac.uk/Users/nc81/images/Flyer3.jpg )
+17th April at the Volks, Brighton: Andrew Sorensen, Mico Rex, slub, glitch lich, SK_Computer, Luuma, Yee-King, Thor Magnusson, Idiosyn, Absurd Adam and Ecka Avies ...
+
+http://algorave.com/stubnitz/ (http://algorave.com/stubnitz/ )
+... the day after, 18th April: Algorave on the MS Stubnitz, Canary Wharf. "All of these performers will make their algorithmic instruments and languages as visible as possible, but the point isn’t to understand the algorithm, but to understand the music; to reclaim technology for the people and to enjoy it together."
+
+http://toplab.org/aboutus.html (http://toplab.org/aboutus.html )
+"TOPLAB uses Theater of the Oppressed techniques and methodology to promote and engage in democratic processes, and creative approaches to community building for radical social change."
+
+http://www.janasanskriti.org (http://www.janasanskriti.org )
+"We may have our ideology but one has not to be the slave of an ideology. Dogma cannot create the relation. Let us debate not to destroy the ideas of others but to understand others and ourselves. All of us want to evolve and grow with the objective of constructing a human society."
+
+"In a hundred years, it will seem incredible that harmony was tolerated for so long." - Schoenberg
+
+Onwards.
+
+============================================================
+*|LIST:ADDRESS|*
+
+Thanks to Dave Briggs at
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** Unsubscribe (*|UNSUB|*)

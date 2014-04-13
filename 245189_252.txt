@@ -1,0 +1,67 @@
+http://glitglit.tumblr.com (http://glitglit.tumblr.com )
+My eyes! The goggles do nothing!
+
+What happens next? Who decides? Seriously bro.
+
+http://madeinhexels.tumblr.com (http://madeinhexels.tumblr.com )
+Artwork done with Hexels. Kinda Minecrafty.
+
+I tried opening a Squarespace hosted site in Lynx. It worked fine. That's pretty good.
+
+http://stackoverflow.com/questions/6744569/populating-a-collection-from-a-json-file (http://stackoverflow.com/questions/6744569/populating-a-collection-from-a-json-file )
+A nice example of a common pattern on Stackoverflow: someone asks a question with a straightforward answer, but helpfully includes source code so people like me can learn stuff.
+
+A recent recording of Arthur C. Clarke's "The Sentinel" on Radio 4 Extra: the precursor of "2001" was introduced with music by Vangelis, written for "Bladerunner".
+
+http://www.astrobiology.ac.uk/ (http://www.astrobiology.ac.uk/ )
+The UK Centre or Astrobiology.
+
+Considering, again, name-of-service-here bankruptcy. It's probably for the best.
+
+http://www.haskell.org/ghc/docs/latest/html/libraries/base/Data-List.html (http://www.haskell.org/ghc/docs/latest/html/libraries/base/Data-List.html )
+List operations in Haskell. Nice, concise docs with lots of examples.
+
+Getting back into the swing of regular exercise. Not much, but it's necessary.
+
+http://www.reddit.com/user/OnlySaysLe (http://www.reddit.com/user/OnlySaysLe )
+The "OnlySaysLe" account on Reddit. This account only says "Le".
+
+The answer is almost always "people".
+
+http://rove.io/ (http://rove.io/ )
+"... a service that allows you to pregenerate typical Vagrant builds." Another Heroku Sinatra joint.
+
+I'm writing this on the tube. I don't like the tube.
+
+http://canticore.org/2013/04/1password-and-login-rot/ (http://canticore.org/2013/04/1password-and-login-rot/ )
+I use and recommend 1Password. "It's a lifeline to e-mail accounts, marketing attempts, user preferences. Wanting a clean password database is not sufficient enough reason to upend the world trying to find a better solution. But it's another reason, added to a growing list, of reasons why the status quo is unsatisfactory."
+
+If you're reading this, I survived my recent trip on the tube without incident. First time for about a year.
+
+http://www.thepansyproject.com (http://www.thepansyproject.com )
+"Artist Paul Harfleet plants pansies at the site of homophobic abuse, he finds the nearest source of soil to where the incident occurred and generally without civic permission plants one unmarked pansy."
+
+I love these headphones. Leaky as hell, but it's okay here.
+
+http://www.telegraph.co.uk/news/features/9261753/Helen-Lederer-My-cousin-the-survivor.html (http://www.telegraph.co.uk/news/features/9261753/Helen-Lederer-My-cousin-the-survivor.html )
+Frantisek Lederer "... 11 years old when he was sent to Auschwitz. His brother died there, and his parents in the Lodz ghetto, where they were sent after Auschwitz. He rolled up his sleeve and showed me his concentration camp identification number. His survival, he said, was purely down to chance. One of the guards came from his home town , Teplice; because of this, he had allowed him to go left where the others were forced to go right – to the gas chamber."
+
+"Stay in character!"
+
+http://www.codeweavers.com (http://www.codeweavers.com )
+I've used Crossover in the past, with reasonable results. Best thing here: a comprehensive list of compatible software.
+
+Cyberpunks. All so far in the past.
+
+http://vanemden.wordpress.com/2011/02/18/from-the-chronicles-of-scruffy-versus-neat-the-lighthill-affair/ (http://vanemden.wordpress.com/2011/02/18/from-the-chronicles-of-scruffy-versus-neat-the-lighthill-affair/ )
+I'm not sure these are words.
+
+============================================================
+*|LIST:ADDRESS|*
+
+Doing it properly: Dave Briggs  - Giles Turnbull  - Roo Reynolds
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** http://gilest.org (http://gilest.org)
+** http://tinyletter.com/rooreynolds (http://tinyletter.com/rooreynolds)
+** Unsubscribe (*|UNSUB|*)

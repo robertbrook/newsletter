@@ -1,0 +1,47 @@
+A friend recently reminded me that not doing something for fear of someone else doing it better was, at best, rather silly. At worse selfish and terribly self-absorbed. Well, we've already established that.
+
+But my aim was to try to write about what I knew, which never really was technical stuff. My interest in 'social stuff' - how organisations work - was always a little like a long-term prisoner's interest in locks.
+
+The more I think about objectivism, the more worried I get.
+
+https://medium.com/i-m-h-o/86f910e35a8f (https://medium.com/i-m-h-o/86f910e35a8f )
+Those medium.com URLs are almost deliberately - what's the word - obscurantist? It's nice, in a way, to be able to say what you do, what you're good at. But it can also, under certain circumstances, be limiting. Maybe you were hired with that Job Title, but you've done a fair sight more that that, haven't you?
+
+Chap on the bus with a Filofax.
+
+http://searchpath.io (http://searchpath.io )
+"Finally there’s something better than outsourcing your blog search to Google."
+
+There are some very brave and clear-thinking young people. They should be supported, not with things they way we would have them, but how they would have them.
+
+"Of course I'm ambitious. What's wrong with that? Otherwise you sleep all day." - Ringo Starr
+
+http://robertheaton.com/2013/03/04/you-arent-getting-any-better/ (http://robertheaton.com/2013/03/04/you-arent-getting-any-better/ )
+"You can't just show up and expect to get better. You can't even just show up, work hard and expect to get better. You have to show up, work hard and deliberately focus on the specific things that will make you get better."
+
+We all have a voice, some voice. Some have a voice they don't even want to hear themselves.
+
+http://kb.mailchimp.com/article/tracking-clicks-in-plain-text-emails (http://kb.mailchimp.com/article/tracking-clicks-in-plain-text-emails )
+I'm still tweaking the layout here. I know the plain text version has those awful tracking URLs in it. I'm trying to get rid of them. I just can't work out how to turn them off quite yet.
+
+Ah well, it was good while it lasted. Back to the email.
+
+http://committe.es (http://committe.es )
+Still don't want to talk about this yet.
+
+http://www.telegraph.co.uk/news/obituaries/9873999/Sarah-Baring.html (http://www.telegraph.co.uk/news/obituaries/9873999/Sarah-Baring.html )
+Via Sue Black - and John Keogh, an obituary of Sarah Baring: "educated by a succession of disagreeable European governesses", later worked in the Navel indexing section at Bletchley Park.
+
+https://sites.google.com/site/prologsite/prolog-problems (https://sites.google.com/site/prologsite/prolog-problems )
+"Every predicate that you write should begin with a comment that describes the predicate in a declarative statement. Do not describe procedurally, what the predicate does, but write down a logical statement which includes the arguments of the predicate."
+
+http://cacm.acm.org/magazines/2012/11/156587-will-moocs-destroy-academia/fulltext (http://cacm.acm.org/magazines/2012/11/156587-will-moocs-destroy-academia/fulltext )
+Moshe Vardi, editor-in-chief of the ACM, argues against the cost-driven MOOCs - 'massive open online courses'.
+
+============================================================
+
+*|LIST:ADDRESS|*
+*|LIST:ADDRESS|*
+
+** BACK ISSUES (*|ARCHIVE|*)
+** UNSUBSCRIBE (*|UNSUB|*)

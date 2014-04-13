@@ -1,0 +1,56 @@
+http://www.guardian.co.uk/lifeandstyle/2013/apr/05/dan-lepard-chunky-lime-marmalade-recipe (http://www.guardian.co.uk/lifeandstyle/2013/apr/05/dan-lepard-chunky-lime-marmalade-recipe )
+Lime marmalade from Dan Lepard. Looks lovely, but I can't imagine staying awake long enough to make it.
+
+http://www.flickr.com/photos/brook/7016922947 (http://www.flickr.com/photos/brook/7016922947 )
+The Park Lane end of Hyde Park, just by the memorial.
+
+http://www.metafilter.com/126773/Minecraft-creator-interview#4908610 (http://www.metafilter.com/126773/Minecraft-creator-interview#4908610 )
+"People like to knock notch as a terrible developer, he probably is, but I don't know if having amazing developers is necessarily the key to having a successful game. I think Notch's strong suit is he has good taste."
+
+http://www.mysonsnotrainman.com/blog.html (http://www.mysonsnotrainman.com/blog.html )
+I have mixed feelings about this.
+
+http://jeffrey.io (http://jeffrey.io )
+"I publish under a Pseudonym, and I do this so I can take short-cuts, iterate, and publish rubbish to build up to my magnum opus. I'm also going to start painting under this Pseudonym, so I can ship painting."
+
+Still failing to link node. Plodding through Google suggestions. Aha! Breakthrough!
+
+https://github.com/runekaagaard/snowscript (https://github.com/runekaagaard/snowscript )
+"Snowscript is a language that compiles to PHP." ...
+
+http://scriptor.github.io/pharen/ (http://scriptor.github.io/pharen/ )
+... another one, that looks like Lisp.
+
+https://metacpan.org/module/Tie::Array::CSV (https://metacpan.org/module/Tie::Array::CSV )
+I still miss Perl. "This module allows an array to be tied to a CSV file for reading and writing."
+
+I'm sorry if I've posted something you've mentioned to me without crediting you. Do give me a reminder if you feel it's needed.
+
+http://polimedia.us/trilema/2013/marketplace-excitement-with-expert-commentary-for-your-vicarious-trading-pleasure/ (http://polimedia.us/trilema/2013/marketplace-excitement-with-expert-commentary-for-your-vicarious-trading-pleasure/ )
+I still don't understand Bitcoin.
+
+"MORE THAN 5,000,000 OF THESE BISCUITS MADE AND SOLD EVERY WEEK"
+
+http://www.jamroll.org/faq/ (http://www.jamroll.org/faq/ )
+"In 1929, Olave Lady Baden-Powell, was asked to ascertain from the Founder what gift he would like to celebrate the twenty-first birthday of Scouting.  He replied, 'A pair of braces'. Scouts around the world were asked to donate a penny per member and sufficient was raised to buy a custom built Rolls-Royce car (Jam Roll), a caravan (Eccles), a portrait by David Jaggar and the sought after pair of braces."
+
+http://www.hull.ac.uk/oldlib/archives/paragon/1997/larkin.html (http://www.hull.ac.uk/oldlib/archives/paragon/1997/larkin.html )
+I've been listening to Larkin's novel "Jill" on the wireless. Rebecca Johnson writes in The Paragon Review: "The novel's haphazard entry into the 'underworld' of publishing and its writer's subsequent efforts to bring it to the attention of the literary establishment present a curious record."
+
+http://www.saatchi-gallery.co.uk/artists/caroline_achaintre.htm (http://www.saatchi-gallery.co.uk/artists/caroline_achaintre.htm )
+"Though [Caroline] Achaintre’s process is highly technical and labour-intensive, she develops her work quite spontaneously. Because she has to tuft the wool from the back side of the canvas, her compositions are developed largely through intuition."
+
+http://www.cnduk.org/about/item/435 (http://www.cnduk.org/about/item/435 )
+"I was in despair. Deep despair. I drew myself: the representative of an individual in despair, with hands palm outstretched outwards and downwards in the manner of Goya’s peasant before the firing squad. I formalised the drawing into a line and put a circle round it." ...
+
+http://www.2seven.co.uk/greenish/?p=93 (http://www.2seven.co.uk/greenish/?p=93 )
+... a heartfelt note from Gerald Holtom's grandson.
+
+============================================================
+*|LIST:ADDRESS|*
+
+Thanks to Dave Briggs at  and Giles Turnbull at
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** http://gilest.org (http://gilest.org)
+** Unsubscribe (*|UNSUB|*)

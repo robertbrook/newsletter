@@ -1,0 +1,40 @@
+I tried running 'Contacts Cleaner' on my Mac. That was a mistake. Merlin was right: contacts are a mess. A boring and unprofitable problem though, since no exciting project seems to have chosen to solve it. Of course, a few have tried.
+
+http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Arundel_MS_263 (http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Arundel_MS_263 )
+The Codex Arundel, a da Vinci notebook. The image viewer is pleasingly simple.
+
+http://www.merseymaritime.co.uk/about-us/liverpool-2-port-of-liverpool.phuse (http://www.merseymaritime.co.uk/about-us/liverpool-2-port-of-liverpool.phuse )
+Liverpool 2, £300m development of capacity at the port ...
+
+http://www.bbc.co.uk/news/uk-england-merseyside-19087591 (http://www.bbc.co.uk/news/uk-england-merseyside-19087591 )
+... with half of the funding from the European Investment Bank.
+
+http://hackerthings.com/category/materials (http://hackerthings.com/category/materials )
+Fascinating materials for 'hackers' - I still feel a bit silly using that word. I wonder if there are comparable UK suppliers? I can't imagine it would be easy explaining what 'Levitating Pyrolytic Graphite' is to the local parcels office.
+
+http://ledger-cli.org/ (http://ledger-cli.org/ )
+There was an effort some time ago to export personal account details from bank's awful websites. The aim was to end up with your own account information in comma-separated so you might be able to do something useful with it. Unfortunately, I couldn't persuade homebrew to install it. Might tweak the formula ...
+
+http://hledger.org (http://hledger.org )
+... here's a web and command-line extension of the ledger idea. Again, I didn't get it to run. I'm going to write my own thing just to throw CVS account files around. I'm not looking for much, after all. Maybe I could write it in Rebol.
+
+Trying to get into node and express again. I can't quite work out the difference between 'npm install' and 'npm link'. I'm sure it'll all make sense eventually.
+
+http://www.reddit.com/r/AskReddit/comments/18o2ry/parents_of_horrible_children_where_did_it_all_go/ (http://www.reddit.com/r/AskReddit/comments/18o2ry/parents_of_horrible_children_where_did_it_all_go/ )
+"Do parents of bad kids like this know when and where it all went wrong? Do they care? Do they even acknowledge that their kids are hell spawns?" - a bit of a sad read, rather than just depressing or angry-making.
+
+http://www.bbc.co.uk/news/magazine-21471747 (http://www.bbc.co.uk/news/magazine-21471747 )
+A rather odd article from the BBC on horses in Romania. A angle, I suppose? "We relived every moment of the slaughterhouse in the TV edit room and censored out the pictures which would turn the stomachs of even the brashest British carnivores - then ingested the best remaining cuts into the belly of the British Broadcasting beast."
+
+http://www.newstatesman.com/culture/2013/02/don’t-be-beguiled-orwell-using-plain-and-clear-language-not-always-moral-virtue (http://www.newstatesman.com/culture/2013/02/don’t-be-beguiled-orwell-using-plain-and-clear-language-not-always-moral-virtue )
+I am neither a plain speaker, nor a good speaker. I agree with Ed Smith here, though: "Using plain and clear language is not a moral virtue, as Orwell hoped. Things aren’t that simple. In fact, giving the impression of clarity and straightforwardness is often a strategic game. The way we speak and the way we write are both forms of dress."
+
+Have fun today.
+http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE|*&t=*|URL:MC_SUBJECT|* Like (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE|*&t=*|URL:MC_SUBJECT|*)
+http://twitter.com/?status=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE|* Tweet (http://twitter.com/?status=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE|*)
+http://www.instapaper.com/hello2?url=*|URL:ARCHIVE|*&title=*|URL:MC_SUBJECT|* Read Later (http://www.instapaper.com/hello2?url=*|URL:ARCHIVE|*&title=*|URL:MC_SUBJECT|*)
+https://plus.google.com/share?url=*|URL:ARCHIVE|* +1 (https://plus.google.com/share?url=*|URL:ARCHIVE|*)
+*|FORWARD|* Forward to Friend (*|FORWARD|*)
+Want more? Try the BACK ISSUES (*|ARCHIVE|*) . Had enough? Just UNSUBSCRIBE (*|UNSUB|*) .
+
+============================================================

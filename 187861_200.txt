@@ -1,0 +1,41 @@
+Here we are, two centuries of newsletters. You can unsubscribe now. It's fine.
+
+Well, that's it. The Safari Reading List has crapped out on me for the last time. A fat lot of good that idea was.
+
+https://blog.dropbox.com/2013/03/welcome-mailbox/ (https://blog.dropbox.com/2013/03/welcome-mailbox/ )
+Dropbox eating Mailbox makes me nervous. "... it became clear that their calling was the same as ours at Dropbox - to solve life’s hidden problems and reimagine the things we do every day." Great. I thought I was paying you people for synced storage. All things like this make me nervous: any time someone says 'cross-platform', similarly. Why not just concentrate on Dropbox? As the adage has it, all applications expand until they can send mail. Honestly: Dropbox Camera Upload, now this? Stick to the knitting!
+
+http://www.baddemanorscafe.com (http://www.baddemanorscafe.com )
+Badde Manors cafe, Sydney.
+
+http://www.guardian.co.uk/technology/blog/2013/mar/12/tim-berners-lee-drm-cory-doctorow (http://www.guardian.co.uk/technology/blog/2013/mar/12/tim-berners-lee-drm-cory-doctorow )
+I totally was Cory Doctorow I saw in Orbital Comics last week. "There is no market for DRM, no public purpose served by granting a veto to unaccountable, shortsighted media giants who dream of a world where your mouse rings a cash-register with every click and disruption is something that happens to other people, not them." I presume some people would argue that DRM protects markets.
+
+http://browserdiet.com (http://browserdiet.com )
+A great collection of tips to slim down your code. Recommended.
+
+https://github.com/Marak/Faker.js (https://github.com/Marak/Faker.js )
+"... generate massive amounts of fake data in the browser and node.js" - I have a great demo for this.
+
+http://www.functionn.in (http://www.functionn.in )
+Nice, this. Open source web resources.
+
+http://dev.hubspot.com/blog/bulletproof-demos (http://dev.hubspot.com/blog/bulletproof-demos )
+"Record modes let you record every request Chrome makes. Playback mode serves requests out of that recorded cache just as if they were being loaded on the spot. It doesn't record where you click or what you open, just every request as it moves over the wire." Chrome has some sort of history playback thing now?
+
+http://ask.metafilter.com/237248/Help-me-make-the-most-epic-cookies-ever-for-my-boyfriend (http://ask.metafilter.com/237248/Help-me-make-the-most-epic-cookies-ever-for-my-boyfriend )
+"Normal cookies are not good enough."
+
+http://www.feedafever.com (http://www.feedafever.com )
+I realise how crappy this sounds, but I could take this a hell of a lot more seriously without the cutesy naming. Sorry.
+
+http://www.guardian.co.uk/technology/gamesblog/2013/mar/15/simcity-video-game-review (http://www.guardian.co.uk/technology/gamesblog/2013/mar/15/simcity-video-game-review )
+SimCity, what have they done to you? "The downside of this online infrastructure is that cities are stored on the cloud, not your hard drive, and there's no saving or loading. The days of triggering disasters just for the fun of it, then reloading to revert the damage, are over. All decisions, and mistakes, are permanent, and there's no way to back your cities up."
+
+http://thechangelog.com/rawler-crawl-your-website-and-find-broken-links-with-rub/ (http://thechangelog.com/rawler-crawl-your-website-and-find-broken-links-with-rub/ )
+"... a command line tool to crawl your site, looking for errors." Slightly underwhelming. Maybe I missed something.
+
+============================================================
+Registered address: *|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

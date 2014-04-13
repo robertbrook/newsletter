@@ -1,0 +1,54 @@
+http://www.flickr.com/photos/brook/7031861119 (http://www.flickr.com/photos/brook/7031861119 )
+From the top deck of the number nine, just coming up to the Ritz.
+
+https://metacpan.org/module/Dancer (https://metacpan.org/module/Dancer )
+"... lightweight yet powerful web application framework"
+
+http://spitalfieldslife.com/2010/07/24/david-milne-dennis-severs-house/ (http://spitalfieldslife.com/2010/07/24/david-milne-dennis-severs-house/ )
+"David [Milne] lives in a tiny modern flat built upon the roof of a Victorian stucco mansion block in Earls Court, that he has furnished with seventeenth century furniture and lit entirely by candlelight ..."
+
+http://allisonrandal.com/2013/03/31/mythbusters-why-i-still-love-perl/ (http://allisonrandal.com/2013/03/31/mythbusters-why-i-still-love-perl/ )
+See now I'm confused. Rakudo is Perl 6? It's not? And Allison expects a Perl 7? And Rakudo is just an experiment? So what's all the stuff marked 'Perl 6' on CPAN?
+
+Do you use Diet Coda? Are you having problems with FTP connections not refreshing? Maybe it's just me.
+
+http://www.seditionart.com/mary_katrantzou/pound (http://www.seditionart.com/mary_katrantzou/pound )
+"In an exciting collaboration with s[edition], Mary Katrantzou has created her first digital artwork." What am I looking at here?
+
+Another shift, from Apple Reminders back to Omnifocus. It'll take some time, though.
+
+http://www.live-laptops.com (http://www.live-laptops.com )
+"a website dedicated to the use of laptop or desktop computers for live musical performance."
+
+Evernote. Something else I don't really understand.
+
+http://ask.metafilter.com/238625/Am-I-about-to-doom-myself-by-not-using-sodium-nitrite-in-my-bacon-cure (http://ask.metafilter.com/238625/Am-I-about-to-doom-myself-by-not-using-sodium-nitrite-in-my-bacon-cure )
+RakDaddy asks: "The belly's been sitting in the fridge for the past week. It smells fine. It feels firm." ... and in the comments: "In my younger years, I would smoke it with confidence. Now that I am someone's mom, I'm a bit more conservative."
+
+http://adambard.com/blog/why-clojure-part-2-async-magic/ (http://adambard.com/blog/why-clojure-part-2-async-magic/ )
+"Is your app sending email as part of a synchronous request? It shouldn't be. Are you logging requests as part of a synchronous request? You shouldn't be." Oh. Good point.
+
+Favourite character in 'The Matrix', you ask? Switch. Obviously.
+
+http://www.leancrew.com/all-this/2013/04/the-markdown-book-and-a-bit-of-history/ (http://www.leancrew.com/all-this/2013/04/the-markdown-book-and-a-bit-of-history/ )
+Drang bigs up Sparks and Smith. I bought the book.
+
+http://drownedinsound.com/in_depth/4146264-modem-life-is-rubbish--unplug-to-save-your-love-of-music (http://drownedinsound.com/in_depth/4146264-modem-life-is-rubbish--unplug-to-save-your-love-of-music )
+"Maybe it's important to point out that I haven't voluntarily chosen to live without the internet as some sort of tiresome experiment with an eye on a magazine column, or something. It just happened that way: my girlfriend and I spent a long time on the road, living from place to place; and then when we settled again, I just never got re-connected."
+
+https://love2d.org (https://love2d.org )
+"an *awesome* framework you can use to make 2D games in Lua."
+
+Voice font. That's a nice idea. That was Gruber.
+
+http://lowendmac.com/orchard/06/michael-spindler-apple.html (http://lowendmac.com/orchard/06/michael-spindler-apple.html )
+"Apple had a terrible 1990. Windows 3.0 was released to the world, Apple's new version of the Mac OS (System 7) staggered to the marketplace, and sales slowed markedly. The most important event of the year for the computer industry was the release of Windows 3.0. Windows was now a viable alternative to the Mac, even if it had an inconsistent interface and was fairly unstable."
+
+============================================================
+*|LIST:ADDRESS|*
+
+Thanks to Dave Briggs at  and Giles Turnbull at
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** http://gilest.org (http://gilest.org)
+** Unsubscribe (*|UNSUB|*)

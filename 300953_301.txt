@@ -1,0 +1,43 @@
+http://www.astro.auth.gr/~tsagas/Publications/Journals/PRD/PRD14.pdf (http://www.astro.auth.gr/~tsagas/Publications/Journals/PRD/PRD14.pdf )
+'Christos G. Tsagas: "Peculiar velocities change the expansion rate of any observer moving relative to the smooth Hubble flow. As a result, observers in a galaxy like our Milky Way can experience accelerated expansion within a globally decelerating universe, even when the drift velocities are small."
+
+http://www.omnigroup.com/omnipresence/ (http://www.omnigroup.com/omnipresence/ )
+I still don't really understand Omnipresence. Surely any developers who shun iCloud are in for a rough ride? No reason not to try, of course.
+
+http://www.apple.com/designed-by-apple/ (http://www.apple.com/designed-by-apple/ )
+Odd. I think. Off-message. Vague.
+
+http://www.aliceneel.com/gallery/?mode=display&decade=7&painting=75 (http://www.aliceneel.com/gallery/?mode=display&decade=7&painting=75 )
+A 1976 painting of Bella Abzug, by Alice Neel.
+
+http://personal-clouds.org (http://personal-clouds.org )
+"Cloud computing today typically means that we have to hand over our data to big companies who decide which features they give us ... and who can and do unilaterally change their terms of service on us whenever they like. What if instead, we could each have our own, personal cloud?"
+
+http://en.wikipedia.org/wiki/Unisex_names (http://en.wikipedia.org/wiki/Unisex_names )
+"Some countries have laws preventing unisex names, requiring parents to give their children sex-specific names."
+
+http://gilest.org/conversation-privacy.html (http://gilest.org/conversation-privacy.html )
+Giles talks to Alex about privacy. Alex says: "If any of your personal data is online, you should expect people to be able to match it to your face sooner or later. ... Your only choice will be to not put your personal data on the internet in the first place." For the moment, I agree. But, think of the internet of a decade ahead: will it still be a place where personal data lives? Maybe not.
+
+http://laurakalbag.com/web-talk-dog-walk/ (http://laurakalbag.com/web-talk-dog-walk/ )
+"That is not my dog." - via Giles.
+
+https://news.ycombinator.com/item?id=5831208 (https://news.ycombinator.com/item?id=5831208 )
+"Are there other similar sites to HN which focuses more on technical topics, constructive discussions and other interesting things?" - asked on HN.
+
+http://www.cutlasercut.com/upload-your-files (http://www.cutlasercut.com/upload-your-files )
+"£45.00 + vat ... From £1.00 per minute – depending on job type / machine ... Discounted rate for larger production jobs" - hmm. I like this.
+
+https://devcenter.heroku.com/articles/nodejs (https://devcenter.heroku.com/articles/nodejs )
+Node and Express on Heroku, including how to start up with Mongo and Redis.
+
+http://www.jisc-collections.ac.uk/Catalogue/?OnlyFree=true (http://www.jisc-collections.ac.uk/Catalogue/?OnlyFree=true )
+"Free" resources in the JISC Collections catalogue: though a lot of them seem to stipulate "available free of charge to UK Higher and Further Education institutions, and Research Councils".
+
+https://news.ycombinator.com/item?id=5830219 (https://news.ycombinator.com/item?id=5830219 )
+"Posting to HN is like exposing yourself to the eye of Mordor" - eek!
+
+*|LIST:ADDRESS|*
+Unsubscribe (*|UNSUB|*)
+
+============================================================

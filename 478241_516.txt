@@ -1,0 +1,42 @@
+516 - GOLDEN - on the web (*|ARCHIVE|*)
+
+Thanks to my mum for yesterday's lovely tea-cup photo.
+
+http://www.webcal.fi/en-GB/calendars.php
+Calendars you can subscribe to for sunset, sunrise and so on. This site has been around for ages and looks pretty much the same as it did years ago. And still works!
+
+I'm backing away from a few Apple services. I don't used shared Photostreams any more. I'm trying to reduce my reliance on Dropbox, but not doing very well so far.
+
+http://www.marco.org/2014/01/21/network-solutions-have-always-been-asses-and-unsurprisingly-still-are
+Marco Arment: "I am shocked, just shocked, that Network Solutions is run by horrible people." Domain names used to be important and expensive. Gradually, the expense slipped away. You can get a domain name for a tenner a year, sometimes less. That's great. But some of the outfits "selling" domain names seem to be working on ways to recoup those losses in other ways. My recent run-in with Network Solutions - including a very dubious up-selling effort from their sub-contracted call centre - made me think that domains are just more trouble that they're worth ...
+
+... what a strange outcome: something becomes a cheap commodity, then the seller realigns their aggressive business practices. The commodity is cheap, but the process surrounding it is increasingly complex and expensive. Domains, for me, have become a risky obligation.
+
+http://www.thephone.coop/membership/why-join-us/member-dividend/
+"Profits are also used to pay interest on members' share capital, to contribute to our Co-operative and Social Economy Development Fund (which provides finance to support the development of other co-operatives), and to fund the further growth of The Phone Co-op."
+
+https://github.com/cardmagic/simple-rss
+"... will never do RSS generation." Just in case you were wondering. Never going to happen. Never.
+
+http://jekyllrb.com
+Still going strong with static sites. I'm trying to choose between my own rakefile and Template Toolkit.
+
+http://data.okfn.org/standards/simple-data-format
+'Simple Data Format': data in CSV, metadata in JSON.
+
+http://docs.racket-lang.org/browser/
+Rendering HTML in Racket.
+
+http://brian.io/lawnchair/
+"a lawnchair is sorta like a couch except smaller and outside. perfect for html5 mobile apps that need a lightweight, adaptive, simple and elegant persistence solution."
+
+http://www.foragoodstrftime.com
+"Easy skeezy date/time formatting"
+
+https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=british%20museum%20gold
+A search on Wikimedia for "british museum gold". Wikimedia is great.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

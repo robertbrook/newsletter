@@ -1,0 +1,60 @@
+592 - Hydrangea
+Good morning.
+
+http://www.bl.uk/learning/langlit/dic/johnson/1755johnsonsdictionary.html
+"... if [Samuel] Johnson didn't like a quotation, or if a phrase didn't convey the exact meaning he required, he did not hesitate to chop, twist around, or rewrite a few words - Johnson famously scribbled all over his books, underlining, highlighting, altering and correcting the words ..."
+
+"Possibly NSFW" #pnsfw
+
+http://regex.inginf.units.it
+"This web application generates regular expressions (regex) automatically by means of examples."
+
+https://metacpan.org/pod/distribution/perl/Porting/todo.pod
+"This is a list of wishes for Perl." ... "What can we offer you in return? Fame, fortune, and everlasting glory? Maybe not ..."
+
+https://www.britishmuseum.org/explore/highlights/highlight_objects/cm/others/£5_note,_bank_of_england.aspx
+"The old note is still remembered with affection by many people, for whom the crisp crackle of a black and white fiver was the very essence of money." I did like the 'old' green one pound notes.
+
+http://publicdomainentertainment.tumblr.com/post/82098402170/dime-mystery-magazine-volume-17-number-april
+'Nymph of Damnation'!
+
+https://github.com/ecmendenhall/wgif
+"A command line tool for creating animated GIFs from YouTube." I couldn't get it to install correctly. RMagick problems. Maybe brew will help.
+
+http://www.systemed.net/atlas/
+"The New Adlestrop Railway Atlas is a historical atlas of Britain's railways, currently in progress. It shows lines and stations currently open, together with those that have closed." A huge PDF is available.
+
+http://kitwallace.co.uk/berger/xquery/browse.xq?mode=list&Type=Location
+Locations in Berger's "Ways of Seeing". I had to read this for something, but I can't recall what.
+
+http://jasper.tandy.is/lolcommitting/
+"Sometimes I'm doing something stupid, sometimes my hair looks amazing."
+
+http://en.wikipedia.org/wiki/Lei_(garland)
+Haku, Hili, Hilo, Hipuʻu, Humu, Kui, Wili, Haku mele ...
+
+... (?^:(?:H(?:i(?:l[io]|pu'u)|aku(?:mele)?|umu)|(?:Wil|Ku)i))
+
+http://www.cs.umd.edu/~sstrickl/chaperones/chaperones-oopsla2012.pdf
+"... general-purpose interposition on primitive operations makes reasoning about program behavior too difficult, because it forces programmers to cope with the possibility of invoking unknown and potentially untrusted code, even when using seemingly simple operations ..."
+
+http://ifdb.tads.org/viewgame?id=977fhqt93bujdrv5
+"HIGH END CUSTOMIZABLE SAUNA EXPERIENCE"
+
+http://parsekit.com/okudakit/
+"OkudaKit produces syntax highlighted NSAttributedStrings for use in NSTextViews via CSS stylesheets."
+
+https://github.com/rspec/rspec-expectations/blob/master/Should.md
+Moving from 'should' to 'expect' with rspec.
+
+https://www.flickr.com/photos/21133841@N03/3145314774/
+A photo (of a postcard) of the fun fair at Battersea Park, the original image apparently made with a large plate camera.
+
+Have fun today.
+
+============================================================
+
+*|LIST:ADDRESS|*
+
+
+** Unsubscribe (*|UNSUB|*)

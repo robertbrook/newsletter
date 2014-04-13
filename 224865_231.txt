@@ -1,0 +1,56 @@
+I just swallowed a blueberry. Whole. One of those freakishly big ones. That felt weird.
+
+http://theunraveler.github.io/taskwarrior-web/ (http://theunraveler.github.io/taskwarrior-web/ )
+A web UI for taskwarrior. Lovely. I wonder if I could arrange something with taskwarrior exporting HTML to Dropbox. That could be fun.
+
+I'm sorry if I've not replied to a recent mail. I'm a little behind on replies - but I have been keeping up with the reading. I'm also behind with my task list. And other things. I need to do those things. Also, have a rest and sleep for about a week.
+
+http://code.quirkey.com/vegas/ (http://code.quirkey.com/vegas/ )
+Aaron Quint: "I have a vision of a future where all us developers release gems with simple local web interfaces powered by Sinatra. I see Vegas as a little shove and an easy first step in making this vision come true." I'm right with this guy. Sinatra rocks.
+
+http://sammyjs.org/intro (http://sammyjs.org/intro )
+"Sammy.js is a tiny JavaScript framework developed to ease the pain and provide a basic structure for developing JavaScript applications." It's been somewhat overwhelmed by the bigger frameworks, but it certainly worth a look.
+
+http://www.thisgardenisillegal.com/2006/06/no-really-my-garden-is-illegal.html (http://www.thisgardenisillegal.com/2006/06/no-really-my-garden-is-illegal.html )
+"I have no less than 12 potted fruits and veggies in my front yard. I even use kale and creeping thyme in the front yard landscape itself. I am such a rebel."
+
+http://raisins.org (http://raisins.org )
+"The Raisin Administrative Committee is a federal marketing order, led by 47 growers, packers and a public member. The RAC is directly overseen by the United States Department of Agriculture and was created in 1949 as a result of the Agricultural Marketing Agreement Act of 1937." ...
+
+http://www.ams.usda.gov/AMSv1.0/getfile?dDocName=STELPRDC5067868 (http://www.ams.usda.gov/AMSv1.0/getfile?dDocName=STELPRDC5067868 )
+... not the nicest URL there: "to establish and maintain such orderly marketing conditions for agricultural commodities in interstate commerce as will establish, as the prices to farmers, parity prices ..."
+
+http://thememorypalace.us/ (http://thememorypalace.us/ )
+I often get Nate DiMeo mixed up with ...
+
+http://99percentinvisible.org/ (http://99percentinvisible.org/ )
+... Roman Mars.
+
+http://www.chelseabarracks.net/planning/downloads/Planning_Statement.pdf (http://www.chelseabarracks.net/planning/downloads/Planning_Statement.pdf )
+Why are Chapel House, Broome House and Butler House still standing on Ebury Bridge Road?
+
+http://creativemachines.cornell.edu/papers/Nature00_Lipson.pdf (http://creativemachines.cornell.edu/papers/Nature00_Lipson.pdf )
+"Automatic design and manufacture of robotic lifeforms" - amazing 'self-building' robots. They look quite odd, but oddly believable.
+
+https://github.com/jkbr/httpie (https://github.com/jkbr/httpie )
+I don't think that curl is really so complicated, but httpie wraps in very nicely.
+
+http://www.rareteacompany.com (http://www.rareteacompany.com )
+I recommend the green and white teas. I'm not one for the heavier stuff.
+
+http://pl.wikipedia.org/wiki/Su_Pollard (http://pl.wikipedia.org/wiki/Su_Pollard )
+Su Pollard, on Wikipedia, in Polish.
+
+http://twotocontango.com/?p=31 (http://twotocontango.com/?p=31 )
+"Truth is nothing without the power to wield it." I've been accused of many things, especially over the last year or so. I don't really believe in truth, or indeed in power. Things are more complicated that that.
+
+Have a good day.
+
+============================================================
+*|LIST:ADDRESS|*
+
+Thanks to Dave Briggs at  and Giles Turnbull at
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** http://gilest.org (http://gilest.org)
+** Unsubscribe (*|UNSUB|*)

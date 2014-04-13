@@ -1,0 +1,57 @@
+http://en.wikipedia.org/wiki/James_Robertson_Justice (http://en.wikipedia.org/wiki/James_Robertson_Justice )
+That chap yesterday with the rather extensive CV? James Robertson Justice. He also researched his role in the 'Doctor' series - a comedy, remember - by cutting up corpses at Barts. He also won typing competitions against Diana Dors.
+
+In the coffee place. The music is less edgy. The staff are getting younger. Everything drifts away.
+
+http://en.wikipedia.org/wiki/Truly_Scrumptious (http://en.wikipedia.org/wiki/Truly_Scrumptious )
+An extremely detailed run-down of a character in a film from a book by Ian Fleming, who isn't actually in the book.
+
+http://www.dagolden.com/index.php/1976/refactoring-tests-with-roles/ (http://www.dagolden.com/index.php/1976/refactoring-tests-with-roles/ )
+Using roles in Perl tests. I don't really understand this yet.
+
+http://code.google.com/p/corkami/wiki/PDFTricks?show=content (http://code.google.com/p/corkami/wiki/PDFTricks?show=content )
+"... a summary of PDF tricks, either based on data encodings, JavaScript, or PDF structure, with hand-written proof-of-concepts."
+
+http://www.bbc.co.uk/news/uk-england-21829838 (http://www.bbc.co.uk/news/uk-england-21829838 )
+"If we invite people here for a conference or something they ask, 'When is the train to Ripon?' We have to say that the last train from here was in 1967."
+
+http://www.railwaysarchive.co.uk/documents/BRB_Beech001a.pdf (http://www.railwaysarchive.co.uk/documents/BRB_Beech001a.pdf )
+The Beeching Report.
+
+http://www.guardian.co.uk/lifeandstyle/2013/mar/22/top-five-parenting-regrets (http://www.guardian.co.uk/lifeandstyle/2013/mar/22/top-five-parenting-regrets )
+"Spending too little time with your children", "Not prioritising their needs", "Sweating the small stuff", "Taking short cuts" and "Feeling guilt".
+
+Listening to a rather depressing album of music which seems to consist entirely of sad criticism. Grim. All makes sense, but still. Grim.
+
+http://jinfiesto.posterous.com/lets-clear-up-a-big-misunderstanding-about-bu (http://jinfiesto.posterous.com/lets-clear-up-a-big-misunderstanding-about-bu )
+"Consider what you ate for lunch. Lets assume you ate a ham sandwich. I’m not particularly fond of ham, but for the purposes of this discussion, you are. You love ham." - Wait, things experience themselves? Don't get it.
+
+Still chilly.
+
+http://jeffreykegler.github.com/Ocean-of-Awareness-blog/individual/2013/03/what_if_free.html (http://jeffreykegler.github.com/Ocean-of-Awareness-blog/individual/2013/03/what_if_free.html )
+If I wrote something in Jison, would it be possible to translate it to Marpa? I'm guessing possible, but not trivial.
+
+http://esr.ibiblio.org/?p=4861 (http://esr.ibiblio.org/?p=4861 )
+"... semantically Emacs Lisp is a sort of living fossil coelacanth from the 1970s ..."
+
+https://metacpan.org/module/THALJEF/Pinto-0.065_06/lib/Pinto.pm (https://metacpan.org/module/THALJEF/Pinto-0.065_06/lib/Pinto.pm )
+Pinto - another way of solving the library problem, this time in Perl.
+
+"We must trust to nothing but facts: These are presented to us by Nature, and cannot deceive. We ought, in every instance, to submit our reasoning to the test of experiment, and never to search for truth but by the natural road of experiment and observation." - Antoine Lavoisier
+
+http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Nail_Your_Program_into_the_Upright_Position (http://programmer.97things.oreilly.com/wiki/index.php/Don%27t_Nail_Your_Program_into_the_Upright_Position )
+"... some sort of awareness crept over me that I might have accidentally taken a slip road from the motorway of good practice into the aromatic but insalubrious lane of lunacy."
+
+Why hasn't Dave Winer built an email client in the OPML Editor? He should totally do that. I'm getting back into it, too.
+
+Still a bit confused by iOS installed 'profiles'.
+
+http://en.wikipedia.org/wiki/Pie (http://en.wikipedia.org/wiki/Pie )
+"Pies are defined by their crusts." Also, the Romans offered cheescake to the gods.
+
+The bells are ringing. Please stop the bells.
+
+============================================================
+Registered address: *|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

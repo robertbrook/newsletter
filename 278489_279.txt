@@ -1,0 +1,29 @@
+http://www.htdig.org/ (http://www.htdig.org/ )
+The venerable htdig search engine. Still going in quite a few places, even with the last rerelease being almost a decade ago.
+
+I'm trying out posting images to my 'Fading City' domain. It might work. We'll see. It's a pity to retire The Pig Hill Gazette, though. I might use that for something else.
+
+https://developers.google.com/maps/documentation/geocoding/#ReverseGeocoding (https://developers.google.com/maps/documentation/geocoding/#ReverseGeocoding )
+Google explains: "The term geocoding generally refers to translating a human-readable address into a location on a map. The process of doing the converse, translating a location on the map into a human-readable address, is known as reverse geocoding."
+
+I've given in and started subscribing to rdio.com again. I'm not entirely sure why. I listen to a lot of podcasts and not much music any more.
+
+http://www.merrillcorp.com/discovery_solutions_lextranet.htm (http://www.merrillcorp.com/discovery_solutions_lextranet.htm )
+I heard a podcast about the Hillsborough Independent Panel, where this system was used: "Merrill Lextranet ... Expert Web-based e-discovery and case management solution".
+
+So much of the documentation of the Go language is in the form of slideshows and videos. I miss text.
+
+http://www.bbc.co.uk/ontologies/storyline/2013-05-01.html (http://www.bbc.co.uk/ontologies/storyline/2013-05-01.html )
+'A News Storyline Ontology', from "the BBC, Guardian, the Press Association and Ontoba". I used to work on the ancient things we had years ago: NewsML, PRISM and SGML. I'm sure things have improved a great deal. "The journalist pulls together information, facts, opinion, quotes, and data to explain the significance of world events and their context to create a narrative. The event is an award being received; the story is the triumph over adversity and personal tragedy of the victor leading up to receiving the reward (and the inevitable fall from grace due to drugs and sexual peccadillos)."
+
+I've been listening to the rather odd 'New Adventures of Sherlock Holmes'. The two leads are Basil Rathbone as Holmes and Nigel Bruce as Watson. Rathbone was born in South Africa and died in New York. Bruce was born in Mexico and ended his days in California. Both of them, like Chaplin, never got round to taking US citizenship.
+
+http://www.guardian.co.uk/news/2007/oct/30/guardianobituaries.obituaries1 (http://www.guardian.co.uk/news/2007/oct/30/guardianobituaries.obituaries1 )
+Moira Lister: "an elegant, intelligent and funny actor ... rarely unemployed".
+
+A correspondent asks: "Is there some clear benefit in using Dropbox instead of emailing a document?" - which I said I'd try to write something like an answer to. Most often, people will use Dropbox instead of attaching large files to an email. Things in Dropbox can be shared with a URL, which you can give to several people, if you need to. If your attachment is small, you might as well stick with email.
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

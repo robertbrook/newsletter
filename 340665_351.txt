@@ -1,0 +1,45 @@
+Does ease of use of any system directly relate to it's insecurity? Are secure systems always difficult to use?
+
+http://www.selfs.org.uk
+The South East London Folklore Society.
+
+Looking at Google's results for "semantic rapper".
+
+https://news.ycombinator.com/item?id=2547366
+(Comments on (thoughts on (writing (lisp)))): "Like a party full of smart strangers, once you get going it's fine ... but most people don't stick around that long." ... "One way is to commit to using emacs for everything, now, and then slowly 'dig your way out'." ...
+
+http://www.masteringemacs.org/reading-guide/
+... and here's a 'reading guide' for emacs, by Mickey Petersen ...
+
+http://edward.oconnor.cx/2009/07/learn-emacs-in-ten-years
+... "Well, the short answer is, you should learn Emacs by using it for about a decade." I've used emacs on and off for more than a decade; unfortunately more off than on ...
+
+http://sachachua.com/blog/2013/03/learn-emacs-lisp-by-reading-emacs-lisp/
+... Sacha Chua gives this advice: "Reading code is an essential part of learning how to code. By reading other people's code, you'll not only discover interesting syntax and library features, but you'll also start absorbing the idioms – the ways of doing things."
+
+Several time-outs recently. Suspicious.
+
+http://lua-users.org/wiki/LpegRecipes
+"... examples of Lua code using LPeg for parsing to help further the understanding of how to use parsing expression grammars."
+
+I'm still looking at making something like the Robot Wisdom 'start page', or the Arts and Letters Daily sidebar. Perhaps in Tinderbox? I miss old-school hypertext.
+
+http://en.wikipedia.org/wiki/Baudot_code
+Could work on Little Printer as a sort of proto-QR.
+
+http://newcomen.com/?ai1ec_event=blue-danube-britains-first-atomic-bomb
+"At first sight, Britain's first atomic bomb seems to owe as much to Reverend Awdry and the remarkable devices of Heath Robinson as to the sinister world of Doctor Strangelove and the Cold War." ... "It was based around a supply chain located in ordinary factories in the back streets of northern industrial towns, as well as the more familiar sites associated with atomic weapons development."
+
+http://www.alfredapp.com
+I've got back into Alfred, because the text is easier to read. This is what they used to call 'the grey pound'.
+
+I do miss Milk Bar on Bateman Street, but the whole thing was a disaster eventually. A great pity. Long live Monmouth. The Monmouth staff are on the ball. Totally.
+
+http://bisouslescopains.tumblr.com
+Animated GIFs from Guillaume Kurkdjian.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

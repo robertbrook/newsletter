@@ -1,0 +1,35 @@
+This particular meeting has drifted from the merely tedious, to the embarrassing, to the downright upsetting.
+
+https://suitabletech.com/beam/ (https://suitabletech.com/beam/ )
+Telepresence. Not the video encoding thing. A snip at $16k. I like the little wheels.
+
+They're talking about databases again. This is not the place for me. I don't know about databases. I don't know about any of these things.
+
+https://github.com/aphyr/meangirls (https://github.com/aphyr/meangirls )
+"Serializable data types for eventually consistent systems." - a series of interesting set-manipulation methods.
+
+"Nancy had read the marriage-service for the first time that morning, and been so disgusted that she all but refused to go through with the wedding, though I had arranged for the ceremony to be modified and reduced to the shortest possible form. Another caricature scene to look back on: myself striding up the red carpet, wearing field-boots, spurs and sword; Nancy meeting me in a blue-check silk wedding-dress, utterly furious; packed benches on either side of the church, full of relatives; aunts using handkerchiefs; the choir boys out of tune; Nancy savagely muttering the responses, myself shouting them in a parade-ground voice." - Robert Graves recalls his wedding with Nancy Nicholson
+
+http://babyl.dyndns.org/techblog/entry/simple-things (http://babyl.dyndns.org/techblog/entry/simple-things )
+"There is that web page listing a bunch of PDF files. Is there a way to get them all and, while we are at it, collate 'em into a single document?" ...
+
+http://search.cpan.org/dist/CAM-PDF/ (http://search.cpan.org/dist/CAM-PDF/ )
+... runs using Chris Dolan's CPAN module.
+
+http://news.ycombinator.com/item?id=5292519 (http://news.ycombinator.com/item?id=5292519 )
+Interesting comment on mongo: "If you have a complex relational schema you should use a SQL database. If you need a simple to use document or object store the NoSQL solutions are often easier to code against."
+
+http://www.southbankcentre.co.uk/about-us/transforming-southbank-centre/whats-next (http://www.southbankcentre.co.uk/about-us/transforming-southbank-centre/whats-next )
+Southbank to "transform" the "Festival wing". Alarm bells should be ringing. That's probably premature, but I hope they don't bugger about with it too much. The plans will be online from 7th March at southbankcentre.co.uk/festivalwing
+
+Waiting for people to take me or my "work" seriously is probably a mistake. I just have to do my thing and not worry about that. No, I've not just worked that out, but it does do to remind myself of it now and then. Some people have chips on their shoulders about all sorts of stuff - and there isn't always much I can do about that. Like I said, I just need to do my thing.
+
+Is there anything inherently wrong with being middle-class? I'm very middle-class. Not upper-middle, but right down the centre. And I do rely on others to let me know how me being how I am is inherently wrong.
+
+============================================================
+
+*|LIST:ADDRESS|*
+*|LIST:ADDRESS|*
+
+** BACK ISSUES (*|ARCHIVE|*)
+** UNSUBSCRIBE (*|UNSUB|*)

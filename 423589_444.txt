@@ -1,0 +1,53 @@
+444 - SPOON
+
+On the web (*|ARCHIVE|*)
+
+A glance at Google Images reveals I've met Matthew de Abaitua before, only he seems so well-treated by age I could barely recognise him as the same person.
+
+http://spde.technically.us/Spde.html
+"Spde is an offshoot of the Processing environment to support sketches written in Scala ... for now it is just a scrappy little thing with big ideas."
+
+I could write something about Forth, I suppose.
+
+https://github.com/quil/quil
+"In one hand Quil holds Processing, a carefully crafted API for making drawing and animation extremely easy to get your biscuit-loving chops around. In the other she clutches Clojure, an interlocking suite of exquisite language abstractions forged by an army of hammocks and delicately wrapped in flowing silky parens of un-braided joy."
+
+There are no 'open' mobile devices really, are there. Is open general purpose computing now in the past?
+
+http://nsl.com/k/f/f.htm
+F is written in K ...
+
+http://nsl.com/k/f/f.k
+... f.k is here.
+
+http://xkcd.com/radiation/
+An old one but still of use.
+
+http://blog.nu42.com/2013/08/read-select-lines-from-file-using-perl.html
+Sinan Ünür: "First, we set the line before the first to undef: There is no line before the first line. Next, we assign as the first line a promise to read a line from the input stream. This way, the mere act of creating an iterator does not change the file position."
+
+https://github.com/JeffBezanson/femtolisp
+"This project began with an attempt to write the fastest lisp interpreter I could in under 1000 lines of C. It snowballed from there as I kept trying to see if I could add powerful features with minimal code."
+
+I am scrolling. I am scrolling.
+
+I'm at Salt, just by Holborn. The coffee's fine, from Nude. But - no price list? Did I just not look in the right place? Apparently I look like someone who'd order a cappuccino. It must be my scarf. It's cotton. I've never knowingly ordered a cappuccino.
+
+Am I being scrolled?
+
+http://createdigitalmusic.com/2013/07/roll-your-own-looper-cheap-raspberry-pi-pd-korg-monotron-hands-on/
+Servando Barreiro: "raspberry pi + monotron + puredata" ...
+
+https://ccrma.stanford.edu/~eberdahl/Satellite/
+... with Satellite CCRMA on the Pi: "a platform for building embedded musical instruments and embedded art installations."
+
+IMAP's getting real laggy here, Apple. I'm suspicious. I think they're putting more traffic over the iCloud backbone. That's not going to be good.
+
+Onwards.
+
+
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

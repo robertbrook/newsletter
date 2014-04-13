@@ -1,0 +1,67 @@
+A newsletter from Robert Brook
+------------------------------------------------------------
+*|ARCHIVE|*
+
+
+**
+------------------------------------------------------------
+http://feed2ical.appspot.com (http://feed2ical.appspot.com )
+Convert an RSS feed to an iCal file.
+
+John Locke: "He that will have his son have a respect for him and his orders, must himself have a great reverence for his son."
+
+http://calligraphyforbeginners.com (http://calligraphyforbeginners.com )
+Calligraphy for beginners - not updated for quite a while, but still worth a look.
+
+"Apollodorus says, 'If any one were to take away from the books of Chrysippus all the passages which he quotes from other authors, his paper would be left empty.'" - That was me, quoting Wikipedia, quoting Diogenes Laërtius, quoting Apollodorus on Chrysippus' quoting too much.
+
+http://nb.io/hacks/csshttprequest (http://nb.io/hacks/csshttprequest )
+"CSSHttpRequest is cross-domain AJAX using CSS"
+
+"Se tu viesses ver-me hoje à tardinha,
+A essa hora dos mágicos cansaços,
+Quando a noite de manso se avizinha, ..."
+- Florbela Espanca
+
+http://www.funomena.com (http://www.funomena.com )
+The Robin Hunicke, executive producer of the PS3 game 'Journey' - and Martin Middleton: "Martin created several real-time, web-based tools for the art and design teams, while developing the game’s distributed, deformable sand terrain system. He also built Journey’s unique, peer-to-peer networking solution, which connects players seamlessly as their paths cross during gameplay." ...
+
+http://www.ifixit.com/Teardown/PlayStation+3+Super+Slim+Teardown/10670/1 (http://www.ifixit.com/Teardown/PlayStation+3+Super+Slim+Teardown/10670/1 )
+... and speaking of the PS3, this is what the most recent 'slim' revision looks like inside.
+
+http://blogs.independent.co.uk/2013/01/25/is-this-the-most-inane-interview-in-the-history-of-football/ (http://blogs.independent.co.uk/2013/01/25/is-this-the-most-inane-interview-in-the-history-of-football/ )
+"Is this the most inane interview in the history of football?"
+
+http://blog.yourgrind.com (http://blog.yourgrind.com )
+Yes, another coffee subscription service, but they have a nice blog too.
+
+http://www.cubrid.org/wiki_tutorials/entry/important-facts-to-know-about-cubrid (http://www.cubrid.org/wiki_tutorials/entry/important-facts-to-know-about-cubrid )
+CUBRID: not a MySQL fork, but tuned for high availability and sharding.
+
+http://emptystates.tumblr.com (http://emptystates.tumblr.com )
+Fascinating design tumblr: what should your service look like before any action has been taken? What's your app's blank slate? I always thought Basecamp got this right with their login screens.
+
+http://www.unstuckbooks.org/issue-2 (http://www.unstuckbooks.org/issue-2 )
+"The weirdest literary event of 2012": Unstuck, issue two - "... more than 500 pages of elephant men and minotaurs, magic charms and lost islands, talking dogs and miniature husbands, orphans reared in libraries, zombie bank robbers, mechanical cattle, and many other curiosities."
+
+http://rethinkingchildhood.com/2013/01/14/children-freedom-england-germany/ (http://rethinkingchildhood.com/2013/01/14/children-freedom-england-germany/ )
+"Many German cities have efficient public transport and safe, popular walking and cycling routes, along with generous, well-managed green spaces." ...
+
+http://www.flickr.com/photos/rethinkingchildhood/tags/freiburg/ (http://www.flickr.com/photos/rethinkingchildhood/tags/freiburg/ )
+... more in Tim Gill's photos of Freiburg.
+
+http://tomtunguz.com/we-should-be-living-in-the-future-already (http://tomtunguz.com/we-should-be-living-in-the-future-already )
+Tom Tunguz: "I believe the infrastructure, the revenue model, the customer base and the deep learning techniques are finally ready to enable entrepreneurs to seize the opportunity and build the future." I don't. I understand the optimism, but I don't share it. Or, at least, I don't think the future looks like that.
+
+http://www.bbc.co.uk/news/entertainment-arts-21082876 (http://www.bbc.co.uk/news/entertainment-arts-21082876 )
+Bernard Cribbins criticises contemporary children's programming. TV programming, specifically - not whatever they're doing with Raspberry Pi.
+
+London is out from under the snow, now rain.
+
+============================================================
+-
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:ADDRESS|* *|END:IF|*
+
+** Unsubscribe (*|UNSUB|*)
+** Y (*|UPDATE_PROFILE|*)
+** our profile (*|UPDATE_PROFILE|*)

@@ -1,0 +1,37 @@
+Live from London ...
+
+View this email in your browser (*|ARCHIVE|*)
+
+http://www.bbc.co.uk/news/uk-england-london-23175255 (http://www.bbc.co.uk/news/uk-england-london-23175255 )
+I was reading this story on the BBC website on a desktop computer - and my eye was caught by the updating ticker-box thing on the right side. I poked around in the source code - something that's still possible, for now - and made some guesses about what it being used to do it. My guess: a node server running pulsar pushes out JSON-P chunks than the page then renders through a mustache template. No, really. That's my guess.
+
+http://www.london-gazette.co.uk/issues/44306/pages/5079/page.pdf (http://www.london-gazette.co.uk/issues/44306/pages/5079/page.pdf )
+That last Guess-Who was Gilbert Harding. His company, 'Gilbert Harding (Exploitation) Limited', was dissolved in 1967, seven years after his death.
+
+http://www.neilmiddleton.com/the-wonders-of-hstore/ (http://www.neilmiddleton.com/the-wonders-of-hstore/ )
+"hStore is essentially a No-SQL style storage method that sits within Postgres SQL databases. It allows you to store hash style data in a single column and then do some wonderous things with it."
+
+http://www.openlisp.org (http://www.openlisp.org )
+Lisp on FreeBSD. "OpenLISP focuses on the data plane operation, meaning that it implements the LISP-Cache and the LISP-Database in the kernel space, as well as the encaps/decap functions. Everything that is related to the control plane is meant to run in the user space."
+
+http://www.bbc.co.uk/news/entertainment-arts-23143063 (http://www.bbc.co.uk/news/entertainment-arts-23143063 )
+"Depending on your age and interests, you will know Mikhail Baryshnikov either as one of the most graceful creatures that ever set foot on a stage, in the same league as Nureyev and Nijinsky, or as that Russian bloke from Sex and the City."
+
+http://www.ohler.com/ox/ (http://www.ohler.com/ox/ )
+"Unlike some other Ruby XML parsers, Ox is self contained. Ox uses nothing other than standard C libraries so version issues with libXml are not an issue." ...
+
+http://www.ohler.com/oj/ (http://www.ohler.com/oj/ )
+... Peter Ohler also made the Oj gem ... "designed as a faster alternative to Yajl".
+
+http://en.wikipedia.org/wiki/When_All_Is_Said_and_Done (http://en.wikipedia.org/wiki/When_All_Is_Said_and_Done )
+"Written during a time of emotional turmoil, Ulvaeus has admitted that the recent divorce between Benny and Frida was at the back of his mind during the songwriting process for this song. Björn sought approval from Benny and Frida before the group began working with the song. When recording began in March 1981, only one month had passed since their separation."
+
+http://en.wikipedia.org/wiki/Sonya_Thomas (http://en.wikipedia.org/wiki/Sonya_Thomas )
+"The Black Widow", or "The Leader of the Four Horsemen of the Esophagus". Rather clever, that.
+
+Listening to Lovecraft on podcasts and on the wireless. Summer amusements.
+
+*|LIST:ADDRESS|*
+Unsubscribe (*|UNSUB|*)
+
+============================================================

@@ -1,0 +1,31 @@
+519 - FROM A WINDOW - on the web (*|ARCHIVE|*)
+
+http://www.tine.no/oppskrifter/lunsj-og-smaretter/grot-og-kornblandinger/fløyelsgrøt-smørgrøt
+"Grøten har fått sin renessanse og er på full fart inn igjen i de norske hjem som et enkelt og billig middagstips. ... Mange får gode minner når fløyelsgrøt blir nevnt." I'm a fan. But what's "rød saft"?
+
+I should eat something.
+
+http://rubberflooringcompany.net
+"The smart alternative to rubber flooring". The Rubber Flooring Company. I think that's what they used to call 'SEO'.
+
+http://www.thejc.com/lifestyle/food/106084/kosher-bread’s-new-twist
+Victoria Prever: "... UK kosher bakeries idle in the 20th century with an unchanging menu of bagels, cheesecake, rye and rugelach. A wholemeal challah or mini bagel is about as radical as it gets."
+
+http://alexandria.tue.nl/repository/freearticles/597619.pdf
+'Lambda Calculus Notation with Nameless Dummies' ...
+
+http://isabelle.in.tum.de/nominal/
+... "To root out bugs, every programming language should be designed with the help of a theorem prover, and every compiler should be verified. With our work we aim to provide all proving technologies necessary for reasoning conveniently about programming languages (for example the lambda calculus) and compilers."
+
+I'm starting not to trust Apple's Reminders, or even the Notes application. Not that I think Apple are necessarily 'evil', just that they're clearly not interested in the low-level standards stuff - like IMAP. Reminders is a mess and relies on iCloud, which means it stays bad as long as iCloud stays bad. Notes is just IMAP, but iCloud messed with that as well, as far as I can see.
+
+https://www.icloud.com
+If I'm waiting for iCloud to get good, I may have a long wait. The only bit that I have any faith in is the weird step-child, icloud.com - it works, it has interesting features and it's often faster than the desktop applications.
+
+http://www.stephenfry.com/2014/01/24/mac-at-30/single-page/
+"I notice the BBC have no article in their tech page today even mentioning the Mac’s 30th birthday. I supposed they’re just scared by those weird trolls who think that Apple has them in their pay or something equally mad. I can’t be arsed to go out there and defend Apple products, they speak and sell for themselves." I'm not a particular fan of Stephen Fry. I don't watch him on TV. I don't read his books. But, he does seem like a nice man. I like it when he writes like this; fast and unrehearsed.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

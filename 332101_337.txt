@@ -1,0 +1,29 @@
+Good morning.
+
+http://tools.wmflabs.org/glamtools/baglama.php (http://tools.wmflabs.org/glamtools/baglama.php )
+"View counts for pages using Commons images in GLAM-related category trees." I have no idea what this means.
+
+Now, I'm no cyberpunk. Neither am I a goth. But I do have a soft spot for the stories of H. P. Lovecraft. I read most of his stuff years ago - and I'm rediscovering it now, in podcasts. The odd thing is 'tone'. One podcast I listened to had the tone that worked for me: the narrator read it 'straight' - as a weird horror story. At least two other podcasts I've unsubscribed from, since the tone the stories are read in I find just too jarring. One narrator seemed to be attempting an impression of Gore Vidal Lite - and read Lovecraft's accounts of unimaginable horrors rather as though one might complain the at front desk of Peter Jones.
+
+http://shapeshed.com/working_with_filesystems_in_nodejs/ (http://shapeshed.com/working_with_filesystems_in_nodejs/ )
+"The synchronous read will halt your program until the read has finished. The asynchronous read lets your program get on with other things and makes the data available via the callback. Reading a file as a stream makes the data available as soon as chunks of it are ready and lets you pipe it through other streams too." A very useful and understandable run-though of the node.js filesystem library.
+
+http://en.wikipedia.org/wiki/John_Scotus_Erigena (http://en.wikipedia.org/wiki/John_Scotus_Erigena )
+The chap who used to be on the Republic of Ireland's £5 notes. "The latter part of his life is unclear. There is a story that in 882 he was invited to Oxford by Alfred the Great, labored there for many years, became abbot at Malmesbury, and was stabbed to death by his pupils with their styli. Whether this is to be taken literally or figuratively is not clear ..."
+
+http://fadingcity.com/suburbia/mr-manningham (http://fadingcity.com/suburbia/mr-manningham )
+Vincent Price, in 'Angel Street' - the 1938 play which gave us the term "gaslighting", being "a form of psychological abuse in which false information is presented to the victim with the intent of making him/her doubt his/her own memory and perception".
+
+http://newswatch.nationalgeographic.com/files/2012/02/Font-sheet.jpg (http://newswatch.nationalgeographic.com/files/2012/02/Font-sheet.jpg )
+The type faces used in the maps of 'National Geographic'. And now I have a title for one of my stories: 'At Dasoune'.
+
+http://bzg.fr/learn-emacs-lisp-in-15-minutes.html (http://bzg.fr/learn-emacs-lisp-in-15-minutes.html )
+"Going through this tutorial won't damage your computer unless you get so angry that you throw it on the floor."
+
+Have a lovely day today.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

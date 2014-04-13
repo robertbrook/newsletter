@@ -1,0 +1,55 @@
+A newsletter from Robert Brook
+------------------------------------------------------------
+*|ARCHIVE|*
+
+
+**
+------------------------------------------------------------
+http://travel.stackexchange.com/questions/13187/services-to-help-disabled-travelers-with-accommodation-and-travel (http://travel.stackexchange.com/questions/13187/services-to-help-disabled-travelers-with-accommodation-and-travel )
+Surely there's a travel agent that provides tailored services to people with disabilities?
+
+http://www.hnsearch.com/api (http://www.hnsearch.com/api )
+An API to search Hacker News ...
+
+http://www.hackyapp.com (http://www.hackyapp.com )
+... and a Mac app to read it. £1.99 UK.
+
+http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven (http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven )
+The Roy says: "... if the engine of application state (and hence the API) is not being driven by hypertext, then it cannot be RESTful and cannot be a REST API. Period."
+
+Do I miss Twitter? Honestly, yes. A bit. Sort of. Sometimes. It is a pity that being on Twitter is pretty much being visible online, now. I certainly miss the people. But! There are people in real life, apparently. Will I go back to Twitter? No. In fact, I'm not even sure I'll survive much longer on app.net. The push from the paged web to the streamed web is something I have opinions on, but I'm not sure how I fit into it, if at all. I'm thinking of the whole 'indieweb' idea in particular now.
+
+http://www.ronkato.com/strategy-means-nothing-without-operations/ (http://www.ronkato.com/strategy-means-nothing-without-operations/ )
+Ryota Ron Kato: "When you look at a company’s budget there should be a storyline. The numbers next to the line items needs to illustrate how the strategy is to be executed. If you can’t read your strategy in the budget, it’s not going to happen."
+
+http://www.pbs.org/mediashift/2013/01/who-really-owns-your-photos-in-social-media-updated-2013-edition025.html (http://www.pbs.org/mediashift/2013/01/who-really-owns-your-photos-in-social-media-updated-2013-edition025.html )
+Kathy Gill: "Who Really Owns Your Photos in Social Media?" - a great summary, but what about those of us who are neither "Citizen journalists" nor "Media"? [via @redmamba]
+
+http://www.youtube.com/watch?v=hy3W-3HPMWg (http://www.youtube.com/watch?v=hy3W-3HPMWg )
+Terry Riley's "Rainbow in Curved Air".
+
+http://bergcloud.com/littleprinter/content/ (http://bergcloud.com/littleprinter/content/ )
+Is there a definitive list of content sources for BERG's Little Printer? I think these are just the first few that were available.
+
+http://nowaternomoon.com/post/42259137469/80-20-challenge-how-to-learn-10-skills-using-minimum (http://nowaternomoon.com/post/42259137469/80-20-challenge-how-to-learn-10-skills-using-minimum )
+"Better sleep [through] two tablespoons of organic almond butter before bed, ice baths one hour prior to bed, and half military crawl position." Merlin would hate this.
+
+http://www.bbc.co.uk/news/magazine-21294241 (http://www.bbc.co.uk/news/magazine-21294241 )
+Swiss railways decide to follow the UK example. "... the formal payment for my ticket from my credit card company arrived four minutes after my train left the station. That means, they say, that I bought my ticket on the train - and that is not allowed. Together with the letter was a fine for 190 francs."
+
+http://www.guardian.co.uk/commentisfree/2011/nov/10/please-please-please-smiths-john-lewis (http://www.guardian.co.uk/commentisfree/2011/nov/10/please-please-please-smiths-john-lewis )
+"... few of us can claim to have a solid understanding of how Morrissey's mind works ..." Morrissey looks merely young. Marr looks ... he ... I just don't know.
+
+http://support.apple.com/kb/TS2481 (http://support.apple.com/kb/TS2481 )
+Sync Service 'troubleshooting' from Apple. Proof that dumbing down doesn't equal simplification.
+
+http://www.habbaniya.org (http://www.habbaniya.org )
+RAF Habbaniya: "Construction began in 1934 and the main contractors were Messrs Humphries of Knightsbridge and because of this the workers village became known as 'Humphreya'."
+
+============================================================
+-
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:ADDRESS|* *|END:IF|*
+
+** Unsubscribe (*|UNSUB|*)
+** Y (*|UPDATE_PROFILE|*)
+** our profile (*|UPDATE_PROFILE|*)

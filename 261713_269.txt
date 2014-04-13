@@ -1,0 +1,31 @@
+Is there a subreddit for text-only stuff?
+
+http://6guts.wordpress.com/2013/05/15/rakudo-on-jvm-progress-update-and-some-questions-answered/
+"... we run bits of the file we’re in the middle of compiling while we’re compiling it ..." Perl 6 - Raduko - on the JVM. Again I wonder: no native JVM on the Mac, are we seeing the Mac being forced into non-dev use only?
+
+Has anyone started offering "JVM-on-bare-metal" cloud instances yet? I'm sure that's a thing.
+
+http://www.linux.com/news/software/applications/694157-setup-your-dev-environment-in-nothing-flat-with-puppet
+"... how to use Vagrant to automate away the pain of managing VMs on your local system." DevOps stretches all the way from the desktop to the cloud, now.
+
+I notice that "heroku raduko" is still a GoogleWhack, at the time of typing.
+
+http://www.barrypopik.com/index.php/new_york_city/entry/luncheonette/ (http://www.barrypopik.com/index.php/new_york_city/entry/luncheonette/ )
+"A 'luncheonette' was originally a small meal (a light lunch) that was served at drug stores, expanding the soda fountain service." I feel we never really had these in England. The greasy spoon cafe, perhaps, might have been the nearest we got?
+
+Wasn't there a time when the loading-floor of Monmouth was visible from the street? I'm sure I remember looking down to see the sacks of beans and the roaster machine.
+
+http://www.guardian.co.uk/commentisfree/2013/may/16/masculinity-crisis-men (http://www.guardian.co.uk/commentisfree/2013/may/16/masculinity-crisis-men )
+Laurie Penny: "... there have always been men who were too poor, too queer, too sensitive, too disabled, too compassionate or simply too clever to submit to whatever model of 'masculinity' society relied upon to keep its wars fought and its factories staffed."
+
+As long as we have a "policy" about something, we're fine, aren't we? And a "coordinator". That solves every problem. I don't mean solves, I mean "addresses". We could also have some hand-off "training resources made available" somewhere on the web. Then we wouldn't really ever have to think about this at all. Outsource all the problems!
+
+http://www.guardian.co.uk/lifeandstyle/2013/may/19/nigel-slater-sandwich-recipes (http://www.guardian.co.uk/lifeandstyle/2013/may/19/nigel-slater-sandwich-recipes )
+Nigel Slater: "Slice the figs and divide some of them between half of the meringue slices and reserve the others. Place the remaining halves on top, then decorate with the remaining figs. Warm the honey with the remaining nuts in a shallow pan. Spoon over the fig meringues and serve."
+
+I feel so terribly tired. I have been a little cheered up, though. Onwards!
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

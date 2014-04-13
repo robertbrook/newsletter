@@ -1,0 +1,58 @@
+I'm still not sure about sending out raw text without marking up the URLs, so I'm going to play it safe and carry on marking them up.
+
+http://www.instituteofmaking.org.uk/about/people (http://www.instituteofmaking.org.uk/about/people )
+The staff of the 'Institute of Making' at UCL - lovely people.
+
+http://www.bbc.co.uk/arts/0/23007897 (http://www.bbc.co.uk/arts/0/23007897 )
+Form the BBC 'Arts and Culture Knowledge and Learning Beta': the photography of Vivian Maier. An interesting note on taking photos as square format and cropping down - also that rather sad realisation that the work is already being put into closed archives. I really shouldn't share my views on that. And what's 'BBC One Imagine'?
+
+http://code.google.com/p/mongoose/ (http://code.google.com/p/mongoose/ )
+Did I mention this before? I can't remember. Mongoose is a server available for most platforms that supports Lua 'server pages'.
+
+https://scraperwiki.com/scrapers/jsdbnew/ (https://scraperwiki.com/scrapers/jsdbnew/ )
+I wrote a scraper for the new items on JSDB.io.
+
+http://www.esotericorderofdagon.org/E.'.O.'.D.'.%20Introduction.pdf (http://www.esotericorderofdagon.org/E.'.O.'.D.'.%20Introduction.pdf )
+"The Yaddith Lodge - Esoteric Order of Dagon". Even Cthulhu does PDFs.
+
+http://www.mikebennettauthor.com (http://www.mikebennettauthor.com )
+Mike Bennett writes and reads "tales of horror and the grotesque". I'm listening to 'The Shadow over Innsmouth', by Lovecraft ...
+
+http://en.wikisource.org/wiki/The_Shadow_Over_Innsmouth (http://en.wikisource.org/wiki/The_Shadow_Over_Innsmouth )
+... which you can read online.
+
+http://www.poetryfoundation.org/poem/178359 (http://www.poetryfoundation.org/poem/178359 )
+Poe's poem 'The Conqueror Worm'. Lovely.
+
+http://books.google.co.uk/books?id=DNb6cyzIT5oC (http://books.google.co.uk/books?id=DNb6cyzIT5oC )
+Tim Newburn, Tom Williamson, Alan Wright: 'Handbook of Criminal Investigation'
+
+http://archive.spectator.co.uk (http://archive.spectator.co.uk )
+The Spectator archive: "Every page has been scanned and digitised, each article tagged and extracted, so that you can search the whole archive by content, keyword, topic, location, and date." I wish there was a way to see the original pages as simple images, rather than through a popup window.
+
+http://www.dunsehistorysociety.co.uk/bagame2.shtml (http://www.dunsehistorysociety.co.uk/bagame2.shtml )
+A record of a ... game of football? 1833, Duns: "The miller entertained them with pork and dumplings and what was of far more importance dusted them especially their hats with flour."
+
+https://github.com/isaacs/npm-www (https://github.com/isaacs/npm-www )
+The backend to the npm site: notably not knee-deep in frameworks.
+
+http://fadingcity.com/calendar/ (http://fadingcity.com/calendar/ )
+A reminder of the 'Fading City' calendar: all sorts of things coming up.
+
+http://www.bbc.co.uk/news/uk-22866731 (http://www.bbc.co.uk/news/uk-22866731 )
+I remember Rory Morrison in particular on 'From Our Own Correspondent'. He was excellent.
+
+http://www.rolls-roycemotorcars.com (http://www.rolls-roycemotorcars.com )
+"Motor cars" - they all look a little like hearses, to me. But what do I know.
+
+http://www.warwicksquarepimlico.co.uk/737/pimlico-passport-points-of-interest-on-a-map/ (http://www.warwicksquarepimlico.co.uk/737/pimlico-passport-points-of-interest-on-a-map/ )
+"There are no white-cubed art galleries, hipster hangouts, designer boutiques or billionaire ghettos."
+
+Have a lovely day.
+
+
+
+*|LIST:ADDRESS|*
+Unsubscribe (*|UNSUB|*)
+
+============================================================

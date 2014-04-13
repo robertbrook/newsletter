@@ -1,0 +1,50 @@
+I still look at Twitter now and then. Some people are really nice. In fact, most people are. That's good. That's really good.
+
+http://sputnik.freewisdom.org (http://sputnik.freewisdom.org )
+Sputnik is a wiki written in Lua with it's own built-in server. Reminds me of Vanilla ...
+
+http://www.vanillasite.at (http://www.vanillasite.at )
+... a wiki written in Rebol ...
+
+http://www.rebol.com/rebolsteps.html (http://www.rebol.com/rebolsteps.html )
+... recently LiveCode and Rebol emerged into the open source world, sort of. I still think Rebol is worth a look.
+
+http://www.drdobbs.com/jvm/after-xml-json-then-what/240151851 (http://www.drdobbs.com/jvm/after-xml-json-then-what/240151851 )
+Another one from Andrew Binstock: "After XML, JSON: Then What? ... Data representation, a seemingly simple problem, is proving intractable as one standard after another fails to deliver what is needed." He suggests YAML. Which seems ... brave. Not necessarily wrong. Just brave.
+
+http://andrewminer.tumblr.com/omnifocus
+A very comprehensive post on using Omnifocus, especially useful with the screenshots of personal setup.
+
+http://www.phaidon.com/store/food-cook/how-to-boil-an-egg-9780714862415/ (http://www.phaidon.com/store/food-cook/how-to-boil-an-egg-9780714862415/ )
+A book, called 'How to Boil an Egg'. It's about a bit more than that.
+
+https://www.love2d.org/wiki/Tutorial:Physics (https://www.love2d.org/wiki/Tutorial:Physics )
+Physics in the game engine Love: it's Lua. This seems like a simpler and more direct route to some of the 3D graphics-heavy promoted IDEs for new users.
+
+http://www.parrot.org/dev/examples/pir (http://www.parrot.org/dev/examples/pir )
+Examples of 'Parrot intermediate representation' code, which runs of the Parrot VM.
+
+http://www.coderslexicon.com/the-language-all-polyglot-programmers-should-know-business/ (http://www.coderslexicon.com/the-language-all-polyglot-programmers-should-know-business/ )
+Programmers should know at least the basics of the language of business. Some simple but useful tips: "Tie everything to the bottom line ... Stats and charts are your friend ... Keep the company fiscal year in mind". Interestingly, "Be a master at speaking with analogies" - this is something I find myself doing a lot, but getting criticised for by the code people. Maybe the business people like it more.
+
+http://www.sk-szeged.hu/statikus_html/gyermekkonyvtar/mese/gomboc.htm (http://www.sk-szeged.hu/statikus_html/gyermekkonyvtar/mese/gomboc.htm )
+"Aztán elkezdett gurulni, legurult a létrán, ki az udvarra, az udvarból ki az utcára, ottan utolért egy sereg kapás embert s asszonyt, s azokat is bekapta; továbbgurult, ki az országútra, ott szembejött vele egy regiment katona, azt is bekapta. Még ez sem volt elég a telhetetlen gömböcnek."
+
+Retreating from Sublime Text back to BBEdit.
+
+http://www.techhive.com/article/2032722/googles-unified-messaging-app-babble-the-downside.html (http://www.techhive.com/article/2032722/googles-unified-messaging-app-babble-the-downside.html )
+"While unifying Google's array of confusing communication services may be a good short-term idea for users, the company's long-term agenda may not be as beneficial."
+
+Have a great day. Try to.
+
+============================================================
+*|LIST:ADDRESS|*
+
+Thanks to Dave Briggs at  and Giles Turnbull at
+
+Every Friday: Roo's Letter
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** http://gilest.org (http://gilest.org)
+** http://tinyletter.com/rooreynolds (http://tinyletter.com/rooreynolds)
+** Unsubscribe (*|UNSUB|*)

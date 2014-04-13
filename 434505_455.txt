@@ -1,0 +1,85 @@
+455 - INEVITABLE
+
+On the web (*|ARCHIVE|*)  - Signup link (*|LIST:SUBSCRIBE|*)
+
+Again, is someone calling me? It's probably a symptom. Like the strange smells.
+
+https://devcenter.heroku.com/articles/getting-started-with-nodejs
+Not as complicated as it looks, really.
+
+I looked at a few URLs today and thoroughly upset myself.
+
+http://listjs.com/docs
+Straightforward list-jiggling.
+
+Focus. Wanting, anything.
+
+https://github.com/dropbox/dropbox-js/blob/stable/guides/getting_started.md
+"This is a guide to writing your first dropbox.js application." ...
+
+https://www.dropbox.com/developers/core/docs
+... and here's the API.
+
+I like this one.
+
+https://github.com/hubspot/offline
+"Improve the experience of your app when your users lose connection." ... offline.js - "Automatically grabs ajax requests made while the connection is down and remakes them after the connection is restored."
+
+I like this.
+
+https://github.com/hakimel/reveal.js
+"... nested slides, markdown contents, PDF export, speaker notes and a JavaScript API."
+
+Tabbing.
+
+http://alxgbsn.co.uk/2013/02/20/notify-js-a-handy-wrapper-for-the-web-notifications-api/
+"Notify.js aims to simplify requesting user permission and associated Web Notification API events, as well as providing a few extra callbacks and convenience methods."
+
+A little way off.
+
+https://moot.it/blog/technology/riotjs-the-1kb-mvp-framework.html
+Tero Piirainen on riot.js: "I wanted to show that it's not necessary to use a framework to build a modular and maintainable application."
+
+Best, really.
+
+https://github.com/diegoceccarelli/json-wikipedia
+"... convert the Wikipedia xml dump in a json dump".
+
+Pruning.
+
+https://github.com/ianb/walkabout.js
+From Ian Bicking: "Walkabout.js is an automatic web application tester. It randomly simulates a user."
+
+"We should be talking about the future."
+
+http://kripken.github.io/lua.vm.js/lua.vm.js.html
+"The Lua VM, on the Web"!
+
+Mildly irritated and distressed by certain things. I should just turn away, let myself off.
+
+https://github.com/paypal/kraken-js
+Paypal's Node.js web application framework: seems big ...
+
+http://krakenjs.com
+... and it's part of something bigger.
+
+http://ku1ik.com/2011/09/08/formatting-xml-in-vim-with-indent-command.html
+Rewiring vim's equalprg to use xmllint. Lovely.
+
+http://www.islastclair.com
+I don't have Flash. You'll just have to tell me.
+
+http://www.airserver.com
+"AirServer is an AirPlay receiver for Mac and PC. It allows you to receive AirPlay feeds, similar to an Apple TV, so you can stream content or Mirror your display from your iOS devices or Macs ..." - this stuff always confuses me. DRM hell.
+
+http://store.apple.com/uk/product/H8251ZM/A/nocs-wireless-ns2-airplay-monitor-speakers
+Nocs Wireless NS2 AirPlay Monitor Speakers - great, not cheap.
+
+Yes, I do still have that cold.
+
+
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

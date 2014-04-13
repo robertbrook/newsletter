@@ -1,0 +1,40 @@
+Back Issues (*|ARCHIVE|*)  - Unsubscribe (*|UNSUB|*)
+
+http://tylerneylon.com/a/learn-lua/ (http://tylerneylon.com/a/learn-lua/ )
+Learn Lua in a mere quarter hour - I've spent longer than that on this page and not achieved enlightenment. To me, Lua seems simpler than many other languages, but also stricter. No bad thing, of course. Also, the basic library isn't extensive. Again, no bad thing at all.
+
+http://cambridgeindies.com (http://cambridgeindies.com )
+The Cambridge Friendship Club: "a collection of independent game developers". Is there a London equivalent?
+
+http://www.bbcgoodfood.com/recipes/431617/home-made-milk-pudding (http://www.bbcgoodfood.com/recipes/431617/home-made-milk-pudding )
+I'm sure I remember Mrs. Beeton had a recipe for milk pudding. This version seems like a cut-down creme caramel.
+
+http://learnxinyminutes.com (http://learnxinyminutes.com )
+If you'd like to learn another computer language, you could have a look at 'learn X in Y minutes'. It would be great to see it branch out. Learn French in sixty minutes?
+
+http://ianstormtaylor.com/refactoring-githubs-design/ (http://ianstormtaylor.com/refactoring-githubs-design/ )
+Ian Taylor in the incremental redesign of Github. I don't always agree that 'reducing and interface' is the necessary step to take. Generally speaking I do agree with Ian on his reading of the Github UI, though. That odd coloured border needs to go.
+
+http://processingjs.org (http://processingjs.org )
+Processing.js - still going strong. Processing, but in Javascript.
+
+http://www.lua.org/gems/sample.pdf (http://www.lua.org/gems/sample.pdf )
+Roberto Ierusalimschy on performance tips in Lua: "... we should always measure when optimizing a program for performance. Measure before, to know where to optimize. And measure after, to know whether the 'optimization' actually improved our code." A very clear and proper direction. It reminds me of someone who I used to work with, who got rightly irritated by my working from hunches and recommended I 'work from the data'.
+
+http://luaforge.net/docman/83/98/ANoFrillsIntroToLua51VMInstructions.pdf (http://luaforge.net/docman/83/98/ANoFrillsIntroToLua51VMInstructions.pdf )
+Deeper down, here's a tour of the Lua VM, by Kein-Hong Man.
+
+http://en.wikipedia.org/wiki/Hibiscus_tea (http://en.wikipedia.org/wiki/Hibiscus_tea )
+I'm drinking hibiscus tea, which I prefer to redbush. For ages I drank sorrel, not realising that it's actually what hibiscus was called in the part of south London I drank it in. It's perfectly well without sugar, though I suppose it could take a bit of honey. "The effects of drinking hibiscus tea are comparable to blood-pressure medication."
+
+http://en.wikipedia.org/wiki/Malva (http://en.wikipedia.org/wiki/Malva )
+The particular tea I'm drinking also contains mallow flowers. It tastes lovely.
+
+http://www.okaauto.com/sm43.htm (http://www.okaauto.com/sm43.htm )
+Scale models of already quite small cars. "VAZ-1111 Oka is a mini car (class A) designed in Russia in 1986 by AvtoVAZ featuring a 750cc SOHC 2-cylinder engine."
+
+Enjoy today.
+
+*|LIST:ADDRESS|*
+
+============================================================

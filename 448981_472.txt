@@ -1,0 +1,42 @@
+472 - CHOPPED - on the web (*|ARCHIVE|*)
+
+Good morning!
+
+Everyone's someone else's creepy weirdo.
+
+http://blog.fogcreek.com/responsive-html-emails-a-different-strategy/
+Tina Ye: "... it is easier to fit a small kitten into a big jar than a big kitten into a small jar ... it’s a great design philosophy ..." - she's right, of course.
+
+http://blog.gingerlime.com/2013/getting-a-bit-creepy/
+Yoav Aner, on The (Creepy) Tipping Point: "Perhaps it’s when the application or service makes it blatantly clear that they can read your messages, that they actually have unlimited access to all the names and numbers in your address book. That they do track where you access the site from regularly. And not only do they have this information and access, they feel that it’s ok for them to use it rather openly."
+
+http://fadingcity.com/suburbia/garou-mark-of-the-wolves
+Windy city background.
+
+http://denmark.dk/en/meet-the-danes/traditions/the-student-cap/
+"Tooth marks on the shade of the cap mean good luck"; "You get a notch in the shade if you throw up because you have drunk too much"; "If  you jump in the harbour wearing only the cap you get a drawing of a wave in your cap".
+
+http://www.thefreshloaf.com/node/36171/danish-and-lithuanian-scalded-rye-breads
+Rye bread I can enjoy, but I'm not great fan of the cheese they have over there - gjetost.
+
+http://en.wikipedia.org/wiki/Havana_Marking
+"[Havana] Marking is one director of the British independent film company Roast Beef Productions, whose 'business plan' was only to: 'Get a studio, fill it with talented people and see what happens'".
+
+http://en.wikipedia.org/wiki/Mark_Rylance
+"His first notable role was Hamlet in a 1976 production (with his own father as the First Gravedigger) ..."
+
+http://unclemark.org
+"The Uncle Mark 2014 Gift Guide & Almanac is simply the very best guide for anyone vexed about technology, in search of good purchases, or who simply wants to know the answers to life's incessant questions. Free."
+
+http://stackoverflow.com/questions/9856173/reading-emails-using-imap-in-racket
+One thing I always thing when looking at lispy things: everything can be made more elegant.
+
+http://sensitivecities.com/so-youd-like-to-make-a-map-using-python-EN.html
+"The approach I’m using here uses an interactive REPL (IPython Notebook) for data exploration and analysis, and the Descartes package to render individual polygons (in this case, wards in London) as matplotlib patches, before adding them to a matplotlib axes instance."
+
+Enjoy today.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

@@ -1,0 +1,41 @@
+http://robertbrook.com (http://robertbrook.com )
+I've written up some recommendations on my site, since people ask me, now and then.
+
+Reading about collard greens.
+
+http://www.slomorabbitkick.com (http://www.slomorabbitkick.com )
+"The bad news is the curious are likely to be disappointed by this typical, static site, all in the service of a somewhat defunct, run-of-the-mill band."
+
+Reading about national service in Finland.
+
+http://jashkenas.github.com/docco/ (http://jashkenas.github.com/docco/ )
+"Docco is a quick-and-dirty, hundred-line-long, literate-programming-style documentation generator."
+
+I've heard the announcement "Closed circuit television is in operation on this bus" about a dozen times already. Presumably someone is shooting up on the back seats.
+
+http://nicemohawk.com/blog/2013/02/icloud-and-that-sinking-feeling/ (http://nicemohawk.com/blog/2013/02/icloud-and-that-sinking-feeling/ )
+I like the idea of a blog written by more than one person. Anyone fancy doing that? I'm sure that used to happen in the old days. Group blogs, or something. Doesn't Tumblr support that? Multiple authors? I don't mean sites where there are already a dozen people writing - more the "two-hander" idea.
+
+http://www.spip.net/en_rubrique25.html (http://www.spip.net/en_rubrique25.html )
+"SPIP is a publishing system for the Internet in which great importance is attached to collaborative working, to multilingual environments, and to simplicity of use for web authors."
+
+Great swathes of Hyde Park, by Park Lane, repeatedly covered over with events - then seemingly dug up and resurfaced. "Income generation", I suppose.
+
+http://pragprog.com/book/pg_sass/pragmatic-guide-to-sass (http://pragprog.com/book/pg_sass/pragmatic-guide-to-sass )
+I've a lot of time for Hampton Catlin. Please don't tell me anything horrible about him. Here's his "Pragmatic Guide to Sass".
+
+http://safariextensions.tumblr.com (http://safariextensions.tumblr.com )
+Safari Extensions seem to have faded away, which is a great pity. The web is increasingly only as someone else wants you to see it. We should try to get some of that control back.
+
+http://thursodailyphoto.wordpress.com/2009/10/08/no-man-is-an-island/ (http://thursodailyphoto.wordpress.com/2009/10/08/no-man-is-an-island/ )
+"... Swilkie Point, which is reputed to be the site mentioned in the Old Norse poem, Grottasöngr as the magic mill where the salt of the sea is ground. The sea-king, Mysing had stolen a magic quern from King Frode. Mysing’s land, connecting Stroma to Swona, sunk under the weight of the quern, but the sound of the mill is still heard beneath the waves."
+
+I've been thinking about The Apple Way. What if I ran a laptop the way Apple wanted me to? Using Apple services and software, staying with the default settings. I did try. I didn't much enjoy it. At the moment, some software I use is still outside the App Store, including Text Expander, Alfred, Hazel, Coda, Sublime Text and Omnifocus - at least the version I bought. And now, the JVM is an optional extra on a Mac. I wonder how long that will last. And Dropbox, of course.
+
+============================================================
+
+*|LIST:ADDRESS|*
+*|LIST:ADDRESS|*
+
+** BACK ISSUES (*|ARCHIVE|*)
+** UNSUBSCRIBE (*|UNSUB|*)

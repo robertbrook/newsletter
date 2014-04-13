@@ -1,0 +1,38 @@
+An American correspondent offers clarification and corrections to my earlier points on rsync.net: rsync.net costs $32 per month for 100Gb, against Dropbox's $10; "rsync supports many, many more protocols than Dropbox - ftp, sftp, rsync ..., unison, etc. You are likely able to write custom scripts using one or more of these tools to automate backups in exactly the way you (or your company) need." Huh. I hadn't thought of that. I need to take another look at webdav as well.
+
+http://mozilla.github.io/brick/
+"Brick is a bundle of reusable UI components created with x-tags to enable rapid development of cross-browser and mobile-friendly HTML5 web applications."
+
+http://www.w3.org/TR/components-intro/
+Web Components themselves are actually - as far as I can work out - a rather larger group of things: templates, 'decorators', custom elements (like Brick), 'shadow DOM' and imports. For some reason I keep thinking about XUL. It was called XUL, wasn't it? And I'm not sure how this fits in with HTML5, if at all.
+
+http://scholarist.net
+"Hosted by fastmail". Hey, wait a minute. I should try that.
+
+Can any one recommend any particular 'steam punk' literature? You know, for a friend.
+
+https://choir.io/docs
+One for @jvk perhaps! "You can send data to Choir in a couple of lines of code in most languages. Each of the examples above will play a high-intrusiveness sound with good connotations and an associated message." Clever and a bit nuts at the same time.
+
+https://www.fastmail.fm/help/remote_file_access_dav_and_ftp.html
+Here we go. Hosted files at Fastmail. That would work for static HTML. Hm. I should do that.
+
+http://www.mydaily.co.uk/2011/01/30/my-favourite-food-gizzi-erskine-pics/
+"I really don't see the point of mangetout."
+
+http://www.foyles.co.uk/Public/Events/Detail.aspx?eventId=2030
+Bruna is up on the walls in the Foyles cafe. Worth a visit. Wait a minute - what day it is today? It's okay - it's on until Thursday 29th August.
+
+Cripes. I'm a bit behind. And running out of disk space.
+
+http://www.ibizarocks.com/house/stay/suite/
+I never really understood Ibiza. "Home from home to some of the hotel's most famous clientele, from George Michael to Grace Jones, each Suite features a large bedroom and a separate lounge area with decor which is as individual as the guests who have stayed here."
+
+http://support.apple.com/kb/HT5349
+"OS X Server: How to reset Profile Manager to its original state". #spoons
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

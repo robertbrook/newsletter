@@ -1,0 +1,58 @@
+Vol. 2, No. 582. "THE POINT".
+Good morning.
+
+http://fadingcity.com/try-doorbell/7-episode-seven
+"Longest shownotes ever." Lloyd does the shownotes, obviously. The shownotes are incredibly detailed. Fractal, possibly. I'm trying to submit the podcast to iTunes, but Apple insists on some 'cover art'. Er - any suggestions?
+
+http://www.argos.co.uk/static/Search/searchTerms/FITBIT+FORCE.htm
+"This sleek, high-performance wristband is with you all the time, motivating you to be more active."
+
+Oh my goodness a new subscriber. Erk.
+
+http://en.wikipedia.org/wiki/Crash_Bandicoot_(video_game)
+When Lloyd mentioned 'Banjo Kazooie' I assumed (1) he was joking or (2) he meant 'Crash Bandicoot'. I'm still not sure ...
+
+http://en.wikipedia.org/wiki/Banjo-Kazooie
+... "'Banjo-Kazooie' is the first installment in the 'Banjo-Kazooie' series, and chronicles the titular characters' encounter with series antagonist Gruntilda." #BanzoKajooie #BanzieKajoozo #Kajagoogoo
+
+http://thecroydoncitizen.com/politics-society/next-croydon-libraries/
+Sean Creighton: "The big challenge facing libraries across the country is how to attract a continual flow of users." ...
+
+http://instagram.com/p/mKi8VFi7tJ/
+... this used to be the "Thru'penny Bit Building", now it's the "Fifty Pence Building". #decimalisation
+
+http://taskwarrior.org/tools/
+A strong argument for open source software: taskwarrior is an excellent basic task tracker - and here are lots of front ends, extensions and forks.
+
+https://github.com/ryanmcgrath/twython
+"Actively maintained, pure Python wrapper for the Twitter API." I do wonder how long these will last.
+
+http://liangzan.net/aws-glacier-calculator/
+An unofficial Amazon Glacier storage costs calculator.
+
+http://morrisjs.github.io/morris.js/
+Charts! Lovely charts! Very nice markup.
+
+https://publicsuffix.org/list/effective_tld_names.dat
+The last few 'bare' .uk domains: the British Library, the JET Joint Undertaking on fusion power, the Ministry of Defence, Nominet, the National Library of Scotland and the office.
+
+https://github.com/government/ask-me-anything
+"An open forum to ask prominent members of the government technology community (almost) anything." Maybe I should find a hobby.
+
+https://www.flinto.com
+"Your Flinto prototypes look so realistic, people might think they actually are." Hmm.
+
+http://james.bertelson.me/blog/2013/12/some-thoughts-on-how-to-host-your-own-private-email/
+"You’ll need to purchase a VPS (preferably somewhere with good privacy laws and a poor relationship with the US) and install your mailserver there." Do you actually need a domain name for hosting email? I mean, can't you just be mail@127.0.89.65 or something like that?
+
+https://api.opencorporates.com/v0.3/documentation/API-Reference#
+The remarkably comprehensive OpenCorporates API. I often refer to this. You know, for research purposes.
+
+Have fun.
+
+============================================================
+
+*|LIST:ADDRESS|*
+
+
+** Unsubscribe (*|UNSUB|*)

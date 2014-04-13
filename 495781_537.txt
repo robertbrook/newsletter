@@ -1,0 +1,50 @@
+537 - A WINDOW AT KEW - on the web (*|ARCHIVE|*)
+
+Good morning.
+
+"I attribute my success entirely to the kindness of other people." - Quentin Crisp
+
+http://www.economist.com/blogs/freeexchange/2013/09/working-hours
+"One important question concerns whether appetite for work actually diminishes as people earn more. There are countervailing effects. On the one hand, a higher wage raises the opportunity cost of leisure time and should lead people to work more. On the other hand, a higher income should lead a worker to consume more of the stuff he or she enjoys, which presumably includes leisure."
+
+http://archive.org/web/petabox.php
+The big servers used by the Internet Archive: "No Air Conditioning, instead use excess heat to help heat the building."
+
+http://www.independent.co.uk/arts-entertainment/art/features/new-david-hockney-exhibition-from-gandhi-to-gay-love-9118001.html
+Adrian Hamilton, on Hockney, on digital art: "However mechanical the printing, the act of photocopying a drawing, sometimes several times over, to deepen its colours, or of manipulating a computer tablet, is an act of creation." ...
+
+http://traceloops.tumblr.com
+... "Some rotoscoping, some other exploration with tracing, some other things".
+
+http://thatgamecompany.com/company/jobs/
+If you fancy working at the company which made the extraordinary PS3 game 'Journey', they're hiring a 'Tools Engineer': "we are looking for someone who is both a great collaborator and a great programmer to contribute to our internal game development tools."
+
+I think I might be doing a poor job at book reviews. Ho hum.
+
+https://pinboard.in/t:batshitinsane/
+#batshitinsane ...
+
+https://pinboard.in/t:bullshit/
+... #bullshit
+
+http://apple.stackexchange.com/questions/103535/can-i-boot-linux-any-distro-from-usb-on-a-macbook-air-that-has-no-hard-drive
+"I think it may be possible." - this from "a hardcore Debian user".
+
+I'm having interesting new headaches.
+
+http://diddu.ms
+"A tiny mac app to add bookmarks to Pinboard." - works well with Alfred, too.
+
+http://www.britishmuseum.org/explore/highlights/highlight_objects/pe_mla/t/the_royal_gold_cup.aspx
+"Agnes was imprisoned in a brothel as punishment for refusing to marry Procopius, ... She subsequently restored Procopius to life when he was strangled by a demon. Although he was repentant, Agnes was not spared her fate, and was condemned to burn. However, the flames had no effect on her, and she had to be killed with a spear."
+
+http://bropages.org
+"bro pages are a highly readable supplement to man pages. bro pages show concise, common-case examples for Unix commands." I don't like the name.
+
+http://line-mode.cern.ch
+Faintly silly. Just use lynx.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

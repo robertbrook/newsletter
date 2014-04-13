@@ -1,0 +1,40 @@
+503 - DAMAGE - on the web (*|ARCHIVE|*)
+
+"Coaching and mentoring?" Oh god oh god oh god.
+
+http://fadingcity.com/try-doorbell/4-episode-four
+It's Episode Four! "Lloyd begins with a loud exhalation" and "At 33:45 the phone rings but we keep talking".
+
+http://urlfind.org/?site=www.parliament.uk
+A tool to check "URL Mapping and cross domains links" - though I'm not quite sure what those results mean.
+
+A visit to the dentist yesterday. It could have been worse.
+
+http://www.neilvandyke.org/weblog/2004/05/#2004-05-31
+"If, a year from now, you see a blockbuster film in which DiCaprio plays a supergenius who dates Christy Turlington and gives blank looks at people who smile pointedly at him, you heard it here first."
+
+Thanks to Ilicco Elia for this note on Google Tag Manager: "Google tag manager manages Analytics tags. You add Analytics tags to your app and they get 'wrapped' in a Google tag manager JavaScript wrapper and added to each page. This means that you can change the tags that fire when your webpage is hit by changing the tags inside the GTM wrapper and not directly on the webpage itself." Makes sense.
+
+I am writing an OPML browser in Racket. So I've got that going for me.
+
+http://audioklassiks.de/wordpress/
+Via @marxculture - the lovely audioklassiks blog, which reminded me of the Mission Cyrus and Quad amps of many years ago. I mean, an iPod Touch is fine, but it's not quite the same.
+
+"I am uncertain about the man, but I feel, in spite of his enormous ears and bad chin line, that his charm is so tremendous that it comes through even on this wretched test." - David O. Selnick on Fred Astaire. Thanks to a south London correspondent.
+
+http://fadingcity.com/suburbia/the-nebulophone
+Luckily I have a colleague who has a steadier soldering hand than I do.
+
+"He was on Bing Crosby's last album."
+
+Other people like other things. I don't always like the same things. I think I should just leave it there and do my stuff without worrying too much. I seem to be in a smaller minority by the day.
+
+http://www.skyscrapernews.com/buildings.php?id=78
+Thanks to Paul Clarke for this: not only "This design was originally based on the interlocking shells of a prawn." but also "It has been modestly redesigned to take into account the clients requirements." #toomuchprawn #notprawnenough
+
+Of course it's still there. Something like that doesn't go away.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

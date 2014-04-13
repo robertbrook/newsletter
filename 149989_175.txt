@@ -1,0 +1,60 @@
+"I am making longer fingers here."
+
+Goodness, my writing is just awful. I need to write more.
+
+https://github.com/addyosmani/todomvc/tree/gh-pages/architecture-examples (https://github.com/addyosmani/todomvc/tree/gh-pages/architecture-examples )
+This is great, but. How about a bald node js version? Yes, I realise it's about frameworks, but people use just node sometimes, don't they? I'm sure I saw something like that recently.
+
+Really. My memory is terrible. And my hearing is definitely going.
+
+http://gilest.org/lump.txt (http://gilest.org/lump.txt )
+Can I tell you about something I like? "Then I woke up with the fork and mash hanging off my lips ..." - I like the bit where Giles talks about his cassettes. Cassettes. The Internet is so old now ...
+
+http://lists.gilest.org/listinfo.cgi (http://lists.gilest.org/listinfo.cgi )
+... and speaking of old, Giles runs his proper mailing list from his own domain, not like certain Bobby-come-latelies. Back in the day, we had to bring our own 1s and 0s. If you want to see how it's done properly, check out gorjuss.
+
+https://blog.backlift.com/ (https://blog.backlift.com/ )
+Taking dev abstraction yet another step further, Backlift lets you deploy to - via? - Dropbox. And something else happens after that. I think.
+
+http://lessmeme.com/less.html (http://lessmeme.com/less.html )
+YCNews without the big tech sites.
+
+https://squareup.com/directory/in/map?location=London (https://squareup.com/directory/in/map?location=London )
+One of my favourite coffee places has an iPad running as a till, if you see what I mean. Looking at Square, it seems familiar - but do they work in the UK? Yes!
+
+https://github.com/calufa/tales-core (https://github.com/calufa/tales-core )
+"Tales is design to scrape the web continuously, even when the domain being scraped blocks the scraper server ip; it goes around this problem by fail-overing to a new node ..." - runs on AWS and Rackspace.
+
+http://rc3.org/2013/02/01/your-dogma-is-already-obsolete/ (http://rc3.org/2013/02/01/your-dogma-is-already-obsolete/ )
+"People try something, meet with success, and then attempt to apply that formula over and over again, failing to recognize that new problems require new solutions." Every few years, someone re-invents John Boyd.
+
+I'm suffering from a ridiculous idea at the moment, something to do with saving bookmarked URLs to PDFs in Dropbox. I'll get back to you on that one.
+
+http://blog.fawny.org/2013/02/19/nycmta1970/ (http://blog.fawny.org/2013/02/19/nycmta1970/ )
+"These guys presented this manual in the dumbest way possible save for Flash animation. It’s completely unusable."
+
+http://blog.sprint.ly/post/43576389119/agile-anti-patterns-in-non-blocking-development (http://blog.sprint.ly/post/43576389119/agile-anti-patterns-in-non-blocking-development )
+"If you’re not heavily investing in automation and tools, you’re exposing yourself to risk in the cloud and hindering your technical team’s ability to ship software."
+
+http://blogs.perl.org/users/stas/2013/02/web-scraping-with-modern-perl-part-2---speed-edition.html (http://blogs.perl.org/users/stas/2013/02/web-scraping-with-modern-perl-part-2---speed-edition.html )
+"There is no silver bullet: web crawling is ultimately I/O-bound! However, specialized and well-tested libraries guarantee the I/O-boundness."
+
+http://discursive.com/2013/02/19/rails-you-have-turned-into-java-congratulations/ (http://discursive.com/2013/02/19/rails-you-have-turned-into-java-congratulations/ )
+One of the reasons I much prefer Sinatra to Rails.
+
+http://fighttheurgetofade.com (http://fighttheurgetofade.com )
+"I'm not agoraphobic, I'm not depressed, and I'm not insane." Fighting the urge to fade. I do that every day.
+
+Anyway. Another day, another day.
+http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE|*&t=*|URL:MC_SUBJECT|* Like (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE|*&t=*|URL:MC_SUBJECT|*)
+http://twitter.com/?status=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE|* Tweet (http://twitter.com/?status=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE|*)
+http://www.instapaper.com/hello2?url=*|URL:ARCHIVE|*&title=*|URL:MC_SUBJECT|* Read Later (http://www.instapaper.com/hello2?url=*|URL:ARCHIVE|*&title=*|URL:MC_SUBJECT|*)
+https://plus.google.com/share?url=*|URL:ARCHIVE|* +1 (https://plus.google.com/share?url=*|URL:ARCHIVE|*)
+http://www.linkedin.com/shareArticle?url=*|URL:ARCHIVE|*&mini=true&title=*|URL:MC_SUBJECT|* Share (http://www.linkedin.com/shareArticle?url=*|URL:ARCHIVE|*&mini=true&title=*|URL:MC_SUBJECT|*)
+
+============================================================
+
+** b (*|ARCHIVE|*)
+** ack issues (*|ARCHIVE|*)
+** u (*|UNSUB|*)
+** nsubscribe (*|UNSUB|*)

@@ -1,0 +1,57 @@
+540 - MICHAEL WINNER - on the web (*|ARCHIVE|*)
+
+http://screws.nilsfrahm.com
+"As you can imagine, it is really bad news for a pianist when he gets diagnosed with a broken thumb."
+
+I've only just noticed that apps in Apple's App Store are age rated.
+
+http://richbray.me/muffin/
+"A design focused front-end web template using SASS, Jekyll and Grunt." A pity it seems to require Rails installed.
+
+https://github.com/alexmufatti/Scripts/blob/master/scripts/opml.js
+Parse OPML using Javascript, output via an embedded template. Lovely ...
+
+https://github.com/semk/Org2OPML
+... a script from Sreejith Kesavan: "Converts Emacs Org-mode files to OPML format used by Mindnode and Freemind" ...
+
+https://github.com/andrewshell/node-opmltotext
+... "This is a node.js library that parses OPML and returns text." ...
+
+https://github.com/danmactough/node-opmlparser
+... and here's a more generalised parser.
+
+https://www.janestreet.com/workplace/benefits.php
+No benefits, then?
+
+http://randomstreetview.com/#par6y_qgs31_2a_a_q
+What's this mural of? Can any readers translate from Georgian?
+
+http://meta.wikimedia.org/wiki/Terms_of_use/Paid_contributions_amendment#Proposed_amendment
+"...  you must disclose your employer, client, and affiliation with respect to any contribution to any Wikimedia Projects for which you receive compensation."
+
+https://www.npmjs.org/package/decision-tree
+A decision tree, but an automatic one! It makes the decisions for you ...
+
+http://www.cis.temple.edu/~ingargio/cis587/readings/id3-c45.html
+... using Ross Quinlan's Iterative Dichotomiser 3 (ID3) algorithm: "We are given a set of records. Each record has the same structure, consisting of a number of attribute/value pairs. One of these attributes represents the category of the record. The problem is to determine a decision tree that on the basis of answers to questions about the non-category attributes predicts correctly the value of the category attribute."
+
+Perhaps I'm a prude.
+
+http://frontiernews.wordpress.com/2010/08/08/instant-outliner-baked-into-opml/
+Dave Winer's OPML Editor feels like it was ages ago now: I do miss the 'Instant Outliner'. I wonder if it might come back, in some form, in Fargo.
+
+I honestly think I might be turning into a Luddite. That worries me a little.
+
+http://www.bbc.co.uk/comedy/sundayformat/
+"The Sunday Format was quite simply one of the most original comic vehicles in the last decade." The cast included Rebecca Front, Emma Kennedy and Tracy-Ann Oberman. It was brilliant.
+
+https://github.com/BetSmartMedia/gesundheit
+"Gesundheit generates SQL using a sugary API for managing the abstract syntax tree of a statement."
+
+http://trademark-clearinghouse.com/sunrise
+Dates for those odd new gTLDs to come online. This is the end of domains, I think.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

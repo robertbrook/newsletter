@@ -1,0 +1,41 @@
+A newsletter from Robert Brook
+------------------------------------------------------------
+*|ARCHIVE|*
+
+
+**
+------------------------------------------------------------
+http://books.google.co.uk/books?id=yhcDAAAAQAAJ (http://books.google.co.uk/books?id=yhcDAAAAQAAJ )
+Sake ('sheikh') Deen Mahomed: "Shampooing is a process which I feel it incumbent on me to acknowledge cannot be practised by any person unaccustomed to it or who has not frequently witnessed and been instructed carefully in the operation." ...
+
+http://www.oxforddnb.com/templates/article.jsp?articleid=53351 (http://www.oxforddnb.com/templates/article.jsp?articleid=53351 )
+... brought up with "a traditional Islamic education", fought in the British Army in India, emigrated to Ireland, learned English, "eloped with an Anglo-Irish gentlewoman, Jane Daly", converted to Anglicanism, wrote "the first book ever written and published in English by an Indian", introduced "Indian therapeutic whole body massage", opened "the Hindostanee Coffee House" and served curries until going bust. Then, he moved to Brighton and started up all over again; his own bath house gained a "royal warrant as shampooing surgeon to George IV and William IV" and he opened two London branches. He died, aged 102, of "natural decay".
+
+http://dandysme.eu/2010/05/06/bombardinio-on-prince-puckler-muskau/ (http://dandysme.eu/2010/05/06/bombardinio-on-prince-puckler-muskau/ )
+Prince Pückler Muskau’s new book "Semilassos vorletlter Weltgang" - new in 1835 at least - reviewed in "Fraser’s magazine for town and country": "The book begins, as might have been expected, with a description of his highness’s own person. He is lounging on the box of an elegant vis-a-vis, the inside of which is only occupied by a parrot and an Italian greyhound. We could willingly have forgiven the prince a terrier, Newfoundland dog, or greyhound, for they are fine, clever, and respectable animals; but an Italian greyhound, the image of sickness, misery, and starvation, is our utter abhorrence, aud more detestable even than pugs, poodles, or French lapdogs." ...
+
+http://www.gardenvisit.com/biography/prince_hermann_puckler-muskau (http://www.gardenvisit.com/biography/prince_hermann_puckler-muskau )
+... "After touring English gardens in 1816 be began work on making a landscape park at Muskau.The work was too expensive and he had to sell the estate, using the proceeds to buy a smaller, but still very large, estate at Schloss Branitz near Kottbus."
+
+http://www.farina1709.com (http://www.farina1709.com )
+Goodness, Farina is still going!
+
+https://coderwall.com/p/lhsrcq (https://coderwall.com/p/lhsrcq )
+A notepad in your browser: where it all started. Lots of forks already exist of this code. Clever!
+
+http://m.theatlantic.com/technology/print/2011/06/how-i-failed-failed-and-finally-succeeded-at-learning-how-to-code/239855/
+"I saw people programming and thought it looked cool, resolved myself to learn, sought out a book and crashed the moment it got hard. ... For a while I thought I didn't have the right kind of brain for programming. Maybe I needed to be better at math. Maybe I needed to be smarter." I still don't think we've cracked this. Programming languages seem either to be pitched as academic projects or toys.
+
+http://www.bbc.co.uk/programmes/b01qfr95 (http://www.bbc.co.uk/programmes/b01qfr95 )
+"Jonathan Meades is unleashed on the county of Essex." - iPlayer says "five days left".
+
+http://fototeca.iiccr.ro (http://fototeca.iiccr.ro )
+An archive of material from the Communist period in Romania.
+
+============================================================
+-
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:ADDRESS|* *|END:IF|*
+
+** Unsubscribe (*|UNSUB|*)
+** Y (*|UPDATE_PROFILE|*)
+** our profile (*|UPDATE_PROFILE|*)

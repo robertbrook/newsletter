@@ -1,0 +1,34 @@
+532 - GREENS - on the web (*|ARCHIVE|*)
+
+http://fadingcity.com/posts/down-and-to-the-right
+I wrote this.
+
+"Unanimity of opinion may be fitting for a church, for the frightened or greedy victims of some (ancient, or modern) myth, or for the weak and willing followers of some tyrant. Variety of opinion is necessary for objective knowledge. And a method that encourages variety is also the only method that is comparable with a humanitarian outlook." - Paul Feyerabend
+
+Oh, by the way, every time you give me XML and it's 2014 and for goodness sake the web exists! Just give me JSON! Don't pretend you have an API and then hide it. If you can't give me JSON, give me CSV. If you can't give me CSV, give me the original files. Honestly, either publish your data or pass me on to someone who will ...
+
+... This is getting ridiculous. Ridiculous! I'm so, so tired of this. Who wants this crap? Who's paying for this? Time and time again we hear the same questions and the same responses. Awful. Anyway. Where was I? Oh yes. Newsletter ...
+
+http://tantek.com/2013/332/b1/homebrew-website-club-newsletter
+... "Are you building your own website? Indie reader? Personal publishing web app? Or some other digital magic-cloud proxy?" Anything like this in London? Perhaps there should be, if there isn't already.
+
+http://www.w3.org/community/opengov/2014/01/29/oparl-project-for-linked-parliamentary-data/
+Andreas Kuckartz: "A grassroots initiative named OParl is active in Germany with the aim to standardize the format of parliamentary data of councils of municipalities, city councils and other similar councils." ...
+
+https://github.com/OParl/reference-server
+... "Eine serverseitige Referenz-Implementierung der OParl API" ...
+
+https://twitter.com/jaCattell/parliamentapi/members
+... "A group of people who want to help build api.parliament.uk" - it says here ...
+
+http://www.ukauthority.com/tabid/64/Default.aspx?id=4566#
+... Dan Jellinek: "'Digging into Linked Parliamentary Data' is one of 14 international projects to win a share of a £3m Digging into Data Award, an international competition to develop new ways of handling 'big data' in humanities and social science research. ... [Predecessor project] LIPARM - which ended in January 2013 - built lists of 'unique identifiers' for politicians, political job titles, pieces of legislation, Parliamentary sessions and other key data items from Westminster and across the UK's devolved parliaments and assemblies, expressed as codes known as uniform resource identifiers (URIs)." Hey - I recognise that photo!
+
+That's enough Parliament for today, I think.
+
+Onwards.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

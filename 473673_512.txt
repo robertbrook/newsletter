@@ -1,0 +1,39 @@
+512 - FLUTE - on the web (*|ARCHIVE|*)
+
+http://www.kitchenproject.com/history/AmericanHeritageRecipes/PotatoChip.htm
+"At Moon Lake Lodge, one dinner guest found chef Crum's French fries too thick for his liking and rejected the order. Crum cut and fried a thinner batch, but these, too, met with disapproval. Exasperated, Crum decided to rile the guest by producing French fries too thin and crisp to skewer with a fork."
+
+http://rjbattles.blogspot.co.uk/2010/02/like-prayer-part-three.html
+'Vogue' was going to be a B-side?
+
+http://www.bestsundayroast.co.uk/surrey/ockham/the-black-swan-lunch-review
+"The toilets were very fresh and clean ... Vegetable selection was a bit strange ..."
+
+http://alistair.cockburn.us/Incremental+means+adding%2c+iterative+means+reworking
+"The Sistine chapel ceiling is large ... It took Michelangelo 4 years of work. He used throw-away prototypes, he did a little revision (iterative development) and he worked in increments. I didn’t find evidence of him doing serious iterative development (read: revision or refactoring), but OK, he’s recognized as a genius for a reason."
+
+http://www.tcj.com/before-barnaby-crockett-johnson-grows-up-and-turns-left/9_cj_lmwte1942-jan-3/
+'Boy with snowballs', Crockett Johnson
+
+https://github.com/steeve/boot2docker
+"... a lightweight Linux distribution based on Tiny Core Linux made specifically to run Docker containers" ...
+
+http://docs.docker.io/en/latest/installation/vagrant/
+... "This guide will [(presumably) instruct you on how to] setup a new virtualbox virtual machine with docker installed on your computer."
+
+http://www.reddit.com/r/explainlikeimfive/comments/1sz114/eli5_why_isnt_the_diamond_industry_sued_or/
+"... why isn't the diamond industry sued or stopped for basically forming a cartel and artificially keeping prices high by stockpiling the diamonds?" - Everything is 'worth' what someone will pay, right?
+
+http://blog.schockwellenreiter.de/2013/10/20131031thread01.html
+Jörg Kantel, on Fargo and CouchDB: "Doch bei näherer Betrachtung ist CouchDB mit dem JSON-Dokumenten so etwas wie ein modernes Frontier." It's a pity Frontier isn't a modern Frontier. "Natürlich müßte Winer Fargo dazu unter eine Open Source-Lizenz stellen, damit man an die Quellen herankäme und sie anpassen könnte." Fargo is 'public', but not open, I think? Would Concord be enough?
+
+http://mph.puddingbowl.org/2010/02/org-mode-in-your-pocket-is-a-gnu-shaped-devil/
+"If the iPhone has helped me accomplish one thing, it has probably been to make it easier for me to stay away from Emacs."
+
+http://scripting.com/thea/HaddockDirectory.html
+Thea on Haddock: "The Haddock Directory is a Yahoo-style catalogue of websites which are posted each day to the London-based Haddock mailing list." The past, though.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

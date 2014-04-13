@@ -1,0 +1,36 @@
+474 - AUTUMN - on the web (*|ARCHIVE|*)
+
+At last, it is raining. It is raining, at last. There is something wonderful and wished-for in it.
+
+http://robertbrook.fastmail.fm
+I'm almost there, I think. I've scrabbled most of it together from various caches.
+
+Now, where was I?
+
+http://www.bbc.co.uk/mediacentre/latestnews/2013/ripper-street-recommission.html
+I've seen a few episodes of the BBC series 'Ripper Street'. It's very good, though nasty and violent. Recommended to those without a nervous disposition. Matthew Macfadyen is better in this role than in many he's had before; more nuanced, not such a clumsy script.
+
+http://www.spellboundtalks.co.uk/guest-speakers-talks/lucindalambton-architecture-historian.htm
+The excellent Lucinda Lambton. I do miss her on the telly.
+
+http://www.contemplator.com/scotland/bothwell.html
+Lady Anne Bothwell's Lament: "I dreamed a dream but yesternight / Thy father slain in foreign fight / He, wounded, stood beside my bed / His blood ran down upon thy head / He spoke no word, but looked on me / Bent low, and gave a kiss to thee!"
+
+http://dtrace.org/blogs/brendan/2011/12/16/flame-graphs/
+Brendan Gregg: "Flame graphs are a visualization for sampled stack traces, which allows hot code-paths to be identified quickly and accurately." ... "I created this visualization out of necessity: I had huge amounts of stack sample data from a variety of different performance issues, and needed to quickly dig through it. I first tried creating some text-based tools to summarize the data, with limited success." ...
+
+http://dtrace.org/blogs/dap/2012/01/05/where-does-your-node-program-spend-its-time/
+... and here's Dave Pacheco's flame graphs for node.js. "We believe this DTrace-based profiling support for Node.js will be a huge leap for understanding the performance of individual Node programs in production."
+
+http://www.nytimes.com/2001/07/16/arts/writers-writing-easy-adverbs-exclamation-points-especially-hooptedoodle.html?pagewanted=all
+Elmore Leonard, on writing. "Never use a verb other than 'said' to carry dialogue. Never use an adverb to modify the verb 'said'." Agreeing strongly.
+
+http://research.microsoft.com/en-us/um/people/lamport/pubs/lamport-paxos.pdf
+Leslie Lamport, "The Part-Time Parliament" - 1998, originally. Keith Marzullo comments: "even though the obscure ancient Paxon civilization he describes is of little interest to most computer scientists, its legislative system is an excellent model for how to implement a distributed computer system in an asynchronous environment. Indeed, some of the refinements the Paxons made to their protocol appear to be unknown in the systems literature."
+
+Onwards.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

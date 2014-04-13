@@ -1,0 +1,74 @@
+506 - NEAR THE END on the web (*|ARCHIVE|*)
+
+Good morning friends.
+
+http://alamut.com
+It's still there ...
+
+http://source.webscript.io/?http://www.alamut.com/
+... and ran off Radio Userland ...
+
+http://source.webscript.io/?http://www.pseudopodium.org
+... but what's Ray using? I should just ask.
+
+http://aws.amazon.com/cli/
+"The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services." ...
+
+http://aws.amazon.com/sdkforbrowser/
+... "The AWS SDK for JavaScript enables you to directly access AWS services from JavaScript code running in the browser."
+
+http://zoobank.org
+"The Official Registry of Zoological Nomenclature ... ZooBank provides a means to register new nomenclatural acts, published works, and authors."
+
+http://www.iana.org/domains/root/db
+"The Root Zone Database represents the delegation details of top-level domains, including gTLDs such as .com, and country-code TLDs such as .uk." Includes eleven test TLDs.
+
+http://www.curzoncinemas.com/cinemas/renoir/
+Still one of my favourite cinemas. I'd like to visit more often.
+
+http://en.wikipedia.org/wiki/Tangier_International_Zone
+"The Zone had a reputation for diversity of culture, and religion which concerned the pious Moroccan population who saw it as 'a plague zone infested and infected by infidels'."
+
+http://fadingcity.com/suburbia/fairey-delta
+Another droop-nose.
+
+https://github.com/rogerwang/node-webkit
+"Call all Node.js modules directly from DOM ..."
+
+http://en.wikipedia.org/wiki/Havilland_de_Sausmarez
+"After leaving Shanghai, Sausmarez took up his residence at the Sausmarez Manor in Guernsey. As Seigneur of Sausmarez Manor and Cliatelain of Jerbourg, he held the titular office of 'Third Cup-bearer to the Duke of Normandy,' held by his predecessors for many centuries."
+
+I am listening. I am always listening. Just because I don't speak doesn't mean I don't listen. I spend my whole life listening.
+
+http://fadingcity.com/suburbia/buff-nuff
+James Yuill remixes Roots Manuva. I like it.
+
+http://nodered.org
+I actually got this up and running: "A visual tool for wiring the Internet of Things" #internet #things
+
+http://bookshelfjs.org
+"Bookshelf is a promise based ORM for Node.js, built on Knex query builder." Ah, now this could come in very useful.
+
+Some things are wonderful. Some things, are still wonderful.
+
+https://github.com/mscdex/node-imap
+"node-imap is an IMAP client module for node.js." ...
+
+https://github.com/chirag04/mail-listener2
+... "Get notification when new email arrived to inbox."
+
+http://www.brainpickings.org/index.php/2012/08/22/beatles-final-photo-shoot/
+The last of the Beatles.
+
+https://github.com/Yonaba/tuple.lua/blob/master/docs/doc.md
+tuples in lua.
+
+http://fadingcity.com/suburbia/darkling-streams
+A preview of Robert Haigh's 'Darkling Streams' - thanks to @marxculture for the recommendation.
+
+Onwards.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

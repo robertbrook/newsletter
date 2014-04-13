@@ -1,0 +1,46 @@
+509 - FEATURES - on the web (*|ARCHIVE|*)
+
+Ahoy!
+
+http://jvns.ca/blog/2013/12/04/day-37-how-a-keyboard-works/
+"Day 37: After 5 days, my OS doesn't crash when I press a key"
+
+https://github.com/heroku/heroku-pg-extras
+"A heroku plugin for awesome pg:* commands that are also great and fun and super."
+
+http://en.wikipedia.org/wiki/Dawn_Fraser
+"During the 1964 Summer Olympics in Tokyo, [Dawn] Fraser angered swimming team sponsors and the Australian Swimming Union ... by marching in the opening ceremony against their wishes, and wearing an older swimming costume in competition because it was more comfortable than the one supplied by the sponsors. She was accused of stealing an Olympic flag from a flagpole outside Emperor Hirohito's palace" ...
+
+http://www.sahof.org.au/hall-of-fame/member-profile/?memberID=79&memberType=legends
+... "Fraser was banned from swimming in international races for two years due to a number of misdemeanors in Rome, including not wearing the national track suit to receive her gold medal and being accused of taking part in an unauthorised swim in Switzerland."
+
+http://ceur-ws.org/Vol-628/ldow2010_paper13.pdf
+'An HTTP-Based Versioning Mechanism for Linked Data' - "... the addition of a time dimension to the Web is not something only digital ar- chaeologists should care about. It is an enabler for a global HTTP-based versioning mechanism that can support a new range of temporal applications for both the document and the data Web." I'm unconvinced.
+
+I think the best thing would be to describe my own edge to jump from.
+
+http://edgecasesshow.com
+I'm trying it out.
+
+http://ideas.okfn.org
+The OKFN 'Ideas Incubator'. I like it ...
+
+http://okfnlabs.org/dataconverters/
+... and their delightful 'data converters'.
+
+http://toauapp.com
+"cat sample.txt | say -o sample.aiff"
+
+http://www.thepowerpot.com/power-pot-faq
+Q: "Can I break the PowerPot?" / A: "Yes."
+
+http://www.constitution.org/eng/agreepeo.htm
+From the Levellers, 1649: "And in as much as we have found by sad experience, That generally men make little or nothing, to innovate in Government to exceed their time and power in places of trust, to introduce an Arbitrary, and Tyrannical power, and to overturn all things into Anarchy and Confusion, where there are no penalties imposed for such destructive crimes and offences."
+
+http://www.edie.net/library/view_article.asp?id=6162
+"At Wembley, waste is treated like every other utility and built into the infrastructure of the buildings as recyclables, non-recyclables and organic waste are sucked into an underground network of pipes to a central refuse depot."
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

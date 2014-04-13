@@ -1,0 +1,47 @@
+471 - HEADS - on the web (*|ARCHIVE|*)
+
+http://fadingcity.com/suburbia/cannot-contain
+Moloko!
+
+"Lunch"?
+
+MobileMe. A blast from the past.
+
+The last few scenes of Richard Burton as Marcus Antonius in 'Cleopatra', with Elizabeth Taylor, are really good.
+
+Some of Apple's desktop applications have really been left to decay. Look at Messages on Mac OS. Tragic.
+
+After playing with grunt for a while, I'm going back to rake. Rake works.
+
+I still like Brighton. Coming from London's zone two, Brighton is a sun-lit upland. Of course there's problems everywhere - and, as Merlin says, wherever you go you take yourself. But I still like Brighton.
+
+Walking down from the station, it's not as cold as I always think this time of year should be. By March, it'll be far colder than I think it should be.
+
+There's one of those paint your own crockery places here. They have a big plate with a painting of what I think is supposed to be Nigella Lawson on it, with the motto "I didn't have a drug problem! I had a life problem." Fair enough.
+
+I stop for a coffee, the only place here I trust. I can't remember the name. Outside there's a tile fixed to the wall: "Warning: gentrification in progress. There will be cupcakes!"
+
+I'm having a croissant. I suppose I am the gentrification they're being warned about. What coffee are they serving here? It tastes a bit ... it's probably the weather.
+
+Seeing as I'm here, I should probably go down to the sea. It's really quite, compared to the summer. And a slow shuffle back up to the station.
+
+I stayed only a couple of hours in Brighton, but I am glad I did. Back, then, to town.
+
+I have a few things I want to write about that are on the back-burner, because I need quite a bit more time to think about them. Not that anything I write about or thing is complicated, just that I need to reach the conclusions everyone else has already in my own time.
+
+http://stackoverflow.com/questions/10185384/twitter-bootstrap-responsive-navbar-broken-on-small-screens
+I learned this the hard way: Twitter Bootstrap stylesheet loading order matters.
+
+http://fountain.io
+"Fountain is a plain text markup language for screenwriting."
+
+http://screenhero.com
+"Collaborative Screen Sharing" - not out of beta yet.
+
+http://studio.zerobrane.com/screenshots.html
+Screenshots of the 'ZeroBrane Studio' IDE for Lua. I still think the name is rather odd.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

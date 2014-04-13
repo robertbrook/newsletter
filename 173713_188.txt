@@ -1,0 +1,39 @@
+I've just noticed that I have around 17k bookmarks in Pinboard - including ones imported from delicious. That seems quite a lot. Should I just delete them?
+
+http://lispm.dyndns.org/ccl (http://lispm.dyndns.org/ccl )
+Clozure Common Lisp is now available in the Apple App Store - and already runs on the Raspberry Pi.
+
+Every time I type in that particular password, I smile.
+
+Why do people say "Facebook doesn't get mobile"? I see loads of people using Facebook on mobiles. Am I missing something obvious?
+
+There are things other people like and do, that aren't things I like or do. It's not that I dislike those people for that reason, but in many cases I do feel uneasy.
+
+http://www.runrev.com/products/what-now (http://www.runrev.com/products/what-now )
+Interesting. Rebol went open source, now RunRev does too - pretty much. I wonder why?
+
+Woman on the bus is checking me out. No, wait, checking out my clothes. Wait, just shoes. Now she's tutting. Actually audibly tutting.
+
+Went to a different coffee place. What a boring coffee.
+
+Me talking about being unhappy sounds terribly self-involved. But I am terribly self-involved.
+
+I had been ready to lose subscribers, but I wasn't actually ready for anyone more signing up. Voluntarily. No, of course I wouldn't do that. Anyway hello.
+
+It's strange to see someone's problems, clearly, then pretend they're not there. Like a ... I don't know.
+
+I'm pretty sure that was objectivism. I'm not sure how I feel about that. Thinking while looking in the rear-view mirror?
+
+I've been surprised recently at how non-awful Spotlight is. But I think it should be better integrated into the rest of the Apple ecosystem. The Spotlight UI is a scrawny looking thing, separate from everything else. When it works, it does actually work. If finds things, at least. It should give you more options about what to do with the results.
+
+I've also been surprised how Apple Mail and the Address Book are still pretty terrible. The fact that they've not improved means, surely, that either Apple see them as dead-ends and are soon to be given-up-on - or that its actually a hard problem to solve, even for them. Same as Apple Maps. Though, maybe there is a lot of work being done on Mail and Maps and it'll be rolled up into an OS update. Here's one of the advantages of open source over closed systems: you might not light what's going on, but at least you get to see.
+
+Have a good day.
+
+============================================================
+
+*|LIST:ADDRESS|*
+*|LIST:ADDRESS|*
+
+** BACK ISSUES (*|ARCHIVE|*)
+** UNSUBSCRIBE (*|UNSUB|*)

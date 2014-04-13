@@ -1,0 +1,54 @@
+434 - From the British Museum
+
+Web archive (*|ARCHIVE|*)
+
+http://www.goruck.com
+Bags, basically. If you want to order one for delivery to the UK, that'll be an extra fifty on top.
+
+"Everything's slowed down."
+
+http://moonscript.org
+"MoonScript can either be compiled into Lua and run at a later time, or it can be dynamically compiled and run using the moonloader. ... Because it compiles right into Lua code, it is completely compatible with alternative Lua implementations like LuaJIT, and it is also compatible with all existing Lua code and libraries."
+
+I should be doing that. Instead I am doing this.
+
+http://fadingcity.com/posts/looking-back
+I wrote a little history of a domain name.
+
+If you'd like me to write about anything in particular, would you mind dropping me a line at robertbrook@fastmail.fm - nothing wrong with asking, I hope.
+
+http://www.bentmedia.com
+"Avg. Client Tenure: 8.1 years. Avg Employee Tenure: 7.8 years."
+
+Can I be friends - or at least friendly - towards someone who has political views very different from my own? I'm finding it difficult not to "come out" as not "one of us".
+
+http://koti.welho.com/tnoko/Nokolisp.htm
+"Nokolisp is a variant of the Lisp language created around 1976 by Timo Noko. The first implementation was made, with very little knowledge or experience, in the Nova-1200-like computer which had 16 kilowords of core memory and a paper tape punch for mass storage." ...
+
+http://koti.welho.com/tnoko/
+... "unemployed since 1990".
+
+Weeding IMAP: the oldest mail I have is from 2006. Lunch with David. Who's David? Actually I think it's still syncing, so there may be more mail earlier. I don't keep mail for archives, though. It'll all get converted.
+
+http://celluloid.io
+"Celluloid is a concurrent object oriented programming framework for Ruby which lets you build multithreaded programs out of concurrent objects just as easily as you build sequential programs out of regular objects."
+
+Some things are better left un-Googled.
+
+http://macography.net
+"Get the most out of your Apple devices."
+
+Tasteless cranberries.
+
+http://michaelochurch.wordpress.com/2013/08/07/why-clojure-will-win/
+"The era in which one could 'learn programming' in 6 months at age 22 and have lifelong job security are over. People constantly need to learn new things, just to survive, and that’s only feasible when newly-generated technical assets are coherent, attractive, and interactive."
+
+I have not yet stopped caring about Python.
+
+http://www.supertool.com/forsale/2013novemberlist.html
+"... a never used Rolls Razor razor kit ... razor, blades, hones, and instructions ..."
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

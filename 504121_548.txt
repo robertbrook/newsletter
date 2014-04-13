@@ -1,0 +1,60 @@
+548 - HARE - on the web (*|ARCHIVE|*)
+
+Good morning everyone.
+
+http://www.missilebases.com/properties
+If you fancy living in a missile silo ...
+
+http://www.privateislandsonline.com
+... or, you know, your own island.
+
+"Explain what mystery does in general." #markov
+
+http://docopt.org
+Command line args handler for Python. Comprehensive.
+
+http://www.megalithicireland.com/Hill%20of%20Tara.htm
+I'd love to go back to Ireland and see Tara. I've only ever been as far as the Dublin suburbs.
+
+http://librarybox.us
+"LibraryBox is an open source, portable digital file distribution tool based on inexpensive hardware that enables delivery of educational, healthcare, and other vital information to individuals off the grid." LibraryBox is based on PirateBox ...
+
+http://daviddarts.com/piratebox/
+... "Using the PirateBox is easy. Simply turn it on and transform any space into a free communication and file sharing network. Users within range of the device can join the PirateBox open wireless network from any wifi-enabled device and begin chatting and sharing files immediately" ...
+
+http://daviddarts.com/piratebox-diy-openwrt/?id=PirateBox_DIY_OpenWrt
+... you can build your own!
+
+Wondering about work things.
+
+http://jeffreykegler.github.io/Ocean-of-Awareness-blog/metapages/annotated.html#TUTORIAL
+Tutorials for the Perl parser 'Marpa' ...
+
+https://gist.github.com/jeffreykegler/4480523
+... here's a nice 'scannerless' calculator DSL.
+
+http://www.irishstatutebook.ie/1951/en/si/0040.html
+The 'Turbary Rights Order' of the Republic, 1951: "No person shall hold or cause to be held a public auction of any right of turbary."
+
+"The profound amazement, joyous without splendour, almost pious before this invention: the human being. Nothing royal. Nothing extraordinary. The sober splendour of the ordinary." - Helene Cixous ...
+
+... her 'Hiss Of The Axe' has been the best, so far.
+
+http://www.flaskapi.org
+I tried this, it works: "Browsable Web APIs for Flask".
+
+http://nathanmarz.com/blog/the-inexplicable-rise-of-open-floor-plans-in-tech-companies.html
+"Establish a culture that encourages employees to work from home as much as they want. They should really understand that face time is completely irrelevant. Then, measure how many people come in each day. Do polls to see how productive people find the office. If the numbers are low, then there's something wrong with your office environment."
+
+http://pkgs.racket-lang.org
+Racket 6 is out - and with it, a new package manager. I really don't like the Javascript popup thing for each library. What's the point of that? Seems needlessly flashy ...
+
+http://faculty.cs.byu.edu/~jay/home/
+... though this is the guy I'm criticising, so I should probably just let him get on with it.
+
+And do have a lovely day.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

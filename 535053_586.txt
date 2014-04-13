@@ -1,0 +1,61 @@
+Vol. 2, No. 586. "GIANT ORIGAMI FISH".
+Hello.
+
+"Who hasn't asked oneself, am I a monster or is this what it means to be human?" - Clarice Lispector
+
+Remember that surprise subscriber? Gone! Already! Perhaps they thought I'd write about the office.
+
+https://www.love2d.org/wiki/love.graphics
+I love graphics.
+
+"A truer order of the planets."
+
+http://jere.my/?page=writings⊂_page=archive&display=5
+"sadlittlewebjournal is a Weblog written in Perl that utilizes PostgreSQL or MySQL and a straightforward ASCII interface."
+
+It's turned a little chilly.
+
+https://github.com/mimecuvalo/helloworld
+"federated social web tumblr/blog/rss reader/wordpress-like thingy" ...
+
+https://github.com/aaronpk/selfoss
+... "multipurpose rss reader, live stream, mashup, aggregation web application".
+
+There's a lot of clearing-up to do in there.
+
+https://github.com/bcomnes/webmention.js
+"Webmention.io makes it easy to receive incoming webmentions and pingbacks on your website or blog. webmention.js helps you display them on your gh-pages or statically hosted website."
+
+I'm listening to John Roderick talking to Myke Hurley again. I think I've listened to this episode of Cmd+Space about three times.
+
+http://en.wikipedia.org/wiki/Word_clock
+"S/PDIF, AES/EBU, ADAT, and TDIF are some of the formats that use a word clock."
+
+I think I'm having another Me Moment. In several iOS apps, I've noticed an odd pattern: when I'm adding to a list, I have to scroll to the bottom. This happens in Apple's Reminders and the Castro podcast app. Presumably I missing something obvious?
+
+http://blog.agilebits.com/2013/09/06/1password-and-the-crypto-wars/
+"They can’t gag all of us" - 1Password on security. I recommend 1Password.
+
+http://jetpack.me/about/
+A Wordpress plugin to bring some wordpress.com features to wordpress.org self-hosted sites.
+
+http://constituencyopinion.org.uk
+"Opinion polls give us the national picture - how can we use them to find out what people think in individual constituencies?"
+
+http://feeandbrown.com
+Tables service, apparently. I've not tried it. #snazzy
+
+http://matt.wordpress.com/2013/11/17/broth-at-sauce/
+That's a lot of broth.
+
+http://www.arrl.org/files/file/Part%2015%20Letters/04-09-29-Battery%20Charger.pdf
+"Personal disputes you may have had with Mr. Cooper, conversations Mr. Cooper may have had with your neighbors, Mr. Cooper's alleged 'looking at' your house or photographing your house, are totally irrelevant to your responsibility regarding the interference caused by Part 15 devices that you operate."
+
+A particular disappointing macchiato from Brew on Northcote Road. And no sugar thanks means no sugar. Thanks. I won't be making that mistake again.
+
+============================================================
+
+*|LIST:ADDRESS|*
+
+
+** Unsubscribe (*|UNSUB|*)

@@ -1,0 +1,30 @@
+445 - ZOOMY
+
+On the web (*|ARCHIVE|*)
+
+http://onethingwell.org
+One thing I've always liked is the idea of "one thing well". It's a Unix thing, I think. But there's two ends to that telescope: there are little applications that do that one thing well - there are lots of those. Then there are those applications which are more substantial, with a strong primary function. Vim and emacs would be examples. But these are pretty rare now - most developers can't resist either feature creep, or even platform creep. We should have a Windows version! We should have an Android version! No, you shouldn't. Stick to the knitting.
+
+http://www.colorforth.com/recipes.htm
+"These are from my mother's recipe file circa 1940s. I'm not a cook and they're hand-written, but I've interpreted as best I can. Needless to say, I've not tried them."
+
+Lots of Forth follows.
+
+http://www.complang.tuwien.ac.at/forth/gforth/
+"Gforth is a fast and portable implementation of the ANS Forth language." - source, binaries and documentation. Oh look: you can 'nip' and 'tuck' ...
+
+http://www.colorforth.com/POL.htm
+... in 1970, "I have a typescript that I recovered from Forth, Inc long ago. I had typed it on my Smith-Corona portable, complete with overstrikes and annotations. It is illegible enough to discourage a casual reader, so I'm re-keying it in HTML." ... "We've reached a milestone. The invisible work is done and we can have a written record of what remains. There are many things to do and the order not so obvious. We've reached the position of having a source language, and we need to be able to modify it and re-compile without re-doing everything. Here we're forced to generate temporary code that will become obsolete, but it will save a lot of effort." ...
+
+http://www.softsynth.com/pforth/pf_tut.php
+... "Forth code is a bunch of words with spaces between them. This is even simpler than English! ... WAKE.UP EAT.BREAKFAST WORK EAT.DINNER PLAY SLEEP"...
+
+http://angg.twu.net/miniforth-article.html
+... Forth in 40 lines of Lua, "Forth was very popular in certain circles at a time when computers were much less powerful than those of today. ... computers got bigger and faster, their assembly languages became much more complex, and we've learned to take for granted several concepts and facilities ..., high-level data structures, BNF - and now we feel that it is 'simpler' to send characters through stdout than poking bytes at the video memory. Our notion of simplicity has changed."
+
+Have a great day.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

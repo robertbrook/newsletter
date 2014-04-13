@@ -1,0 +1,50 @@
+https://github.com/cantino/huginn/ (https://github.com/cantino/huginn/ )
+"Huginn is a system for building agents that perform automated tasks for you online. They can read the web, watch for events, and take actions on your behalf." Trying this out. Oh great - something else that requires XCode. This is getting somewhat irritating.
+
+I sounded even more grumpy than usual is yesterday's mail.
+
+At White City bus station, drivers in the upper floor stand to pray together.
+
+https://www.firebase.com/blog/2013-03-14-firebase-now-available-in-the-npm.html (https://www.firebase.com/blog/2013-03-14-firebase-now-available-in-the-npm.html )
+"Firebase is a cloud database designed to power real-time, collaborative applications." - now node-native.
+
+https://github.com/cgutteridge/Grinder (https://github.com/cgutteridge/Grinder )
+"Create RDF data from spreadsheets or CSV" - in Perl.
+
+http://www.europarl.europa.eu/sides/getDoc.do?type=MOTION&reference=B7-2013-0091&language=EN (http://www.europarl.europa.eu/sides/getDoc.do?type=MOTION&reference=B7-2013-0091&language=EN )
+Absinthe either banned, or made compulsory. Not quite sure.
+
+http://docs.realsoftware.com/index.php/Listbox (http://docs.realsoftware.com/index.php/Listbox )
+Tempted to write my own bloody outliner.
+
+http://tuhonohono.wordpress.com (http://tuhonohono.wordpress.com )
+"Tūhonohono means to bring together – to weave or join. Here, it is the joining of a daily moment in time as captured on my phone; and a (tangentially related) image from the past."
+
+A friend who has worked in another large public organisation reminds me that not all is well in the world of Basecamp. Some groups "think it's SharePoint". That doesn't sound great. Using any service imagining it's another probably isn't a great approach. Basecamp is "pandering to SharePoint diaspora." Well, yes, I suppose it is.
+
+http://www.telegraph.co.uk/culture/tvandradio/9932715/Neil-Gaimans-Neverwhere-Why-the-best-thing-thats-on-this-weekend-is-on-the-radio.html (http://www.telegraph.co.uk/culture/tvandradio/9932715/Neil-Gaimans-Neverwhere-Why-the-best-thing-thats-on-this-weekend-is-on-the-radio.html )
+Via Liz Conlan: "Mayhew is a generous, hard-working sort. He gives money to beggars and does his best to meet his fiancé Jessica's hard-nosed demands to be presentable. But after undertaking a random act of kindness, Mayhew finds himself on an epic fantasy mission in London below, where a whole collection of mad, brilliant and spooky characters emerge – Earl, of Earl's Court ..., The Angel Islington ..., Old Bailey ... and the Lord-Rat speaker." Gaiman's "Neverwhere", on the wireless.
+
+Cripes: Mac OS 10.8, MySQL and Ruby isn't a fun ride so far.
+
+http://natgeofound.tumblr.com (http://natgeofound.tumblr.com )
+Images from the archives of National Geographic. Better than it sounds.
+
+http://creately.com (http://creately.com )
+"Online diagramming and collaboration." - from $5 a month.
+
+http://anti-pattern.com/use-bundler-setup-instead-of-bundler-require (http://anti-pattern.com/use-bundler-setup-instead-of-bundler-require )
+Brandon Weiss: "... using Bundler.setup is significantly better than Bundler.require. ... The big question at the heart of this all is what is your application? Is it one monolithic, tightly-coupled mess? Or is it a structured collection of small, loosely-coupled objects?"
+
+http://shopify.github.com/dashing/ (http://shopify.github.com/dashing/ )
+"The exceptionally handsome dashboard framework." Demo looks fine, on a modern browser.
+
+https://news.ycombinator.com/item?id=5369687 (https://news.ycombinator.com/item?id=5369687 )
+Comments on "Don't learn how to code, learn how to make things", from Jake Levine: "I think 'making things' is overrated." ... "None of the tools that languages provide have a context for a new programmer, much in the same way that high school kids don't understand why math is so important."
+
+More tomorrow.
+
+============================================================
+Registered address: *|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

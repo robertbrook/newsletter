@@ -1,0 +1,63 @@
+A newsletter from Robert Brook
+------------------------------------------------------------
+*|ARCHIVE|*
+
+
+**
+------------------------------------------------------------
+http://www.rebolsource.net (http://www.rebolsource.net )
+Rebol 3 is open source. If you'd like to try it out, here are some prebuilt binaries.
+
+http://dosooner.com (http://dosooner.com )
+Yet Another iPhone ToDo App. But, so pretty!
+
+http://www.webnoir.org (http://www.webnoir.org )
+"The Clojure web framework"
+
+https://github.com/daveray/seesaw (https://github.com/daveray/seesaw )
+"Seesaw turns the Horror of Swing into a friendly, well-documented, Clojure library."
+
+http://rubytune.com/cheat (http://rubytune.com/cheat )
+A useful set of tips somewhat unfairly criticised for being called the 'Rails Devops Cheatsheet'. Whatever, it's still useful.
+
+http://www.quicklisp.org/beta/ (http://www.quicklisp.org/beta/ )
+"Quicklisp is a library manager for Common Lisp."
+
+http://www.catonmat.net/projects/cheat-sheets/ (http://www.catonmat.net/projects/cheat-sheets/ )
+I still enjoy and recommend these 'cheat sheets' from Peteris Krumins. I'm really grateful that he shipped the tex source files as well as PDFs. Also, I still can't shake off the idea of doing more stuff in tex. I need to talk to someone about this.
+
+I have a text editor habit. I've accepted that now. Anyway. In Sublime Text, you can sort lines in a file alphabetically by selecting the lines you want to sort, then control-F5. Weird, but it solved my problem. I'm sure there's a way to sort like this outside the editor, but I wasn't looking for that.
+
+http://alias.sh (http://alias.sh )
+This seems like a crazy idea, but also a clever one. bash aliases allow you to have a short code for a longer series of commands: this site is a shared repository of those, which you can hoover up into your local bash aliases file. I'd like it even more in zsh. Actually, I'd be happier just cutting and pasting these. Still a clever idea though.
+
+http://en.wikibooks.org/wiki/LaTeX/Document_Structure (http://en.wikibooks.org/wiki/LaTeX/Document_Structure )
+A basic introduction to document structure in LaTeX, with helpful examples.
+
+http://www.intensivesystems.net/tutorials/monads_101.html (http://www.intensivesystems.net/tutorials/monads_101.html )
+Lovely layout on this page. Jim Duey's "Monads in Clojure".
+
+http://www.bbc.co.uk/news/magazine-21059425 (http://www.bbc.co.uk/news/magazine-21059425 )
+"An economy beefburger must contain 47% meat, a chicken burger 41% and a pork burger 50% pig meat."
+
+http://m.guardian.co.uk/commentisfree/2013/jan/18/dan-brown-inferno-savile-hillsborough (http://m.guardian.co.uk/commentisfree/2013/jan/18/dan-brown-inferno-savile-hillsborough )
+Mark Lawson: "Brown brilliantly anticipated and understood the mindset of the 21st century, in which citizens would come to suspect that every stone had something hidden under it and would be justified in their suspicion by progressive revelations." If I was trying to be fashionably contrarian, I'd say I loved Dan Brown's "Da Vinci Code". I didn't, though. Neither am I looking forward to this next book from him, "Inferno".
+
+http://pdfcrowd.com/pricing/ (http://pdfcrowd.com/pricing/ )
+URL to PDF, with lots of extras, for less than $10 a year.
+
+http://thewirecutter.com (http://thewirecutter.com )
+One of those 'we do the selection for you' shopping sites, with a great deal more detail than most.
+
+http://memepool.com (http://memepool.com )
+Still going, I'm glad to see.
+
+I fell into Google Plus recently. It's not really my sort of place though.
+
+============================================================
+-
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:ADDRESS|* *|END:IF|*
+
+** Unsubscribe (*|UNSUB|*)
+** Y (*|UPDATE_PROFILE|*)
+** our profile (*|UPDATE_PROFILE|*)

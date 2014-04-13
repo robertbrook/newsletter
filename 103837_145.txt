@@ -1,0 +1,58 @@
+A newsletter from Robert Brook
+------------------------------------------------------------
+*|ARCHIVE|*
+
+
+**
+------------------------------------------------------------
+http://tinderizer.com (http://tinderizer.com )
+A bookmarklet to send URLs to your Kindle.
+
+http://london1868.com (http://london1868.com )
+A map of London, 1868.
+
+http://handsome.ly (http://handsome.ly )
+A map for booking off-peak haircuts in Cambridge. Niche!
+
+http://blog.twitter.com/2013/01/an-update-to-embedded-tweets.html (http://blog.twitter.com/2013/01/an-update-to-embedded-tweets.html )
+Embedded tweets now with more stuff, "to better understand engagement". Surely Twitter can't want to control every quoted tweet presentation? I suppose if they push the idea that it's not just text - and you can't cite it with a URL - then that's where it's heading.
+
+http://mileszs.com/stop-working-late-at-night/ (http://mileszs.com/stop-working-late-at-night/ )
+Miles Z. Sterrett: "... you are not effective if you’re working up until the minute you go to sleep."
+
+http://gettingstartedwithdjango.com (http://gettingstartedwithdjango.com )
+For my friend trying to get started with Django.
+
+http://jwa.org/encyclopedia/article/barbara-monique-andree-serf (http://jwa.org/encyclopedia/article/barbara-monique-andree-serf )
+A biography of Monique Serf, the singer known in France as 'Barbara'.
+
+http://www.bbc.co.uk/news/world-europe-21141244 (http://www.bbc.co.uk/news/world-europe-21141244 )
+Another BBC madlibs story title: "Norway goat cheese fire closes tunnel" - featuring a comment from a geologist on tunnel stability following the fire, with police adding that the cheese is "almost like petrol if it gets hot enough".
+
+http://www.hilcobid.net (http://www.hilcobid.net )
+Hilco, recent buyers of the HMV assets, auctions off physical assets from previous conquests, including: Seagate's scrap metal, Kodak's printers and labellers, Western Digital's chip fab gear, Ford's milling machine, Nestle's lathe, Northrup Grumman's welding equipment ...
+
+http://www.hilcostreambank.com/AssetsforSale.asp (http://www.hilcostreambank.com/AssetsforSale.asp )
+... Hilco also auctions off IP assets: trade names, patents and identities.
+
+http://www.guardian.co.uk/commentisfree/2013/jan/22/syvia-plath-50-years-bitter-arguments (http://www.guardian.co.uk/commentisfree/2013/jan/22/syvia-plath-50-years-bitter-arguments )
+Hmm. The peanut gallery. Comments on Hadley Freeman's Guardian story of the 50th anniversary of Sylvia Plath's death: "I am not sure that those who label Plath's work as self-indulgent or misery laden have read any of it."; "... she seemed to savor her own misery as though that melancholy was her raison d'etre."; "Marrying a poet was where they both went wrong"; "The problem with putting poets, artists and composers on a pedestal is that they are people, not angels."
+
+I miss reading the newspapers. There's some awful old tosh on the web nowadays.
+
+http://www.practicallyefficient.com/2011/08/22/of-note-taking/ (http://www.practicallyefficient.com/2011/08/22/of-note-taking/ )
+I like this idea of using a task manager for note taking: everything that gets written down is either a calendar booking or a task. Interesting. Also: are people projects, or contexts? I'm thinking contexts. When I mean This Person, what should I bring.
+
+http://sh.akespeare.com (http://sh.akespeare.com )
+"All I wanted to do is read Hamlet online, but none of the sites out there were either readable, or appealing, or distraction-free." Readable Shakespeare Plays. How wonderful! If you've a yen for this sort of thing, do check out the GitHub repository too.
+
+http://treetop.rubyforge.org/syntactic_recognition.html (http://treetop.rubyforge.org/syntactic_recognition.html )
+"If you violate this principle [of memoization] in your semantic predicates, be prepared to fight Cerberus before you're allowed out of Hades again."
+
+============================================================
+-
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:ADDRESS|* *|END:IF|*
+
+** Unsubscribe (*|UNSUB|*)
+** Y (*|UPDATE_PROFILE|*)
+** our profile (*|UPDATE_PROFILE|*)

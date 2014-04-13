@@ -1,0 +1,43 @@
+http://mattson.creighton.edu/N2O/
+'Experiments with Nitrous Oxide' - "Nitrous Oxide Rockets" and more.
+
+https://getprim.com/key
+Laundry startup wants access to your house, innovative solution means - take a photo of your key. Right.
+
+http://www.ibm.com/developerworks/web/library/wa-html5components3/index.html
+This article from David Geary, on 'HTML5 components', is making it a little clearer for me to understand. "Currently, two projects provide Web Components polyfills: Polymer and Mozilla X-Tags. Polymer only works with Chrome and requires a web server to use HTML imports, making it unsuitable for production use. X-Tags works with nearly all modern browsers and doesn't require a web server; however, X-Tags only implements the custom-elements API, leaving out templates and Shadow DOM."
+
+http://www.thespacereview.com/article/1337/1
+I watched 'Silent Running' for the first time a couple of months ago. I must say I found it quite odd. Larry Klaes writes: "My strong feeling is that this message is what the audiences who saw the film in 1972 and afterwards got stuck in their brains; this is why we continue to hear the tired (and wrong) old mantra of 'Why do we spend money on space when we need it hear on Earth?'" - 1972? This thing's as old as me!
+
+http://brain.oxfordjournals.org/content/136/8/2550
+"Our results suggest that psychopathy is not a simple incapacity for vicarious activations but rather reduced spontaneous vicarious activations co-existing with relatively normal deliberate counterparts."
+
+http://www.architizer.com/projects/skyward-house/
+'Skyward House', Japan. I like it.
+
+Bit of a parser diversion there.
+
+http://publicsuffix.org/learn/
+"The Public Suffix List is a cross-vendor initiative to provide an accurate list of domain name suffixes ..."
+
+https://github.com/pauldix/feedzirra
+I keep coming back to Feedzirra. If you have RSS feeds to plough through, you could start here.
+
+http://www.fornobravo.com/pizzaquest/instructionals/59-written-recipes/292-the-marinara.html
+"I think the Marinara Pizza may be many pizzaiolos favorite to make. It is a pizza pie with no cheese and I think reflects the skill and passion of a pizza maker's ability to evoke deep flavors from such simple ingredients." Franco Manca pizza is pretty good. Pretty good.
+
+https://www.grc.com/securitynow.htm
+The 'Security Now' podcast. You know, just in case.
+
+http://www.soheinishino.com/en/works/dioramamap/london/index.html
+A diorama of London, by Sohei Nishino. (May-August 2010)
+
+https://pricenoia.com/drops/daily/uk/amazon
+Reduce all the things! On Amazon UK.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

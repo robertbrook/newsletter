@@ -1,0 +1,37 @@
+http://www.flickr.com/photos/hannapple/5434869912/
+Hannah Phillips: "Kalyanasri and Vidyalila".
+
+http://leafo.net/posts/lua_on_heroku.html
+A Lua buildpack for Heroku. A bit much for me, really.
+
+https://github.com/JordanHatch/anthology
+Anthology, from Jordan Hatch: "An easier way to keep track of the books on your office bookshelf." - and an excuse to try Postgres on this particular box.
+
+http://www.thefarmcommunity.com
+"We started The Farm in 1971 with the goal of establishing a strongly cohesive, outwardly-directed community. We want, by action and example, to have a positive effect on the world." ... "We choose to live in community where we share our lives and fortunes, good times and hard times. We feel that we can be stronger and more useful together than we could be separately." Tennessee!
+
+http://arstechnica.com/apple/2012/01/is-lion-server-suitable-for-home-use-ars-investigates/
+"... unless your needs are trivially simple, managing your OS X Lion Server will require the Holy Triumvirate of Workgroup Admin, Server Admin, and Server."
+
+http://www.mountainlionserver.com/hosed-your-mountain-lion-server-reset-it/
+Reviews for the 'Mac OS X Server' app seem very mixed. Almost polarised. "Good luck and hope it at least buys you a few hours for people to stop chasing you with pitchforks, long enough to grab a power nap before you clean install the box ..."
+
+http://refit.sourceforge.net
+"rEFIt is a boot menu and maintenance toolkit for EFI-based machines like the Intel Macs. You can use it to boot multiple operating systems easily, including triple-boot setups with Boot Camp. It also provides an easy way to enter and explore the EFI pre-boot environment."
+
+http://web.archive.org/web/20070221170959/http://www.slais.ubc.ca/PEOPLE/students/student-projects/C_Hill/hill_libr548f.pdf
+Cheryl Hill: "A History of Daniel Keyes' 'Flowers for Algernon'", 2004. "I know this is a dummy class, and I want to ask you: If I try hard and I get smart by the end of the term, will you put me in a regular class? I want to be smart."
+
+http://fadingcity.com/posts/what-i-lack
+I wrote something about what I'm missing.
+
+http://support.apple.com/kb/HT4718
+"OS X Lion or OS X Mountain Lion include a feature called Recovery that includes all of the tools you need to reinstall OS X, repair your disk, and even restore from a Time Machine backup without the need for optical discs." Optical discs. Old school.
+
+That last 'Guess Who' was Alan Whicker.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

@@ -1,0 +1,61 @@
+http://www.sinatrarb.com/testing.html (http://www.sinatrarb.com/testing.html )
+Is this still the canonical method of testing Sinatra? I'm asking ... for a friend.
+
+http://www.bbc.co.uk/news/magazine-21414126 (http://www.bbc.co.uk/news/magazine-21414126 )
+"(Spoiler warning - piece contains extensive plot details)"
+
+http://www.reddit.com/r/AskReddit/comments/18zykx/what_is_one_thing_from_your_profession_that/ (http://www.reddit.com/r/AskReddit/comments/18zykx/what_is_one_thing_from_your_profession_that/ )
+Asked if Reddit is something worth visiting, I'm going to say yes. There are certainly things in it which are silly, mostly on the front page. There may even be things which are objectionable, though nothing that I've yet found personally distressing. Here's an example of Reddit at a wry high.
+
+http://www.latextemplates.com (http://www.latextemplates.com )
+"The best source of free quality LaTeX templates" - not served well by the clip-art, there.
+
+http://blog.serverfault.com/2011/11/17/why-stack-exchange-isn’t-in-the-cloud/ (http://blog.serverfault.com/2011/11/17/why-stack-exchange-isn’t-in-the-cloud/ )
+A somewhat unconvincing - or at least incomplete account of "Why Stack Exchange Isn’t in the Cloud": basically, "the cost debate misses the point" and "We Love Computers"? I'm missing something here.
+
+http://www.rmauctions.com/lots/lot.cfm?lot_id=1057752 (http://www.rmauctions.com/lots/lot.cfm?lot_id=1057752 )
+To auction, a 1961 Mercedes-Benz 300SL Roadster. I can't drive.
+
+https://urlbox.io/docs (https://urlbox.io/docs )
+An API for URL screenshots.
+
+http://erratasec.blogspot.ca/2013/02/custom-stack-it-goes-to-11.html (http://erratasec.blogspot.ca/2013/02/custom-stack-it-goes-to-11.html )
+" ... operating system kernels are designed to carry the slow rate of control information, not the fast rate of data. That’s why you get a 100 to 1 performance difference between custom drivers and kernel drivers."
+
+http://www.milkenarchive.org (http://www.milkenarchive.org )
+The Milken Archive of Jewish Music.
+
+http://www.classical.net/music/recs/reviews/p/phx00112a.php (http://www.classical.net/music/recs/reviews/p/phx00112a.php )
+Steve Schwartz on Richard Yardumian's 'Armenian Suite': "My one complaint is that we get only a shameful 38 minutes of music on the CD. ... Nevertheless, I urge those who enjoy big-breathing post-Romantic music to take a chance."
+
+http://public.wsu.edu/~delahoyd/20th/music.intro.html (http://public.wsu.edu/~delahoyd/20th/music.intro.html )
+"Wagner's opera, 'Tristan und Isolde' ..., is a clear example of chromaticism and seeming atonality, without absolute chaos ... "
+
+http://thrift.apache.org (http://thrift.apache.org )
+"... a software stack with a code generation engine to build services that work efficiently and seamlessly between [flurry of acronyms]."
+
+http://statico.github.com/vim.html (http://statico.github.com/vim.html )
+Ian Langworth on the Vim: I don't use plugins, myself.
+
+http://emergency.cdc.gov/radiation/isotopes/pdf/iridium.pdf (http://emergency.cdc.gov/radiation/isotopes/pdf/iridium.pdf )
+Iridium 192, "How can it hurt me?" - "... can increase the risk for cancer ... burns, acute radiation sickness, and even death." [PDF]
+
+http://www.lpi.usra.edu/meteor/metbull.php?code=24269 (http://www.lpi.usra.edu/meteor/metbull.php?code=24269 )
+"This is an OFFICIAL meteorite name." Sounds like there's been some debate over this.
+
+http://gamasutra.com/blogs/MikeRose/20130219/186896/Using_SimCity_to_diagnose_my_home_towns_traffic_problem.php (http://gamasutra.com/blogs/MikeRose/20130219/186896/Using_SimCity_to_diagnose_my_home_towns_traffic_problem.php )
+"I began by sticking Google Maps on my second screen, and then building Northenden in SimCity as best as I could. I wasn't meticulous about the design - I mean, I'm not submitting this to the council or anything ... "
+
+https://github.com/enyo/dropzone (https://github.com/enyo/dropzone )
+"Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars."
+
+http://emblemjs.com (http://emblemjs.com )
+"... a concise, beautiful, and fully compatible templating alternative for Handlebars.js" - I'm honestly finding it hard to follow Slim. Even HAML was a bit much. Still, the emblem source code is lovely: pegjs and coffeescript. Clever.
+
+http://china.londongateway.com (http://china.londongateway.com )
+London Gateway is going to be a new port. Target audience includes shipping from China. Future logistics.
+
+============================================================
+
+** back issues (*|ARCHIVE|*)
+** unsubscribe (*|UNSUB|*)

@@ -1,0 +1,40 @@
+http://www.oft.gov.uk/shared_oft/738369/738375/OFT002_SOGA_explained.pdf (http://www.oft.gov.uk/shared_oft/738369/738375/OFT002_SOGA_explained.pdf )
+I shouldn't really make fun of URLs any more. But then no-one should have to, either. Here's a PDF from the Office of Fair Trading on the Sale of Goods Act. You know, just in case.
+
+I haven't worked out how to keep my node server thing running yet. Bootup actions on Textdrive seem uncooperative, so far. I don't want to cron it, though - that seems crude.
+
+http://www.guardian.co.uk/lifeandstyle/2013/may/25/michael-pollan-family-meal-civilisation (http://www.guardian.co.uk/lifeandstyle/2013/may/25/michael-pollan-family-meal-civilisation )
+Michael Pollan: "My role, I think, is to make people eat with more consciousness. Eating thoughtlessly is the biggest problem we have. If we're not thinking, they can push our buttons and get us to eat all sorts of stuff. The more thoughtful we are, the healthier we'll be."
+
+My hearing is definitely going. It's pretty noticeable, now. Also my sense of taste. You know, food. I was talking to someone in Peter Jones about being able to read the face of a watch. She said that age creeps up on us, but "we'll survive it". That sounded odd.
+
+http://www.newstatesman.com/books/2009/06/ambler-business-uncommon (http://www.newstatesman.com/books/2009/06/ambler-business-uncommon )
+Robert Hanks on the writing of Eric Ambler: "Ambler saw a gap in the market for books about ordinary, intelligent middle-class men reluctantly confronting respectable capitalist villains ..."
+
+None of these algorithms please me. Take them away. Bring me new ones.
+
+http://www.bizarebazzar.com (http://www.bizarebazzar.com )
+"Some think he is scary, others think he is crazy ... But everybody that knows a little bit about professional wrestling admires Adrian."
+
+Another Who-Is-It: this one was the sone of an entomologist, grew up in Knightsbridge, wrote on the rise of Hitler in 1933, joined the Territorials and then the Artillery, captured and imprisoned in Poland, escaped, recaptured and sent to Colditz, escaped, joined military intelligence and was Michael Bentine's boss. Any guesses? I've left out pretty much everything he was later famous for.
+
+http://www.reddit.com/r/asmr (http://www.reddit.com/r/asmr )
+I have absolutely no idea what this is. "[male] [intentional] [close-up ear to ear] [crinkles] [tap and scratch]"
+
+Thinking about Pete Heller and Darren Emerson. 'Beaucoup Fish' came out in 1999. Tomato still exists.
+
+http://www.mataerial.com (http://www.mataerial.com )
+"3d printing without support material" - in colour, too. Beautiful.
+
+'Relevance' is irrelevant.
+
+https://praw.readthedocs.org/en/latest/pages/writing_a_bot.html (https://praw.readthedocs.org/en/latest/pages/writing_a_bot.html )
+Writing a Reddit bot, with PRAW. May contain Python.
+
+Have a lovely day. I hope the weather's good for you.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

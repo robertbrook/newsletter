@@ -1,0 +1,43 @@
+http://stackoverflow.com/questions/10434638/good-examples-of-clojure-macros-usage-which-demonstrate-advantages-of-the-langua (http://stackoverflow.com/questions/10434638/good-examples-of-clojure-macros-usage-which-demonstrate-advantages-of-the-langua )
+Clojure macros and why they're so great. I think I might be starting to understand what macros are. Or, at least, what macroisation is or does.
+
+I really need a rest. Generally. And specifically.
+
+http://www.loper-os.org/?p=405 (http://www.loper-os.org/?p=405 )
+Lisp, defined in terms of what it doesn't do and - in the comments - what it should do ...
+
+http://www.loper-os.org/?p=388 (http://www.loper-os.org/?p=388 )
+... "Imagine if the Newcomen engine were introduced to a world like today’s.  Book stores would be littered with hefty tomes on valve-turning best-practices.  Bloggers would passionately debate the merits of competing brands of valve handle, arguing about which ones might help young, eager valve professionals in breaking yesterday’s twists-per-minute records."
+
+http://urchin.sourceforge.net/docs/JISC-Report.pdf (http://urchin.sourceforge.net/docs/JISC-Report.pdf )
+"Automatically alert me when someone in Belgium publishes a paper on Biological Weaponry, that cites any paper written by Professor Doom as a resource."
+
+http://davidhuynh.net/spaces/nicar2011/tutorial.pdf (http://davidhuynh.net/spaces/nicar2011/tutorial.pdf )
+A great, in-depth Google Refine tutorial. Google Refine is now called something else. Google Refine also used to be called something else.
+
+http://thepighillgazette.com/post/46808586917 (http://thepighillgazette.com/post/46808586917 )
+A lovely illustration of Don Quixote.
+
+https://news.ycombinator.com/item?id=5485236 (https://news.ycombinator.com/item?id=5485236 )
+I remember reading 'The Wasp Factory' when I was quite young. It was one of those books I read from cover to cover. I found it enthralling. But, I still think 'The Bridge' is a better book, though I found the dialect sections hard going ...
+
+... everyone dies, eventually. Some people manage to do something in the time remaining to them. Who's deciding what you're doing with your remaining years, months, weeks?
+
+http://news.cnet.com/8301-31021_3-20020338-260.html (http://news.cnet.com/8301-31021_3-20020338-260.html )
+Erica Ogg wrote, in 2010: "Apple is discouraging the use of Java on its computers for the future, with the strong hint that it's going to stop supporting it altogether."
+
+If you've recently signed up to this newsletter again, thank you. There was a long gap between the first run and the reboot. I did have quite a pleasingly long list of subscribers - and I'm even using the same service to send the mail out - but it just didn't feel right to assume everyone on the list would appreciate me sending out mails again after such a long gap.
+
+http://stackoverflow.com/a/6094042 (http://stackoverflow.com/a/6094042 )
+"Until recently Apple had their own version of the JVM for Mac OS X but they are now working together with Oracle so that in the future Oracle will maintain the JVM for Mac OS X." - Apple are working with Oracle? That's good, right? So Clojure on Mac would rely on Apple and Oracle, wouldn't it?
+
+http://openjdk.java.net (http://openjdk.java.net )
+"The place to collaborate on an open-source implementation of the Java Platform, Standard Edition, and related projects." Right.
+
+============================================================
+Registered address: *|LIST:ADDRESS|*
+
+Thanks to Dave Briggs at
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** Unsubscribe (*|UNSUB|*)

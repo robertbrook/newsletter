@@ -1,0 +1,41 @@
+527 - AT KEW - on the web (*|ARCHIVE|*)
+
+https://trello.com/docs/
+And how do people feel about Trello now? Vaguely positive?
+
+Come on, Time Machine. Keep up.
+
+http://support.alfredapp.com/cheatsheet
+Thanks to Dominic Tinley for nudging me to look at Alfred Workflows again. Amazing!
+
+I did something recently I'd not done for a while - I went into a sort of code flat spin. I have a relatively simple set of tasks to code for, not too complex but a bit of heavy lifting. I wrote it in Coffeescript, then Node, then Racket, then Common Lisp - and now I have a bit of it in Perl. I'm going to start again, in plain old Ruby ...
+
+http://modernperlbooks.com/books/modern_perl/chapter_12.html
+... I do miss Perl, though. Is there a list of 'modern Perl' style CPAN modules? "The Task::Kensho meta-distribution includes several other distributions which represent the best the CPAN has to offer. When you need to solve a problem, look there first." Aha! Right ...
+
+http://search.cpan.org/~ether/Task-Kensho-0.35/lib/Task/Kensho.pm
+... "a first cut at building a list of recommended modules for Enlightened Perl development. CPAN is wonderful, but there are too many wheels and you have to pick and choose amongst the various competing technologies." From Karen Etheridge. Exactly what I was looking for.
+
+http://www.java.com/en/download/faq/java_6.xml
+Am I reading this right? Apple did their own "version" of Java until 6, they don't distribute it now, they point to to a download of version 6 - but Oracle say download 7 instead of 6? And ...
+
+http://www.java.com/en/download/faq/java_mac.xml
+... "Oracle's Java version 7u25 and below have been disabled by Apple on OS X." Also "32-bit browsers such as Chrome do not support Java 7 on the Mac platform." And "Apple disables the Java plug-in and Webstart applications when the Java update is done using Software Update." - I'm not even really sure what that means.
+
+Okay. Serious question. Why would anyone with a Mac develop in Clojure? Apple clearly doesn't want the JVM on their hardware.
+
+https://www.openshift.com/products/pricing
+Well, this isn't at all confusing. Small gears? Medium gears? I'm not sure what I'm looking at here ...
+
+https://bugzilla.redhat.com/show_bug.cgi?id=1018342
+... but Heroku doesn't show me their bugs, either.
+
+https://github.com/MLstate/opalang/wiki/Reference-card
+But what's this? Opa supports "Dropbox-as-a-database" as a backend, instead of just Mongo? Now I'm interested!
+
+Have fun today.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

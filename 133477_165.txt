@@ -1,0 +1,55 @@
+Another newsletter from Robert Brook
+
+View this email in your browser (*|ARCHIVE|*)
+
+http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE|*&t=*|URL:MC_SUBJECT|* Like (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE|*&t=*|URL:MC_SUBJECT|*)
+http://twitter.com/?status=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE|* Tweet (http://twitter.com/?status=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE|*)
+http://www.instapaper.com/hello2?url=*|URL:ARCHIVE|*&title=*|URL:MC_SUBJECT|* Read Later (http://www.instapaper.com/hello2?url=*|URL:ARCHIVE|*&title=*|URL:MC_SUBJECT|*)
+https://plus.google.com/share?url=*|URL:ARCHIVE|* +1 (https://plus.google.com/share?url=*|URL:ARCHIVE|*)
+
+
+With signups now well into double figures ... well, I say that ... I mean we're finally out of single figures - I'll have to start paying even more attention to spelling and stuff. Maybe. Anyway, it's lovely to see you.
+
+I'm wondering about how to manage a personal wiki over Dropbox. Dropbox solves the syncing and visibility problem, text editors solve the text problem, but that still leaves linking. Markdown won't solve that, but reasonable search would.
+
+https://www.dropbox.com/developers/reference/api#search (https://www.dropbox.com/developers/reference/api#search )
+Dropbox has a search function in it's API: "Returns metadata for all files and folders whose filename contains the given search string as a substring." After you've been through all the OAuth stuff, of course ...
+
+https://gist.github.com/omz/4034526 (https://gist.github.com/omz/4034526 )
+... which can be handled neatly in Pythonista.
+
+http://www.macstories.net/tutorials/from-instapaper-and-pythonista-to-dropbox-and-evernote-as-pdf/ (http://www.macstories.net/tutorials/from-instapaper-and-pythonista-to-dropbox-and-evernote-as-pdf/ )
+A rather elaborate way of archiving web pages as PDFs, via Instapaper. It does make sense, eventually. Sad, though, to think that web pages may survive longer as PDFs than they might at their original URLs.
+
+http://heckyesmarkdown.com (http://heckyesmarkdown.com )
+"MY NAME IS MARKY. I MAKE THE WEB SMELL LIKE MARKDOWN." #terpstra
+
+https://gist.github.com/omz/3823483 (https://gist.github.com/omz/3823483 )
+A nice web server in Pythonista. I'll stop going on about it now.
+
+https://www.getrefinder.com (https://www.getrefinder.com )
+This and Greplin, whatever it's been renamed, make me nervous. Too much oversight. Too many keys ...
+
+http://blog.cueup.com/dropbox-in-file-searching (http://blog.cueup.com/dropbox-in-file-searching )
+... Cue, that was it. Used to be called Greplin.
+
+http://www.feynmanlectures.info/exercises/Feynmans_restaurant_problem.html (http://www.feynmanlectures.info/exercises/Feynmans_restaurant_problem.html )
+"Given N (dishes on the menu) and M <= N (meals to be eaten at the restaurant), how many new dishes D should you try before switching to ordering the best of them for all the remaining (M–D) meals, in order to maximize the average total ratings of the dishes consumed?"
+
+http://paintedsignsandmosaics.blogspot.co.uk/2012/08/united-dairies-south-norwood.html (http://paintedsignsandmosaics.blogspot.co.uk/2012/08/united-dairies-south-norwood.html )
+"...the 'London milk combine' as United Dairies became known, was accused of keeping prices artificially high thanks to its virtual monopoly and Parliament launched an inquiry. The 1917 Astor Report recommended that the government should take control of the milk supply, before nationalising the dairy industry once the war was over. In the end none of this happened and United Dairies continued to expand during the 1920s ..."
+
+http://davisjs.com (http://davisjs.com )
+"... a small JavaScript library using HTML5 history.pushState that allows simple Sinatra style routing for your JavaScript apps."
+
+http://benpickles.github.com/peity/ (http://benpickles.github.com/peity/ )
+"Peity (sounds like deity) ..." - what? Anyway. A JQuery plugin that converts element values to pie charts, line and bar charts - a bit like sparklines.
+
+http://enquote.herokuapp.com (http://enquote.herokuapp.com )
+A quote a day, I think. In English and Japanese. I was wondering about making a little dashboard widget for this, but - does dashboard on the Mac still exist? On this machine I honestly can't even tell.
+
+Happy Tuesday!
+
+============================================================
+
+** Unsubscribe (*|UNSUB|*)

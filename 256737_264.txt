@@ -1,0 +1,45 @@
+http://www.flickr.com/photos/brook/6909978890 (http://www.flickr.com/photos/brook/6909978890 )
+Somewhere out west.
+
+I'll just sit here. By the rat poison.
+
+http://www.youtube.com/watch?v=sVLdFbSgkyU (http://www.youtube.com/watch?v=sVLdFbSgkyU )
+Making coffee in an Aeropress, with dubstep and swearing. I know, I know.
+
+Still fighting with mongo.
+
+http://www.freelists.org/post/luajit/Ramblings-on-languages-and-architectures-was-Re-any-benefit-to-throwing-off-lua51-constraints (http://www.freelists.org/post/luajit/Ramblings-on-languages-and-architectures-was-Re-any-benefit-to-throwing-off-lua51-constraints )
+Back and forth on that idea of good software needs good hardware - or that geting to good software means you should be designing your own hardware to run it on. Szabó Antal: "... a CPU based on a data-flow architecture is probably the way to go ..." but "... the usual blend of concepts offered by [functional programming] languages is decidedly not what I'd personally consider worthwhile ..."
+
+I should really stop this Google alert on my name: it's all obituaries.
+
+http://search.cpan.org/~cursork/xml-binddata-0.0.2/lib/XML/BindData.pm (http://search.cpan.org/~cursork/xml-binddata-0.0.2/lib/XML/BindData.pm )
+Neil Kirsopp's XML::BindData: "... reading in a valid XML template, and binding data directly into the DOM; creating/removing nodes as needs be."
+
+Again, taking a lot of things less seriously could stop me feeling quite so miserable.
+
+http://justingreencartoonart.blogspot.co.uk/2013/03/homestyle-bookburning.html (http://justingreencartoonart.blogspot.co.uk/2013/03/homestyle-bookburning.html )
+Justin Green on his first horror comic: "Screaming and hyperventilating, I threw it across the living room. One of the aunts picked the offending object off the floor and guided me to the fireplace. Joined by her sister, they stood and solemnly watched as the source of my discontent was purified in flame." Later in life "I'd learned to hide my emotional life from the general public, thanks to a raging case of OCD."
+
+I'd like to learn enough maths to make sense of all the nice modern stuff.
+
+http://programmers.stackexchange.com/questions/195217/we-have-a-large-ruby-on-rails-application-25-million-monthly-users-our-manage (http://programmers.stackexchange.com/questions/195217/we-have-a-large-ruby-on-rails-application-25-million-monthly-users-our-manage )
+"We have a large Ruby on Rails application (25 million monthly users), our management decided to rewrite in Node.js, am I crazy?" - I'd be more concerned about the people who are making that decision and them taking responsibility for it. Turns out: "Node.js is not magic."
+
+http://www.youtube.com/watch?v=xHCPUxzvEts (http://www.youtube.com/watch?v=xHCPUxzvEts )
+Almost an hour of Róisín Murphy, live at the 2005 Lowlands Festival. "One of the best gigs from Róisín's extraordinary Electro-Jazz era with Matthew Herbert." Amazing.
+
+http://www.guardian.co.uk/music/musicblog/2013/may/15/ginger-baker-beware-mr-baker-interview (http://www.guardian.co.uk/music/musicblog/2013/may/15/ginger-baker-beware-mr-baker-interview )
+"Why are you such an unpleasant man? What possible benefit does it bring you?"
+
+http://www.damtp.cam.ac.uk/user/sjc1/selwyn/mathematics/spoon.html (http://www.damtp.cam.ac.uk/user/sjc1/selwyn/mathematics/spoon.html )
+"On degree day, the spoon was suspended on strings held by two friends in the Gallery of the Senate House so that the spoon hung above the graduand as the degree was awarded. When the graduate arose from his/her knees, the spoon was lowered to the ground and two other friends cut the string and presented the spoon to the individual concerned." We never had this sort of thing at the London College of Printing.
+
+http://vauxhallvillage.com/businesses/vauxhall-village-presents-summer-screen (http://vauxhallvillage.com/businesses/vauxhall-village-presents-summer-screen )
+Via the excellent John Keogh: I think it's "Mamma Mia"?
+
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

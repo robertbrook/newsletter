@@ -1,0 +1,41 @@
+Good morning folks.
+
+http://www.glias.org.uk/glias/rws/pgs/a_toc.htm
+Ray White's comprehensive personal recollections: 'BBC Radiophonic Workshop, An Engineering Perspective'.
+
+http://www.melkweg.nl
+I went to see some music here when in the Netherlands, a long time ago. I can't remember what the music was.
+
+http://cxwangyi.wordpress.com/2012/07/22/why-go-use-racket/
+Yi Wang compares Go with Racket ...
+
+http://cxwangyi.wordpress.com/2012/07/29/chinese-whispers-in-racket-and-go/
+... but notes that "it seems that Racket programs run much slower than their Go counterparts." I still prefer Racket.
+
+http://londonbuses.co.uk/routes/289-1.html
+I remember those green-ish single-deckers. I had no idea it had started with double-decker in 1968.
+
+I just had a ridiculous idea. About URLs.
+
+I was wondering recently about people who hold views I disagree with, but with whom I can still be friendly. Then I thought about me - I certainly hold views that many people find distasteful, but I rarely share them. Perhaps if people knew what I really thought, no-one would speak to me at all.
+
+There's someone giving a life-coaching session in Monmouth. I don't object to that so much as - get your feet off the damned seats! Tell you what, for once in my life, I'm going to ask. Should I? What's the worst that might happen? Let's see. I'm a grown up I can do this.
+
+Well, she was quite good about it. There, it wasn't so bad after all. My goodness, what a thing to worry about. But perhaps that's my job, now I look like a grumpy old man. Oh goodness now she wants to talk to me. Ah, no, she thought better of it. Best all round, I think.
+
+http://www.cringely.com/2013/09/19/the-secret-of-ios-7/
+I agree with Cringley on this one: I really do think you can imagine iOS on the 'desktop'. Wouldn't that be an odd setup: Apple providing corporate client devices. I think it might well happen.
+
+http://www.bbc.co.uk/podcasts/series/history
+This rather thin page is for the absolutely excellent 'History Hour' podcast series from the BBC World Service. I've mentioned it before, I think, but it's worth revisiting. It's really very good indeed. Modern history at it's best ...
+
+http://www.bbc.co.uk/programmes/p016tmg1
+... or is this the page for that podcast? I'm not sure. I still think readable and meaningful URLs are valuable.
+
+Have fun.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

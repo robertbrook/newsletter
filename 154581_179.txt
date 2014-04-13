@@ -1,0 +1,26 @@
+I tried the Google search "identify regular intervals in a pseudo-random series", in my attempt to, well, identify regular intervals in a pseudo-random series. The results are a treasure trove for people who know maths. Unfortunately I don't.
+
+http://www.iacr.org/archive/ches2010/62250031/62250031.pdf (http://www.iacr.org/archive/ches2010/62250031/62250031.pdf )
+"Sponge-based pseudo-random number generators" [PDF] - "Sponge functions are a generalization of hash functions ..." - okay, right. "The sponge construction ... is a simple iterated construction for building a func- tion S[f] with variable-length input and arbitrary output length based on a fixed-length transformation (or permutation) f operating on a fixed number b of bits." Oh for goodness sake.
+
+http://csrc.nist.gov/publications/nistpubs/800-22-rev1a/SP800-22rev1a.pdf (http://csrc.nist.gov/publications/nistpubs/800-22-rev1a/SP800-22rev1a.pdf )
+"A Statistical Test Suite for Random and Pseudorandom Number Generators for Cryptographic Applications" [PDF] - presumably methods of working out how random a random number generator is. Or how random the numbers are. Or how pseudo-random, of course.
+
+An interesting but somewhat trying few hours over the weekend helping older relations with technology. I feel somewhat ambivalent about the whole thing, but I suppose I should simply answer questions I know the answers to. It's very tempting to say "use Wordpress" or something like that. So, an introduction to FaceTime and Messages, Notification and the difference between 3G and wifi. Also, why and how one might want to do a factory reset on a second-hand Nokia - and the difference between SIM memory and phone memory. Separately, what MVC is and means, what Apache does, what a 'network interface' is, how to install Django, templating languages in Python, Wordpress and Squarespace, how to spell kernel, saving animations of Powerpoint presentations as movies - not sorted that out yet, screencasting software, Shopify and other e-commerce options, ...
+
+... I think I need a cup of tea and a sit down.
+
+http://www.google.com/patents/US7328025 (http://www.google.com/patents/US7328025 )
+"A method for dynamic allocation of transmission resources to a plurality of communications between a base station and a plurality of mobile terminals includes generating a pseudo-random sequence and performing an allocation."
+
+"... our sensuality is a hankering for oblivion, our shooting and knifing a hankering for death; our langour, our exotic ices, our hankering for voluptuous immobility, that is for death again ..." - from 'The Leopard', di Lampedusa
+
+http://blog.rongarret.info/2013/02/a-simple-solution-to-credit-card-fraud.html (http://blog.rongarret.info/2013/02/a-simple-solution-to-credit-card-fraud.html )
+"I'm still not sure I can tell this story without sounding like a paranoid loon, but I've decided to take that chance." ... "All of the costs of processing credit cards, including the cost of fraud, is passed on by the card companies and the banks to the merchants, who in turn pass the cost on to you, the consumer."
+
+Another pasteis de nata, or belem?
+
+============================================================
+
+** back issues (*|ARCHIVE|*)
+** unsubscribe (*|UNSUB|*)

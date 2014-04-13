@@ -1,0 +1,49 @@
+569 - GOOGLY EYES - on the web (*|ARCHIVE|*)
+Good morning everyone.
+
+"Worryingly symmetrical".
+
+I really admire John Siracusa. I don't have much interest in video games, or in the grand strategy of the computing industry. He's on podcasts where these things are discussed, but that's not the sort of think I have to thank him for. Though I do find it interesting ...
+
+... what John gives me is a sense of humane encouragement. He makes a lot of sense, of course, but the essence of it is that he encourages me to try, where I so often give up. I give up on almost everything and John never does ...
+
+... he's not a genius, he's not an evangelist, he's a person who describes and supports behaviour which is positive and he encourages that in others - without bullying or gripping his pulpit ...
+
+... I've found his clearly-expressed comments useful and cheering. I hope to be able to hear more of him in the future. Thanks John.
+
+http://learn.agilebits.com/1Password4/Mac/en/Features/Sync/wifi.html
+If you wanted to stop syncing your 1Password stuff over Dropbox, for any reason, you could do it using local wifi instead. Useful.
+
+"Nothing is everybody." - Gruber
+
+http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSvcid=4762&GRid=21732&
+Caesare Cardini, inventor of the Caesar salad, which I've never eaten.
+
+I think this is the primary reason I've listened to podcasts: no for the subject-matter, not for a different voice, but for the proof that people can be sensible and that they can persevere.
+
+http://blog.angularjs.org/2014/03/angular-20.html
+What's new with Angular. Also: Blogger is really odd.
+
+http://www.complang.tuwien.ac.at/forth/gforth/Docs-html/Crash-Course-Tutorial.html
+A crash course. Of course, it's a course in how to crash. I've been playing around with forth again - thanks to my dad for the encouragement. It really does feel like programming a washing machine, or Saturn V. Also, I read do seem to be able to crash forth using forth, inside forth; which is impressive in an odd sort of way.
+
+https://www.npmjs.org/package/html-extractor
+"Extract meta-data from a html string" ...
+
+https://www.npmjs.org/package/html-parser
+... "HTML/XML parser with less explosions".
+
+https://news.ycombinator.com/item?id=7435365
+"You should join the ietf and w3c mailing lists. Then you will understand why things don't move faster."
+
+https://github.com/raphaelcruzeiro/jquery-notebook
+"A modern, simple and elegant WYSIWYG rich text editor."
+
+Have a lovely day, if you can.
+
+============================================================
+
+*|LIST:ADDRESS|*
+
+
+** Unsubscribe (*|UNSUB|*)

@@ -1,0 +1,38 @@
+496 - MARKED - on the web (*|ARCHIVE|*)
+
+http://www.uhura.com
+Nichelle Nichols: "Hailing Frequencies Are Open!"
+
+http://www.obdev.at/products/littlesnitch/index.html
+"A firewall protects your computer against unwanted guests from the Internet. But who protects your private data from being sent out? Little Snitch does!" I'm not quite paranoid enough. Soon.
+
+https://github.com/alicebartlett/little-image-server
+"This is a minimum viable publication for Little Printer. It connects to an Amazon Web Bucket and serves an image that is named with today's date ..." - very useful demo code. I should put together something for webscript.io.
+
+Faffing about with Lua, again.
+
+Thanks to my dad for providing me with a copy of the debut issue of 'The Croydon Citizen', a printed local paper. It's ... really quite odd. I'm not sure what audience they're going for, nor quite what tone they're trying to set. It's fascinating, particularly if you know Croydon. It covers the local council in a spirit of open Kremlinology. If you can, pick up a copy.
+
+http://southnorwoodtouristboard.com/sons-daughters-of-south-norwood/
+This stuff is gold. Gold.
+
+Installing plt-racket using brew: "Installing may take a long time (~40 minutes)" - huh?!
+
+http://perldoc.perl.org/perldata.html
+Perl 5 datatypes. I still miss Perl. Maybe I should push things around with it a bit. Marpa looks nice. "... Perl also has its own built-in variables whose names don't follow these rules. They have strange names so they don't accidentally collide with one of your normal variables." ...
+
+http://sd.jtimothyking.com/2013/09/02/perl-6s-top-3-coolest-features/
+... meanwhile, in a possible future: "... in the historic spirit of Perl, you will have to use your actual brain in order to make your code beautiful. If you don’t know how to express yourself in a natural language like English, you will probably also have trouble expressing yourself in a programming language like Perl." ...
+
+http://perl6.org/compilers/std-viv
+... "Perl 6 has a grammar that can be tweaked by the user. Hence the structure of the grammar must be the same in all Perl 6 compilers. This structure is given STD.pm6, the standard grammar. It is both specification and runnable code." ...
+
+http://perlcabal.org/syn/S04.html#The_gather_statement_prefix
+... "The take function is lexotic if there is a visible outer gather, but falls back to purely dynamic if not. Well, it doesn't really fall back, since a take knows at compile time whether it is being used lexically or dynamically."
+
+Lots more to write. Let's go.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

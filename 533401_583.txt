@@ -1,0 +1,53 @@
+Vol. 2, No. 583. "THE PENNY".
+Good moaning.
+
+My latest #firstworldproblem - I often have to connect to the internet from 'restricted environments'. That's fine, it still works, but; services like Basecamp assume quite a bit about connection speeds, caching and reliability. My connections are somewhat complex, hopping as they do from one firewall and caching layer to another. The result: Basecamp's snazzy nested caches just start unravelling. Have I edited this document? Have I just saved a blank page? What happens if I refresh?
+
+http://www.technobotsonline.com
+Technobots Online. What a wonderful name ...
+
+http://www.soundtronics.co.uk/
+... see also Soundtronics.
+
+I'm going through this document taking out as many of the "scare quotes" as I can.
+
+I'll never really feel safe.
+
+http://www.revolutionspodcast.com/2014/03/22a-supplemental-the-declaration-of-independence.html
+I am listening to someone read out the Declaration of Independence. The American one, that is. Personally, I didn't find it boring at all; on the contrary, it was very interesting.
+
+We should change how we employ people: instead of saying "this is what you should do at work" we should say "this is what you should (help (us)) make at work".
+
+http://huffduffer.com/robertbrook/156211
+Here's a Huffduffer link to another podcast from Lloyd Davis and Dave Briggs. I really like Huffduffer and I'd welcome suggestions for more people to follow ...
+
+http://huffduffer.com/api
+... man alive look at that thing!
+
+The chap opposite me on the train is eating a samosa from a plastic tray with gin and tonic from a tin.
+
+http://goodpostcardclub.com
+Time for a reminder of the excellent 'Good Postcard Club' - penpals for the internet age.
+
+Assuming that everyone you've hired is both smart and gets things done has interesting side-effects.
+
+http://decentralizecamp.com
+21st May, Dusseldorf: "The web is more and more converting to a monoculture. Big global players like Google, Facebook and Co. control every part of our digital life and build an alternative web of walled gardens." Also, Jeremy Keith will be there!
+
+My scratchy Coffeescript thing actually works now. Off for a cup of tea.
+
+https://github.com/snarfed/freedom
+"Copies your Facebook, Twitter, and Google+ posts to a blog, with all formatting and details intact."
+
+And now, the electricity bill.
+
+I get Coffeescript and I do prefer it to JavaScript, not because it's better but because I'm lazy. I still want to use Perl 6, but where can I run that on a server?
+
+And now, a hair cut. Woo!
+
+============================================================
+
+*|LIST:ADDRESS|*
+
+
+** Unsubscribe (*|UNSUB|*)

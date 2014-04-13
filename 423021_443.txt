@@ -1,0 +1,50 @@
+443 - BLUES
+
+On the web (*|ARCHIVE|*)
+
+Good morning.
+
+http://www.ica.org.uk/39761/Film/Quatermass-2.html
+I missed this: "Join Patrick Keiller and Mark Fisher for a screening of Quatermass 2 followed by a discussion prompted by the film and by the histories explored in Keiller's films ..."
+
+Everyone is younger than me. They all have smaller screens to look at. I look like an old geezer with this iPad Mini. Yes, I have the visual accessibility settings on. You can't judge me!
+
+http://queue.acm.org/detail.cfm?id=2068896
+Matthew Flatt proposes a better mouse-trap: "Some programming languages include constructs - such as overloading or laziness - that a clever programmer can exploit to encode a domain-specific language. The design of Racket addresses the problem more directly; it gives programmers tools to explicitly extend the programming language with new syntax."
+
+Does Rebol 3 have a GUI toolkit yet? I mean a built-in one, not a tacked-on one?
+
+http://createdigitalmusic.com/2013/08/cristian-vogel-still-adventurous-music-after-all-these-years-listen/
+Peter Kirn on Cristian Vogel: "Strap in for an amusement park journey through what seems to be every avant-garde trace imaginable." Vogel lives!
+
+Us old people have nothing to network for. Chap in suit and tie looks distinctly un-relaxed. I supposed I must do as well. I think he's checking his email.
+
+http://c7.se/from-ruby-to-lua/
+From Peter Hellberg.
+
+Oh dear. I think I might have sat behind a tall person.
+
+http://www.stathat.com/
+"StatHat makes detailed time series charts of your stats. It shows you an overview of your stats allowing you to quickly scan all of them."
+
+"He's from Manchester, so that doesn't help."
+
+http://themodernhouse.net/sales-list/ware-kent/description-817/
+A lovely place in Kent, nearest station Minster, possibly. Yours for £410k, freehold. "The east Kent area is becoming increasingly renowned for its wide variety of cultural activities and outstanding food outlets and restaurants." Hmm. I could retire.
+
+I don't think "harass people into doing things better" is really a job description. Maybe I should change that from "harass" to "harangue".
+
+Bit of a down-side to writing on this screen: no word-count. Let's see how that goes.
+
+I'm sitting tucked in the top left of a new Routemaster, listening to Vivian Stanshall. Nice chap.
+
+This is obviously where St. Paul landed. Speaking of which - saints in spaceships!
+
+I think I might start wearing a nice hat.
+
+Enjoy today.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

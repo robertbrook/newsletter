@@ -1,0 +1,43 @@
+Another newsletter from Robert Brook
+
+View this email in your browser (*|ARCHIVE|*)
+
+http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE|*&t=*|URL:MC_SUBJECT|* Like (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE|*&t=*|URL:MC_SUBJECT|*)
+http://twitter.com/?status=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE|* Tweet (http://twitter.com/?status=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE|*)
+*|FORWARD|* Forward to Friend (*|FORWARD|*)
+
+
+http://hockeyapp.net (http://hockeyapp.net )
+"HockeyApp is the best way to collect live crash reports, get feedback from your users, distribute your betas, and analyze your test coverage."
+
+http://www.wired.com/opinion/2013/02/the-end-of-the-web-computers-and-search-as-we-know-it/all/1 (http://www.wired.com/opinion/2013/02/the-end-of-the-web-computers-and-search-as-we-know-it/all/1 )
+Wired predicts the end of the world again. But, this time ... no, not really, But he's on about the rise of the streamed web, or the death of the paged web. David Gelertner thinks that the oncoming rush of streamed media is a post-web thing. Maybe. But aren't the streams on the web? Maybe not, come to think of it. So what's the web then? Anything with a URL? "Instead of doing an endless series of separate searches, we tune the knobs on our stream-browser to continuously feed us just the information we need." Where do links go in all of this?
+
+Stream browsers. It's not exactly round the corner, is it. Wait, does he mean television? The cybersphere? I think I need to eat something. Then lie down.
+
+http://www.guardian.co.uk/commentisfree/2013/feb/03/pop-culture-past-growing-faster-present (http://www.guardian.co.uk/commentisfree/2013/feb/03/pop-culture-past-growing-faster-present )
+"Now I'm grooving my near 45-year-old ass around in my office chair to Medusa's nine-minute Transient Amplitude, which sounds like a thin no-budget Hawkwind with two bicycle lights replacing the psychedelic light show, and a dead frog on a string instead of a massive naked dancing woman."
+
+http://unix.stackexchange.com/questions/63265/distributing-thousands-of-files-over-subfolders (http://unix.stackexchange.com/questions/63265/distributing-thousands-of-files-over-subfolders )
+"Distributing thousands of files over subfolders"
+
+https://github.com/walle/markdowneditor (https://github.com/walle/markdowneditor )
+"Simple website to write down ideas. Like a text document in a texteditor but with live preview for markdown." - only tested in Chrome.
+
+http://www.bbc.co.uk/news/world-africa-21248951 (http://www.bbc.co.uk/news/world-africa-21248951 )
+"In pictures: Timbuktu's manuscripts at the Ahmed Baba Institute"
+
+http://zenhabits.net/mind-full/ (http://zenhabits.net/mind-full/ )
+"What do you feel as you eat? Are you hungry, stressed, sad, happy, hurt, angry, afraid, confused, lonely, bored, impatient?"
+
+http://blog.buildinginternetofthings.com/2013/01/28/combining-quantifiedself-with-iot-for-effective-motivation/ (http://blog.buildinginternetofthings.com/2013/01/28/combining-quantifiedself-with-iot-for-effective-motivation/ )
+"And this is how I came up with the idea of ‘punishing’ myself when I am not active enough by turning off automatically the switch that powers something important. I don’t watch TV, and I thought first of the DSL router but then there would be no connection to the Wemo to turn it back on. So I thought of connecting the fridge to the Wemo switch."
+
+http://www.themodernword.com/pynchon/pynchon_essays_luddite.html (http://www.themodernword.com/pynchon/pynchon_essays_luddite.html )
+The luddite: "... a more-than-human presence, out in the night, roaming the hosiery districts of England, possessed by a single comic shtick - every time he spots a stocking-frame he goes crazy and proceeds to trash it." But even in 1984, Pynchon writes that "Machines have already become so user-friendly that even the most unreconstructed of Luddites can be charmed into laying down the old sledgehammer and stroking a few keys instead."
+
+Have a lovely day. Or try to.
+
+============================================================
+
+** Unsubscribe (*|UNSUB|*)

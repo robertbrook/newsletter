@@ -1,0 +1,64 @@
+470 - PATH - on the web (*|ARCHIVE|*)
+
+http://robertbrook.fastmail.fm/awful.txt
+"Companies, in the loosest sense, are neutral actors. So where does it go wrong?"
+
+I wrote something about hypnotherapy, which I then lost. Also something about breaking something.
+
+http://makezine.com/projects/super-simple-fm-transmitter/
+"Depending on where you live, operating an FM transmitter — even a very short-range one like this — may be illegal without a license."
+
+It looks like I still have an account on Vimeo. Long dormant, though.
+
+http://growthhackingpro.com/oh-god-krakow-power-social-hashtag/
+"'You are where Stockholm was a year ago', he declared and assured that we are about to take the same step forward as the Vikings’ descendants."
+
+http://robertbrook.fastmail.fm/innovation.txt
+Something I wrote about 'innovation', quite a time ago. Recently, innovation has become fully corporatised. By which I mean extinguished.
+
+"iPhone countdown"? What on earth was that?
+
+My son recently had a birthday - he's still two years too young to have an Apple or Google account. Will they still be around then?
+
+http://blog.webscript.io/xml-processing-in-webscript.html
+I pay for an account at webscript.io. It's basically hosted Lua. Simple, but fun.
+
+http://www.cianperez.com
+Proper old school.
+
+http://rymdkapsel.com
+I played this a bit too much on the iPad and it drove me bonkers. I wonder if John K. would like it?
+
+https://consultations.tfl.gov.uk/rivercrossings/garden-bridge
+"The project will only proceed if the Trust is able to raise sufficient funding to build the new bridge and maintain it in the future."
+
+http://castro.fm
+An iOS client: iPhone only, missing features, looks snazzy, not Marco's.
+
+http://www.emacswiki.org/emacs/RainbowDelimiters
+"RainbowDelimiters is a 'rainbow parentheses'-like mode which highlights parens, brackets, and braces according to their depth. Each successive level is highlighted a different color."
+
+http://www.ruarkaudio.com/products/r7-overview
+A radiogram. It looks as odd as it sounds.
+
+http://tubes.io
+Paid-for scraping.
+
+"Can dogs go up stairs?"
+
+http://get-serve.com
+"Build fantastic websites with your favorite template languages." Okay, yes, I like that, do carry on.
+
+http://huffduffer.webscript.io
+I wrote something that shows the top twenty list at Huffduffer. I like Huffduffer. Wish I could hoover up more stuff from Soundcloud, though. This list is just titles, tags, links to Huffduffer and to the original MP3.
+
+https://www.mapbox.com/blog/drone-imagery-openstreetmap/
+Bobby Sudekum: "Last weekend we captured 100 acres of aerial imagery at 4cm resolution."
+
+http://www.londonreconnections.com/2012/a-familiar-fear-flooding-the-underground/
+Floods in tubes.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

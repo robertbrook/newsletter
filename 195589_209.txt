@@ -1,0 +1,42 @@
+http://www2.citypaper.com/news/story.asp?id=17390 (http://www2.citypaper.com/news/story.asp?id=17390 )
+"If he wasn't talking about naked guys, he was talking about the beauty of Baltimore, [and] if he wasn't talking about Baltimore, he was talking about intricacies of his tattoo." - via MetaFilter
+
+http://spectrum.ieee.org/podcast/at-work/tech-careers/telecommuting-and-yahoos-desperate-need-for-innovation (http://spectrum.ieee.org/podcast/at-work/tech-careers/telecommuting-and-yahoos-desperate-need-for-innovation )
+Working from home stifles innovation, says 'management expert' John Sullivan. Most commenters disagree.
+
+Sometimes I have to read email and look at my calendar in ... a place. The systems now run so slowly that opening an email can take three minutes. Just opening it.
+
+http://www.wired.com/gadgetlab/2013/03/future-of-siri/ (http://www.wired.com/gadgetlab/2013/03/future-of-siri/ )
+Agreeing. Siri could be great. Also, terrible.
+
+Everyone using Disqus knows how weird those new headers look, right?
+
+I'm considering moving away from technology and towards content. Or words, as we used to say. But what can I write about, if not badly about code? I could write better about code, I suppose. Either I write bad code, or write badly about code. Neither of those are good. I need to find out what I'm good at, then do that. Also, for money, or something. Or learn something new? Too late for that, surely.
+
+http://hckrnews.com/ (http://hckrnews.com/ )
+If you enjoy Hacker News, but find it a bit rococo, here's a lighter alternative.
+
+These headaches are definitely getting worse. I think I may need to lie down. Feeling hella laggy. I need sleep, a break, to retire.
+
+http://gist.io
+"There's a scale of permanence to writing on the web. On one end, we have the tweet: brief and ephemeral. On the other end of the scale, we have longform blog writing: unlimited in length and hopefully impervious to the passage of time."
+
+I'm sweeping stuff out of Instapaper: saving as PDF to Dropbox instead.
+
+"... of course, if you had done that, you'd be dead by now."
+
+The chap reading two books about African history next to me looks like John Roderick, sans beard. Unpossible.
+
+http://haml.info (http://haml.info )
+The new HAML site looks nice.
+
+https://github.com/antirez/lamernews (https://github.com/antirez/lamernews )
+"The goal is to have a system that is very simple to understand and modify and that is able to handle a very high load using a small virtual server, ensuring at the same time a very low latency user experience." - Lamernews: "a Ruby/Sinatra/Redis/jQuery application".
+
+http://paulrouget.com/e/taiwan2013/ (http://paulrouget.com/e/taiwan2013/ )
+Paul Rouget: "Now I’m 30 and looking forward to 10 other awesome years. But before that, I need to learn how to care less. I need to learn how to calm down and slow down. Pressure and stress are my enemies, and I’m not good at fighting them." Hey, Paul, I'm forty! No longer awesome, huh?
+
+============================================================
+Registered address: *|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

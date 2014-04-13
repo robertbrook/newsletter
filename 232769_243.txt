@@ -1,0 +1,50 @@
+http://www.youtube.com/watch?v=N2KTwpDixfQ (http://www.youtube.com/watch?v=N2KTwpDixfQ )
+Yellow Magic Orchestra has a show, called ... er ... Yellow Magic Show. Here they are doing a skit about visiting Sakamoto in New York, I think. They pretend to be old men, trying to remember how to play their hit 'Rydeen' ...
+
+http://www.youtube.com/watch?v=xWLv8q7qjag (http://www.youtube.com/watch?v=xWLv8q7qjag )
+... and here they are, as those old men, playing Rydeen in 2012. Beautiful intro and cut-outs. I love this music, very much. Sakamoto was 60 when this was filmed. 60, dude. 60.
+
+http://www.yesodweb.com/book/persistent (http://www.yesodweb.com/book/persistent )
+"Persistent is Yesod's answer to data storage - a type-safe, universal data store interface for Haskell."
+
+Why not do datastore migrations in git?
+
+I'm trying to think more clearly about Coffeescript. It writes out better Javascript than I could, right? But, I could just learn better Javascript? I suppose it's the same idea as jQuery. Coffeescript ends up being a sort of meta-library: of course you could write it all out yourself, but you might prefer not to.
+
+http://casperjs.org (http://casperjs.org )
+"CasperJS is an open source navigation scripting & testing utility written in Javascript and based on PhantomJS — the scriptable headless WebKit engine." And I like the logo ...
+
+http://www.freshways.co.uk (http://www.freshways.co.uk )
+... speaking of logos, I find it incredible that Freshways have an amazing logo on their delivery vehicles, which gets no coverage on their website. So imagine their rather dull ribbon logo, out of which pops a very alert-looking cow, offering you a refreshing glass of - well - milk, obviously. The cow is grinning. I think they should do t-shirts.
+
+https://github.com/playlyfe/poseidon-mongo (https://github.com/playlyfe/poseidon-mongo )
+"A future wrapper around the Node Native MongoDB driver using Poseidon." Comes with a helpful example in Coffeescript.
+
+I really have cut myself about terribly trying to shave with a proper blade. I'm nt sure if I shouldn't just give up on the whole idea. It's terribly disheartening.
+
+http://earthship.com (http://earthship.com )
+Mentioned on a recent episode of 'Jordan, Jesse, Go', which I recommend. You can stay in these eco-houses overnight, or learn how to build your own.
+
+http://www.english-heritage.org.uk/daysout/properties/tilbury-fort/ (http://www.english-heritage.org.uk/daysout/properties/tilbury-fort/ )
+The Londonist reminds me of Tilbury Fort, where my great-grandmother was born. "The present fort is much the best example of its type in England, with its circuit of moats and bastioned outworks."
+
+https://twitter.com/TalkhouseCoffee/media/grid (https://twitter.com/TalkhouseCoffee/media/grid )
+... also via The Londonist: Talkhouse Coffee in Portobello Road. Looks lovely.
+
+http://vimeo.com/23032038 (http://vimeo.com/23032038 )
+... Isabelle Verschraegen works at Talkshouse: here she is talking about her work. You're okay with Belgian Dutch, I assume ...
+
+http://www.coffeecollectiveshop.dk/ (http://www.coffeecollectiveshop.dk/ )
+... and if I was confident in Danish, I'd love to buy some coffee from these people. I should just cross my fingers and go for it.
+
+============================================================
+*|LIST:ADDRESS|*
+
+Thanks to Dave Briggs at  and Giles Turnbull at
+
+Every Friday: Roo's Letter
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** http://gilest.org (http://gilest.org)
+** http://tinyletter.com/rooreynolds (http://tinyletter.com/rooreynolds)
+** Unsubscribe (*|UNSUB|*)

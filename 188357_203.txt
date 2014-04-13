@@ -1,0 +1,54 @@
+http://clojuredocs.org (http://clojuredocs.org )
+"... a community-powered documentation and examples repository"
+
+https://github.com/ArchiveTeam/universal-tracker (https://github.com/ArchiveTeam/universal-tracker )
+"A configurable multi-project tracker with dashboards. Can run on Heroku, with a Redis server somewhere. Needs documentation."
+
+http://archiveshub.ac.uk (http://archiveshub.ac.uk )
+ArchivesHub: is great.
+
+http://www.clojure-toolbox.com (http://www.clojure-toolbox.com )
+"A categorised directory of libraries and tools for Clojure"
+
+http://www.spartanfam.com (http://www.spartanfam.com )
+Is this all Nike viral marketing?
+
+http://www.guardian.co.uk/lifeandstyle/2013/mar/10/spartanfam-go-hard-or-go-home (http://www.guardian.co.uk/lifeandstyle/2013/mar/10/spartanfam-go-hard-or-go-home )
+"Clarke had spent most of that year training in The Wreck skate park with his friends Gavin and Bubba, whom he met on returning to Leeds after serving with the army in Iraq."
+
+http://www.perceptualedge.com/blog/?p=1521 (http://www.perceptualedge.com/blog/?p=1521 )
+Steven Few: "When the book was finally published, I soon discovered the sad reality of working with a large publisher: unless you’re a celebrity, publishers do nothing that you can’t do on your own just as well or better for a fraction of the cost. What did O’Reilly do to publicize my book? They listed it on their website. That’s it." Side-effects of the demise of print publishing, surely? Tim O'Reilly and Kathy Sierra in the comments - fascinating stuff.
+
+http://www.nationalgalleries.org/collection/artists-a-z/M/21328/artist_name/Robert%20Mapplethorpe/record_id/23863 (http://www.nationalgalleries.org/collection/artists-a-z/M/21328/artist_name/Robert%20Mapplethorpe/record_id/23863 )
+"Chatwin is portrayed in close-up, face-on, looking intensely into the camera. His head and shoulders fill the frame." Robert Mapplethorpe's portrait of Bruce Chatwin.
+
+http://worldaeropresschampionship.wordpress.com/recipes/ (http://worldaeropresschampionship.wordpress.com/recipes/ )
+Via Liz Conlan: 24 ways of using an Aeropress. To make coffee. Nice photos, too.
+
+http://skillsmatter.com/event/agile-testing/cukeup-2013 (http://skillsmatter.com/event/agile-testing/cukeup-2013 )
+"We are proud to present the third annual CukeUp!, poised to take place on April 4th at Skills Matter London. Under Cucumber creator Aslak Hellesøy's expert guidance, we're putting together a fast-paced day packed with 30-minute talks on the latest developments, ideas, and best practices in Cucumberworld!"
+
+http://www.fontlab.com/font-converter/scanfont/ (http://www.fontlab.com/font-converter/scanfont/ )
+"... bitmap image or outline illustration" -> "TrueType, Type 1 or OpenType font."
+
+http://www.fontlab.com/font-editor/typetool/ (http://www.fontlab.com/font-editor/typetool/ )
+"Value priced font editor for light users." Hmm.
+
+https://github.com/joeworkman/paperless (https://github.com/joeworkman/paperless )
+"A command-line utility for a Paperless that apply rules in order to auto-sort notes into supported services such as Finder, Evernote, DevonThink and PDFPen"
+
+http://www.robofab.org/ (http://www.robofab.org/ )
+"RoboFab is a Python library with objects that deal with data usually associated with fonts and type design. RoboFab has support for the UFO font format."
+
+http://en.wikipedia.org/wiki/Bitcoin#Satoshi_Nakamoto (http://en.wikipedia.org/wiki/Bitcoin#Satoshi_Nakamoto )
+"Satoshi Nakamoto was the pseudonymous person or group of people who designed and created the original bitcoin protocol and launched the bitcoin network. Beyond bitcoin, no other links to this identity have been found. His involvement in the original bitcoin protocol does not appear to extend past mid-2010." What? What?
+
+http://en.wikipedia.org/wiki/Panelák (http://en.wikipedia.org/wiki/Panelák )
+'The term "panelák" is used mainly for the elongate blocks with more sections with separate entrances – simple panel tower blocks are called "věžový dům" (tower house) or colloquially "věžák". The buildings remain a towering, highly visible reminder of the Communist era.'
+
+Even more tomorrow.
+
+============================================================
+Registered address: *|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

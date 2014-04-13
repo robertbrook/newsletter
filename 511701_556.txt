@@ -1,0 +1,53 @@
+556 - CAPPUCCINO - on the web (*|ARCHIVE|*)
+
+Good morning everyone.
+
+"Do not retweet me oh my darling ..."
+
+I'm so tired.
+
+http://www.nytimes.com/2014/03/08/opinion/londons-laundry-business.html
+Ben Judah: "Britain’s bright young things now become consultants, art dealers, private banker and hedge funders. Or, to put it another way, the oligarchs’ valets." #ouch
+
+Real things are best. In a way.
+
+I wonder how Fargo handles big OPML files.
+
+Who is "Dormat Hidatsa"? Have I got to the stage where I'm missing memes?
+
+http://docs.aws.amazon.com/AmazonSimpleDB/2009-04-15/DeveloperGuide/APIUsage.html
+The REST API for Amazon's SimpleDB.
+
+http://www.rethinkdb.com/docs/comparison-tables/
+A comparison between Rethink and Mongo.
+
+I don't like the way the lights flicker. It makes me nervous.
+
+All of these code things might give a reader the impression that I know about ... you know, computers and stuff. I don't really. I'm just interested in things. Lots of things.
+
+http://www.waterboards.ca.gov/water_issues/programs/tmdl/docs/303d_policydocs/207.pdf
+Turingismus, Banburismus, Scritchmus! - I. J. Good's "Weight of Evidence" paper: "Themis should be grateful to Zeus for giving us just ten fingers." H. Rubin: "If a hypothesis is broad enough, it can be true; if it is too specific, it must be false, but it may still be appropriate and reasonable to act as if it is true."
+
+https://github.com/Leonidas-from-XIV/node-xml2js
+"Ever had the urge to parse XML? And wanted to access the data in some sane, easy way? Don't want to compile a C parser, for whatever reason? Then xml2js is what you're looking for!"
+
+https://github.com/okfn/ckan.js
+"Javascript client library for CKAN with support for Node and the browser."
+
+I'm not sure how or indeed why I'm still awake.
+
+Terry-Thomas on his call-up: "I was with an ENSA party in Hereford when I received a cunningly worded, if not cordial, invitation to join the Army. I accepted with dignity, if not enthusiasm ... it would have seemed rather rude and ungrateful to refuse."
+
+That ITV report on Terry-Thomas suffering with Parkinson's remains remarkably upsetting.
+
+I'm going to make another coffee. Fancy one?
+
+http://blog.wolfram.com/2013/11/21/putting-the-wolfram-language-and-mathematica-on-every-raspberry-pi/
+"As a footnote to history, I might mention that the Raspberry Pi is only the second computer ever on which Mathematica has been bundled for free use ... The first was Steve Jobs’s NeXT computer in 1988."
+
+Have a lovely day today.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

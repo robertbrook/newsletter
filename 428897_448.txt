@@ -1,0 +1,62 @@
+448 - SEVEN
+
+On the web (*|ARCHIVE|*)  - Signup link (*|LIST:SUBSCRIBE|*)
+
+"Hello."
+
+https://www.youtube.com/html5
+"Many YouTube videos will play using HTML5 in supported browsers. You can request that the HTML5 player be used when possible."
+
+I had no idea wav files were so much bigger than mp3 files. I learned that the hard way. Anyway, some video today.
+
+http://fadingcity.com/suburbia/the-evening-cigarette
+You really should.
+
+Hm. No. Political.
+
+http://en.wikipedia.org/wiki/Monster_Munch
+"The original Monster Munch used two different snack shapes, related to two of the Monsters. The shape known as a 'monster paw' that is still used today has long been the subject of dispute over whether it represents a paw or, instead, the eye and lashes of a monster. The other represented the gangly, long-tongued pink monster: circular with two bumps on the top for eyes, protrusions on either side and a tongue dangling down." My son likes them. I don't indulge.
+
+"If you don't like the way we work here Robert, why not leave?" - hm. Good point.
+
+http://fadingcity.com/suburbia/sound
+This is not the sound of the suburbs ...
+
+http://fadingcity.com/suburbia/members-sound-of-the-suburbs
+... this is the sound of the suburbs ...
+
+http://fadingcity.com/suburbia/water-and-sound
+... and this is the shape of sound.
+
+http://fadingcity.com/suburbia/russell-brand-talks-about-transcendental-meditation
+We mentioned it, off-mic.
+
+"Punchy and musical."
+
+https://github.com/sofish/pen
+"enjoy live editing (+markdown)" - nice.
+
+http://www.antimonkeybutt.co.uk
+Safe for work.
+
+https://github.com/ariya/phantomjs/wiki/Page-Automation
+'Page automation' with phantom.js - "Since the script is executed as if it is running on a web browser, standard DOM scripting and CSS selectors work just fine."
+
+So terribly tired. Matcha, I think.
+
+http://www.ultratechnology.com/jefffox.htm
+"My favorite operation in mathematics has always been cancelation. I believe that an application of George Spencer Brown's 'Laws of Form' can provide an incredible shortcut to computation logic and synthetic intelligence in machines. I propose to the use of a system of logic where odd numbers are true and even numbers are false so common sense logical shortcuts can be easily computed and where paradoxical problems and those with extistential import can be easily handled."
+
+I should update my 'Thinkabout' application and write a little more about it. It rather clumsily assumes you have a particular file in a particular place, failing to cooperate any further if it didn't find it. I'll make sure it deals with that a bit more gracefully.
+
+
+
+
+
+
+
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

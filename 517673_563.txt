@@ -1,0 +1,65 @@
+563 - FROM ABOVE - on the web (*|ARCHIVE|*)
+http://fadingcity.com/try-doorbell/6-episode-six
+I'm sure Lloyd learned a great deal more from the Magic Roundabout than I did from Nationwide.
+
+"They've been busy sending emails for the last seven years and they haven't done anything." - Chris Dancy
+
+http://wetreesinart.tumblr.com/post/79667894732
+Beautiful - "Relief of an Acacia Tree Shading Water Jars with Drinking Cups"
+
+http://search.cpan.org/~gene/MIDI-Simple-Drummer-0.0601/lib/MIDI/Simple/Drummer/Jazz.pm
+"Jazz drum grooves" in Perl. #algorithmic
+
+http://area51.stackexchange.com/proposals/66212/narnia
+"Narnia has a lot of confusion to it and has a lot of unanswered questions that many people want answered." #narniaquestions
+
+I think he means "digital effluvia".
+
+http://search.cpan.org/~yanick/Dancer-Template-Handlebars-0.1.0/lib/Dancer/Template/Handlebars.pm
+Using handlebars.js in Dancer. I keep seeing this.
+
+http://tommorris.org/posts/8848
+"Perhaps we need a militant pedestrian movement in London, just as there are militant cyclists."
+
+Speed-reading? No thanks.
+
+http://racket-lang.org/
+Racket's new home page looks a bit better than the old one, I suppose.
+
+http://red-lipstick.tumblr.com/post/79511203860
+Medieval laser-pointer tomfoolery gif.
+
+http://www.spectator.co.uk/books/9155961/i-know-nothing-by-andrew-sachs-review/
+A strangely defensive tone in this review from Roger Lewis, burying some meaning, I expect. Anyway. "What happens with comedy, over time, is that it becomes tragedy - and to see the show now, what’s affecting is Basil and Sybil’s terrible marriage and Manuel’s Sancho Panza-like devotion to Cleese’s mad Quixote."
+
+http://screenshotsofdespair.tumblr.com/
+Thanks, Lloyd.
+
+http://search.cpan.org/~sharyanto/App-nauniq-0.01/bin/nauniq
+"nauniq is similar to the Unix command uniq but detects repeated lines even if they are not adjacent." I have a use for this.
+
+http://www.mediawiki.org
+MediaWiki would be great, but I'm looking for some much simpler method. Like rendering text files from Dropbox with very minimal effort ...
+
+http://mimosa.io/started.html
+... perhaps Mimosa, or ...
+
+http://livereload.com
+... just LiveReload? I should just go Full Turnbull. That's probably best.
+
+http://archaicwonder.tumblr.com/post/79598859083
+The bell of St. Patrick: "When he was about 16, he was captured from his home in Great Britain, and taken as a slave to Ireland, where he lived for six years before escaping and returning to his family."
+
+http://www.marco.org/2014/03/14/ending-sponsorships
+Marco Arment folds on sponsors: "The cost of saving my sponsorships is too high for my tolerance and the nature of this site, so I’ve decided to stop selling them."
+
+"No spoilers".
+
+Onwards.
+
+============================================================
+
+*|LIST:ADDRESS|*
+
+
+** Unsubscribe (*|UNSUB|*)

@@ -1,0 +1,59 @@
+"Yes. The words make sense."
+
+http://www.haskell.org/tutorial/functions.html (http://www.haskell.org/tutorial/functions.html )
+"Since Haskell is a functional language, one would expect functions to play a major role, and indeed they do."
+
+Stuck in another corner.
+
+http://queue.acm.org/detail.cfm?id=1039523 (http://queue.acm.org/detail.cfm?id=1039523 )
+Alan Kay, 2004: "Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves."
+
+Twitter still sends me email. "See what you're missing in the UK!"
+
+http://library.readscheme.org/page1.html (http://library.readscheme.org/page1.html )
+"The Original 'Lambda Papers' by Guy Steele and Gerald Sussman"
+
+I have email to send. At least, no email still unread.
+
+http://blog.reddit.com/search/label/constantinople (http://blog.reddit.com/search/label/constantinople )
+Constantinople?
+
+I am losing weight. I'm still on the right side of 60 kg, though.
+
+http://www.ineedcoffee.com/10/brave-new-world/ (http://www.ineedcoffee.com/10/brave-new-world/ )
+Alex Scofield: "Taking caffeine solution, perhaps with crumpets, is still a mark of polite society."
+
+The Moore sculpture outside the office has been cleaned up. It looks nice.
+
+http://bookshelfjs.org (http://bookshelfjs.org )
+"a promise based ORM for Node.js, built on Knex query builder." I can't scroll the navbar on the left in Safari, then.
+
+Half-way through. Onwards.
+
+http://fadingcity.com/posts/six-statues-of-bela-bartok (http://fadingcity.com/posts/six-statues-of-bela-bartok )
+By now I will have finished this: "Six Statues of Bela Bartok".
+
+I have been reduced to writing out this code on A4 in order to get my head around it.
+
+http://www.museumoflondon.org.uk/Docklands/Whats-on/Exhibitions-Displays/Estuary.htm (http://www.museumoflondon.org.uk/Docklands/Whats-on/Exhibitions-Displays/Estuary.htm )
+"Estuary brings together the work of 12 artists who have been inspired by the outer limits of the Thames where the river becomes the sea."
+
+Hearing someone use those words as if they really meant something - and as if they really believed them - is most upsetting.
+
+http://i-donline.com/2012/11/pete-polanyk-sue-nolan/ (http://i-donline.com/2012/11/pete-polanyk-sue-nolan/ )
+A simply wonderful page featuring a friend from a long time ago: Pete Polanyk - and his partner Sue Nolan. I was at the London College of Printing with Pete and he was a simply delightful gentleman. I fondly remember his DJ nights, back when I did that sort of thing. A lovely memory!
+
+Here, it never really gets dark, or becomes silent. Despite the rain and the streetlamps, the birds think it must still be day. Opening the door onto the streets: perhaps it is early morning, when it's really late at night.
+
+http://lucy.apache.org (http://lucy.apache.org )
+A C port of Lucene, the search engine library.
+
+A glass of tea. I hope I'm not too late.
+
+http://www.paulgraham.com/identity.html (http://www.paulgraham.com/identity.html )
+"I think what religion and politics have in common is that they become part of people's identity, and people can never have a fruitful argument about something that's part of their identity. By definition they're partisan." I disagree with Paul here, about what a 'fruitful argument' might be.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

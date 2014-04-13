@@ -1,0 +1,46 @@
+497 - UBERGE - on the web (*|ARCHIVE|*)
+
+Morning all.
+
+Yes, I do know it's auberge.
+
+http://fadingcity.com/posts/what-this-is
+In which I try to write about how I'm not trying to write better and why and stuff.
+
+https://github.com/pauldix/feedzirra
+"A feed fetching and parsing library" - still going strong. "This thing needs to hammer on many different feeds in the wild. I'm sure there will be bugs. I want to find them and crush them."
+
+http://nanoc.ws/docs/tutorial/
+A static site generator in Ruby, looks simpler than Jekyll.
+
+https://www.ruby-lang.org
+It didn't always look like this.
+
+http://stackoverflow.com/questions/6802410/warning-nokogiri-was-built-against-libxml-version-2-7-8-but-has-dynamically-lo
+Nokogiri is 'opinionated software'.
+
+http://www.autoexpress.co.uk/nissan/nv200/85065/new-black-cab-revealed-nissans-nv200-london-taxi
+After those New Bus for Londons, a New Taxi for London. We can do better than this, can't we? Why all the wallowing in nostalgia? Surely there are some contemporary designs that don't have to be populist to be popular ...
+
+http://www.nissan-global.com/EN/HERITAGE/Pao.html
+... I still like the Nissan Pao. I still can't drive. I don't expect I ever will.
+
+I'm still planning on retiring the newsletter and the weekly post at the start of May this year: that's still about 112 newsletter and 16 weekly posts. You can unsubscribe now, if you'd like.
+
+http://www.theguardian.com/world/2013/oct/20/young-people-japan-stopped-having-sex
+Abigail Haworth: "The lead character in Otomen ('Girly Men') was a tall martial arts champion, the king of tough-guy cool. Secretly, he loved baking cakes, collecting 'pink sparkly things' and knitting clothes for his stuffed animals." An admittedly light clip from a heavier Observer article.
+
+I mean, what am I going to write about for 16 weeks?
+
+http://pingmag.jp/2013/08/30/hobonichi-planner/
+Shigesato Itoi: "You can have a long meeting about how to swim in the sea, but that’s not going to teach you to swim, right? It’s the same with a diet, or exercise. You don’t get it at the beginning. You don’t have any muscle. You’ve got a paunch. But then one day you notice the change."
+
+http://www.ncbi.nlm.nih.gov/pubmed/2933538
+"Cardiac allotransplantation and selective baboon-to-human xenotransplantation deserve further exploration as investigational therapy for neonatal [hypoplastic left heart syndrome]." So, that's a baboon's heart used to keep a human alive for twenty days, 1985.
+
+Have fun.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

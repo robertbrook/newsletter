@@ -1,0 +1,43 @@
+What day is this?
+
+http://sporto.github.io/blog/2013/04/12/comparison-angular-backbone-can-ember/ (http://sporto.github.io/blog/2013/04/12/comparison-angular-backbone-can-ember/ )
+Sebastian Porto: "A Comparison of Angular, Backbone, CanJS and Ember" - he ends up not nodding towards Backbone, but not saying quite what he would nod at ...
+
+http://canjs.com (http://canjs.com )
+... here's can.js: "Smaller, Faster, Safer, Easier, Library-er"
+
+If you're on an Apple machine, your default choices for text editing are TextEdit, Pages and XCode. That matches the markets for a basic text editor, a Word replacement and a developer's editor. I still think there's a Claris-shaped gap. Sort of.
+
+http://patter.me.uk/content/tsr2-FI63 (http://patter.me.uk/content/tsr2-FI63 )
+I love the look of the BAC TSR-2. Yes, I do realise it's a machine designed to kill people and blow stuff up. But I do still think it looks remarkable. This is from 'Flight International' magazine, October 1963: "Application of a Pentagon style cost/effectiveness study to TSR.2 and all available alternatives drives home the fact that this all-British aircraft is one item of equipment we cannot afford not to have." It was cancelled.
+
+Checking out state machines in Ruby. Feels like overkill. It's probably overkill. Okay then, I won't.
+
+http://classifx.com/post/48141764444/euro-millions-programs (http://classifx.com/post/48141764444/euro-millions-programs )
+It's traditional when introducing programming languages to show how you'd print out "Hello World". Traditional, perhaps, but not particularly revealing. Emídio Cunha suggests a great new 'first demo': a script to pull some random numbers from a web service and manipulate them. Much better.
+
+Javascript just won't slow down.
+
+http://programming.oreilly.com/2013/04/velocity-report-building-a-devops-culture.html (http://programming.oreilly.com/2013/04/velocity-report-building-a-devops-culture.html )
+Mandi Walls on 'Building a DevOps Culture': "We are required in most cases to rewrite much of our current playbook for managing large technical organizations."
+
+I've shifted away from RSS completely now. I feel a bit sad about it, for some reason.
+
+http://tosbourn.com/2013/04/development/stack-exchange-is-winning-the-internet-and-this-is-not-a-good-thing/ (http://tosbourn.com/2013/04/development/stack-exchange-is-winning-the-internet-and-this-is-not-a-good-thing/ )
+Tony Osbourn on Stack Overflow "winning the internet": "This extremely efficient mechanism for finding out the exact answer to your question is creating a generation of very efficient, but perhaps not entirely well rounded developers who can churn out code very quickly but perhaps don’t understand the code as well as they should." Joel Spolsky's response, on Twitter: "devs page-fault in the minimum knowledge to get the job done". True.
+
+I should write happier stuff.
+
+I'm enjoying HasBean coffee recently. Thanks Liz!
+
+============================================================
+*|LIST:ADDRESS|*
+
+Thanks to Dave Briggs at  and Giles Turnbull at
+
+Every Friday: Roo's Letter
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** http://gilest.org (http://gilest.org)
+** http://tinyletter.com/rooreynolds (http://tinyletter.com/rooreynolds)
+** Unsubscribe (*|UNSUB|*)

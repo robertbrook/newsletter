@@ -1,0 +1,46 @@
+Good morning.
+
+https://medium.com/design-ux/2a6c6f07be1b
+Adam Epstein: "iOS7 is undoubtedly a massive step forward, but given the backlash from the design community, it’s glaringly evident that the new operating system is not without fault." ...
+
+http://jonyiveredesignsthings.tumblr.com
+... oh dear ...
+
+http://madeforios7.tumblr.com
+... I'm really not sure ...
+
+https://tapfame.com/ios7/
+... I'm ready for this.
+
+http://www.waitbutwhy.com/2013/08/putting-time-in-perspective.html
+"Confusing" #rainbow
+
+http://trac.clozure.com/ccl/wiki/CocoaBridge
+"OpenMCL has a very powerful interface to the world of libraries and components that exist outside of the Lisp image. Foremost among these is the Cocoa Bridge, a binding layer to the Mac OS X user interface."
+
+http://www.bofh.org.uk/pages/about
+Piers Cawley: "I’ve been a Perl programmer for over 10 years, and have written the Perl 6 Summaries for the last 3. More recently I’ve been getting into Ruby; I’m not sure I’ll stay here once Perl 6 finally makes it into the world, but I’m liking it a lot for right now." That's what happened to me: I shifted from Perl to Ruby.
+
+http://www.ft.com/cms/s/2/5837c954-1a8a-11e3-93e8-00144feab7de.html
+My goodness, what an URL. Tim Harford's 'Ten email commandments', via Gary of Hackney Tools. "You do not need to waste time with elaborate folder systems. Forget about them." ... "Facebook is intolerable; even if there were no concerns about privacy and advertising, it would still be intolerable: the site is a clunky, capricious mess." I have some writing to do.
+
+https://deadmanssnitch.com
+Sounds horrible. "Dead Man's Snitch monitors your periodic processes and notifies you when something doesn't happen."
+
+http://www.dirvish.org
+"With dirvish you can maintain a set of complete images of your filesystems with unattended creation and expiration. A dirvish backup vault is like a time machine for your data."
+
+https://github.com/piokuc/pywat
+"Interpreter of the Wat language written in Python"
+
+http://www.aaai.org/ojs/index.php/aimagazine/article/viewFile/1351/1251/
+Ernesto M. Morgado and João P. Martins: "Because human planners can build acceptable schedules where algorithmic solutions clearly fail, we took the challenge of using AI techniques as an alternative to traditional computer technology."
+
+http://axisofeval.blogspot.co.uk/2010/04/why-i-ignore-clojure.html
+Manuel Simoni: "If you have some great new idea for PLs, you can be quite certain that Lispers heading an Ivy League university's CS dept have already tried it out, decades ago. And if it isn't in today's Lisps, it's because it didn't work."
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

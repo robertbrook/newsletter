@@ -1,0 +1,48 @@
+446 - DIAMONDS
+
+On the web (*|ARCHIVE|*)
+
+Morning folks.
+
+Sorely tempted to going back to text files for everything. Perhaps no mobile computing next year. I'm getting a bit put out by having to carry what amounts to an Apple device, or a Google device, or a Windows device. What about a me device?
+
+I have a terrible pile of mail to get through. Excuse me one moment.
+
+http://fadingcity.com/suburbia/thinkabout
+If you downloaded my little application called 'Thinkabout', I'm sorry about the error message. I'm not sure how to fix it, but I am trying to. I think it has something to do with the file path. It assumes that you want to read a text file at "/Users/USERNAME/Dropbox/Documents/thinkabout.txt" - could you try running it again after checking that path?
+
+http://www.reddit.com/r/short/
+I am laughing, a bit. About a thing, in a place. I was told that someone had a theory to explain my actions, generally, that I had a 'Napoleon Complex': "an alleged type of psychological phenomenon which is said to exist in persons, usually men, of short stature. It is characterized by overly-aggressive or domineering social behaviour, and carries the implication that such behaviour is compensatory for the subjects' stature." [Thanks Wikipedia] I'd never really thought about it. I mean, I'm quite aware I'm shorter than most people my age, but it had never occurred to me that I might be one of those "driven by a perceived handicap to overcompensate in other aspects of their lives."
+
+More Forth now.
+
+http://wiki.forthfreak.net/plugin/attachments/ForthSystems/perlforth
+Forth, written in Perl ...
+
+http://wiki.forthfreak.net/plugin/attachments/ForthSystems/bashforth
+... and in bash ...
+
+http://ppcforth.sourceforge.net
+... "PPCForth is also rather small, weighing in at under 30K of code for everything, and under 10K for a bare-bones bootloader." ...
+
+http://www.forth.org/compilers.html
+... non-commercial Forth compilers ...
+
+http://concatenative.org/wiki/view/Forth
+... a few more up-to-date links at concatenative.org: a very enjoyable site, too ...
+
+http://www.c2.com/cgi/wiki?ForthLanguage
+... but this is the most comprehensive link-dump, on the original wiki. "Please, please - some Forth addict clean up this page, eh? There are dead links and links to more dead links. Let's not let Wiki devolve into a repository of useless clutter, shall we?"
+
+http://factorcode.org
+Factor isn't a 'modern Forth', but a fascinating new concatenative language ...
+
+http://planet.factorcode.org
+... you should check out the Factor Planet aggregator.
+
+That's it with the Forth.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

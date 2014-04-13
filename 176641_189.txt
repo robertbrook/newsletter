@@ -1,0 +1,57 @@
+Someone is talking about "the AV man". The term AV makes me uncomfortable.
+
+After scuttling around the web yet again looking for a way to get user-entered text into Automator, I discover that Automator has an "ask for text" action. Wonderful!
+
+At least objectivism isn't corporatism.
+
+Presumably for my own physical safety, the works canteen only issues plastic spoons. So here I am, sitting with a rice pudding and eating it like some kind of animal. I may bring my own spoon in from now on.
+
+http://www.albamclothing.com/category/1419/publications.asp (http://www.albamclothing.com/category/1419/publications.asp )
+Print's not dead. It just went up-market. Check out this selection of shiny editions stocked by Albam.
+
+http://www.tumblr.com/docs/en/custom_domains (http://www.tumblr.com/docs/en/custom_domains )
+I'm setting up a group Tumblr blog for anything but text. If you fancy joining in, drop me a line. And, of course, it'll need a domain name.
+
+http://www.foldingtext.com/ (http://www.foldingtext.com/ )
+Still getting my head round FoldingText, a text editor for the Mac. It seem to have embedded modes - and extensions are in JavaScript. Needs more playing with.
+
+http://ptgmedia.pearsoncmg.com/imprint_downloads/informit/chap2_0672324725.pdf (http://ptgmedia.pearsoncmg.com/imprint_downloads/informit/chap2_0672324725.pdf )
+I've stopped reading about Model 2.
+
+http://news.ycombinator.com/item?id=5333559 (http://news.ycombinator.com/item?id=5333559 )
+Unsurprisingly florid discussion of how confusing, or not, Ember.js is. Or isn't.
+
+http://www.jus.uit.no/ansatte/somby/juigosatENG.html (http://www.jus.uit.no/ansatte/somby/juigosatENG.html )
+"Finally Some yoiks." Finally. Some yoiks.
+
+http://lisp-univ-etc.blogspot.co.uk/2013/03/lisp-hackers-vladimir-sedach.html (http://lisp-univ-etc.blogspot.co.uk/2013/03/lisp-hackers-vladimir-sedach.html )
+"Most computer programmers tend to make technical decisions based on cliches they read about on the Internet, and unfortunately I don't know the cure for being dumb." Unsmiling headshot. "I tend to design software systems in advance only at the level of the domain. I find that programmers who try to come up with APIs or draw class diagrams ahead of starting to code tend to write very poor code."
+
+Liz Conlan suggests another reason that Apple might not have such an interest in Mail and the Address Book as they have previously: that there are simply more exciting things to do. Shinier problems to solve. Solving hard complicated problems doesn't get you a snazzy page on the Apple website. Remember how Apple billed the BSD underpinnings of earlier releases of the OS? "Oh yes and UNIX."
+
+http://shop.oreilly.com/product/9780596529321.do (http://shop.oreilly.com/product/9780596529321.do )
+Libby Miller points me to Toby Segaran's "Programming Collective Intelligence". Some pretty impressive Amazon reviews, too.
+
+http://www.reddit.com/r/AskReddit/comments/19u7wm/if_you_could_end_anyones_career_with_the_snap_of/ (http://www.reddit.com/r/AskReddit/comments/19u7wm/if_you_could_end_anyones_career_with_the_snap_of/ )
+Career. "Career". Do people still have those?
+
+Very odd day yesterday. Started positive, went downhill late afternoon, evening difficult.
+
+"Avoid the lemons."
+
+https://agilebits.com/onepassword (https://agilebits.com/onepassword )
+I discovered something in 1Password recently: I can import whole lists of saved data. Very clever. Despite some odd UI choices, I certainly recommend 1Password.
+
+"Don't touch the lemons."
+
+You'd just end up fretting about everything eventually, wouldn't you.
+
+Have a great day.
+
+============================================================
+
+*|LIST:ADDRESS|*
+*|LIST:ADDRESS|*
+
+** BACK ISSUES (*|ARCHIVE|*)
+** UNSUBSCRIBE (*|UNSUB|*)

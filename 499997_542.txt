@@ -1,0 +1,47 @@
+542 - FUZZY BEE - on the web (*|ARCHIVE|*)
+
+Today's photo is a bit fuzzy, but I like the sunflower yellow.
+
+http://bpodgursky.com/2013/08/21/average-income-per-programming-language/
+"Haskell is a very academic language, and academia is not known for generous salaries" ... "On the high end of the spectrum, Java and ActionScript are used heavily in enterprise software, and enterprise software is certainly known to pay well".
+
+I had an idea for learning Racket. I could look at the source code for Perl modules on CPAN and try to write equivalents in Racket. Perl's "Test::More" makes for reasonably easy to understand test cases, which I could try to match ...
+
+http://cpansearch.perl.org/src/BENNING/String-ShortenHostname-0.003/t/basic.t
+... here's an example. A set of tests for a Perl module that shortens long host names. I have the code, I have the tests - very useful. I suppose I really should be using this to learn Clojure rather than Racket, but I like being in the Racket shipped IDE so much I'm staying there for a while.
+
+http://www.reddit.com/r/hackernews
+Recursion.
+
+http://blog.plover.com/tech/prudential.html
+Mark Dominus: "I quoted a flat fee for the job, assuming that it would be straightforward and that I had a good idea of what was required. But I hadn't counted on bureaucratic pettifoggery and the need for every layer of the management hierarchy to stir the soup a little."
+
+https://news.ycombinator.com/item?id=7277797
+"Why isn't Erlang more popular?"
+
+http://www.reddit.com/r/explainlikeimfive/comments/1p4eho/eli5_whats_the_point_of_http_and_www_if_i_can_go/
+"So, this thread, like a lot of ELI5 threads is filled with half-correct misinformation."
+
+http://robots.thoughtbot.com/how-to-extract-an-intention-revealing-name-using-vim
+Joe Ferris: on replacing 'magic number' variables with named ones, using Vim ...
+
+http://www.hezmatt.org/~mpalmer/images/vim-outliner_cheatsheet.pdf
+... a simple PDF summary of Vim outliner commands.
+
+http://en.wikipedia.org/wiki/Outline_of_society
+"The following outline is provided as an overview of and topical guide to society ..."
+
+http://www.corrspt.com/blog/2014/01/18/tale-vps-hacked/
+Pedro Rio: "My VPS was being used to mine bitcoins, I believe. If you never heard of bitcoins, check Wikipedia."
+
+I'm censoring about three posts a day.
+
+http://www.reddit.com/r/askscience/comments/1xx3ar/does_the_brain_react_differently_to_text_read_on/
+"The findings were that comprehension was more or less the same across e-readers ..., tablets ..., and paper. They did find, however, that participants were consistently reading paper documents slightly, but measurably, faster than the tablet or e-reader ..."
+
+Have fun today.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

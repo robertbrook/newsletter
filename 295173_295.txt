@@ -1,0 +1,39 @@
+Good morning.
+
+http://mherman.org/blog/2013/06/08/designing-with-class-sinatra-plus-postgresql-plus-heroku/ (http://mherman.org/blog/2013/06/08/designing-with-class-sinatra-plus-postgresql-plus-heroku/ )
+A nice guide to Sinatra with Postgres on Heroku, with code runthroughs. Michael Herman recommends: "Start with a basic dynamic website, backed with SQLite. Create and manage your database tables with raw SQL." I'm not convinced that the raw SQL is actually something you'd absolutely need to know.
+
+I think it's time for a cup of tea. My keyboard has told me as much.
+
+http://www.guardian.co.uk/film/video/2009/mar/30/armando-iannucci-in-the-loop-trailer (http://www.guardian.co.uk/film/video/2009/mar/30/armando-iannucci-in-the-loop-trailer )
+I've not seen 'The Sopranos', but I did really like 'In The Loop'. Gandolfini was great in that.
+
+And now I'm listening to The Smiths again. I'm not sure if they're in fashion or not at the moment - and frankly I don't really care. I don't like everything they did, but the good stuff was very good. I think.
+
+http://www.guardian.co.uk/lifeandstyle/2013/jun/19/tokyo-traditional-diet (http://www.guardian.co.uk/lifeandstyle/2013/jun/19/tokyo-traditional-diet )
+Breakfast: "Boiled white rice mixed with raw egg; bread roll; green tea." Lunch: "Small bowl of rice; nimono vegetables (potato, daikon radish, carrots, taro root); thinly sliced stir-fried pork and bean sprouts; miso soup; green tea." Dinner: "Sushi ... green tea." So - lots of green tea, no coffee and no sugar.
+
+Knee complaining. Slowing down.
+
+http://www2.aia.pref.aichi.jp/voice/no7/kitchen1.html (http://www2.aia.pref.aichi.jp/voice/no7/kitchen1.html )
+'Jo namagashi' - "The delicate glutinosity and understated sweetness go well with the astringent taste of green tea." #DelicateGlutinosity
+
+The email is piling up again. Lots of replies due. Later today, will have to do. I'm sorry if you've had a long wait. I'm not very focused.
+
+http://www.japancentre.com/recipes/japanese-summer-sandwiches (http://www.japancentre.com/recipes/japanese-summer-sandwiches )
+"Sandwiches. Admittedly, not the most Japanese of meals."
+
+"Three minutes' thought would suffice to find this out; but thought is irksome and three minutes is a long time." A. E. Houseman
+
+http://www.npr.org/blogs/money/2013/06/11/190668206/how-a-used-bottle-becomes-a-new-bottle-in-6-gifs (http://www.npr.org/blogs/money/2013/06/11/190668206/how-a-used-bottle-becomes-a-new-bottle-in-6-gifs )
+This is great. Glass recycling, in six GIFs. Gets around that internet video format nonsense.
+
+"The gaudy, blabbing, and remorseful day / Is crept into the bosom of the sea." Shakespeare
+
+http://fadingcity.com/posts/the-corpse (http://fadingcity.com/posts/the-corpse )
+I wrote this about organisational culture. I don't know very much, for sure, but I think and have opinions so that will have to do for now. If I stuck to "write what you know" it would be a short, dull exercise.
+
+*|LIST:ADDRESS|*
+Unsubscribe (*|UNSUB|*)
+
+============================================================

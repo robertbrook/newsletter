@@ -1,0 +1,46 @@
+https://itunes.apple.com/gb/app/tweetbot-for-twitter/id557168941 (https://itunes.apple.com/gb/app/tweetbot-for-twitter/id557168941 )
+Tweetbot on the Mac is £13.99? Someone's making money.
+
+The thing I liked about Windows Phone, or Metro, or whatever it's called, is being picked up in the design on iOS 7. So I'm happy about that. I like it. Cleaner, clearer, yes please.
+
+https://gist.github.com/hendrikswan/1503366 (https://gist.github.com/hendrikswan/1503366 )
+A simple Sinatra app with Mongodb. It just serves JSON. Nice.
+
+"I hate ingratitude more in a man / Than lying, vainness, babbling, drunkenness, / Or any taint of vice whose strong corruption / Inhabits our frail blood." Viola, in Shakespeare's Twelfth Night. Thank Mum.
+
+http://daringfireball.net/members/info (http://daringfireball.net/members/info )
+Thanks to Jeremy Gould for reminding me of something I really should have known: Daring Fireball membership includes "separate full-content RSS feeds for articles and the Linked List". The Linked List is available on the web if you're not a member, but it makes my Scraperwiki hack look a bit nasty.
+
+I think I might have listened to a bit too much Sherlock Holmes this month.
+
+http://fadingcity.com/posts/software (http://fadingcity.com/posts/software )
+I wrote something about software. I don't drink.
+
+Today I shall go to Brighton. What must I do?
+
+http://planet.factorcode.org (http://planet.factorcode.org )
+An aggregator for blogs on the concatenative language Factor. I should really put these things in Devonthink and do it all properly.
+
+Where's Dashcode gone? The documents are still in XCode, but it seems to refer to stuff which simply isn't there any more.
+
+http://www.economist.com/blogs/blighty/2013/06/bbcs-hi-tech-failure (http://www.economist.com/blogs/blighty/2013/06/bbcs-hi-tech-failure )
+One "A. McE" write in the Economist: "The larger the IT project, the greater the potential for pratfalls. The lesson is learned painfully by many managers, though not often as publicly as the BBC ..."
+
+I've been listening to a podcast on circulation of the foetus. Fascinating, but I don't think I've the strength for it. Too much grisly detail. I'm rather squeamish.
+
+http://www.lightning422supporters.co.uk (http://www.lightning422supporters.co.uk )
+Restoration of English Electric Lightning XS422. It's a jet aircraft.
+
+Despite being English, I fret about the weather much less that anyone might reasonably expect. But still, the weather.
+
+https://www.lib.umn.edu/pdf/holmes/victorianguidefinalcompressed.pdf (https://www.lib.umn.edu/pdf/holmes/victorianguidefinalcompressed.pdf )
+'Victorian Secrets and Edwardian Enigmas', from the University of Minnesota, including a series of supposed floor-plans for the rooms in 221b Baker Street. Which, you know, don't actually exist.
+
+Tomorrow morning I shall be at Foyles cafe again. I shall try not to buy any books. That's not always gone well in the past.
+
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

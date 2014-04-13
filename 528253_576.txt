@@ -1,0 +1,53 @@
+Vol. 2, No. 576. "TD".
+No more lazy samples! We're better than this!
+
+https://trello.com/docs/gettingstarted/clientjs.html
+Trello has a Javascript client API you can stick straight into a page. Clever.
+
+"I can't control my gender."
+
+http://devdocs.io
+A sort of on-web Dash.
+
+So often, artist in their self-portraits looks slightly surprised. I wonder why that is.
+
+http://en.wikipedia.org/wiki/Etti_Plesch
+"... Marie-Anna Berta Felicie Johanna Ghislaine Theodora Huberta Georgina Helene Genoveva ... known as 'Bunny"." Anyway, Bunny's mother, Maria Anna Paula Ferdinandine Gräfin von Wurmbrand-Stuppach, married for the ninth and last time to Árpád Plesch: "un financier international, ... et propriétaire d'une célèbre collection de livres rares de botanique et de dessins précieux de pornographie ésotérique." ... "After her husband's death in 1974, she took up partying and writing her memoirs, which were almost completed at the time of her death ... published posthumously in 2007 as 'Horses and Husbands'."
+
+The wonderful light in London. Beautiful.
+
+http://git-scm.com/docs/git-check-ignore.html
+I use the most basic and crude git workflow. 'git check-ignore' is great for checking my sometimes scratchy .gitignore files.
+
+Hm. No, I'm not posting that. Poor taste.
+
+http://blog.docker.io/2014/03/docker-will-be-in-openstack-icehouse/
+"The preferred mechanism orchestrating Docker in OpenStack is via Heat, rather than treating Docker as a form of hypervisor in OpenStack Nova." I need to find out more about OpenStack ...
+
+http://www.meetup.com/London-PaaS-User-Group-LOPUG/events/169549292/
+... next Thursday Colin Humphreys will be talking about "Project Decker: Cloud Foundry with Docker".
+
+IP-enabled light-bulbs? I just don't get it. What am I missing?
+
+At the least I can have a sit down. I have volunteered for the corner, which they seem relieved at. On the screen, as fuzzed as VHS, ballet.
+
+Can I really not copy text from the iOS Kindle app? What sort of a world are we living in?
+
+If someone running a company says that their first duty is to "maximise shareholder value", doesn't that mean they wake up every morning thinking "How can I make a large group of people I've never met richer?" #charity
+
+I have changed all the typography settings in Vesper from "designer in his early thirties" to "geezer in his early forties".
+
+"It's essential that you don't rent your friends from Facebook." - Seth Godin
+
+Little badges, signs, a box of gold.
+
+"We're a bank. Of course we have no money."
+
+Onwards.
+
+============================================================
+
+*|LIST:ADDRESS|*
+
+
+** Unsubscribe (*|UNSUB|*)

@@ -1,0 +1,58 @@
+A newsletter from Robert Brook
+------------------------------------------------------------
+*|ARCHIVE|*
+
+
+**
+------------------------------------------------------------
+http://www.guardian.co.uk/music/2013/jan/20/observer-profile-tracey-thorn-memoir (http://www.guardian.co.uk/music/2013/jan/20/observer-profile-tracey-thorn-memoir )
+A&R man Mike Alway on Tracey Thorn: "... hearing her voice was a bit like going out to Hackney Marshes to watch some weekend footballers and then suddenly realising you are watching Pele play."
+
+http://research.swtch.com/acme (http://research.swtch.com/acme )
+"People I work with recognize my computer easily: it's the one with nothing but yellow windows and blue bars on the screen." ...
+
+http://doc.cat-v.org/plan_9/1st_edition/help/help.pdf (http://doc.cat-v.org/plan_9/1st_edition/help/help.pdf )
+... "A Minimalist Global User Interface", called - unhelpfully, perhaps - 'Help'. Another Rob Pike joint. [PDF]
+
+http://reclinejs.com (http://reclinejs.com )
+"A simple but powerful library for building data applications in pure Javascript and HTML." Hm. Maybe I could point this at ScraperWiki datasources.
+
+http://philsturgeon.co.uk/blog/2013/01/php-6-pissing-in-the-wind (http://philsturgeon.co.uk/blog/2013/01/php-6-pissing-in-the-wind )
+A bit like Perl 5 to 6, PHP 5 to 6 is an interesting tussle. Some want it to be an extension or a progression, other want it to be a solution. "Making changes to this language should not be blocked just because a quiet minority of the core team don't like the idea of being asked to do stuff." - a rather harsh interpretation, I think. But it might be the case ...
+
+http://smartwebdeveloper.com/php/php-6-features-release-date-hosting-download (http://smartwebdeveloper.com/php/php-6-features-release-date-hosting-download )
+... even though all that exists so far of PHP6 is ...
+
+https://wiki.php.net/todo/php60 (https://wiki.php.net/todo/php60 )
+... a TODO list. Got to start somewhere. Personally, I'd like to write a language on top of PLT Scheme. I mean Racket.
+
+http://musicbrainz.org/doc/Development/XML_Web_Service/Version_2 (http://musicbrainz.org/doc/Development/XML_Web_Service/Version_2 )
+I'm trying to work out how to write an Automator script to identify MP3s. I think this might b ethe beginning of it, though fiddling with XML in Applescript has always been painful ...
+
+https://github.com/alastair/python-musicbrainz-ngs (https://github.com/alastair/python-musicbrainz-ngs )
+... perhaps just a wrapper around an existing Python library would be less painful.
+
+http://www.historytoday.com/george-t-beech/king-egbert-and-naming-england (http://www.historytoday.com/george-t-beech/king-egbert-and-naming-england )
+England, an older name that at first though, possibly.
+
+http://threads2.scripting.com/2013/january/whatOtherSoftwareWasInfluential (http://threads2.scripting.com/2013/january/whatOtherSoftwareWasInfluential )
+Dave Winer: "Every 'invention' is more of a synthesis of ideas that were floating around. This is the brilliance that makes change possible. If we had our priorities straight we wouldn't honor the lone inventor ... rather we'd celebrate the synthesizer ... Perhaps we're ready to give up the mythology of tech innovation, and start studying how forward motion really happens."
+
+http://www.bbc.co.uk/programmes/b00clr93 (http://www.bbc.co.uk/programmes/b00clr93 )
+David Nobbs reads his autobiography on BBC Radio 4 Extra.
+
+http://www.bbc.co.uk/ariel/21082883 (http://www.bbc.co.uk/ariel/21082883 )
+The background to the Desert Island Discs issue with Aung San Suu Kyi.
+
+http://gigaom.com/2013/01/26/the-delusions-that-companies-have-about-the-cloud/ (http://gigaom.com/2013/01/26/the-delusions-that-companies-have-about-the-cloud/ )
+Dave Girouard on 'The delusions that companies have about the cloud': "If you care about the reliability, security, and the protection of your data, then you should entrust it to those who are most capable of managing it. If you believe you can match the capabilities and rigor of Google’s Security Operations team, I wish you well."
+
+A long day of walks and sawing up logs. Shattered.
+
+============================================================
+-
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:ADDRESS|* *|END:IF|*
+
+** Unsubscribe (*|UNSUB|*)
+** Y (*|UPDATE_PROFILE|*)
+** our profile (*|UPDATE_PROFILE|*)

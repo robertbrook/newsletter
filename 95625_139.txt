@@ -1,0 +1,38 @@
+A newsletter from Robert Brook
+------------------------------------------------------------
+*|ARCHIVE|*
+
+
+**
+------------------------------------------------------------
+
+Where were we? Oh yes. Newsletter 139 - at least, I think it was 139. I'm afraid the first few are likely to be a bit bumpy, just while I get used to it all over again. I've moved to HTML mails with a generated plain-text version, so goodness knows what it looks like on your screen. Complaints to the usual address, please.
+
+http://www-history.mcs.st-and.ac.uk/Biographies/Wylie.html
+A biography of Shaun Wylie, who died only in October 2009. He studied topology in Princeton, whihc I believe is in America. On his return to England, a friend wrote that "Shaun was one of the nicest fellows I've ever known. I remember at the time that he left he sold all of his possessions there at Princeton. They used to have sort of a garage sale - anybody that was going back to Britain after a few years. I remember going to his garage sale, although I don't think I bought anything."
+
+Later he played hockey for Scotland, taught mathematics at Wellington College - and then met Turing, who wrote to invite Wylie to work at Bletchley Park. Wylie worked on both the Enigma and Lorenz cyphers. After the war, it was back to teaching: "He lectured on linear algebra, a somewhat abstract subject for many. But his lectures were miracles of clarity and 50-odd years later I still remember his little diagrams of the undiagrammable with vast amusement. Mathematics is not perhaps the most hilarious of subjects, but in Shaun's hands - and voice - it was pretty close."
+
+http://wikicancel.org
+"...  the most current subscription, contract, and account cancellation guide"
+
+http://lemire.me/blog/archives/2013/01/14/xml-for-databases-a-dead-idea
+A rather curious bit on XML in databases, referring to the AI winter. "... it is undeniable that XML databases have failed as anything but a niche topic." Some people refer to certain things as expert systems, whilst others don't, yet those things still exist. Just a fight over terms? I must be missing something. "... a great defect of modern science: we are obsessed with success and we work to forget failure."
+
+"You could reasonably view the Semantic Web as a distributed expert system where the expertise is encoded as RDF." This worries me, still.
+
+https://github.com/lloyd/node-toobusy
+Copes with laggy nodes, it says here.
+
+http://m.guardian.co.uk/commentisfree/2013/jan/15/fairer-capitalism-bubble-value-creation
+Mariana Mazzucato on "a more moral capitalism": "There is a need for a theory that identifies those factors that contribute to value creation versus those that are focused on value extraction."
+
+Thanks for the signups. Suggestions most welcome. See you again tomorrow.
+
+============================================================
+-
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:ADDRESS|* *|END:IF|*
+
+** Unsubscribe (*|UNSUB|*)
+** Y (*|UPDATE_PROFILE|*)
+** our profile (*|UPDATE_PROFILE|*)

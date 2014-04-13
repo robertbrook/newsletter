@@ -1,0 +1,52 @@
+I've swapped out Fantastical for the default Apple calendar. And I've gone back to Spotlight. KISS, right?
+
+http://luajit.org (http://luajit.org )
+One thing missing from this page on Luajit: what it is, in simple language - and why I should use it. I mean, it looks great, but still.
+
+http://en.wikibooks.org/wiki/Haskell/Understanding_arrows (http://en.wikibooks.org/wiki/Haskell/Understanding_arrows )
+"Let us examine Swierstra & Duponcheel's parser in greater detail, from the perspective of arrows." Haskell feels like a code lab. I think that's fine.
+
+Back to the hacking. Though, I feel a little embarrassed even calling it that.
+
+http://mph.puddingbowl.org/2012/02/back-to-bbedit-with-a-unix-accent/ (http://mph.puddingbowl.org/2012/02/back-to-bbedit-with-a-unix-accent/ )
+"If the giant Mac-eating star goat comes, I will be very sad for a little while, but I’ll just go back to Emacs and stay there. In the mean time, when I need to edit a remote file, I’ve probably got the server it’s on bookmarked in BBEdit."
+
+It's my birthday soon. I'll be 41.
+
+http://code.google.com/p/soc/wiki/MelangeIntro (http://code.google.com/p/soc/wiki/MelangeIntro )
+From Google: "part content management system, part issue tracking system, and part customer relationship manager", written in Django.
+
+This feels weird. I'm writing something in Ruby, feeling constrained by the data structures, wishing I was in Racket.
+
+http://www.guardian.co.uk/film/2013/apr/21/rupert-everett-sex-is-over (http://www.guardian.co.uk/film/2013/apr/21/rupert-everett-sex-is-over )
+Victoria Coren on Rupert Everett: "I won't tell you how the story continues, but please don't imagine that his trousers stay on." I've always liked him.
+
+Having that old, silly thought: it's been done, better, by so many other people, so why try to do it yourself?
+
+https://github.com/rswarbrick/scraperfaker (https://github.com/rswarbrick/scraperfaker )
+"A 'fake' scraperwiki that you can use as a drop-in replacement for the real one when developing scraper scripts" - I'm still a Scraperwiki fan.
+
+Laughing at Roderick saying, with Merlin, "We are gifted men."  Laughing with. I love those guys.
+
+I should probably eat something.
+
+I need to hugely expand my repertoire of "things I don't need to concern myself with". The doings of anyone half my age would be a start. Goodness that sounds awful. Hey, well, I'm awful. I am awful. It's probably envy, at the least. I mean, what did I achieve when I was twenty, or even thirty - or even, dammit, forty? Why should I begrudge these young people their brilliant ideas and knowledge and flawless design? Should I be glad, at least glad for them?
+
+Dialling down on the 'news' now. I think that might be an interesting experiment. I'm a little worried I might be backing myself into a corner. Let's just see how it goes.
+
+http://www.wallyapp.me (http://www.wallyapp.me )
+I think I need to track better what I'm spending on. I'm going to try this thing out.
+
+Anyway.
+
+============================================================
+*|LIST:ADDRESS|*
+
+Thanks to Dave Briggs at  and Giles Turnbull at
+
+Every Friday: Roo's Letter
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** http://gilest.org (http://gilest.org)
+** http://tinyletter.com/rooreynolds (http://tinyletter.com/rooreynolds)
+** Unsubscribe (*|UNSUB|*)

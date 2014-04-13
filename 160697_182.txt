@@ -1,0 +1,51 @@
+I'm trying to shift to a simpler layout. Please let me know if it looks weird. Not that I'm necessarily going to be able to do anything about it, but - you know, I'd try.
+
+http://iopscience.iop.org/1367-2630/11/9/093024
+Sniffing market patterns and "anti-persistent behavior" with GPUs.
+
+The thing about newspeak was that is was to pervert language. We don't do that now. We just neuter it. "App" now means "anything on a computer that moves". "Edit" now means "anything in the world that is a subset of any of the other things".
+
+http://www.shinywhitebox.com/ishowu-hd/
+iShowU used to be top of the heap for Mac screen recording. Anyone got any better ideas?
+
+There's a difference between the corporate and the person, I think? They can't be that difficult to tell apart, surely. 
+
+http://addyosmani.com/blog/
+Heavy on the front-end.
+
+It all comes down to what you take "seriously", I think. Time and attention, as Merlin would say. 
+
+http://tjholowaychuk.com
+On Tumblr too.
+
+Apple is doing a Watson on so many things now, you hardly notice. Check out the latest version of QuickTime Player: it does screencasts. 
+
+http://www.bbc.co.uk/news/entertainment-arts-21557640
+Chris Butler: "... no-one is in animation because it's fun or exciting. That's not what animation is about."
+
+The chap the other side of the wall has a terrible hacking cough. Must install Hazel on the - er - thing. Soon.
+
+http://www.muleradio.net/thetalkshow/32/
+Listening to Gruber talking to Jim Coudal about 2001, in preparation for a viewing. 
+
+This place usually plays dronecore and Finnish death metal, or whatever. Not today, though! We get melodies today. It feels really weird. Oh look: someone on one of those Dell Minis. Talking to someone with a big old Android thing.
+
+https://gist.github.com/jashkenas/3fc3c1a8b1009c00d9df
+I think GitHub should have the URL shortening. Or, rather, page renaming. For example, this page on 'literate CoffeeScript' might be called #litcoffee - I'm not really sure how all that should work. There's git.io as well, of course. Oh dear. I don't think I've explained this very well.
+
+I'm thinking of trying my ridiculous mailing out a PDF idea again. How would that work out? And I have a feeling I might be posting things more than once. Sorry. 
+
+http://bost.ocks.org/mike/miserables/
+"This matrix diagram visualizes character co-occurrences in Victor Hugo’s Les Misérables." I like the URL.
+
+I think I need a rest now. Early up tomorrow.
+
+http://tisba.de/2012/02/21/how-to-find-periodic-effects-on-performance-using-autocorrelation/
+Of course, there was an answer to my question, which Russell Garner gave me. It's called autocorrelation. Here's an elegant method for doing autocorrelation in Ruby. I get it in general, but I still have to try it out and see it running to really get an understanding of it. I don't think I'm going to manage gnuplot - I might try D3 instead.
+
+
+BACK ISSUES: *|ARCHIVE|*
+
+UNSUBSCRIBE: *|UNSUB|*
+
+*|LIST:ADDRESS|*

@@ -1,0 +1,46 @@
+http://brentcas.com/safari/ (http://brentcas.com/safari/ )
+"Safari is technically a platform on it's own, separate from the App Store. Until the day that Gatekeeper comes to iOS, it will continue to be the most open way for users to access information on Apple's mobile devices." If you're not worried now, you really should be.
+
+http://lareviewofbooks.org/article.php?id=1581 (http://lareviewofbooks.org/article.php?id=1581 )
+Rob Horning reviews 'Robots Futures', by Illah Reza Nourbakhsh: "We believe that, with the robot, we can manufacture agency: we can build the will to be free into all our machines, regardless of what they might be doing to the agency and freedom of the humans tasked to work with them."
+
+http://www.meekro.com (http://www.meekro.com )
+An entirely sensible PHP library for MySQL. Interesting licencing model: download for free, buy a personal licence for $10 or a commercial licence for $50.
+
+https://github.com/shayonj/TagPort (https://github.com/shayonj/TagPort )
+TagPort monitors hashtags on Twitter and Instagram. I'd like to see where people take this.
+
+http://www.hmsaffray.co.uk (http://www.hmsaffray.co.uk )
+"... dedicated to the memory of the crew of HMS Affray lost in the English Channel off Hurd Deep on the 17th April 1951 ..."
+
+http://c2.com/cgi/wiki?LispVsXml (http://c2.com/cgi/wiki?LispVsXml )
+An argument that comes and goes, in certain circles. "The whole notion of data vs. programs sucks."
+
+https://www.google.com/intl/en_uk/chrome/business/browser/ (https://www.google.com/intl/en_uk/chrome/business/browser/ )
+'Chrome for Business', where business means Windows. I've used Chrome Frame in ... places. It seemed to work.
+
+http://www.w3.org/TR/json-ld/ (http://www.w3.org/TR/json-ld/ )
+"It is primarily intended to be a way to use Linked Data in Web-based programming environments, to build interoperable Web services, and to store Linked Data in JSON-based storage engines."
+
+http://blog.forecast.io/its-not-a-web-app-its-an-app-you-install-from-the-web/ (http://blog.forecast.io/its-not-a-web-app-its-an-app-you-install-from-the-web/ )
+"... if it looks and feels like an app, and lives on your home screen, it’s an App." Yup. That's what I hear, too. I don't agree with the contention that native app developers are necessarily more serious about their work, simply due to overcoming the barrier to entry that doesn't exist on the web. Some interesting guidelines, though: "avoid replicating the default iOS styling", "avoid the temptation to make the web app look too much like a website" - and most usefully - "Design your interface around the technology you have, not the technology you wish you had."
+
+http://web.uni-frankfurt.de/fb05/psychologie/Abteil/ABO/forschung/emoarbeit_e.htm (http://web.uni-frankfurt.de/fb05/psychologie/Abteil/ABO/forschung/emoarbeit_e.htm )
+Something - another thing - I'm entirely unsuited to: emotional labour. "An example for emotional job requirements is that flight attendants have to treat (even impolite) guests in a friendly way, that a nurse has to show empathy towards a patient ..."
+
+http://www.ncbi.nlm.nih.gov/pubmed/23572240 (http://www.ncbi.nlm.nih.gov/pubmed/23572240 )
+"Belief in a punitive God was positively associated with four psychiatric symptoms, while belief in a benevolent God was negatively associated with four psychiatric symptoms ..."
+
+http://www.drdobbs.com/jvm/the-quiet-revolution-in-programming/240152206 (http://www.drdobbs.com/jvm/the-quiet-revolution-in-programming/240152206 )
+Andrew Binstock writes that we've reached the end of the era of the monoglot programmer.
+
+More tomorrow.
+
+============================================================
+*|LIST:ADDRESS|*
+
+Thanks to Dave Briggs at  and Giles Turnbull at
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** http://gilest.org (http://gilest.org)
+** Unsubscribe (*|UNSUB|*)

@@ -1,0 +1,43 @@
+524 - BROADSIDE - on the web (*|ARCHIVE|*)
+
+Good morning.
+
+http://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front_(1930_film)
+I've watched both this ...
+
+http://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front_(1979_film)
+... and the 1979 version. The 1979 feels closer to the book, perhaps strangely. More of a 'story' rather than a scene-by-scene play. Most viewers seem to have preferred the 1930 version, but I'm not one for 'cinema'. The book horrified me, when I read it at perhaps too young an age. It was supposed to, I expect.
+
+"Poor soul, the centre of my sinful earth,
+[Feeding] these rebel pow’rs that thee array,
+Why dost thou pine within and suffer dearth,
+Painting thy outward walls so costly gay?
+Why so large cost, having so short a lease,
+Dost thou upon thy fading mansion spend?
+Shall worms, inheritors of this excess,
+Eat up thy charge? Is this thy body's end?
+Then, soul, live thou upon thy servants’ loss,
+And let that pine to aggravate thy store;
+Buy terms divine in selling hours of dross;
+Within be fed, without be rich no more:
+So shalt thou feed on death, that feeds on men,
+And death once dead, there's no more dying then." ...
+
+... some printings have "feed'st", or another word.
+
+I realise that CoffeeScript has it's detractors. It's pretty clear why. But, I wonder what Fargo would look like if Dave wrote in CoffeeScript rather than Javascript? Or even literate Coffeescript. Code as a story. Yes, I know that's not what code must always be, but we could leave some efficiency to the compiler, couldn't we?
+
+http://www.theguardian.com/commentisfree/2013/dec/30/we-need-to-talk-about-ted
+Benjamin Bratton: "At a societal level, the bottom line is if we invest in things that make us feel good but which don't work, and don't invest in things that don't make us feel good but which may solve problems, then our fate is that it will just get harder to feel good about not solving problems." ...
+
+... Ah yes. Things that don't make us feel good. The boring things. The tidying up. The legacy. Last year's code. Last decade's code. The code someone else wrote ...
+
+http://www.bratton.info/projects/talks/we-need-to-talk-about-ted/
+... "In California R&D World, TED (and TED-ism) is unfortunately a key forum for how people communicate with one another. It's weird, inadequate and symptomatic, to be sure, but it is one of 'our' key public squares, however degraded and captured."
+
+Onwards.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

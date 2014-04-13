@@ -1,0 +1,29 @@
+http://www.moolenaar.net/anomaly/index.html (http://www.moolenaar.net/anomaly/index.html )
+"For those few of you who don't know what they are: Sound Anomaly is a Dutch group of musicians that exclusively use electronic instruments. The style is hard to describe. Some may call it 'New Wave'. It could be compared to Vangelis or Kitaro. But it's really a style in its own."
+
+https://github.com/maryrosecook/littlelisp (https://github.com/maryrosecook/littlelisp )
+Mary Cook's 'Little Lisp', written in Javascript.
+
+http://www.greenwood-days.co.uk/birthdays.html (http://www.greenwood-days.co.uk/birthdays.html )
+Shelter building, willow weaving, lantern making, make your own pizza - it all sounds rather too adventurous for me. No more birthdays, I think.
+
+http://www.parlafood.com/cedrata-a-strange-and-refreshing-beverage/ (http://www.parlafood.com/cedrata-a-strange-and-refreshing-beverage/ )
+You can get this lovely drink from Lina Stores in Soho. Not too lemony and not too sugary. They'll take the top off at the counter if you ask nicely. One of the women working there can apparently do it with a Bic lighter.
+
+http://msp.org/pjm/1971/36-1/pjm-v36-n1-p15-s.pdf (http://msp.org/pjm/1971/36-1/pjm-v36-n1-p15-s.pdf )
+Michael Henry's paper on ... er ... countable spaces, 1971. "Every first countable space, as well as every locally compact Hausdorff space, is of point-countable type, while spaces of point-countable type are, in turn, k-spaces. Compact spaces are trivially of countable type, but these two concepts are fairly far removed from each other since a metric space is of countable type." #spoons
+
+http://math.stackexchange.com/questions/430965/question-about-almost-metrizable-space-and-k-spaces (http://math.stackexchange.com/questions/430965/question-about-almost-metrizable-space-and-k-spaces )
+I'm sure Stack Exchange can help me with this. Oh dear. I don't understand the answer, let alone the question. Perhaps if I write it out on a bit of paper ... hmm.
+
+http://www.airspacemag.com/history-of-flight/Meet-The-Beetle.html (http://www.airspacemag.com/history-of-flight/Meet-The-Beetle.html )
+"By injecting fuel into the gap between wing and fuselage, [Austrian engineer Helmut von] Zborowski theorized, he could turn his wing into a ramjet engine, and his aircraft into a supersonic interceptor. But first he had to get it airborne." ... "The Coléoptère briefly and unexpectedly achieved horizontal flight only on its ninth and last foray, when the aircraft yawed during a powered descent that degenerated into wild oscillations — including a brief horizontal acceleration – preventing [test pilot Auguste] Morel’s ejection until just 160 feet above the ground."
+
+http://www.arch.ox.ac.uk/hillforts-atlas.html (http://www.arch.ox.ac.uk/hillforts-atlas.html )
+"The aim of the project is to produce a paper atlas and an online searchable atlas linked to Google Earth. We are also considering other forms of dissemination and data collection such as Wikipedia." Open data, I assume?
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

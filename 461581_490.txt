@@ -1,0 +1,50 @@
+490 - TOWER - on the web (*|ARCHIVE|*)
+
+Good morning.
+
+http://fadingcity.com/posts/closing-and-opening
+Happy new year? "I'm not sure where I'm going with this." Perhaps I should do requests.
+
+Another subscriber lost! My goodness, at this rate there'll be none of you left come May! Ah well, ah well. On we go. We're just under 40% Standard Dunbar.
+
+http://request.webscript.io
+Here's a very simple request sniffer I wrote. The response is in pretty-printed JSON ...
+
+http://regex.info/blog/lua/json
+... it uses code provided publicly by Jeffrey Friedl. Yes, the regex guy.
+
+http://nebulousapps.net/
+Although I have something on an addiction to new text editors, I still find myself using Nebulous Notes. Maybe I'm just used to it after so long, but I do find it the easiest to use. I continue to use and recommend Nebulous Notes. It just works.
+
+http://source.webscript.io/?http://www.parliament.uk/business/commons/the-speaker/speeches/speeches/designing-a-parliament-for-the-21st-century/
+I wrote a very simple 'view source'. You know, for browsers that don't.
+
+http://www.bbc.co.uk/iplayer/episode/b00glr88/The_Eagle_Has_Landed/
+An iPlayer pick: 'The Eagle Has Landed' - " If the attempt to snatch the British prime minister succeeds, the course of the war could be altered. Can the plot be stopped? Based on the fanciful bestseller by Jack Higgins." #fanciful
+
+http://nimbupani.com/about.html
+Divya Manian: "I work at Adobe. My opinions never reflect those of the company I work for."
+
+http://ukpnews.herokuapp.com
+I added the last few UK Parliament calendar updates to my Little Printer UK Parliament news publication. I hope people don't mind.
+
+http://stackexchange.com/sites
+Is there a Stack Exchange site for general economics? I can't work out from this.
+
+http://stackoverflow.com/questions/1283388/lua-merge-tables
+Merging tables in Lua: a good example of how 'low-level' everything is in Lua. I know I'm mis-using that term. It reminds me of some early Lisps: 'build it yourself'.
+
+http://www.flickr.com/photos/lloyd-davis/11668647704/
+I can't work out how to do Flickr embeds any more, so - here's a video from Lloyd. How did he do that?
+
+A service I'm using on the web keeps sending me a ridiculous survey about supposed 'value added' stuff coming soon. The whole thing is just leading questions from their marketing department to justify building the thing. Just give me my data and let me do it!
+
+http://perl6advent.wordpress.com
+Last year's Perl 6 advent calendar. That's pretty niche.
+
+Have fun today.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

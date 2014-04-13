@@ -1,0 +1,48 @@
+http://thisisluma.com/yr/ (http://thisisluma.com/yr/ )
+Lumacoustics: digital walls, surfaces, 'Augmented Reality Dance Experience' and a sort of mirror-thing. I think I need a lie down.
+
+I tried RSS feeds in Devonthink, but they still looked and felt like RSS feeds. So I scrubbed that idea. Instead, I imported all my Safari bookmarks - and I'm shuffling through them, slowly.
+
+http://roots.cx/axis/ (http://roots.cx/axis/ )
+Axis is a CSS library built over Stylus, a node.js language that compiles to CSS. Compiles to? Outputs, at least. Whatever. Axis looks nice, though.
+
+That last 'Guess-Who' was Angela Lansbury. She first appeared in a film in 1944 - and is still working in film and television today. In the last decade she's had a knee and both hips replaced, moved from California to New York and donated her papers to Boston University.
+
+http://ccl.clozure.com/ (http://ccl.clozure.com/ )
+Clozure Common Lisp: still here, still going, available on the Mac App Store. But not on iOS, yet.
+
+"Der Mensch ist, was er ißt." Ludwig Andreas Feuerbach
+
+http://oliviasteele.com/ (http://oliviasteele.com/ )
+Olivia Steele: art in neon.
+
+"Sometimes you look in a field and you see a cow and you think it's a better cow than the one you've got in your own field. It's a fact. Right? And it never really works out that way." Alex Ferguson
+
+http://rebrick.lego.com/ (http://rebrick.lego.com/ )
+A collection of Lego creations.
+
+"You are now / In London, that great sea, whose ebb and flow / At once is deaf and loud, and on the shore / Vomits its wrecks, and still howls on for more. / Yet in its depth what treasures!" Percy Shelley
+
+http://www.tomato.co.uk/ (http://www.tomato.co.uk/ )
+Tomato, the design agency.
+
+So many things I look at and think "Can I do without that?" and answer to myself "Yes, I can do without that." But where will that end?
+
+http://brightandmatt.com/ (http://brightandmatt.com/ )
+Writing and design from Matthew Solle.
+
+(Do have a lovely Saturday, if possible.)
+
+http://m.quickmeme.com/meme/3umhur/ (http://m.quickmeme.com/meme/3umhur/ )
+A mallard tells me: "You are not entitled to your opinion. You are only entitled to what you can defend." I think this over-simplifies things. I was going to write something more about that but I'm simply too tired to argue about it now.
+
+I have very little desire to visit a theatre. What am I missing?
+
+https://www.webkit.org/blog/2518/state-of-web-inspector/ (https://www.webkit.org/blog/2518/state-of-web-inspector/ )
+Web Inspector is where I want to be, not XCode. Here's a great run-through of what's what in Web Inspector, from Timothy Hatcher.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

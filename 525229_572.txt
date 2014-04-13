@@ -1,0 +1,64 @@
+572 - SPRUNG - on the web (*|ARCHIVE|*)
+Lots to do, lots to do!
+
+http://sethgodin.typepad.com/seths_blog/2014/03/sometimes-you-dont-need-a-budget.html
+"Treat your employees with care and respect"
+
+I'd like a nice, simple screencasting application. Like Tapes, but not locked to a website. Like Quicktime, but cuter. Also, Squarespace search should not look like that. That's why I don't use it. #MoonOnAStick
+
+https://atom.io
+"Atom is free during the beta period." Ah, I see.
+
+http://www.leedsdatamill.org/dataset
+Leeds goes CKAN.
+
+http://www.metalsmith.io
+Feels like gulp.
+
+http://search.cpan.org/~hornburg/Template-Flute-0.0108/
+"Modern designer-friendly HTML templating Engine"
+
+http://pakyow.com/warmup
+Faster than Sinatra, it says here. Plays nicely with Heroku, too.
+
+http://beesandbombs.tumblr.com/post/79486433372/technobox
+Weird.
+
+http://search.cpan.org/~tobyink/Test-Modern-0.002/lib/Test/Modern.pm
+"precision testing for modern perl"
+
+https://github.com/plainmade/unmark
+"An open source to do app for links." ...
+
+https://trello.com/b/Tdx9o1X6/unmark
+... and here they are on Trello. Nice.
+
+https://github.com/coreperf/rejit
+"Rejit is a prototype of a non-backtracking, just-in-time, SIMD-able regular expression compiler developed on our free time."
+
+https://github.com/barryf/tickbot
+"Tickbot is a simple app to remind your team to complete their time tracking for the day. It also shames (in a friendly way) those who forgot to do so the day before." ...
+
+http://boingboing.net/2014/03/16/slack-team-communications-too.html
+... which runs over Slack, which I tried out, but it didn't stick for me. "Slack has that essential, playful magic so desperately missing from its competition." Maybe I should have another go ...
+
+http://olotila.yle.fi/koti/kulutus/maailman-ensimmainen-3d-tulostettu-lelu-fyysiseksi-tullut-avatar
+... "Maailman ensimmäinen 3D-tulostettu lelu syntyi viime vuonna, kun lontoolainen media- ja pelialan moniosaaja Alice Taylor päätti yhdistää toisiinsa tietokonepelit ja 3D-tulostamisen."
+
+http://inessential.com/2014/03/15/indieweb_and_feeds
+"RSS is at its most interesting and useful when big companies ignore it. It’s the domain of indie developers." I'm not sure I agree.
+
+http://history.stackexchange.com/questions/12070/mouse-as-an-ancient-remedy-official-critique
+"Can someone point me to a modern article that refutes or praises the ancient use of a mouse as a remedy?"
+
+http://www.mhpbooks.com/andrew-wylie-advises-you-pick-the-plague-over-amazon/
+"It’s probably only an urban legend that if you work in publishing, and you die, an apparition of Andrew Wylie floats above you in your final moments of consciousness to judge your contributions to the literary canon."
+
+Onwards.
+
+============================================================
+
+*|LIST:ADDRESS|*
+
+
+** Unsubscribe (*|UNSUB|*)

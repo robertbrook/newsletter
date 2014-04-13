@@ -1,0 +1,42 @@
+I'm testing a slightly simpler layout. Please let me know at mail@robertbrook.com if it's unreadable.
+
+Good morrow.
+Why call me 'Robert' in one email and 'Rob' in another? It really is Robert, by the way.
+
+https://github.com/marcoarment/secondcrack
+"Some people jog away from their house every day, only to jog back. Others walk on a treadmill, expending energy to get nowhere. In both cases, it may appear to others that they've accomplished nothing, but they've chosen to do these seemingly redundant activities on a regular basis to incrementally improve themselves. And it works."
+
+http://linux-quirks.blogspot.co.uk/2011/02/reloading-mutt-configuration-file.html
+Okay so this really is pretty niche. 'Reloading the Mutt Configuration File'.
+
+http://middlemanapp.com
+"Middleman is a static site generator using all the shortcuts and tools in modern web development." Pretty much everything described as 'simple' I find not so simple. I'm sure middleman is great, though.
+
+http://events.londonopenhouse.org/building/19258
+"Award-winning new build house on site of former box factory with clever use of volumes and daylight, despite the physical constraints of a small urban plot." - via Gary of Hackney Tools.
+
+http://pondini.org/TM/Clones.html
+James Pond on "Bootable Clones, Archive, and Time Machine." This is a good, well-written summary. I use Time Machine and SuperDuper.
+
+http://apple.stackexchange.com/questions/17759/what-tiny-thing-in-lion-makes-you-smile-or-has-caught-you-off-guard/
+'Tiny delights' in an operating system? "Using the FaceTime camera to add signatures to PDFs in Preview", "make a new folder with a selection of files" - this one is fantastic, though how anyone can think that "Mail.app is full of smiles and neat animations" I really don't know ...
+
+http://apple.stackexchange.com/questions/400/please-share-your-hidden-os-x-features-or-tips-and-tricks/
+... perhaps a little more practical, 'hidden features' on the Mac: I still think the readline editing shortcuts are underrated.
+
+http://zenspider.com/Languages/Ruby/QuickRef.html
+Ryan Davis aka Zenspider: his Ruby 'quick reference' - "Learn to use Enumerable. You will not be a rubyist until you do."
+
+http://listserv.modwest.com/cgi-bin/wa?A0=AERGC-L
+"The AERGC ListServ is for the exchange of information among members of the Association of Education and Research Greenhouse Curators. Discussions can include greenhouse equipment, maintenance, pest control, material sourcing, best practices and related topics." Oh internet, I still love you.
+
+http://www.jetbrains.com/phpstorm/features/index.html
+I've used Webstorm, a bit. People who like PHP like PHPStorm too, I hear. It requires a JVM, so, mixed feelings about that.
+
+Peace out.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

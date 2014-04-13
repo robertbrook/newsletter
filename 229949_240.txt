@@ -1,0 +1,48 @@
+http://www.guardian.co.uk/news/1999/nov/25/guardianobituaries1 (http://www.guardian.co.uk/news/1999/nov/25/guardianobituaries1 )
+From the obituary of Ian Messiter: "At Sherborne school he was once caught day-dreaming during a lesson on Henry VIII and his wives. The master, who was fond of using the cane, slammed it on a desk beside Messiter's ear and demanded that he talk for two minutes on what he had just been talking about or face the cane. The cane it was." Later, he came up with the idea of "Just a Minute".
+
+I'm at Birdhouse on St. John's Hill. It's very nice. I have been directed to the little table at the back and made to face away from all the other nicer customers. That seems fair.
+
+http://openstack.redhat.com (http://openstack.redhat.com )
+CentOS is based on RHEL? I had no idea.
+
+Tweaking my algorithm. Seems to be working.
+
+http://www.scofieldsperformances.com (http://www.scofieldsperformances.com )
+"Broken Music: The Recorded Performances of Paul Schofield"
+
+"A system must be managed. It will not manage itself. Left to themselves in the Western world, components become selfish, competitive, independent profit centres, and thus destroy the system. ... The secret is cooperation between components toward the aim of the organization. We can not afford the destructive effect of competition." - W. Edwards Deming
+
+So much to work with. So little done.
+
+http://discovery.ucl.ac.uk/17807/1/17807.pdf (http://discovery.ucl.ac.uk/17807/1/17807.pdf )
+What comes after the creative destruction? And, perhaps more importantly, who decides? Is it a symptom, or a thing alone of itself, or part of a process?
+
+Hm. A goal. I think I might see one. That's good. That's a good sign.
+
+https://github.com/cwales/cwales.github.com/pull/4#issuecomment-16613045 (https://github.com/cwales/cwales.github.com/pull/4#issuecomment-16613045 )
+"I considered installing OCaml, but had some tea instead ..."
+
+Oh, London in the summer. And it might as well be summer. We jumped straight from winter, recently.
+
+http://www.hasbean.co.uk/blogs/guest-blends-archive/7426098-march-2013-back-to-the-future (http://www.hasbean.co.uk/blogs/guest-blends-archive/7426098-march-2013-back-to-the-future )
+I've just got to the end of this lovely coffee. Onto something interesting from Rwanda tomorrow.
+
+A letter from 'The Builder', 10th December 1852: "Being a frequent visiter [sic] to the Metropolis, I have from time to time noticed with regret the filthy-looking condition of Trafalgar-square proceeding from the leaky state of the ponds, ..." - the paper responds: "... the present condition of the Place is miserable."
+
+http://blog.clifreeder.com/blog/2013/04/21/ruby-is-too-slow-for-programming-competitions/ (http://blog.clifreeder.com/blog/2013/04/21/ruby-is-too-slow-for-programming-competitions/ )
+"I’ve always known that as an interpreted language Ruby was going to be behind on the performance curve, but I am surprised that something so simple as iterating over an integer range could take minutes." Lots of languages, most of them possibly, are written over C. Are the ones closest to the metal the ones capable of going faster - the ones further away capable of being more readily understood?
+
+A rising feeling. Horror?
+
+============================================================
+*|LIST:ADDRESS|*
+
+Thanks to Dave Briggs at  and Giles Turnbull at
+
+Every Friday: Roo's Letter
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** http://gilest.org (http://gilest.org)
+** http://tinyletter.com/rooreynolds (http://tinyletter.com/rooreynolds)
+** Unsubscribe (*|UNSUB|*)

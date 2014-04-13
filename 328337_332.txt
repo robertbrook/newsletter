@@ -1,0 +1,46 @@
+And good morning to you.
+
+https://github.com/basho/rebar (https://github.com/basho/rebar )
+I am grateful for a correction to my guess about rebar: here's the thing I should have been pointing to - "A sophisticated build-tool for Erlang projects that follows OTP principles." My apologies for leading you astray.
+
+"Endure the hardships of your present state,
+Live, and reserve yourselves for better fate." Virgil, Dryden's translation
+
+http://www.tumblr.com/tagged/peter-tabori (http://www.tumblr.com/tagged/peter-tabori )
+Peter Tabori is the architect who designed Lulot Gardens, N19. He worked for Camden borough's "Department of Architecture", when councils still had that sort of thing. They also designed the Brunswick Center. I prefer Lulot Gardens.
+
+"Violence is the last refuge of the incompetent." Isaac Asimov
+
+http://english.president.gov.tw (http://english.president.gov.tw )
+The office of the President of Taiwan.
+
+http://www.morellisgelato.com/stores/europe/broadstairs (http://www.morellisgelato.com/stores/europe/broadstairs )
+Morelli's ice cream's in Broadstairs is a lovely place. It's the original branch, opening in 1932. Of course, if you can't make it to Broadstairs, you can find them in Bahrain, Dubai, Kuwait, Monaco and Harrods. I can't imagine they all have quite the same Broadstairs vibe, but you never know.
+
+http://food.lizsteinberg.com/2009/06/21/do-it-yourself-capers/ (http://food.lizsteinberg.com/2009/06/21/do-it-yourself-capers/ )
+A DIY guide to preserving capers, from Liz Steinberg: "Before being pickled, these buds were a bright green with beautiful royal purple tips. They were also quite astringent. The pickling process mellows them out, and brings out mustard oil and rutin, a compound found in the herb rue, which crystallizes into little green and lavender spots on the pickled bud's olive-green skin." Thank you to a correspondent on the US west coast for this.
+
+http://shapeshed.com/setting-up-nodejs-and-npm-on-mac-osx/ (http://shapeshed.com/setting-up-nodejs-and-npm-on-mac-osx/ )
+I think I've some outstanding node module path issues. I'm sure this will help.
+
+http://www.digitalclassicist.org/wip/wip2013-10at.html (http://www.digitalclassicist.org/wip/wip2013-10at.html )
+"The Hellespont Project ... aims to integrate two of the largest online collections for the study of Antiquity, the Perseus Digital Library and the Arachne archaeological database, in a dynamic digital research environment."
+
+http://www.ewtn.com/library/THEOLOGY/GODASFIR.HTM (http://www.ewtn.com/library/THEOLOGY/GODASFIR.HTM )
+John Duns Scotus: 'A Treatise on God as First Principle'.
+
+http://www.annalsofamericus.com/journal/vincent-price-on-racism-and-religious-prejudice/ (http://www.annalsofamericus.com/journal/vincent-price-on-racism-and-religious-prejudice/ )
+'Vincent Price on Racism and Religious Prejudice'
+
+ORANGE - KANGAROO - DENMARK
+
+http://cpc.farnell.com/jsp/search/productdetail.jsp?sku=SC13023 (http://cpc.farnell.com/jsp/search/productdetail.jsp?sku=SC13023 )
+Thanks to my dad for pointing out this: a camera for the Raspberry Pi, weighing an alsmot unbelievable three grams, capable of 5MP stills and video - and costing under £20. Amazing.
+
+Have fun today.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

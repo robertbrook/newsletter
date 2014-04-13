@@ -1,0 +1,57 @@
+454 - BRICKS
+
+On the web (*|ARCHIVE|*)  - Signup link (*|LIST:SUBSCRIBE|*)
+
+http://www.kupershmidt.org/pg/postgres_cloud_hosting.pdf
+A presentation on 'Cloud Hosting for PostgreSQL'. "Does your database use actually fit EC2's business and cost model?" - followed by a mix of war stories and terrifying anecdotes. A great read.
+
+http://www.owncloudbook.com/owncloud-on-raspberry-pi/
+"If you have a Raspberry Pi then you can run ownCloud on it easily. I have a ready to install image for Raspberry Pi based on Raspbian Wheezy ..."
+
+http://blog.cloudflare.com/cloudflares-new-waf-compiling-to-lua
+Cloudflare's web application firewall in Lua: "The Lua WAF uses the nginx Lua module to embed Lua code and execute that code as part of the normal nginx handling of phases." ...
+
+http://wiki.nginx.org/HttpLuaModule
+... "Embed the power of Lua into Nginx".
+
+http://pragprog.com/magazines/2013-05/a-functional-introduction-to-lua
+Josh Chisholm: "You probably know some JavaScript. Although Lua has quite a different heritage, it shares many design ideas with JavaScript and feels similar. Syntactically, Lua is a bit less spiky ... Just like JavaScript, Lua owes a lot to Scheme, a Lisp dialect. But because both JavaScript and Lua appear closer to Java and C, you wouldn't immediately recognize the Lisp underpinning either of them." ...
+
+http://rtsisyk.github.io/luafun/
+... more funcs in Lua.
+
+I don't care about your "passion". I care about your "delivery". Enough with the passion.
+
+https://github.com/bgrins/videoconverter.js
+"... a library that allows you to convert and manipulate videos ..."
+
+Feared, or loved? Neither. Invisible, please.
+
+http://www.ianbicking.org/blog/2013/10/togetherjs-a-postmodern-tool.html
+"The basic integration for TogetherJS isn’t an API, or a data model: it’s the DOM."
+
+The tai chi isn't that bad, really. I mean, it's no freezing snowscape, but you can't have everything.
+
+I'm really getting into this Vagrant idea.
+
+What does that icon even mean? See - if I have to ask that, you've not done well, have you.
+
+I wonder if anyone would like these headphones.
+
+I'm doing it because I have to.
+
+http://www.senchalabs.org/connect/
+"Connect is a middleware framework for node..." - I've only recently realised that expressjs includes quite a few modules itself. Hence me wondering why I couldn't find things in the docs for a week or so back there. Silly.
+
+I assume Howard Jones is still alive? If only there was some way to Google that.
+
+When it runs, it runs. When it doesn't, that's terrible, but that's how it is for a while.
+
+I'm getting back into Squarepusher.
+
+Not seeing.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

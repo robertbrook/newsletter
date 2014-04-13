@@ -1,0 +1,41 @@
+A newsletter from Robert Brook
+------------------------------------------------------------
+*|ARCHIVE|*
+
+
+**
+------------------------------------------------------------
+http://www.bbc.co.uk/news/technology-21058994 (http://www.bbc.co.uk/news/technology-21058994 )
+Mark Ward swaps out a motherboard and everyone looks at him suspiciously.
+
+http://ejohn.org/apps/learn/ (http://ejohn.org/apps/learn/ )
+"Learning Advanced JavaScript" - in-browser tutorials.
+
+http://jacquesvh.com/2013/01/15-reasons-why-you-will-not-make-it-as-a-consultant/ (http://jacquesvh.com/2013/01/15-reasons-why-you-will-not-make-it-as-a-consultant/ )
+Not that I was ever intending to become a 'consultant', but this rather depressing list includes quite a few pointers as to why I'm not the best person for that sort of job: I don't market myself, I'm not good on the phone, I don't like making new friends, I'm certainly not an expert in anything, I've always had a boss, I don't have a mentor. Doomed!
+
+http://www.savior.org/saints/talbot.htm (http://www.savior.org/saints/talbot.htm )
+A longer bio of Matthew Talbot: "Three things I cannot escape: the eye of God, the voice of conscience, the stroke of death. In company, guard your tongue. In your family, guard your temper. When alone guard your thoughts." A bit different for simple death and taxes.
+
+http://grimoire.ca/mysql/choose-something-else (http://grimoire.ca/mysql/choose-something-else )
+Someone who doesn't like MySQL. "For every successful project built on MySQL, you could uncover a history of time wasted mitigating MySQL's inadequacies, masked by a hard-won, but meaningless, sense of accomplishment over the effort spent making MySQL behave."
+
+http://www.pgwodehousebooks.com/lauriesaved.htm (http://www.pgwodehousebooks.com/lauriesaved.htm )
+Hugh Laurie: "I was, in truth, a horrible child. Not much given to things of a bookey nature, I spent a large part of my youth smoking Number Six and cheating in French vocabulary tests. I wore platform boots with a brass skull and crossbones over the ankle, my hair was disgraceful, and I somehow contrived to pull off the gruesome trick of being both fat and thin at the same time."
+
+http://www.bbc.co.uk/programmes/b01q9tb1/profiles/miles-jupp-interview (http://www.bbc.co.uk/programmes/b01q9tb1/profiles/miles-jupp-interview )
+An interview with Miles Jupp, on his character 'Damien Trench': "Damien is inspired by any number of cookery writers who I love reading. I suppose the point is that you read these people, and they somehow manage to make their lives sound completely idyllic. Perhaps their lives are like that, but I liked the idea of someone who writes in a very calm, measured way and whose work is enjoyed by an aspirational audience, but who in reality is easily flustered, jumpy and impatient."
+
+http://www.asianlii.org/cn/legis/cen/laws/rotaoinis667/ (http://www.asianlii.org/cn/legis/cen/laws/rotaoinis667/ )
+"The present Rules are formulated in order to regulate Internet news information services, satisfy the demands of the general public for Internet news information, safeguard the national security and public interest, protect the legitimate rights and interests of Internet news information service providers, and promote the healthy and orderly development of Internet news information services." The internet in China.
+
+http://peekaboo-vision.blogspot.de/2013/01/machine-learning-cheat-sheet-for-scikit.html (http://peekaboo-vision.blogspot.de/2013/01/machine-learning-cheat-sheet-for-scikit.html )
+A "Machine Learning Cheat Sheet" from Andreas Mueller. "Needless to say, this sheet is completely authoritative."
+
+============================================================
+-
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:ADDRESS|* *|END:IF|*
+
+** Unsubscribe (*|UNSUB|*)
+** Y (*|UPDATE_PROFILE|*)
+** our profile (*|UPDATE_PROFILE|*)

@@ -1,0 +1,50 @@
+481 - CONSTRUCTION - on the web (*|ARCHIVE|*)
+
+http://daringfireball.net/2004/06/something_daring
+"Asking you to take notice of what it is I’m trying for, what it is that I hope makes Daring Fireball different, seems rather uncouth. That asking 'Do you feel it?' is perilously close to asking 'Do you like me?' That by even alluding to it, it breaks the implicit author/reader contract."
+
+"Science advances one funeral at a time." - Max Planck
+
+http://sidekicksrc.com/post/for-modern-development-javascript-is-just-something-you-need-to-learn/
+"The intrinsic smallness of the language can be alarming when you come from a bigger language ... and you need to learn idioms to do what the bigger language does for you."
+
+"I sit on a man's back, choking him, and making him carry me, and yet assure myself and others that I am very sorry for him and wish to ease his lot by any means possible, except getting off his back." - Leo Tolstoy
+
+https://github.com/Zinssmeister/waitress.js/blob/master/README.md
+"A lean JS library that makes waiting on a collection of async calls less painful."
+
+Carrying on. Finishing off the evening with Lee "Scratch" Perry.
+
+Surely people are able to put a bit of distance between "I don't like this" and "This is bad"? Subjectivity, right? The world revolves, of course, just not around you.
+
+http://www.flickr.com/photos/paul_clarke/11481946563/in/set-72157638885319205
+Adam looks mighty fine in this, from Paul Clarke ...
+
+http://www.flickr.com/photos/paul_clarke/11481915303/in/set-72157638885319205
+... and here's Paul, looking suspiciously un-aged. Hi Paul!
+
+http://fadingcity.com/suburbia/audrey-hepburn-and-mel-ferrer
+"... posed in costume, while filming War and Peace."
+
+http://en.wikipedia.org/wiki/User:Beezow_Doo-Doo_Zopittybop_Bop_Bop
+"... I have a huge interest in metal music, and the art associated with it."
+
+http://www.bbc.co.uk/programmes/b00pcklz
+Neil Innes on Vivian Stanshall. "I really miss him." ...
+
+http://www.bbc.co.uk/arts/yourpaintings/paintings/speranza-regards-her-son-70420
+... "Speranza Regards Her Son".
+
+https://github.com/errbit/errbit/issues/614
+Errbit migrates from MongoDB to Postgres.
+
+http://terriblerealestateagentphotos.com
+Erk.
+
+http://www.reddit.com/r/anarchism+etc (http://www.reddit.com/r/anarchism+anarchotranshumanist+radicalqueers+audioinsurrection+alltheleft+anarchismandtheory+anarchopacifism+blackflag+anarchafeminism+christiananarchism+mutualism+green_anarchism+iww+libertarianleft+postleftanarchism+tranarchism+antroduction+LibertarianSocialism+SKIiLCToMS+anarchist+AnarchoArtistry+Anarconfederation+anon_ops+anarchomasculism+Anarchist_Strategy+riot_porn+agitation+AnarchismPDFs+anarchistproblems+smallrevolutions+radicalparenting+religiousanarchism+anarchomemes+anarchist_aid+radical_relationships+radicalmentalhealth+anarchocommunism+anarchist_review+copwatch+foodnotbombs+access+DirectAction+veganarchism+anarchy101+RadicalPhilosophy+freemigration+DumpsterDiving+antiwar+SRSAnarchists+radicalbookclub+Anarcho-Primitivism+OccupySeedBank+anarchistpics+deschooling+AnarchyintheUK+Zenarchism+AnarchistQuotes+BlackCross+anarchists/new?sort=new)
+Merry Christmas. Delete as appropriate.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

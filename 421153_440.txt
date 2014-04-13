@@ -1,0 +1,58 @@
+440 - GLITTERY
+
+On the web (*|ARCHIVE|*)
+
+http://arduino.cc/en/Main/ArduinoBoardYun
+"The Yún distinguishes itself from other Arduino boards in that it can communicate with the Linux distribution onboard, offering a powerful networked computer with the ease of Arduino. In addition to Linux commands like cURL, you can write your own shell and python scripts for robust interactions."
+
+http://www.sciencemuseum.org.uk/visitmuseum/plan_your_visit/exhibitions/only_in_england.aspx
+Until the middle of March next year: 'Only in England: Photographs by Tony Ray-Jones and Martin Parr' - "Fascinated by the eccentricities of English social customs, Tony Ray-Jones spent the latter half of the 1960s travelling across England, photographing what he saw as a disappearing way of life."
+
+http://www.datomic.com/pricing.html
+Interesting. Datomic has a no-charge version.
+
+Deleting things. It's for the best. I think.
+
+http://fadingcity.com/posts/the-hut
+I wrote something. It's not exactly up-beat. I probably wasn't having a great day.
+
+And the fire's gone out again.
+
+http://rubular.com
+"a Ruby regular expression editor" - still there, still works.
+
+Wait a minute, what window is this?
+
+http://arteverywhere.org.uk/about/
+"From the 12–25 August 2013 some of the nation's greatest art was on display across 22,000 poster sites and billboards up and down the country." I thought this was great. How can this happen more?
+
+http://www.matthewsyard.com/2012-10-01-08-04-21
+"Based in the heart of Croydon's Old Town, Matthews Yard is one of Croydon's hidden gems. The premises, on the site of Croydon's first brewery and a former jail house brings together a number of unique offerings for South London."
+
+http://studio.zerobrane.com
+"... a lightweight Lua IDE with code completion, syntax highlighting, code analyzer, live coding, and debugging support ..."
+
+http://www.videojs.com/docs/api/
+Zencoder's open source video player.
+
+http://www.disused-stations.org.uk/c/combpyne/index.shtml
+Originally 'Combpyne for Landslip'; "We never went short at the station ... Mollie would cook us a plate of chips, and plenty of tea was brewed."
+
+http://thatsparkoflife.co.uk/?page_id=18
+"Hello lemmings!"
+
+http://thecroydoncitizen.com/culture/review-dr-frankenstei/
+Liz Sheppard-Jones reviews "Dr Frankenstein’s Travelling Freak Show" at the Spreadeagle Theatre: "... however depressing the desolation wrought on the arts in our town has been, Croydon is irrepressible – its creativity too strong to be kept down for long. Lay waste as bureaucrats may – the artists will rebuild."
+
+Huge doses of deju vu.
+
+http://deturl.com
+A bookmarklet to download video from YouTube ...
+
+http://imgops.com/
+... put an image URL in, get many things out.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

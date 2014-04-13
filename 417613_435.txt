@@ -1,0 +1,49 @@
+435 - "The dreadful Anglo-Klaxon man"
+
+On the web (*|ARCHIVE|*)
+
+Good morning everyone.
+
+http://www.dn.se
+I like the lead font. Or lede, as you would say.
+
+No interruptions please. I'm currently racing on 10ml of Night Nurse and this could go anywhere.
+
+http://www.carolgeescandles.com/tips.php
+Bob Carolgees' tips on candles. "Alright smarty-pants, why does my wick disappear down inside my candle and put itself out?"
+
+Is this not jazz?
+
+http://noodlejs.com
+"... a node server and module which clients can use to query data from web documents." I had to do a "sudo npm -g install" before it would take. I think I might need to update the expat module, or something.
+
+I like Hot Chip.
+
+http://www.toppotdoughnuts.com
+"... we’re committed to doing things the old fashioned way - beautifully, warmly, and with unfailing attention to details." #doughnuts
+
+http://www.pegasusarchive.org/arnhem/roy_urquhart.htm
+"To conceal their escape, Lathbury threw a smoke grenade out of the house in which they had been hiding and the group dashed out of the back door and were in the process of negotiating a fence when Lathbury's Sten gun accidentally discharged and the bullet narrowly missed the General's right foot."
+
+http://www.joemoon.co.uk/posters.html
+From 'The Londonist': "A Great Poster of a Great River ... and is that a pig, flying subtly over Battersea?"
+
+http://fortawesome.github.io/Font-Awesome/examples/
+I know I'm late to the Font Awesome party, but it is rather clever.
+
+Yesterday's issue - 434 - was a tryout of the default Mailchimp template, which claims to be mobile-friendly. There have been no voluble complaints, which means that those sorely aggrieved can't be bothered to get in touch, imagining quite correctly that my skill with the pixels is unlikely to reward further prodding.
+
+http://www.legislation.gov.uk/ukpga/1988/48/section/45
+"Copyright is not infringed by anything done for the purposes of parliamentary or judicial proceedings." But "Copyright is not infringed by anything done for the purposes of reporting such proceedings; but this shall not be construed as authorising the copying of a work which is itself a published report of the proceedings."
+
+One great benefit of not having my own domain any more is that I don't have to worry about having my own domain. Any more. Also, my new host only serves static files, so no more PHP fretting.
+
+http://eightmedia.github.io/hammer.js/
+"A Javascript library for multi-touch gestures" - huh, I could use this with Concord to make it play nice on the iPad.
+
+Have a lovely day.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

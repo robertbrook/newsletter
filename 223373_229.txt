@@ -1,0 +1,36 @@
+Thanks to everyone who's sent in comments and suggestions. I'm very grateful. Your feedback is always welcome: you can mail me at mail@robertbrook.com
+
+Still I feel increasingly uncomfortable about the ads for 'gentlemens clubs' at Vauxhall. I'm not sure why. It just creeps me out. Maybe I am a prude after all.
+
+http://canmore.rcahms.gov.uk/en/site/149/details/unst+muckle+flugga+north+unst+lighthouse/ (http://canmore.rcahms.gov.uk/en/site/149/details/unst+muckle+flugga+north+unst+lighthouse/ )
+North Unst lighthouse on Shetland, by Muckle Flugga: "The most northerly lighthouse in the British Isles ... The tower was constructed by D and T Stevenson, over a hundred people working on site between April and November 1856."
+
+I think I should like to go back to Berlin.
+
+Radical innovation at Milk Bar on Bateman Street. Every time they have a refit I dread coming back in to find the place changed beyond recognition. The latest rejig is a bit more adventurous than usual. You know me, I'm not one for adventure, especially in coffee. They've knocked a pound of the prices, which seems awfully suspicious. There's little red cushions. That's very suspicious. And worried that the whole idea just won't work - that I might come back in a month and find they've finally gone under.
+
+I shouldn't worry about these things. People know what they're doing, don't they? The experts? After all, I'm not an expert. I should just let them get on with it ...
+
+http://pandodaily.com/2013/04/10/great-now-engineers-think-that-they-are-economists-too-2/ (http://pandodaily.com/2013/04/10/great-now-engineers-think-that-they-are-economists-too-2/ )
+... but then again, here's Bryan Goldberg with some stern advice for the Bitcoin enthusiasts: "... stop trying to be an economist. You’re not an economist." I still have an underlying fear of anyone who's especially sure of themselves, who won't admit doubt.
+
+Innovation. Governance. They don't fit we'll together. And this isn't the best coffee I've drunk this week. Things could be better, certainly. So, what am I going to do about that?
+
+http://www.cumbria-industries.org.uk/ports.htm (http://www.cumbria-industries.org.uk/ports.htm )
+Ports and harbours of Cumbria, with lovely aerial photos.
+
+http://www.mightyseas.co.uk/marhist/lancaster/barbadoes_packet.html (http://www.mightyseas.co.uk/marhist/lancaster/barbadoes_packet.html )
+1805: "Barbadoes Packet, Smith, from Africa, is arrived at Demerara, after beating off two privateers near that colony."
+
+I'm enjoying Racket, but find myself falling back into non-Racket practices now and then. Things like wanted to make hashes into objects rather than just address them as hashes. I'm also suffering from 'pyramid code' - where you end up having a dozen nested calls, similar to some node.js stuff I've written. I'm not yet sure how to escape from that. I need some sort of callback hook without having to write all that code. I'm not sure if that makes sense.
+
+Dear friends, onwards.
+
+============================================================
+*|LIST:ADDRESS|*
+
+Thanks to Dave Briggs at  and Giles Turnbull at
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** http://gilest.org (http://gilest.org)
+** Unsubscribe (*|UNSUB|*)

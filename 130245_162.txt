@@ -1,0 +1,48 @@
+Another newsletter from Robert Brook
+
+View this email in your browser (*|ARCHIVE|*)
+
+http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE|*&t=*|URL:MC_SUBJECT|* Like (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE|*&t=*|URL:MC_SUBJECT|*)
+http://twitter.com/?status=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE|* Tweet (http://twitter.com/?status=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE|*)
+http://www.instapaper.com/hello2?url=*|URL:ARCHIVE|*&title=*|URL:MC_SUBJECT|* Read Later (http://www.instapaper.com/hello2?url=*|URL:ARCHIVE|*&title=*|URL:MC_SUBJECT|*)
+
+
+http://www.csstrashman.com (http://www.csstrashman.com )
+CSS slimming. May actually work now it's not on Hacker News.
+
+Listening to some really nice + odd things on rdio. I ditched Spotify some time back, but resurrected my rdio account. It's treating me well so far. No recommendation engine, though. Similar artists makes some sense.
+
+http://shawnblanc.net/2013/02/setting-up-a-basic-mac-media-server/ (http://shawnblanc.net/2013/02/setting-up-a-basic-mac-media-server/ )
+Shawn Blanc's fantastic guide to 'Setting Up a Basic Mac Media Server': "Repurposing an old Mac into a home media server is a great idea. A nerdy, tedious, somewhat overrated, great idea." I like the non-media ideas; like haing Mail running all the time to run rules on incoming mail. Nice.
+
+http://www.tomwitkin.com/poster/ (http://www.tomwitkin.com/poster/ )
+If you have a web/blog/site you might enjoy Tom's app for the iPhone: "Poster".
+
+http://www.wired.com/opinion/2013/02/big-data-means-big-errors-people/ (http://www.wired.com/opinion/2013/02/big-data-means-big-errors-people/ )
+"Big data may mean more information, but it also means more false information." Two red flags, to some people: Nassim Taleb and Wired. Anyway, an interesting read, though I don't agree with him in this. "You can’t really police researchers, particularly when they are free agents toying with the large data available on the web." [Thanks to @redmamba]
+
+The Hop Sing Laundromat in Philadelphia is one of those things that makes me glad I'm forty. And that I don't drink. I shouldn't judge, of course. I mean, look at the coffee.
+
+http://www.imdb.com/title/tt0464141/ (http://www.imdb.com/title/tt0464141/ )
+"A woman brings her family back to her childhood home, where she opens an orphanage for handicapped children. Before long, her son starts to communicate with an invisible new friend." No, I've not watched it. I don't enjoy horror films.
+
+http://forums.omnigroup.com/showpost.php?p=118013 (http://forums.omnigroup.com/showpost.php?p=118013 )
+"... we've been working to improve the OmniFocus experience for folks who do a lot of work on non-Apple platforms." Omnifocus Mail Drop is a mail interface to your Omnifocus lists.
+
+http://kb.mailchimp.com/article/all-the-merge-tags-cheatsheet (http://kb.mailchimp.com/article/all-the-merge-tags-cheatsheet )
+Please excuse the new formatting every day or so on the newsletter. I'm trying to include only the things that I have to, legally - and anything that really seems useful. I'll carry on tweaking.
+
+http://activitystrea.ms (http://activitystrea.ms )
+For all the talk of the streamed web, or post-web, activity streams - the standard - doesn't seem to have had much takeup. Will streams be closed?
+
+http://microformats.org/wiki/RelMeAuth (http://microformats.org/wiki/RelMeAuth )
+"RelMeAuth is a proposed open standard for using rel-me links to profiles on OAuth supporting services to authenticate via either those profiles or your own site." Did this go under the wheels of Persona? And that's go under the wheels of the Big OAuth. Soon.
+
+http://www.youtube.com/watch?v=4iiryJwvDtc (http://www.youtube.com/watch?v=4iiryJwvDtc )
+"Magic" by Pilot is a lovely song, but upsets me too much to listen to.
+
+A hard morning of exercise in the park. Shattered.
+
+============================================================
+
+** Unsubscribe (*|UNSUB|*)

@@ -1,0 +1,48 @@
+http://www.youtube.com/watch?v=SiiVlnoraTM
+Siri covers Dr. Dre. Presumably you're aware of the lyrical content of "It Was A Good Day" - if not, there is swearing.
+
+I'm thinking about 'unborn beings'.
+
+http://hackage.haskell.org/package/hxt
+"The Haskell XML Toolbox uses a generic data model for representing XML documents, including the DTD subset and the document subset, in Haskell."
+
+Writing a parser is an interesting task. Writing the stuff that gets the output of the parser and builds data structures is less interesting, more annoying.
+
+http://www.bbc.co.uk/news/uk-18973923
+"Is porridge a factor?"
+
+http://www.foreignaffairs.com
+Very disappointed to see Foreign Affairs magazine drifting away from it's wonderful text-only front page to looking more and more like National Geographic.
+
+https://en.wikipedia.org/wiki/Sterling_area (https://en.wikipedia.org/wiki/Sterling_area )
+"At the end of WWII the sterling area was the largest and most coherent currency bloc in the world, and it provided its members with full freedom of payments."
+
+http://threads2.scripting.com/2013/april/verizonIsDumb (http://threads2.scripting.com/2013/april/verizonIsDumb )
+"The very nice person said she understood why I was so frustrated (I didn't say I was), and called me by my first name even though I asked her not to. ... Her boss comes on the line, Frankie, who of course understands why I am so upset (this is a script they hired a psychiatrist consultant for) and said I should just enter the information again and this time it will work. I said I was unwilling to do this. He asked is there anything else he could help me with."
+
+Thinking about voice and accent a lot recently.
+
+http://www.aa.org/bigbookonline/en_tableofcnt.cfm (http://www.aa.org/bigbookonline/en_tableofcnt.cfm )
+The Alcoholics Anonymous 'blue book'. I've not had a drink in more than twenty years.
+
+http://stackoverflow.com/questions/11421035/creating-an-array-within-a-ruby-object-class (http://stackoverflow.com/questions/11421035/creating-an-array-within-a-ruby-object-class )
+I ended up using a hash.
+
+The news from Milk Bar on Bateman Street isn't good. I hear that the original staff decided to up sticks and off to somewhere called Hoxton, where presumably people buy even more coffee that we ever did in Soho. The whole affair is simply too unsettling for words - I've retreated to Monmouth, where things seems thankfully little changed.
+
+http://www.bbc.co.uk/news/entertainment-arts-22279943 (http://www.bbc.co.uk/news/entertainment-arts-22279943 )
+"Good grief! - what an outpouring of love, affection and respect. I honestly had no idea." This is an odd problem. We're certain that everyone we value - and ourselves - will one day die. So we might want to tell them that we value them, that perhaps even we love them or what they've done, before their death rather than - well - after. But we have to wait until a particular level of confidence about when they'll no longer be around. Is there a way round this?
+
+Have a good day, if you can.
+
+============================================================
+*|LIST:ADDRESS|*
+
+Thanks to Dave Briggs at  and Giles Turnbull at
+
+Every Friday: Roo's Letter
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** http://gilest.org (http://gilest.org)
+** http://tinyletter.com/rooreynolds (http://tinyletter.com/rooreynolds)
+** Unsubscribe (*|UNSUB|*)

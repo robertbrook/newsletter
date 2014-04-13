@@ -1,0 +1,47 @@
+485 - IVY - on the web (*|ARCHIVE|*)
+
+http://fadingcity.com/posts/decay
+I wrote this, but not about decay.
+
+I'm really enjoying Luke Vibert and MF Doom. But Spotify keeps throwing me back to The Blue Nile.
+
+http://www.theguardian.com/music/2012/may/10/paul-buchanan-lost-blue-nile
+"Though musically more muted than the Blue Nile, Mid Air negotiates the same precarious high wire between euphoria and melancholy, realism and fantasy."
+
+Paul Buchanan: "You work and work and work and have the life that you have, and once in a while, sometimes once in a decade, you see a few things you've got and think, yes, that's authentic. You try to stay true to that little moment whatever the costs."
+
+http://lestac.net
+"Lestac is a quirky, lovingly crafted 2D exploration platformer with an evergrowing world and soundtrack." Watch the video intro, if you can. Wait a minute: it's EUR 3.20! Sold!
+
+http://ooc-lang.org/docs/tutorial/
+Coffeescript is to Javascript as ooc is to C99. "As magnificent as the program was, she couldn’t shake an eerie feeling. It seemed so perfect, so concise, so damn practical - what could possibly go wrong?" - huh, nice.
+
+"crawling in the frost, i found it
+like i’m still a little boy, i found it
+gave it to my son and i crowned him
+king of the nordic laurel around him" - Baths
+
+http://en.wikipedia.org/wiki/Baths_(musician)
+"Will Wiesenfeld derives his name from his childhood memory of taking in art and music by dwelling on it in his bathtub, which he claims he was very fond of." He claims.
+
+http://www.independent.co.uk/life-style/bath-time-faded-grandeur-a-few-hours-relaxation-and-the-chance-to-pick-up-delicious-gossip-esther-oxford-samples-the-pleasures-of-turkish-baths-for-women-1381013.html
+"The women have changed too. In those days the ladies respected the fact that a Quiet Room means a quiet room. The clientele were mostly old; they kept the young ones in order. Nowadays the girls are young. Some are bolshy and over-confident; they shout and laugh wherever they please."
+
+https://github.com/leafo/heroku-buildpack-lua
+"This is a Heroku buildpack for Lua apps."
+
+http://fadingcity.com/suburbia/ghetto-grandma
+Miss Fritty.
+
+http://volumio.org/devices/
+Evolution of the RaspyFi audio project: "a Linux audiophile music player for everyone".
+
+http://graspjs.com
+"a command line utility that allows you to search and replace your JavaScript code" - but, it searches the AST! Clever.
+
+A break for cocoa.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

@@ -1,0 +1,59 @@
+Vol. 2, No. 577. "DAISY".
+Good morning everyone.
+
+http://fadingcity.com/suburbia/earl-alexander-of-tunis
+A portrait.
+
+A month left. A month! Just think of it! I suppose I might go up to the second. I should have a look at when my Mailchimp account expires. Oh, wait, it doesn't. Okay. Well. I'll wind it up on the first, or second.
+
+http://docs.constructibl.es/specs/js/
+I can't for the life of me think why I was looking at this.
+
+http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D35%3Achapter%3D52
+"Alumen has a desiccative effect upon dropsical eruptions; and, in combination with pomegranate juice, it removes diseases of the ears, malformed nails, indurations resulting from cicatrization, hangnails, and chilblains. Calcined, with vinegar or nut-galls, in equal proportions, it is curative of phagedænic ulcers; and, in combination with extracted juice of cabbage, of leprosy."
+
+FOUC has been replaced by FOUWF: Flash Of Unstyled Web Font.
+
+http://apiblueprint.org
+Building APIs by documenting them? Is that it? Well, if not building, tooling at least ...
+
+http://blog.parse.com/2012/01/11/designing-great-api-docs/
+... James Yu on documenting APIs: "Reading API documentation isn’t exactly a thrilling roller coaster ride. But, you can at least add some personality and fun into your writing. Surprise your reader with funny examples and variable names other than foo. This will at least prevent them from falling asleep."
+
+http://www.revolutionspodcast.com
+I'm listening to the excellent 'Revolutions' podcast, now on the Sugar and Stamp Acts, precursors to the American revolution.
+
+https://blog.linode.com/2014/01/03/docker-on-linode/
+It looks like Docker on Linode is still being tested.
+
+http://holidata.net
+"Holidata.net is a no-nonsense, ad-free provider of international holiday data under a Creative Commons License."
+
+http://tools.ietf.org/html/rfc7111
+Hm. This is obviously gaining ground: "These fragment identifiers make it possible to refer to parts of a text/csv MIME entity identified by row, column, or cell."
+
+http://www.mediawiki.org
+It still exists ...
+
+http://www.mediawiki.org/wiki/Extension:Scribunto
+... and you can extend it with Lua.
+
+http://fadingcity.com/suburbia/apple-picking
+Drake Brookshaw's "Apple Picking".
+
+I don't want to link to Medium, for some reason.
+
+http://www.oreillynet.com/pub/a/oscon2001/07/24/tuesday_photos2.html
+Larry Wall and others, photos from OSCON 2001. "Team members of the President's Dog eat worms for 5 points."
+
+https://overcast.fm
+I used to use Instacast. Now I use Castro. I'm still waiting for Overcast.
+
+Have a lovely day today.
+
+============================================================
+
+*|LIST:ADDRESS|*
+
+
+** Unsubscribe (*|UNSUB|*)

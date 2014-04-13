@@ -1,0 +1,46 @@
+"Luck is what happens when preparation meets opportunity." - Seneca
+
+http://www.brompton.co.uk/events/buc (http://www.brompton.co.uk/events/buc )
+The rather vaguely pitched Brompton Urban Challenge: "In the urban jungle of the UK capital, teams of Brompton owners will ride around the city completing some Brompton-based challenges ..." - 19th May. I'm sure it'll be great.
+
+I often hear myself saying things I've said before. I repeat myself a lot - and that's the times I notice at all. I do try to avoid saying things which are actually stupid, or things I realise are stupid. Of course, this doesn't stop me saying things which most other people think are stupid.
+
+http://discussion.guardian.co.uk/comment-permalink/22975905 (http://discussion.guardian.co.uk/comment-permalink/22975905 )
+"I do no search for things using a British search engine, I do not post pics using a British tool, and I do not Tweet with a British Tweeting platform. There is a reason for that."
+
+I used to think that I was more sure of things when I was younger - and less sure now. It seems more likely that I simply didn't realise how much of the world I couldn't even see.
+
+http://www.guardian.co.uk/technology/2013/apr/23/five-ways-apple-lost-bite#comment-22987784 (http://www.guardian.co.uk/technology/2013/apr/23/five-ways-apple-lost-bite#comment-22987784 )
+"Why anyone anywhere would hire a British manager with their confrontational, ignorant, change for change's sake attitude is beyond me."
+
+I think I might have cut myself in a few places. Not, you know, on purpose. Unwitting paper cuts, I imagine. To say I have cut myself shaving would be a shallow understatement. I have been using, or trying to use, something called the shavette - which sounds like something marketed to people who wish to remove hair from their slender legs. I do not have slender legs, nor do I wish to remove hair from them.
+
+https://github.com/xich/scotty (https://github.com/xich/scotty )
+Scotty is to Haskell as Sinatra is to Ruby. "As for the name: Sinatra + Warp = Scotty." ...
+
+http://steve.vinoski.net/pdf/IC-Warp_a_Haskell_Web_Server.pdf (http://steve.vinoski.net/pdf/IC-Warp_a_Haskell_Web_Server.pdf )
+... and this is Warp: a Haskell server.
+
+Is it important that you have fun when making things? Does it matter that someone enjoyed making the thing you like?
+
+Blanking, more and more. It's drained away.
+
+Still, all you have to do is carve the block. And what a lot of block!
+
+When I was 13 I stopped caring about Christmas. At 41 I think I've stopped caring about birthdays. Mine, I mean.
+
+Which was all a roundabout way of saying that I do sometimes quote and point to stuff here that I don't agree with. It just catches my eye.
+
+I should get out of the code business. It's a young person's occupation. But what can I do next?
+
+============================================================
+*|LIST:ADDRESS|*
+
+Thanks to Dave Briggs at  and Giles Turnbull at
+
+Every Friday: Roo's Letter
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** http://gilest.org (http://gilest.org)
+** http://tinyletter.com/rooreynolds (http://tinyletter.com/rooreynolds)
+** Unsubscribe (*|UNSUB|*)

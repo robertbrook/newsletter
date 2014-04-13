@@ -1,0 +1,61 @@
+Listening. Things appear to be entirely transitory. I suppose because they are.
+
+http://inuitcss.com/ (http://inuitcss.com/ )
+"a powerful, scalable, Sass-based, BEM, OOCSS framework" - BEM?
+
+Different counting algorithm.
+
+https://github.com/jnunemaker/nunes (https://github.com/jnunemaker/nunes )
+"The friendly gem that instruments everything for you, like I would if I could. ... Because I don't work for you, but even that could not stop me from trying to make it as easy as possible for you to instrument ALL THE THINGS."
+
+Listening. Man in the coffee place filmed a Kraftwerk documentary last year with one of those cameras which does interesting things with depth of field. At least, I think that's what he told me.
+
+http://perl6.org/compilers/features (http://perl6.org/compilers/features )
+"Feature comparison of Perl 6 compilers"
+
+I have been persuaded to try a blondie instead of a brownie. I thought I would have been disappointed. I was not.
+
+http://c2.com/cgi/wiki?DatabaseAbstractInterfaceDiscussion (http://c2.com/cgi/wiki?DatabaseAbstractInterfaceDiscussion )
+"Naive thinking about the real world ... Purity Island ... world peace and saving sick puppies."
+
+http://www.guardian.co.uk/media/2013/apr/12/news-is-bad-rolf-dobelli (http://www.guardian.co.uk/media/2013/apr/12/news-is-bad-rolf-dobelli )
+Via Roo Reynolds. I shan't try to keep up. Perhaps ... no. "... people find it very difficult to recognise what's relevant. It's much easier to recognise what's new. The relevant versus the new is the fundamental battle of the current age." Time to read some books.
+
+A bass line, from somewhere ahead, up there. Massive Attack. Reminds me of being in Montpelier, high above Stokes Croft.
+
+http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html (http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html )
+Commas in the URL. Reminds me of a horrible super-CMS. Anyway, this is great: "Functors, Applicatives, And Monads In Pictures" - hand-drawn by Aditya Bhargava.
+
+Mopping up email. It's going okay. People eventually get replies. At least I have my head on when I'm tapping away.
+
+They look ... unformed, I think. Yes, that's the word. Unformed. But, the process ends up making you look like this! Ha!
+
+Did he say "Stevie Wonder"? Derrick May?
+
+Strange how it looks so small. It looked bigger earlier.
+
+Look, a proper workflow library is a great idea, but my initially crappy flagging solution is hacky enough. I'm not sure I really need to retool it at this stage.
+
+There's three of them, on and off.
+
+http://www.guardian.co.uk/film/2013/apr/20/gwyneth-paltrow-food-family-dicaprio (http://www.guardian.co.uk/film/2013/apr/20/gwyneth-paltrow-food-family-dicaprio )
+Gwyneth Paltrow: "I've lived in England for 10 years and the accent is the most beautiful in the world, except for how you pronounce pasta as pass-ta instead of pah-sta. I'm sort of joking when I say this but I really don't want my children speaking that way."
+
+A wonderful couple of hours ending at the National Theatre. That was great.
+
+http://m.bbc.co.uk/news/magazine-22213219 (http://m.bbc.co.uk/news/magazine-22213219 )
+"As much as oil and water, our lives are governed by Excel."
+
+Good morning.
+
+============================================================
+*|LIST:ADDRESS|*
+
+Thanks to Dave Briggs at  and Giles Turnbull at
+
+Every Friday: Roo's Letter
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** http://gilest.org (http://gilest.org)
+** http://tinyletter.com/rooreynolds (http://tinyletter.com/rooreynolds)
+** Unsubscribe (*|UNSUB|*)

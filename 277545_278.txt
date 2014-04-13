@@ -1,0 +1,42 @@
+Hello!
+
+http://www.organizingcreativity.com/2013/02/keeping-up-with-scientific-literature/ (http://www.organizingcreativity.com/2013/02/keeping-up-with-scientific-literature/ )
+"Keeping Up with Scientific Literature" - still, apparently, it's RSS.
+
+My goodness, is that the time?
+
+http://thepighillgazette.com (http://thepighillgazette.com )
+I'm going to move 'The Pig Hill Gazette' away from Tumblr at some stage. I don't feel confident leaving things there. I might start posting images to - some other domain.
+
+"Am I still ill?"
+
+http://www.tate.org.uk/art/artworks/golding-cv-t01857/text-catalogue-entry (http://www.tate.org.uk/art/artworks/golding-cv-t01857/text-catalogue-entry )
+John Golding's painting 'CV', 1973. "The rectangular shapes relate to body imagery, I suppose, in that they are elements into which I can project myself; and the spectator, I hope, can identify himself in the same, very total way. The paler, more contemplative areas which appear in all my works I see, in a sense, as blind mirrors."
+
+We visited a shop on Denmark Street which sold keyboards. In the front there's a Polymoog with a sign saying "PLAY ME!", so we did. The nice chap told us about his band - and how they played a mini-Stylophone things. We played the 'Ode To Joy', with some effects.
+
+https://github.com/chneukirchen/trivium (https://github.com/chneukirchen/trivium )
+Thanks to Giles T. for the reminder about this: Christian Neukirchen's blogging script - includes his own 'HTemplate' and math markup functions. Without those two, it might well end up being below a hundred lines.
+
+Strange how lots of people do things which they know to be unimportant - and ... I forgot what I was going to say.
+
+http://pilotmoon.com/popclip/ (http://pilotmoon.com/popclip/ )
+Popclip: an extensible iOS-alike text selection popup for the Mac. Sounds odd, works great. A bit like Services, but visible.
+
+The coffee at the Notes cart at St. Giles isn't as good as Charlie's cart at the end of Strutton Ground. The original and still the best.
+
+http://lists.gilest.org/pipermail/gorjuss-gilest.org/ (http://lists.gilest.org/pipermail/gorjuss-gilest.org/ )
+I've been shuffling through the archives, now and then.
+
+I've been trying the 'new' Google Maps, with WebGL. It's not really a map any more, it's a guide. Google should call it that. Google Guide. The rendering is slower than before, but browsers will catch up sometime.
+
+http://www.markbernstein.org/Jan13/HowSoftwareIsBuiltToday.html (http://www.markbernstein.org/Jan13/HowSoftwareIsBuiltToday.html )
+More re: Tinderbox Six - "This is a hell of a lot of design and implementation for $0.99. But that’s increasingly what people expect to pay for software. OK: maybe $19.95 for something really terrific."
+
+The oldest email I've still got access to is only from 2003. I deleted most of it. I still do.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

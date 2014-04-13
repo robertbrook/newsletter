@@ -1,0 +1,36 @@
+http://www.guardian.co.uk/news/2004/jan/12/guardianobituaries.artsobituaries (http://www.guardian.co.uk/news/2004/jan/12/guardianobituaries.artsobituaries )
+"So brightly blisters the great regurgitating ribbon of the Thames .
+Sculls skim through like springtime swallows.
+Keels kiss tidal scum, lancing the stolen sun - boils
+or bops to a stop, as in
+The bee on wheels has laments on a stick
+Wags weepy banners with gypsy ribbons ...
+The tiny wheeled bee has the sky on a stick
+Idly waves as she buzzes through the afternoon
+Kicking the tears around like bean tins."
+- "Jeffrey Nuttall, polymath"
+
+We will all die in this beautiful city.
+
+http://www.howtoons.com/ (http://www.howtoons.com/ )
+"What happens when you take a comic book artist, an inventor, and a toy designer? You get Howtoons."
+
+A bit freaked out by rvm. I'm approaching a stage where I think running an Ubuntu or arch VM is going to be safer than living in MacOS. Eventually, after a lot of faffing about - upgrading openssl and ruby - I seem to be stable again.
+
+https://github.com/Mononofu/Letters-in-Scala/blob/master/src/main/scala/letters.scala (https://github.com/Mononofu/Letters-in-Scala/blob/master/src/main/scala/letters.scala )
+Scala not looking as nasty as I thought it did.
+
+http://mgpfeff.home.sprynet.com/price_rocker.html (http://mgpfeff.home.sprynet.com/price_rocker.html )
+"Whenever the stirring of lust for a living woman wake in Norman, as they do with the arrival of Marion Crane ... at the motel, Mother emerges to put a stop to it, watching out for Norman's interests better than he can be trusted to do himself. In Freudian terms, Mother has become Norman's oppressive superego; in Jungian terms, Mother has become Norman's shadowy feminine side, his anima, alter ego, and superego."
+
+I'm slowly detaching from both Instapaper and Pinboard. I still recommend them both, but I'm not using them enough to justify keeping my attention there.
+
+http://robertbrook.com/moon/ (http://robertbrook.com/moon/ )
+I've had a big internal tussle over RSS. I think I'm at the stage where I need to stop thinking about it and return to just looking at websites with my eyes. I've been with RSS since Microsoft's CDF, Dave Winer's ScriptingNews format and channels in my.netscape.com.  I don't thing there's anything 'wrong' with RSS, even after Google Reader folding. It's not you, it's me. I can't feel happy and engaged with Facebook or Twitter - RSS readers similarly. I spent a few days writing my own feed reader, again and again in a couple of languages and in some weird directions. The oddest was an Apple Automator thing that read feeds and wrote a file into Dropbox. I tried the ifttt thing of 'mail me when this feed is updated'. Moon has had several versions, in Python and then PHP. I'll take it down soon. Probably.
+
+Deleting things again.
+
+============================================================
+Registered address: *|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

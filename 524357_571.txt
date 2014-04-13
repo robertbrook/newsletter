@@ -1,0 +1,67 @@
+571 - ROOFLINE - on the web (*|ARCHIVE|*)
+Hello!
+
+http://fadingcity.com/suburbia/0001
+I'm going to make some music ...
+
+http://www.baconray.com
+... wow.
+
+http://tantek.com/2011/220/b1/web-actions-a-new-building-block
+"A web action is the interface and user experience of taking a specific discrete action, across the web, from one site to another site or application. They're not a specific technology but use a variety of technologies."
+
+http://url.spec.whatwg.org
+Let's just start saying 'URL' and 'HTML' again: "URI and IRI are just confusing. In practice a single algorithm is used for both so keeping them distinct is not helping anyone."
+
+I'm reading William Golding's "Darkness Visible" - a great book, but hard work.
+
+http://waterpigs.co.uk/articles/squarespace-web-sign-in/
+Barnaby Walters on how to add 'rel=me' links to a Squarespace site. I'm going to do that right now.
+
+http://speakingjs.com
+Axel Rauschmayer's book, "Speaking Javascript". It's available free in HTML ...
+
+http://www.coffeelint.org
+... "CoffeeScript does a great job at insulating programmers from many of JavaScript's bad parts, but it won't help enforce a consistent style across a code base. CoffeeLint can help with that."
+
+I've been reading about mesolithic and neolithic history. Absolutely fascinating. Has anyone got any book recommendations?
+
+http://discuss.textdrive.com
+I was with Textdrive from the beginning - and, yes, paid for stuff. Sad, this. I suppose I should bite the bullet and get set up at Linode ...
+
+... are Linode doing their pay per use thing yet?
+
+http://www.merlinmann.com/faqs/hiring-merlin/how-do-i-book-a-gig-with-you.html
+I would love to hire Merlin.
+
+http://www.rethinkdb.com
+"An open-source distributed database built with love." ... "RethinkDB is a new system and is likely to have quirks." #love #quirks
+
+http://www.lebonmarche.com
+Wait a minute, that's not Brixton ...
+
+http://www.bonmarchebusinesscentre.co.uk/History.aspx
+... it closed in 1975!
+
+http://www.selfridges.com/en/Home-Tech/Categories/The-Selfridges-edit/Mr-Men-Personalisation/
+"LITTLE MISS YOUR NAME"
+
+http://larry.masinter.net
+I remember documents.com ...
+
+http://larry.masinter.net/lederberg-dendral.pdf
+... Joshua Lederberg: "I was fascinated with the Dewey Decimal System, which was so helpful in locating books in the public library: if I could but memorize that, it would be proxy for mastery of all the knowledge it classsed."
+
+http://en.wikipedia.org/wiki/Henry_the_Hexapus
+"See also: Paul the Octopus, an octopus with purported oracular abilities".
+
+Today I need to be quiet, to listen and to record. Please don't try to make me join in with the whole business theatre stuff: I have work to do.
+
+Onwards.
+
+============================================================
+
+*|LIST:ADDRESS|*
+
+
+** Unsubscribe (*|UNSUB|*)

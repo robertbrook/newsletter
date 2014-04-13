@@ -1,0 +1,37 @@
+I thought, I can't work out what people want. So, why not just wait until someone asks for something, then if I can give them it, do that? Well, it's gone pretty quiet. But not entirely silent.
+
+http://hood.ie/#features (http://hood.ie/#features )
+CouchDB, node.js and JS all the way down. Hoodie looks like an interesting experiment.
+
+http://wals.info (http://wals.info )
+"The World Atlas of Language Structures (WALS) is a large database of structural (phonological, grammatical, lexical) properties of languages gathered from descriptive materials (such as reference grammars) ..." - beautiful and easy to use.
+
+http://devdocs.io (http://devdocs.io )
+Looks like a web-based Dash docs browser. Someone needs to re-invent man pages. Or info files. DevDocs is a great, fast reference for HTML + CSS.
+
+http://genjiapp.com/mac/murasaki/index_en.html (http://genjiapp.com/mac/murasaki/index_en.html )
+A "Scroll-based EPUB Reader for Mac" - I'm sure I remember a PDF reader like this. Under a tenner on the App Store.
+
+http://m.gutenberg.org/ebooks.mobile/ (http://m.gutenberg.org/ebooks.mobile/ )
+The mobile UI to Project Gutenberg, including recently added books. I use the excellent 'Save to Dropbox' option, frequently.
+
+http://www.camden-house.com/store/viewItem.asp?idProduct=6917 (http://www.camden-house.com/store/viewItem.asp?idProduct=6917 )
+Arno Schmidt's "Zettel's Traum": 'One reviewer called the book an "elephantine monster" because of its unconventional size (folio format), length (1334 pages and over 10 million characters), and unique presentation of text in the form of notes, typewritten pages, parallel columns, and collages.'
+
+http://www.postoffice.co.uk/poste-restante (http://www.postoffice.co.uk/poste-restante )
+"The Poste Restante service is operated at the discretion of the Royal Mail/Post Office Limited. If we suspect that a customer’s use of the Poste Restante service is being abused, we will withdraw his/her use of the service immediately without notice. All items received subsequently will be returned to sender."
+
+http://www.bbc.co.uk/news/magazine-23097143 (http://www.bbc.co.uk/news/magazine-23097143 )
+"Having children lowers your happiness levels, but your happiness increases when they grow up and leave home." Cripes! I suppose this is simply data, but it's a grim read, isn't it? I don't feel I'd be happier without being a parent, but then that's just me, of course.
+
+"He'll begin with flourishing the Rights of Man and ends with murdering a wench." - commented on Will Ladislaw, 'Middlemarch', George Eliot
+
+http://www.gutenberg.org/files/43046/43046-h/43046-h.htm (http://www.gutenberg.org/files/43046/43046-h/43046-h.htm )
+"Moran cut apart the yard-long monstrosity with a slash of flame. The thing presumably died, but it continued to writhe senselessly. He turned to see other horrors crawling toward him. Then he knew he was being marooned on a planet of endless terrors."
+
+Onwards.
+
+*|LIST:ADDRESS|*
+Unsubscribe (*|UNSUB|*)
+
+============================================================

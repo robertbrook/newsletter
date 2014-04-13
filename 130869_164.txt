@@ -1,0 +1,45 @@
+Another newsletter from Robert Brook
+
+View this email in your browser (*|ARCHIVE|*)
+
+http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE|*&t=*|URL:MC_SUBJECT|* Like (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE|*&t=*|URL:MC_SUBJECT|*)
+http://twitter.com/?status=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE|* Tweet (http://twitter.com/?status=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE|*)
+http://www.instapaper.com/hello2?url=*|URL:ARCHIVE|*&title=*|URL:MC_SUBJECT|* Read Later (http://www.instapaper.com/hello2?url=*|URL:ARCHIVE|*&title=*|URL:MC_SUBJECT|*)
+
+
+http://www.southampton.ac.uk/~rpb/micromagnetism.html (http://www.southampton.ac.uk/~rpb/micromagnetism.html )
+"... visualisations produced during some of the micromagnetic simulation runs." Beautiful.
+
+http://www.narrative-environments.com (http://www.narrative-environments.com )
+"MA Creative Practice for Narrative Environments". I was at the London College of Printing. How things change.
+
+http://betaworks.com (http://betaworks.com )
+The people behind the revamped Digg, apparently.
+
+No, I don't spellcheck or concern myself overmuch with grammar. I'm sorry about that. It's probably as irritating to you as it is to me, but I often write these things in a sort of fugue state, so it's all a bit of a blur. I'm trying to get better.
+
+When the #indieweb folk say "Publish on your own domain, and syndicate out to silos" - I get what that means, but it depends on the silos actually picking up what you publish, right? I mean, you can emit an RSS feed and some people will pick that up - but what else is there? You can't syndicate to Twitter, can you? Or to Flickr? Unless syndicate just means double-post. Not that there's anything wrong with that, but it doesn't sound that much like real syndication.Maybe I'm missing something here. I'm also looking at - yet again - using my own local RSS aggregator rather than Google Reader. And what else can be syndicated, other than RSS or Atom?
+
+http://chmod777self.blogspot.co.uk/2011/05/in-which-i-discuss-activity-streams.html (http://chmod777self.blogspot.co.uk/2011/05/in-which-i-discuss-activity-streams.html )
+Yes, I do have a personal interest in activity streams, but what silo wants that? Here's James Snell, writing about activity streams two years ago: "Supporting Activity Streams now is as important as supporting RSS/Atom was six years ago. It's a critical component of the social networking landscape." Two years later, what vendor cares?
+
+http://docs.opensocial.org/display/OSD/Specs (http://docs.opensocial.org/display/OSD/Specs )
+" ... the technical specifications for OpenSocial ... " ... " ... the industry's leading and most mature standards-based component model for cloud based social apps." Seems a bit more alive than activity streams.
+
+http://rave.apache.org (http://rave.apache.org )
+" ... a new web and social mashup engine that aggregates and serves web widgets. Rave is targeted as engine for internet and intranet portals and integrates Apache Shindig & Apache Wookie to provide OpenSocial & W3C widget support, respectively." Cripes!
+
+http://shindig.apache.org/documentation_building_php.html (http://shindig.apache.org/documentation_building_php.html )
+" ... an OpenSocial container and helps you to start hosting OpenSocial apps quickly by providing the code to render gadgets, proxy requests, and handle REST and RPC requests." I'm going to try to get this working. Perhaps unsurprisingly, I've not been successful. Path configs borked, I think. It's beyond me at the moment.
+
+http://docs.mollyproject.org/dev/getting-started/installing.html (http://docs.mollyproject.org/dev/getting-started/installing.html )
+I'd love to use Molly, but the config seems pretty intense. Does anyone do hosted instances?
+
+http://onesocialweb.org (http://onesocialweb.org )
+"2011 Vodafone Group" - seems to have gone quiet too.
+
+Happy Monday!
+
+============================================================
+
+** Unsubscribe (*|UNSUB|*)

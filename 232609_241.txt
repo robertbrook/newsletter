@@ -1,0 +1,60 @@
+"... It is management’s job to direct the efforts of all components toward the aim of the system. The first step is clarification: everyone in the organization must understand the aim of the system, and how to direct his efforts toward it." - W. Edwards Deming
+
+http://secretgeek.net/lisp_truth.asp (http://secretgeek.net/lisp_truth.asp )
+"Paul Graham himself was completely written in lisp, by an earlier version of himself, also written in lisp, by an earlier version of lisp. It's lisp, paul graham, lisp, paul graham, all the way down." No youngster rates Lisp. I could hide there.
+
+It's very quiet. I should be okay with that, or fill the space with something from me.
+
+http://themodernhouse.net/sales-list/crescent-house-london-ec2/description-819/ (http://themodernhouse.net/sales-list/crescent-house-london-ec2/description-819/ )
+A clever little bedroom, but no windows in either the bathroom or the kitchen.
+
+It's becoming more and more difficult to make myself understood. And I'm not even trying to convince anyone of anything.
+
+http://industrialgasketresource.com (http://industrialgasketresource.com )
+Via @marxculture - bedtime reading, again.
+
+https://scraperwiki.com/views/alistapartabridgedsimplifiedrss/ (https://scraperwiki.com/views/alistapartabridgedsimplifiedrss/ )
+Via Liz Conlan - a 'simplified' version of the RSS feed for 'AListApart', suitable for Panic's Status Board iPad app ...
+
+https://scraperwiki.com/scrapers/davewinerlinkblogsimplerss/ (https://scraperwiki.com/scrapers/davewinerlinkblogsimplerss/ )
+... and nudged by the scraper above, here's one that hoovers up Dave Winer's linkblog: I wanted the 'description' field to be the 'title' ...
+
+https://views.scraperwiki.com/run/davewinerlinkblogrss/ (https://views.scraperwiki.com/run/davewinerlinkblogrss/ )
+... here's the view, not finished, but nearly done. That kicks out mostly valid RSS, but still has the Scraperwiki logo div at the bottom. I'm sure there's a proper way to fix that.
+
+What you are, mostly: "invisible and untouchable" - Bucky
+
+http://www.stndair.com/book_a_flight (http://www.stndair.com/book_a_flight )
+No golf clubs or luggage with wheels? They probably don't take Oyster anyway.
+
+"All spiffed up."
+
+http://www.guardian.co.uk/commentisfree/2013/apr/02/tony-hall-bbc-parasites-long-knife (http://www.guardian.co.uk/commentisfree/2013/apr/02/tony-hall-bbc-parasites-long-knife )
+"This article was amended on 3 April 2013. The original referred to curb-crawling rather than kerb-crawling. This has been corrected."
+
+What's that little block next to the Lister Hospital called? In the Caro Point development plans, it seems to be Pavilion Court, but the photos don't seem to match.
+
+http://www.guardian.co.uk/books/2013/apr/22/terry-pratchett-raising-steam (http://www.guardian.co.uk/books/2013/apr/22/terry-pratchett-raising-steam )
+Terry Pratchett on school: "I couldn't get on with the headmaster, and he couldn't get on with me. He really wanted the 60s not to happen, and of course all us boys were very happy that the 60s were happening."
+
+I do things get better, generally. But the price of change is high.
+
+http://www.guardian.co.uk/books/2013/apr/21/marian-keyes-depression-mercy-close-interview (http://www.guardian.co.uk/books/2013/apr/21/marian-keyes-depression-mercy-close-interview )
+Marian Keyes: "The big mistake I made was thinking that happiness is the default position. Whereas it's just one of the countless states of mind we endure."
+
+https://github.com/mbostock/topojson (https://github.com/mbostock/topojson )
+"TopoJSON is an extension of GeoJSON that encodes topology. Rather than representing geometries discretely, geometries in TopoJSON files are stitched together from shared line segments called arcs."
+
+Have a lovely day.
+
+============================================================
+*|LIST:ADDRESS|*
+
+Thanks to Dave Briggs at  and Giles Turnbull at
+
+Every Friday: Roo's Letter
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** http://gilest.org (http://gilest.org)
+** http://tinyletter.com/rooreynolds (http://tinyletter.com/rooreynolds)
+** Unsubscribe (*|UNSUB|*)

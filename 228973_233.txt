@@ -1,0 +1,52 @@
+http://wikistream.inkdroid.org (http://wikistream.inkdroid.org )
+Take a look at a river of material being written into Wikipedia. You can exclude bots.
+
+http://www.visitproteus.com (http://www.visitproteus.com )
+Proteus is a sort of computer game, as far as I can make out. Actually it's not, now that I'm playing it. There's no gameplay, so far. It's a generated world which you explore. That's all I can tell you so far. Voxels, I think they're called? I think it's written in Mono and Lua. And GTK. And FSharp. Perhaps I'm looking too deep into the code. And Boo. Yes, there is a language called Boo ...
+
+http://boo.codehaus.org (http://boo.codehaus.org )
+... "A wrist friendly language for the CLI" - I'm assuming that's a good thing ...
+
+http://forum.unity3d.com/threads/124569-Lua-and-Unity/page2 (http://forum.unity3d.com/threads/124569-Lua-and-Unity/page2 )
+... Proteus also seems to have some Lua to Unity Engine bridge, called KopiLua.
+
+http://c2.com/cgi/wiki?BusinessLogicDefinition (http://c2.com/cgi/wiki?BusinessLogicDefinition )
+"Photons are irrelevant at this level, much as wood cells are irrelevant at the level of house architecture." Wood cells?
+
+Wow. Lua really is tiny.
+
+http://qz.com/75176/dispatch-from-inside-american-airlines-travel-hell/ (http://qz.com/75176/dispatch-from-inside-american-airlines-travel-hell/ )
+"Without the cloud, everything grinds to a halt."
+
+I wonder if I can get a cup of tea somewhere around here. I should check that out.
+
+I think I'm going to start writing more. A lot more. A lot lot more.
+
+http://will-self.com/2012/02/17/real-meals-the-lorelei/ (http://will-self.com/2012/02/17/real-meals-the-lorelei/ )
+At the Milk Bar on Bateman Street: the coffee is still only £1.50, but they are still open. The Lorelei over the way has finally called it a day. "As I sipped an espresso and smoked my pipe, I wondered if the Lorelei might be a sort of mystic portal ..." - everyone has some sort of inner, unreadable life. Don't they? I hope they do. It's the ones who are always the same who are the most troubling, to me ...
+
+http://russelldavies.typepad.com/ateaandathink/2004/12/lorelei_bateman.html (http://russelldavies.typepad.com/ateaandathink/2004/12/lorelei_bateman.html )
+... "Idly fiddling with the salt cellar" almost a decade ago ...
+
+http://www.nothingtoseehere.net/2008/03/the_lorelei_london_1.html (http://www.nothingtoseehere.net/2008/03/the_lorelei_london_1.html )
+... "Watching the vintage grey-green Cimbali coffee machine operated is akin to seeing Handel himself playing the organ." And now it's gone. I'm sitting across the road, listening to dubstep or something of the sort. Everyone here is younger than me. I always feel as though I'm about to walk into the wings of an empty theatre.
+
+http://d.pr/i/oAqN (http://d.pr/i/oAqN )
+Twitter gets ads and ... music? Okay. I'm more into Trello "business class".
+
+Two mails in quick succession: old geezer complaining about the Internet of things - and young upstarts trying to sell me one of the things of the Internet. Nice.
+
+Tell you what, I'm going to go back to Monmouth. At least I know what's happening there.
+
+Heavy on the hooter.
+
+Anyway. What a day. Everything changes, everything stays.
+
+============================================================
+*|LIST:ADDRESS|*
+
+Thanks to Dave Briggs at  and Giles Turnbull at
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** http://gilest.org (http://gilest.org)
+** Unsubscribe (*|UNSUB|*)

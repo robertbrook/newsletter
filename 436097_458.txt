@@ -1,0 +1,65 @@
+458 - TOM'S
+
+On the web (*|ARCHIVE|*)  - Signup link (*|LIST:SUBSCRIBE|*)
+
+http://www.iankitching.me.uk/danger-man/
+"John Drake believes in using his head rather than using a gun, only drinks when he has to and avoids entanglements with women (unlike James Bond)."
+
+http://search.cpan.org/~robins/XML-Rabbit-0.4.0/lib/XML/Rabbit.pm
+"Consume XML with Moose and xpath queries"
+
+Hey - I lost a subscriber. I know, I know. I've got a favour to ask, though. Could you help rustle up a replacement? It's just that the list isn't a round number now and it makes me feel weird.
+
+http://search.cpan.org/~memowe/Contenticious-0.333/lib/Contenticious.pod
+"... build web sites from markdown files"
+
+http://lcc.org.uk/articles/royal-college-street-cycle-tracks-in-camden-use-planters-and-rumble-strips-to-protect-cyclists-from-motor-traffic
+"Tagged with: camden, go dutch, cycle tracks, royal college street, planters, armadillos"
+
+http://cameron.io
+"Mostly charmless."
+
+http://search.cpan.org/~ether/Acme-LookOfDisapproval-0.006/lib/Acme/LookOfDisapproval.pm
+"Acme::LookOfDisapproval - send warnings with ಠ_ಠ"
+
+http://ocaml.org
+Redesign! " ... industrial strength ... "
+
+http://search.cpan.org/~yusukebe/Shodo-0.07/lib/Shodo.pm
+"Shodo generates Web API documents as Markdown format automatically and validates parameters using HTTP::Request/Response."
+
+http://pow.cx
+"Pow is a zero-config Rack server for Mac OS X." ...
+
+http://pow.cx/docs/
+... lovely docs.
+
+http://support.apple.com/kb/HT5869
+"Learn how the power button works in OS X Mavericks." - what? Oh, right ...
+
+http://support.apple.com/kb/ht1343
+... even more helpful: "Learn about common OS X keyboard shortcuts." Some real corkers in there. A couple favourites, though it seems a little out of date: "Command-Shift-H: Open the Home folder of the currently logged-in user account" and "Command-Shift-Option-Esc (hold for three seconds): Force Quit the front-most application" ...
+
+http://support.apple.com/kb/HT4718
+... "OS X Internet Recovery lets you start your Mac directly from Apple's servers." - still seems amazing to me.
+
+I seem to be losing weight again.
+
+http://www.theguardian.com/money/2013/nov/25/battersea-power-stationpenthouses-30m-price
+"Penthouse apartments in the redevelopment of Battersea power station are to go on the market at £30m each, compounding warnings that the booming London property market is becoming the preserve of a monied elite."
+
+I miss perl. I should do more.
+
+http://search.cpan.org/~jkegl/Marpa-R2-2.077_002/pod/Marpa_R2.pod
+Marpa, the latest ...
+
+http://search.cpan.org/~jkegl/Marpa-R2-2.077_002/pod/Scanless/G.pod
+... check out the "Scanless interface grammars".
+
+http://support.apple.com/kb/ht1725
+"When you buy music, movies, or TV shows from the iTunes Store, the download might get interrupted."
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

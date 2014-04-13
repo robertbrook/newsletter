@@ -1,0 +1,47 @@
+Yet another newsletter from Robert Brook
+
+View this email in your browser (*|ARCHIVE|*)
+
+http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE|*&t=*|URL:MC_SUBJECT|* Like (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE|*&t=*|URL:MC_SUBJECT|*)
+http://twitter.com/?status=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE|* Tweet (http://twitter.com/?status=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE|*)
+http://www.instapaper.com/hello2?url=*|URL:ARCHIVE|*&title=*|URL:MC_SUBJECT|* Read Later (http://www.instapaper.com/hello2?url=*|URL:ARCHIVE|*&title=*|URL:MC_SUBJECT|*)
+https://plus.google.com/share?url=*|URL:ARCHIVE|* +1 (https://plus.google.com/share?url=*|URL:ARCHIVE|*)
+
+
+http://www.kitchenchick.com/2008/02/paczki-day-tomo.html (http://www.kitchenchick.com/2008/02/paczki-day-tomo.html )
+"I am completely, utterly, indescribably happy to say that Amadeus is making paczki this year. Assuming the future will repeat the past, Amadeus's paczki are small flavorful hand-made delights that elevate Paczki to a whole 'nother level of delicious-ness."
+
+http://tomdoc.org (http://tomdoc.org )
+"TomDoc is a code documentation specification that helps you write precise documentation that is nice to read in plain text, yet structured enough to be automatically extracted and processed by a machine."
+
+http://pandas.pydata.org (http://pandas.pydata.org )
+"pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language."
+
+http://vvv.tobiassjosten.net/development/restify-your-api/ (http://vvv.tobiassjosten.net/development/restify-your-api/ )
+Tobias Sjösten lists the elements proper to a RESTful API: "Discoverability; Cachability; Web basics; RESTful criteria; Workflow and links; HATEOAS; Maturity model ..."
+
+http://dlo.me/archives/2013/02/11/the-perfect-bug-report/ (http://dlo.me/archives/2013/02/11/the-perfect-bug-report/ )
+"... after reading this, you should feel confident enough to write a bug report that is concise, information-dense, and makes it as easy as possible for the responsible person to resolve."
+
+http://julialang.org (http://julialang.org )
+Julia's math functions: "The library, largely written in Julia itself, also integrates mature, best-of-breed C and Fortran libraries for linear algebra, random number generation, signal processing, and string processing."
+
+"When you think of the long and gloomy history of man, you will find that far more, and far more hideous, crimes have been committed in the name of obedience than have ever been committed in the name of rebellion." - C. P. Snow
+
+http://www.londonfictions.com/pamela-hansford-johnson-this-bed-thy-centre.html (http://www.londonfictions.com/pamela-hansford-johnson-this-bed-thy-centre.html )
+"... if you are drawn to a haunting, bittersweet and sexy evocation of young love, set against an atmospheric backdrop of south-of-the-river suburbia in the years between the world wars, This Bed Thy Centre is for you." Pamela Hansford Johnson's book reviewed by Zoë Fairbairns - Dylan Thomas suggested changing the title from the earlier intended 'Nursery Rhyme'. "The book was banned from Battersea Rise public library, anonymous abusive notes were shoved through 23-year-old Pamela’s letter box, and relatives refused to speak to her."
+
+http://en.wikipedia.org/wiki/File:Imperial_Wharf-YuppiesT.JPG (http://en.wikipedia.org/wiki/File:Imperial_Wharf-YuppiesT.JPG )
+The second bridge out on the West London line, called - apparently - 'Yuppies'?
+
+http://bettermess.com/plain-text-primer-nvalt-101/ (http://bettermess.com/plain-text-primer-nvalt-101/ )
+Michael Schechter's excellent "Plain Text Primer". Chiefly a comprehensive overview of NVAlt. #terpstra
+
+http://zacharyvoase.com/2013/02/10/smallweb/ (http://zacharyvoase.com/2013/02/10/smallweb/ )
+Another view of the post-paged web and an extension of the single-page app idea: "I have a hunch that WebDAV combined with standard HTTP authentication could be the answer. I’m not 100% sure on it, but I can easily envision a world where you fix bugs in your website by opening it up in a browser, reading a stack trace, fixing the JS in that same browser and persisting your changes back to the server."
+
+A flurry of flu around.
+
+============================================================
+
+** Unsubscribe (*|UNSUB|*)

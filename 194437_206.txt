@@ -1,0 +1,42 @@
+http://srgpqt.github.com/Wakefile/ (http://srgpqt.github.com/Wakefile/ )
+One of very many static site generators ...
+
+https://github.com/aprescott/serif (https://github.com/aprescott/serif )
+... and another: "Serif is a file-based blogging engine intended for simple sites."
+
+http://www.chartjs.org/docs/ (http://www.chartjs.org/docs/ )
+Interesting - HTML5 now means "HTML5 + JS + JQuery + libs".
+
+http://limi.net/checkboxes-that-kill (http://limi.net/checkboxes-that-kill )
+You don't need to have any ideas to have something to work on. Just fix things which are broken. I really believe this. One of my obsessions: reduce friction in existing systems. Why not? Your amazing new product or service is going to sweep it all away? No it isn't. Start with making what we already have better.
+
+http://www.macstories.net/reviews/alfred-2-rewritten-from-the-ground-up-workflows-themes-and-more/ (http://www.macstories.net/reviews/alfred-2-rewritten-from-the-ground-up-workflows-themes-and-more/ )
+Alfred 2 is amazing. Might say goodbye to QuicKeys. Don Southard: "The workflows feature is unique and useful enough that I feel comfortable saying that feature alone is worth the price of the PowerPack license."
+
+http://river2blog.wordpress.com/2010/03/17/using-dropbox-to-publish-your-aggregator-2/ (http://river2blog.wordpress.com/2010/03/17/using-dropbox-to-publish-your-aggregator-2/ )
+Playing with OPML again. Has anyone got River2 outputting a static page to Dropbox? The docs seem way out of date. I might just generating that page and copying it to Dropbox with a folder action. Yes, I realise what I sound like.
+
+http://petitcodeur.fr (http://petitcodeur.fr )
+"Programme avec ta tête!" - rather lovely. I particularly like the favicon.
+
+It's definitely an owl.
+
+http://www.nytimes.com/2013/01/20/opinion/sunday/secret-ingredient-for-success.html?_r=1&&pagewanted=print (http://www.nytimes.com/2013/01/20/opinion/sunday/secret-ingredient-for-success.html?_r=1&&pagewanted=print )
+Camille Sweeney and Josh Gosfield: "No one’s idea of a good time is to take a brutal assessment of their animating assumptions and to acknowledge that those may have contributed to their failure. It’s easy to find pat ways to explain why the world has not adequately rewarded our efforts. But what we learned from conversation with high achievers is that challenging our assumptions, objectives, at times even our goals, may sometimes push us further than we thought possible." This makes me uncomfortable. I suppose that's the point.
+
+I finally went in an edited that awful Safari Reading List plist file by hand.
+
+http://jacquesmattheij.com/domain-knowledge-or-a-lack-thereof (http://jacquesmattheij.com/domain-knowledge-or-a-lack-thereof )
+"Domain knowledge is not optional, it is essential. The one common factor between the failed projects I come across is that they were automated by people that had little love for and little or no knowledge of the domain they were operating in." Duh.
+
+Pretty sure the chap on the wireless just said "entreprenerds".
+
+http://www.nytimes.com/2013/01/23/opinion/the-last-calendar.html?partner=rssnyt&emc=rss&_r=0&pagewanted=print (http://www.nytimes.com/2013/01/23/opinion/the-last-calendar.html?partner=rssnyt&emc=rss&_r=0&pagewanted=print )
+Olivia Judson: "To try to cope better with this situation, my brother and I created a shared Google calendar — an online calendar in which we could both make entries from wherever we happened to be. Each time either of us spoke to our father, we marked it in the calendar — what time of day it was, how he sounded, what we spoke about."
+
+Onwards.
+
+============================================================
+Registered address: *|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

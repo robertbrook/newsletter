@@ -1,0 +1,56 @@
+Good morning.
+
+http://terralang.org
+"Terra is a new low-level system programming language that is designed to interoperate seamlessly with the Lua programming language"
+
+http://www.rsync.net/products/pricing.html
+"32 cents per GB, per month" - Wolfram Alpha says that 20p per Gb per month. Doesn't that make it considerably more expensive than Dropbox? Am I missing something? Perhaps I have a decimal point in the wrong place.
+
+http://releases.ubuntu.com/raring/
+Ubuntu now has server builds for the Mac? "This image is adjusted to work properly on Mac systems."
+
+Recently searched for: "seinfeld elaine stuck on subway".
+
+http://www.camdencoffeehouse.co.uk/find-us#croydon
+Didn't like it.
+
+https://developer.mozilla.org/en-US/docs/Web/API/FileReader#readAsDataURL()
+Reading data and spitting it back out as a URL. #snazzy
+
+http://www.gnu.org/software/wget/manual/wget.html
+The wget manual. I like wget.
+
+http://en.wikipedia.org/wiki/Hinge_and_Bracket
+I recently tried to explain Hinge and Bracket, but failed. I pointed to the Wikipedia entry, which raises more questions that it answers ...
+
+http://www.smh.com.au/articles/2002/05/22/1022038434123.html
+... "many in their audiences were uncertain as to what they were supposed to make of the performance." I always rather enjoyed it on the wireless.
+
+http://m.soundcloud.com/platform
+Fed up with the Soundcloud faff? Try the mobile UI.
+
+http://www.wellcomecollection.org/whats-on/events/wrong/shame-confessions.aspx
+Confessions. "After a few months I was very proud to be able to say that there was a nice clear correlation between the amount of zinc in the wheat and the amount that made it into the insects that ate the wheat."
+
+http://www.theguardian.com/stage/2009/feb/08/lee-hall-pitmen-painters-review
+Rachel Cooke reviews 'The Pitmen Painters', 2009: " It is a funny play that asks big questions about education, culture and the working classes without ever being patronising, stupid, boring or using the dread word 'inclusive'."
+
+http://archive.org/details/MichaelNymanBandHilarySummers-If
+One of those 'public domain' videos that Merlin goes on about, I assume. This is Hilary Summers singing 'If', with The Michael Nyman Band. "I'd wish a wish to stop all harm."
+
+http://www.valhudson.co.uk/a1-gallery.asp
+The paintings of Val Hudson.
+
+https://www.threatstack.com/
+Cloud security, I think?
+
+http://www.vagrantbox.es
+I've been playing with Vagrant. It's amazing. The best thing about Vagrant is that I don't actually have to get my hands that dirty with VirtualBox.
+
+Lots of writing, much of it confused, better to forge on and clear the path, I think.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

@@ -1,0 +1,42 @@
+Use this area to offer a short preview of your email's content.
+
+View this email in your browser (*|ARCHIVE|*)
+
+Okay. Well, that text-only layout didn't work. Sorry about that. I'm not sure I can fix that, at least not quickly.
+
+http://support.apple.com/kb/ht5176 (http://support.apple.com/kb/ht5176 )
+Enabling dictation on iOS means enabling Siri? No thanks.
+
+https://medium.com/management-the-art-and-the-science/aaeb644d3652 (https://medium.com/management-the-art-and-the-science/aaeb644d3652 )
+After their no-work-from-home edict: "Yahoo doesn’t trust their people. Especially their management structure." I think this is a shortcut to saying Yahoo doesn't have confidence in corporate outcomes, which has lead to a lack of trust. The stated reasons seem really quite vague. We're working from evidence here, are we? Elsewhere, I read that 'modern management' includes the failing of having to be seen to do something. We can't fix the big external things, so let's change an internal thing and describe it as a fix - or even a reaction to external forces. "They may simply not have full confidence in their staff and management." Presumably, Yahoo shareholders will be the judge of this.
+
+http://www.stephenfry.com/2013/01/31/the-fire-question/single-page/ (http://www.stephenfry.com/2013/01/31/the-fire-question/single-page/ )
+Via @bobcatrock - Stephen Fry would take the iPhone and new Blackberry thing over the rest. In a fire.
+
+http://www.simonbrett.com (http://www.simonbrett.com )
+"I am very fortunate to make a living (most of the time) from something I would do anyway. I can’t remember a time when I didn’t want to write. I still do, and I want to do it better."
+
+http://www.websci13.org (http://www.websci13.org )
+Mark Bernstein reminds me of ACM Web Science 2013. This year it's in Paris, over my birthday, May 2nd to 4th. I'd rather like to go.
+
+http://kiwi-app.net (http://kiwi-app.net )
+A Mac client for app.net. $4.99. I'm still looking for a client that will let me turn off user icons.
+
+http://agiletortoise.com/drafts-sync/ (http://agiletortoise.com/drafts-sync/ )
+The iPad text editor that distresses me least is still Nebulous Notes. I write this, mostly, in Nebulous Notes. I also use Drafts, now and then. Drafts uses Simperium for syncing: "We selected Simperium because it is fast, reliable and flexible in ways not offered by other sync options." Cool. So - what ways? Simperium looks great, but how is it better than, say, iCloud or Dropbox? Looking around various writeups, it sounds like iCloud is fine for end users, not so great for developers.
+
+I'm pretty sure I need to get out of the website business. I wasn't really in the website business at all, but I'm increasingly convinced its really not a happy place for me. Only problem, I have no other skills. Or actual skills. Or skills.
+
+http://www.rabbitmq.com/getstarted.html (http://www.rabbitmq.com/getstarted.html )
+Getting started with RabbitMQ: helpfully clear diagrams and layout.
+
+http://berbaquero.github.com/poppp/ (http://berbaquero.github.com/poppp/ )
+I'm not a big dribbler, but if you are, you might enjoy this viewer.
+
+============================================================
+
+*|LIST:ADDRESS|*
+*|LIST:ADDRESS|*
+
+** BACK ISSUES (*|ARCHIVE|*)
+** UNSUBSCRIBE (*|UNSUB|*)

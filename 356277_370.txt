@@ -1,0 +1,35 @@
+Hello!
+
+Those iOS - and now Mac - 'sharing popups', or whatever they want to be called: clearly the targets on there are either Apple's built-in apps, services Apple likes and - you guessed it - email! It's the one thing no OS can shake off. Email. So if I built something around email, I'd be there on that sharing popup and likely to stay there. Easy integration, right?
+
+Anyone got any ideas about that static star map app for iOS?
+
+I have a hundred un-dealt-with emails, which makes me feel bad. Not a hundred un-read emails. I have no unread emails.
+
+http://www.nongnu.org/emacsdoc-fr/manuel/antinews.html
+"For those users who live backwards in time, here is information about downgrading to Emacs version 20. We hope you will enjoy the greater simplicity that results from the absence of many Emacs 21 features."
+
+http://storify.com/louisebrown/walking-the-seven-noses-of-soho
+Wonderful - The Seven Noses of Soho, narrated by Louise Brown.
+
+http://docs.fargo.io
+Ilicco Elia recommends I take a look at Fargo, the latest incarnation of something I've had a rather long history with, all the way back to scripting Quark XPress with UserTalk, then Frontier, ScriptingNews format in my.netscape.com replacing CDF, on and on. I'd join Ilicco in recommending Fargo. I can't imagine anyone's ever quite seen eye-to-eye with Dave Winer, but that's no reason to ignore his work. Fargo is a Javascript-driven content management and presentation system run over Dropbox. At least, that's one way of thinking about it. Underneath the hood, there's a great deal more. I particularly like seeing UserTalk rewritten in Javascript ...
+
+http://scriptogr.am
+... Ilicco also mentioned scriptogram, which I found exciting up to the point when I realised I'd actually played with it this January. Then I just felt a bit of a fool.
+
+Speaking of which, a Google image search for Ilicco would give you the impression he's some sort of hard case. This couldn't be further from the truth. He's a remarkably kind and generous man - and well worth getting to know.
+
+http://tynan.com/living-in-a-small-rv-introduction
+"Who needs armoires anyway? They're a symbol of what's wrong in the world, if you ask me." ...
+
+http://tynan.com/the-infamous-ghetto-indoor-pool
+... "Not getting the penguin was a very sad event for me. I had already named Magellan and was extremely excited."
+
+Have a good day.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

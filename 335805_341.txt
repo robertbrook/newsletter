@@ -1,0 +1,44 @@
+Good morning.
+
+"No woman is really an insider in the institutions fathered by masculine consciousness." Adrienne Rich
+
+http://monome.org/conversation/ (http://monome.org/conversation/ )
+"Everything has a function – if even to simply provide wonder or happiness. I have a collection of feathers. And a few notes and letters I behold this way." ... "Estimate how many LEDs you've soldered." / "30,000."
+
+https://github.com/oakes/Nightcode (https://github.com/oakes/Nightcode )
+"Nightcode is a simple IDE for Clojure and Java. It integrates a copy of Leiningen as well as the lein-droid and lein-cljsbuild plugins."
+
+I am reading about 'Sudbury schools'.
+
+http://elizabethhousewaterloo.co.uk (http://elizabethhousewaterloo.co.uk )
+Plans for Elizabeth House, at Waterloo ...
+
+http://www.brbr.co.uk/waterloo/Planning_Principles.pdf (http://www.brbr.co.uk/waterloo/Planning_Principles.pdf )
+... including the 'planning principles'.
+
+http://socialsounddesign.com/questions/tagged/max (http://socialsounddesign.com/questions/tagged/max )
+Questions on Max MSP at 'Social Sound Design', another Stack Exchange site.
+
+http://www.aronline.co.uk/blogs/concepts/concepts-and-prototypes/development-codes/ (http://www.aronline.co.uk/blogs/concepts/concepts-and-prototypes/development-codes/ )
+Alec Issigonis' prototypes at Longbridge.
+
+http://www.pponline.co.uk/blog/taking-notes-and-txt-38537 (http://www.pponline.co.uk/blog/taking-notes-and-txt-38537 )
+Sylvester Stein describes the use of the telegram: "It was twelve words for a bob, and delivered within minutes by uniformed lads on bicycles. If you've ever read The Riddle of the Sands, a pre-World War 1 thriller, you would have noted how the hero went around London's West End one morning to fit himself out in stout sea clothing: as he left the shoe-maker he would telegram his tailor in St James to say he'd be calling there in Bond St in ten minutes and please have his new suit ready for fitting."
+
+http://remote.bergcloud.com/publications/222 (http://remote.bergcloud.com/publications/222 )
+I have cobbled together a Little Printer publication for the UK Parliament's news feed. It's a 'developer test' at the moment, but I hope to make it public soon. I really like the Berg developer pages: simple enough for even someone like me to have a go. The publications says it's "Delivered every day", but there's actually only one delivered if new content is published by Parliament. At least, that's what I think I've set it up to do ...
+
+https://github.com/bergcloud/lp-publication-hello-world/commits/master (https://github.com/bergcloud/lp-publication-hello-world/commits/master )
+... My paltry effort was based on the work of Phil Gyford, Alice Bartlett and Nick Ludlam.
+
+http://www.mbl.is/mm/myndasafn/svipmyndir/svipm_ald_img.html?img=23 (http://www.mbl.is/mm/myndasafn/svipmyndir/svipm_ald_img.html?img=23 )
+The riots in Iceland against joining NATO, 1949.
+
+http://www.independent.co.uk/news/people/obituary-esme-langley-1542936.html (http://www.independent.co.uk/news/people/obituary-esme-langley-1542936.html )
+The writer and publisher Esme Langley: "Although she never married, she had three sons and six grandchildren. Her autobiography 'Why Should I Be Dismayed?' was published in 1958 ..."
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

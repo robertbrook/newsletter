@@ -1,0 +1,49 @@
+559 - POLYCEPHALOUS - on the web (*|ARCHIVE|*)
+Good morning lovely ones.
+
+"This sounds awful. Is this what working with other people is like?" - Marco Arment
+
+I'm agreeing with Marco, in particular, about the layers of abstraction in 'Canonical Agile'. I'm not a fan. By which I mean, it's not a good fit for me - the abstraction. I want to work with people and things, not representations of them.
+
+Okay, right, where's my hammer? You're all nails now.
+
+Now and then I get a reminder of quite how dim I am. It doesn't come as a shock any more.
+
+http://en.wikipedia.org/wiki/Nikki_(singer)
+Martika, you know, the singer - anyway - she was married to someone who was called Nikki, or Nikki Lee, later called Michael Mozart, recently Michael Daemon. Okay then.
+
+My middle name is Charles. Ha!
+
+http://fadingcity.com/suburbia/love-is-lost
+Bowie vs. The Clapping Song. Not sure. I've never heard a Steve Reich remix that was anything like the original. They're un-matchable ...
+
+http://fadingcity.com/suburbia/nagoya-marimba
+... this one, it's okay, I suppose. But once you've seen and heard Reich live, that's it, that's it.
+
+One thing, I suppose, is that it'll become all the more important where I choose to put my time and attention.
+
+http://rakudo.org/how-to-get-rakudo/
+I'm going to have another try at Perl 6. I don't have a recent enough JVM, apparently. I'm trying to build just with the parrot backend. My mum reads this, you know. Parrot backend. That's what I do at work. Parrot backend. Okay, so there's other things as well, but broadly speaking it's parrot backends all the way down ...
+
+https://github.com/tadzik/panda/
+... apart from the panda, of course. "The project ships two implementations: ufobuilder, being an extremely simple example implementation of Pies, and Panda, being the actual module manager to use." #pies
+
+Toolchains, right?
+
+"Compiling". For real!
+
+http://www.nhs.uk/conditions/stress-anxiety-depression/Pages/low-mood-stress-anxiety.aspx
+"The big blue tabs at the top of the page list the contents of each Moodzone section. Just hover your cursor over each tab and select the page you want from the drop-down menu. If you can't find what you're after in the Moodzone, try the Search box at the top of the page ..."
+
+"This is what I do for fun, yes."
+
+Lots happening, lots not happening. We should have a meeting. We should have a chat. We should talk.
+
+Have fun.
+
+============================================================
+
+*|LIST:ADDRESS|*
+
+
+** Unsubscribe (*|UNSUB|*)

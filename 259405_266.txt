@@ -1,0 +1,51 @@
+The world will change without you. The time will pass without you.
+
+http://c2.com/cgi/wiki?TopMind (http://c2.com/cgi/wiki?TopMind )
+This is a good example of exactly the sort of stuff I both admire and can't stand about "the philosophy of computing". It's a rather snarky debate on "table-oriented programming" - everything is relative, or everything is more things would benefit from being so.
+
+Personally - and I do realise what little I really know about this - I do enjoy experimental approaches. Anything that protects us from monoculture must be good.
+
+http://www.artefactsmastering.com/info.html (http://www.artefactsmastering.com/info.html )
+The particular details of getting your music remixed. "Don't send us premastered tracks with excessive compression on the main mix, or at least avoid that your limiter doesn't affect the transients. We can't work on already maximized tracks!"
+
+I love sitting in places in London where you can feel the tube rumbling under you. I suppose I'd miss that if I was somewhere else.
+
+https://www.fastmail.fm (https://www.fastmail.fm )
+Actually, I don't get much email. And I use - and certainly recommend - Fastmail, which seems to cull junk pretty well. If you feel jittery about your current email provider, you should check them out. Fastmail are owned by Opera, the people who make that browser no-one uses.
+
+I retreated from RSS feeds some time back - and I only keep a weather eye on Twitter, so to all intents I might as well be in the 1920s. For me, Twitter hasn't replaced RSS, but email has. I subscribe to things and even some humans send me email. It's great!
+
+http://www.wired.com/gadgetlab/2013/05/on-google-island/ (http://www.wired.com/gadgetlab/2013/05/on-google-island/ )
+"Your prostate is enlarged. Let’s go hangout now. There’s some really great music I’d like to recommend to you." Cue hollow laugh.
+
+There's a bird in Smith Square that does a passable impression of a car alarm.
+
+http://www.pomade-shop.eu/Hair-Tonics (http://www.pomade-shop.eu/Hair-Tonics )
+"Original hairstyling of the 1920-50s" - in German.
+
+I may be realising something. The voice isn't right.
+
+https://github.com/brianc/node-postgres (https://github.com/brianc/node-postgres )
+"PostgreSQL client for node.js. Pure JavaScript and native libpq bindings." Used by Yammer, apparently.
+
+A proper unsubscribe! Boo! Boo! Down with this sort of thing!
+
+https://sites.google.com/site/arclanguagewiki/getting-started/install-arc (https://sites.google.com/site/arclanguagewiki/getting-started/install-arc )
+Installing arc - and more recent variants.
+
+Just tripped on the stairs. A woman in her seventies helped me up.
+
+http://www.ebaytechblog.com/2013/05/17/how-we-built-ebays-first-node-js-application/ (http://www.ebaytechblog.com/2013/05/17/how-we-built-ebays-first-node-js-application/ )
+eBay: "Our entire workflow centers around Java and the JVM."
+
+*sneeze* - The sneezing is keeping me awake. So that's good.
+
+http://lifehacker.com/this-cheat-sheet-teaches-you-how-to-match-shirt-and-tie-507540764 (http://lifehacker.com/this-cheat-sheet-teaches-you-how-to-match-shirt-and-tie-507540764 )
+Via @redmamba - from the comments: "I understand the words striped and plaid, but you lost me at gingham and madras. I wish someone in fashion would speak in plain, non-metro-sexual terms."
+
+I'm still wearing my pink scarf. I feel fine, too.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

@@ -1,0 +1,43 @@
+Your message here! Seriously, if it's not too weird. Just mail me.
+Ouch. First unsubscribe. Great start to the week. Which is when I typed this. I suppose I could work out what people want to read and write that? That seems a lot of effort. Also probably boring.
+
+http://blog.iso50.com/31217/vhs-box-graphics/ (http://blog.iso50.com/31217/vhs-box-graphics/ )
+VHS box graphics. Huh.
+
+If I was still on Twitter and did this sort of thing, I'd say I was in Workshop Coffee. Some kid is eating apple slices while his mum talks about kick-boxing. The staff switch between English and Danish. Or Swedish? I think Swedish. Two Americans talk about "the enterprise sales cycle" and "SMEs". Not that there's anything wrong with that, of course. We've sold out of everything but brownies. Brownies for breakfast? Not even once. Well, there's zone one for you. The coffee's nice.
+
+http://www.reddit.com/r/HailCorporate/ (http://www.reddit.com/r/HailCorporate/ )
+"Exposing the corporate shills, marketers and astroturfers of Reddit" - rather clever.
+
+A friend - yes, the one who decided to learn Django - has started asking me about site hosting. I need to do some research, clearly. They've got a basic site up on a local laptop, but this next step is going to be difficult to explain.
+
+http://www.bbc.co.uk/news/world-europe-isle-of-man-21474032 (http://www.bbc.co.uk/news/world-europe-isle-of-man-21474032 )
+So that's where those bendy buses ended up - the Isle of Man! "There has been widespread concern the buses would not be suitable on the island's roads ..."
+
+http://cf.gov.im (http://cf.gov.im )
+... a beta of the new Isle of Man government site.
+
+I use Apple's Safari Reading List, but it seems to be really slowing down. I don't have more than a couple of dozen pages in it - surely it can handle that? iCloud gets laggy syncing it almost daily now. #firstworldproblem
+
+http://www.examiner.com/article/millercoors-introduces-new-marketing-gimmick-the-vortex-bottle (http://www.examiner.com/article/millercoors-introduces-new-marketing-gimmick-the-vortex-bottle )
+'... the MillerCoors rep told distributors that the bottle has specially designed grooves inside the neck that “create a vortex as you’re pouring the beer,” and said that the brand’s goal is to “create buzz and excitement and give consumers another reason to choose Miller.”'
+
+Can I ask a question about Pusher? The messaging thing? I think I'm missing something obvious again. I can't see where the pushed messages are stored - is it up to the consumer to handle that? It must be. So, if I want pushed messages from ten minutes ago, I'd need to look in local storage, right?
+
+Sleeping really badly now. Not sure what that's about. Actually I am sure, but I just don't want to think about it.
+
+Oh now that's embarrassing. It wasn't an unsubscribe after all. So I feel great now. Sorry.
+
+Have a good day today, folks.
+http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE|*&t=*|URL:MC_SUBJECT|* Like (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE|*&t=*|URL:MC_SUBJECT|*)
+http://twitter.com/?status=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE|* Tweet (http://twitter.com/?status=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE|*)
+http://www.instapaper.com/hello2?url=*|URL:ARCHIVE|*&title=*|URL:MC_SUBJECT|* Read Later (http://www.instapaper.com/hello2?url=*|URL:ARCHIVE|*&title=*|URL:MC_SUBJECT|*)
+https://plus.google.com/share?url=*|URL:ARCHIVE|* +1 (https://plus.google.com/share?url=*|URL:ARCHIVE|*)
+http://www.linkedin.com/shareArticle?url=*|URL:ARCHIVE|*&mini=true&title=*|URL:MC_SUBJECT|* Share (http://www.linkedin.com/shareArticle?url=*|URL:ARCHIVE|*&mini=true&title=*|URL:MC_SUBJECT|*)
+
+============================================================
+
+** b (*|ARCHIVE|*)
+** ack issues (*|ARCHIVE|*)
+** u (*|UNSUB|*)
+** nsubscribe (*|UNSUB|*)

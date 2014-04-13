@@ -1,0 +1,58 @@
+It's my birthday today. I'm 41.
+
+http://www.youtube.com/watch?v=evllPOj0wTo (http://www.youtube.com/watch?v=evllPOj0wTo )
+One for @marxculture: Ryuichi Sakamoto & Alva Noto, 'Ax Mr. L.' ...
+
+http://www.youtube.com/watch?v=7JTroFovUXw (http://www.youtube.com/watch?v=7JTroFovUXw )
+... Tom Conti, David Bowie, Ryuichi Sakamoto, Takeshi Kitano. It's still one of my favourite films.
+
+And I have been reading papers books again: Bruce Chatwin, John Betjeman, Christopher Isherwood and ... something else, but I forget.
+
+http://jaspervdj.be/blaze/ (http://jaspervdj.be/blaze/ )
+"BlazeHtml is a blazingly fast HTML combinator library for the Haskell programming language."
+
+http://research.ncl.ac.uk/histos/documents/2011WP03MarincolaIntertextualityandExempla.pdf (http://research.ncl.ac.uk/histos/documents/2011WP03MarincolaIntertextualityandExempla.pdf )
+"DO NOT CITE WITHOUT PERMISSION OF AUTHOR."
+
+http://roundabout.io (http://roundabout.io )
+"London Startups, Agencies and Digital Companies shown on map."
+
+http://perltricks.com (http://perltricks.com )
+Apparently there is, or was, a Perl Rennaisance. I miss Perl, now and then. I hope Perl 6 gets big. I like the macros idea ...
+
+http://strangelyconsistent.org/blog/macros-what-are-they-really (http://strangelyconsistent.org/blog/macros-what-are-they-really )
+... here's Carl Mäsak on Perl 6 macros: there's Lisp-style quotes to make syntax trees, "I want you to incorporate this already-parsed AST into this currently-being-parsed code" - this article helped me understand a couple of things a bit more clearly.
+
+Is Lean still a thing? Not "Lean In", just Lean. I must get away from the idea that everything is driven by money. Not because it isn't necessarily true, just that it's becoming distressing for me.
+
+http://www.tinypass.com/ (http://www.tinypass.com/ )
+A nice-looking payment platform.
+
+I know it's a bit nuts, but I still keep running vim. It just works. I know all the complaints about vimscript and plugins - I don't use either of them. I just run vim and a local .vimrc file. It's fast, stable and predictable. That's more than good enough for me.
+
+http://thebrief.io/ (http://thebrief.io/ )
+"Tech news that matters"
+
+I was lent all of the Transmetropolitan series to read, which I really enjoyed. I hope Merlin does get round to reading it soon: I think he'd enjoy it too. I was rather sad to come to the end of it.
+
+http://www.bbc.co.uk/news/uk-england-gloucestershire-22240142 (http://www.bbc.co.uk/news/uk-england-gloucestershire-22240142 )
+I've always enjoyed visiting these shrunken villages. Bourton is the softer cousin to the Megacity One of Bekonscot.
+
+Passing Hyde Park. One day it will be an alien thing. I think I'll walk over Green Park, then St. James.
+
+http://www.korguser.net/wist/ (http://www.korguser.net/wist/ )
+I fought with MIDI in Cubase, years ago. I didn't win. I don't yet quite understand Korg's Wist system: "wireless sync-start between two WIST-compatible apps on two iPads and/or iPhones located near each other." That sounds great, but what does it mean? The things seem to talk to each other, but only to fire off, not sync continually. Again, maybe I'm missing something. I think it is doing that, but I'm not pressing buttons I should be pressing.
+
+Have a lovely day.
+
+============================================================
+*|LIST:ADDRESS|*
+
+Thanks to Dave Briggs at  and Giles Turnbull at
+
+Every Friday: Roo's Letter
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** http://gilest.org (http://gilest.org)
+** http://tinyletter.com/rooreynolds (http://tinyletter.com/rooreynolds)
+** Unsubscribe (*|UNSUB|*)

@@ -1,0 +1,27 @@
+520 - DRAGONFLY - on the web (*|ARCHIVE|*)
+
+Good morning dear friends.
+
+It is the 2nd of February. In three months, it will be my 42nd birthday. And the last of these newsletters. Frankly, if you've stuck around this long you might as well put up with it for another three months.
+
+http://abchomeopathy.com/r.php/Petr
+"Loses his way in streets / Thinks he is double, or someone else lying alongside / Feels that death is near, and must hurry to settle affairs / Irritable, easily offended, vexed at everything" - not exactly NHS Direct.
+
+I would like Maciej Cegłowski to write a web-based feed reader. If you know him, perhaps you might mention it? He could bundle it in with pinboard. For example. My goodness, what's happened to RSS is pretty disappointing. I suppose that no matter how good the readers are, the sources are so inconsistent now that there's no point.
+
+Why doesn't curation work? Actually, it does sometimes. I'm usually pleasantly surprised with the outputs of the accounts I follow on pinboard. Pinboard is great.
+
+To argue against net neutrality: aren't we simply seeing large companies doing what they always do? Isn't this exactly how markets always work? Why should I have comparable internet access to anyone else! without paying some different amount? Of course, personally, I'd much rather keep my internet access as open and low cost as possible. But, I don't own the wires or the technology - someone else does. Why should those providers not charge what the market will bear? Why wouldn't they? Why won't they?
+
+Of course the open internet encouraged free trade. But we might be at the beginning of a few companies making a lot of money, quickly, for a short period. If you believe in raw capitalism, wouldn't you be okay with that? Those people would argue that these periods are simply necessary and expected convulsions, where companies make money and us consumers lose out for a while. A great big shifting about of capital, with some unfortunate side-effects.
+
+If we're okay with companies running in an unfettered manner, we can't pretend to be surprised at the outcomes. I don't have the faith in companies that some people I know have.
+
+The usual mail backlog. I'm getting to it. I'm getting through it! Every day, in every way. And I'm trying out org mode for a while again. I like it. It feels a bit like markdown.
+
+Have fun today.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

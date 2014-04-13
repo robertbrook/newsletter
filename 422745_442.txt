@@ -1,0 +1,65 @@
+442 - SILVERY
+
+On the web (*|ARCHIVE|*)
+
+"Let's work with data." Yes, let's.
+
+Sometimes I want to let it all unravel, to let it all just happen and dissolve away.
+
+Like making a sandwich.
+
+http://intentionjs.com
+"... a light-weight and clear way to dynamically restructure HTML in a responsive manner."
+
+https://github.com/mion/harvestman
+"Quick and dirty web crawling." What's not to like.
+
+http://deostone.in.th
+"TRENDY"
+
+http://codekeyboards.com
+"Out of stock."
+
+http://www.nytimes.com/books/97/03/23/lifetimes/asi-v-fair.html
+Isaac Asimov, writing in 1964, imagining our next year - 2014: "men will continue to withdraw from nature in order to create an environment that will suit them better"; "Robots will neither be common nor very good"; nuclear power; solar power; "transportation that makes the least possible contact with the surface" - ground-effect planes; "roboticized cars"; "moving sidewalks"; "moon colonies"; ... "Underwater housing will have its attractions to those who like water sports".
+
+So, have you tried predicting half a century ahead? What's 2064 going to look like?
+
+Please never use the word "excellence" in my hearing.
+
+http://puma.io
+"Unlike other Ruby Webservers, Puma was built for speed and parallelism. ... It is designed for running Rack apps only."
+
+http://www.thejournalshop.com/midori-memorandum-card-bronze
+"These ultra lightweight bronze Midori Notecards are great for on the spot notetaking when you do not have a notebook with you. Weighing only 6g, you can keep one of these on your at all times and not notice its presence until you need it." Delightful.
+
+https://mxr.mozilla.org/mozilla/source/js2/semantics/
+"js/semantics contains experimental code used to generate LR(1) and LALR(1)
+grammars for JavaScript as well as compile and check formal semantics for
+JavaScript."
+
+http://www.ness-st.co.uk/pdf/Peco_1968_catalogue.pdf
+The Peco model railway catalogue, from 1968.
+
+http://sydney.edu.au/engineering/it/research/tr/tr223.pdf
+'British Mechanical Gunnery Computers of World War II', by Allan Bromley, 1984. Beautiful layout and diagrams.
+
+http://parall.ax/products/jspdf
+"A HTML5 client-side solution for generating PDFs."
+
+http://omz-software.com/highlighter/index.html
+"Highlighter is a powerful PDF reader with advanced annotation tools and an intuitive, polished interface." I like it.
+
+http://www.splunk.com/web_assets/pdfs/secure/Splunk_Quick_Reference_Guide.pdf
+Splunk's massive quick reference guide.
+
+http://hoi-polloi.co.uk/menus/Hoi-Polloi_Menus_10-2013.pdf
+The menu at Hoi Polloi. Looks nice.
+
+http://www.fornobravo.com/pizzaquest/instructionals/59-written-recipes/292-the-marinara.html
+I like marinara pizza. You know, just in case you were thinking of inviting me. For pizza.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

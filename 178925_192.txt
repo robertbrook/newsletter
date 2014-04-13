@@ -1,0 +1,38 @@
+As long as talent leaving Apple goes somewhere, fine. If it disappears, that wouldn't be good.
+
+http://www.coffeesmithscollective.co.uk/coffeeschool (http://www.coffeesmithscollective.co.uk/coffeeschool )
+Via Liz Conlan: courses on "The Art and Science of Espresso" and "Brewing for Taste".
+
+"Your brain sees it as a pattern."
+
+http://www.independent.co.uk/news/obituaries/kevin-ayers-singer-guitarist-and-pioneer-of-british-psychedelic-rock-8503815.html (http://www.independent.co.uk/news/obituaries/kevin-ayers-singer-guitarist-and-pioneer-of-british-psychedelic-rock-8503815.html )
+Via John Keogh: an obituary of Kevin Ayers - "he lacked the confidence and huge ego so prevalent in most rock stars". At 63, he said "The older you get, the less you feel the need to communicate. 'Reflective' is the key word."
+
+Listening to Germans. Everything makes sense.
+
+http://www.rstudio.com/shiny (http://www.rstudio.com/shiny )
+Via Jez Higgins: "Shiny makes it super simple for R users like you to turn analyses into interactive web applications that anyone can use."
+
+Interesting. Squarespace doesn't host videos. But Wordpress can, using VideoPress.
+
+http://www.70decibels.com/generational/ (http://www.70decibels.com/generational/ )
+A recent edition of the Generational podcast suggested 'customisation as affliction'. As we get older, we tweak less. Also in that podcast: a prediction that Markdown will never reach mass adoption, but HTML will survive. We'll end up with rich text editors saving as HTML. I don't disagree. I've been looking at minimal valid HTML documents, too - and wondering about 'complicated' documents in HTML. If you still want weird markup and layout, it'll have to be TeX.
+
+At the crossroads by Lavender Hill police station, they watch for van drivers on mobiles and stop them after the lights.
+
+On the side of a bus, an advert for a film. In the small print: four executive producers and three producers. That's more executive producers than billed cast.
+
+Me wanting FoldingText to have an outline mode, rather than just outlining commands, is likely asking for the moon on a stick. I did work out autonumbering by just pressing return after an existing numbered item - that should have been obvious. I'm still writing this in Sublime rather than Folding, though. But I'd love to write in a proper outliner, like I used to in Frontier. Speaking of Folding, why doesn't it just use straight Markdown, instead of it's own remix?
+
+I closed my Rdio account. Its a fine service, but I don't listen to enough music to justify running it.
+
+Here's another one of those 'next actions' I wrote down a few days ago that now, again, makes no sense at all. "Automation tasks morning"? What on earth does that mean? I should really stick to the canonical GTD way of writing tasks: make it verby and write as though you were leaving a note for someone else.
+
+Enjoy today.
+
+============================================================
+
+*|LIST:ADDRESS|*
+
+** BACK ISSUES (*|ARCHIVE|*)
+** UNSUBSCRIBE (*|UNSUB|*)

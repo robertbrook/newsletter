@@ -1,0 +1,27 @@
+465 - HEALTH TOO - on the web (*|ARCHIVE|*)
+
+Thank you to a North London Line correspondent for noting that I had indeed repeated a header image from the 'EDGE' issue. That's 'HEALTH' at the top there today.
+
+It's pretty chaotic, I think. The whole pay-for-software thing. Apple is pushing down their own software prices and content to rely on hardware sales. Microsoft, Adobe and the rest have moved to subscription. What's the future of free?
+
+I mean, if I want to live with Ubuntu, or arch, or whatever - "free always wins", right? Is that right, any more? Of course, many people think Ubuntu isn't really free any more. Non-free, they call it.
+
+So if I stay with Apple, I have to use a domestic OS and pretend to be a developer with VMs. If I jump to arch, I have to use an industrial OS and try to forget the desktop. I'm not sure Ubuntu will survive.
+
+The horrid fudge is iOS on the little screen and arch on the big one. And never the twain.
+
+There was something else, but I forget. Oh yes - this could just be part of my inevitable migration away from screens. All I have to do then is find some way of earning money. Or, being paid. Or, keeping the lights on. Or, being somewhere where the lights are on.
+
+http://fadingcity.com/suburbia/city-of-light
+HASYMO. Wonderful.
+
+I'm reading "The Red Men", by Matthew de Abaitua. I was - very kindly - invited to LNDIA recently to hear him talk, along with Matt Sheret. I really enjoyed it. And I was glad to have been reminded to come along, since I rarely do go out and listen to people. I'm notoriously not a people person. I gave up being in groups a few years ago. There's no a loop I'm in any more. All the old words mean new things.
+
+I'm a little ashamed to say that a few dozen pages in I though "The Red Men" was going to be a trot through some recognisable tropes and that I'd drift off. But I'm glad to say that I was quite wrong - and that the book is pleasingly upsetting in many parts. You should read it. If you like that sort of thing.
+
+Running "brew update" and "brew doctor" every couple of days only serves to remind me I should slowly let go of Mac OS as a development platform.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

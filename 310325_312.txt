@@ -1,0 +1,43 @@
+"Live" from London!
+
+View this email in your browser (*|ARCHIVE|*)
+
+http://www.anchorcms.com/docs (http://www.anchorcms.com/docs )
+I'd love to see a simple PHP CMS that doesn't immediately start talking about MySQL. Not that there's anything wrong with Anchor: "a free, lightweight, faster-than-a-bullet, simple blogging system, made for art–directed posts".
+
+http://threads2.scripting.com/2013/july/engelbartWasSidelined (http://threads2.scripting.com/2013/july/engelbartWasSidelined )
+Dave Winer writes on Doug Engelbart ("Let people continue to develop as they please, even if you don't understand what they're doing."). In the comments, Ray Ozzie ("the social productivity platform is now in the early stages of a complete reset") and Mark Bernstein ("I'm currently in the midst of a complete rewrite of Tinderbox - ten years of development recapitulated in months. New platform, new framework, new language: it's remarkable how much better the new code is."). Man alive, I like the sound of that.
+
+http://bethblog.smallpict.com/2013/07/07/theProblemWithRivers (http://bethblog.smallpict.com/2013/07/07/theProblemWithRivers )
+"No one is writing any interesting content anymore."
+
+http://tunes.org (http://tunes.org )
+"TUNES started in 1992-95 as an operating system project, but was never clearly defined, and it succumbed to design-by-committee syndrome and gradually failed. Compared to typical OS projects it had very ambitious goals, which you may find interesting."
+
+http://www.independent.co.uk/arts-entertainment/books/features/bloomsbury-laid-bare-frances-partridge-reveals-the-truth-about-her-fellow-writers-1666072.html (http://www.independent.co.uk/arts-entertainment/books/features/bloomsbury-laid-bare-frances-partridge-reveals-the-truth-about-her-fellow-writers-1666072.html )
+I heard Frances Partridge on the wireless recently. Mark Bostridge reviews "the material that she was too kind to publish during her lifetime", 2009.
+
+http://en.wikibooks.org/wiki/Common_Lisp/First_steps/Beginner_tutorial (http://en.wikibooks.org/wiki/Common_Lisp/First_steps/Beginner_tutorial )
+A beginner's tutorial in Common Lisp. Delightful.
+
+http://www.igrs.sas.ac.uk/centre-study-contemporary-womens-writing/languages/italian/goliarda-sapienza (http://www.igrs.sas.ac.uk/centre-study-contemporary-womens-writing/languages/italian/goliarda-sapienza )
+"For having stolen a friend’s jewels she even spent a few days in the Roman women’s prison Rebibbia, and this unique experience inspired 'L'università di Rebibbia' (1983) and 'Le certezze del dubbio' (1987)."
+
+http://stamplin.com/api/docs/extracttextpdf/ (http://stamplin.com/api/docs/extracttextpdf/ )
+A simple, basic web service to extract text content from PDFs.
+
+http://devtoolsecrets.com (http://devtoolsecrets.com )
+I might have posted this before. Andi Smith writes on 'Secrets of the Browser Developer Tools'. I particularly like 'console.table()'.
+
+http://functionspace.org (http://functionspace.org )
+This looks great - and seems to be a bit more broad-ranging than the Maths Stack Exchange site. Not that there's anything wrong with that.
+
+https://twitter.com/FakeFunding (https://twitter.com/FakeFunding )
+"Startup Funding News", not really.
+
+Honestly, so much of the web seems an unreadable mess to me. I don't want to have to start using local scripts and styles to calm it all down, but it really is becoming distracting. Perhaps I could try lynx.
+
+*|LIST:ADDRESS|*
+Unsubscribe (*|UNSUB|*)
+
+============================================================

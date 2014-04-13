@@ -1,0 +1,37 @@
+492 - GRATE - on the web (*|ARCHIVE|*)
+
+Highlander is a rather odd film.
+
+http://www.spiked-online.com/newsite/article/technology_in_museums_less_is_more/14433
+Wendy Earle: "Museums do themselves no favours by trying to compete with the multimedia attractions of contemporary culture by imitating them."
+
+http://www.creativereview.co.uk/cr-blog/2009/march/meet-mr-chicken
+Via Mark O'Neill. There's can't be that many web pages with the term "interlocking chickens" on them.
+
+https://code.google.com/p/lua-checker/
+"Lua Checker was developed within the Street View team at Google to validate Lua scripts."
+
+http://gurneyjourney.blogspot.co.uk/2013/12/waterlogue-app.html
+John Keogh has a sharp eye for things like this: apps for iOS that may surprise and delight. Thank you again to John for doing the hard work! Here's James Gurney on 'Waterlogue': "I started by taking a photo of our teapot using our iPad. Then Waterlogue started dissecting the image in real time, searching out contours, dropping in blotches of color, and applying watercolor-like effects, such as a wet-into-wet color bloom."
+
+http://www.ubu.com/sound/obscure.html
+"Obscure Records was a U.K. record label which existed from 1975 to 1978. It was created and run by Brian Eno, who also produced the albums ..." An amazing roster: Gavin Bryars, John Adams, Eno himself, John Cage, Michael Nyman, Penguin Cafe, Harold Budd and more. Thanks to John Keogh for the link as well.
+
+https://github.com/sivers/sivers.org/blob/master/Rakefile
+Derek builds his site from a Rakefile. I'm still working on mine, obviously a great deal simpler than his. I like it, though: it just works. Crude, perhaps, but effective.
+
+http://feeds.webscript.io
+I wrote this: it's a very basic feed aggregator. I haven't worked out how to handle multiple http calls in Lua gracefully yet, so it loads slowly.
+
+http://www.sothebys.com/en/auctions/2013/so-williams-n08984.html#&i=0
+Sotheby's handled the auction of Navajo blankets collected by Andy Williams. "SALE TOTAL: 978,506 USD" - thanks to my mum for the link. I think Sotheby's originally had it valued for over a million.
+
+http://www.sothebysrealty.com/eng/sales/detail/180-l-1900-4000046148/the-tower-vauxhall-london-en-sw8
+I get the bus past this thing most days. There's an 'apartment' for sale in the new tower at Vauxhall for ... wait for it ... £19.5 million. That's a lot of money. You get four bedrooms and a view, I suppose. But still, £19.5 million. Vauxhall. Just by the bus station. And there's a Tesco Metro.
+
+Onwards.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

@@ -1,0 +1,42 @@
+I'm "robertbrook" on Apple's Game Centre. Is that still a thing? Or did it do a Ping?
+
+https://github.com/madebymany/sir-trevor-js
+A 'content-agnostic editor'. The more interesting this JS stuff gets, the more I want a solid, fast JS VM.
+
+https://ameliaandersdotter.eu/2013/10/13/drmeme-html5-american-thing
+"... the Mozilla people from California were not aware that Netflix does not provide services in all of the European Union." And later: "it is important to distinguish between the role of a legislator and democratic governance and CEO Jeff of the W3C. Ultimately, I was elected to represent and make decisions in accordance with the general interest of the European public. The W3C does not carry this legitimacy."
+
+"She's an artist - she doesn't do anything."
+
+I gave in and turned on all the visual accessibility features on iOS 7. I don't have any worse eyesight than most other 41 year olds, I think. I don't wear glasses. But my goodness it does make a difference. Like some others, I do expect later versions of iOS 7 to have a toned-down UI. I mean, a moving background? Who on earth thought that was going to work?
+
+"There's a place for cynicism."
+
+I'm finally getting round to deleting the iOS 7 Podcasts app and going back to Instacast. A great relief.
+
+http://docs.ghost.org/installation/mac/
+Giles Turnbull recommends the Bitnami installer on Mac OS for taking a look at Ghost ...
+
+http://gilest.org/bad-transport-poetry.html
+... more proof that I'm a terrible person: "If you can write basic HTML and can FTP stuff to a server, you can create a publication. Robert laughed when I told him I did it manually like that." Nice new look, too. I wonder if I could make a BBEdit Little Printer package? That would be great ...
+
+http://robertbrook.com
+... Giles inspired me to simplify my own site. I've stopped adding things to my public iCal calendar. If it looks interesting, I'll put things here.
+
+http://en.wikipedia.org/wiki/Patrick_Stewart
+"In 1993, TV Guide named him the best dramatic television actor of the 1980s, and television's sexiest man in the previous year." The tone of that seems a little off. "Previous year"? Not so sexy in 1994.
+
+https://github.com/opserver/Opserver
+Via Liz Conlan: "Stack Exchange's Monitoring System" ... "Installation should be a snap, just build this project as-is and deploy it as an IIS website."
+
+Onwards.
+
+
+
+Unit Seven, Red Lion Quarter, Spalding PE11 1WD
+
+ARCHIVE (*|ARCHIVE|*)
+
+UNSUBSCRIBE (*|UNSUB|*)
+
+============================================================

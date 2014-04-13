@@ -1,0 +1,40 @@
+Vol. 2, No. 585. "POLLINATION".
+Hello!
+
+http://www.rspb.org.uk/supporting/campaigns/campaignwithus/campaigners.aspx
+"The main aims of being an RSPB campaigner are to remind your MP, or local decision maker, that environmental issues are important, and to urge them to take positive action."
+
+"At first she dreamed of sheep, of going to school, of cats drinking milk. Little by little she dreamed of blue sheep, of going to school in the middle of the woods, of cats drinking milk from golden saucers. And her dreams became increasingly dense and acquired colours that were difficult to dilute into words." - Clarice Lispector
+
+Squarespace doesn't automatically embed gists? #disappoint
+
+http://www.statusboardapp.info
+A register of things your can display in Panic's "Status Board" iPad app ...
+
+http://jasper.tandy.is/making-status-boards/
+... here's an example of one setup.
+
+http://yoursenedd.com
+A Rails application: a TheyWorkForYou for the Welsh Assembly.
+
+http://stackoverflow.com/questions/3974077/throwing-cats-out-of-windows/3974094#3974094
+"... a cat reaches terminal velocity by the 9th floor. After that, it relaxes and is less likely to be hurt. There are completely uninjured cats after a fall from above the 30th. The riskiest floors are 5th to 9th."
+
+https://www.dublinbus.ie/Global/RouteNetworkDiagram.pdf
+Surely there must be a better diagram of bus routes in Dublin?
+
+http://en.wikipedia.org/wiki/Calling_Occupants_of_Interplanetary_Craft#The_Carpenters.27_version
+"The group Lard recreates the chorus with a somewhat similar vocal, but completely different lyrics, in the song 'Pineapple Face' from the album The Last Temptation of Reid. 'Pineapple Face' is a reference to Manuel Noriega and the song presents the lyrics as the thoughts and words of Noriega while taking refuge in the Vatican embassy after the U.S. military surrounded it during Operation Nifty Package."
+
+http://www.complang.tuwien.ac.at/forth/gforth/Docs-html/Return-Stack-Tutorial.html
+"The return address of the definition and the loop control parameters of counted loops usually reside on the return stack, so you have to take all items, that you have pushed on the return stack in a colon definition or counted loop, from the return stack before the definition or loop ends. You cannot access items that you pushed on the return stack outside some definition or loop within the definition of loop."
+
+http://en.wikipedia.org/wiki/Clochemerle
+"Clochemerle is a 1934 French satirical novel by Gabriel Chevallier. It is set in a French village in Beaujolais inspired by Vaux-en-Beaujolais and deals with the ramifications over plans to install a new urinal in the village square."
+
+============================================================
+
+*|LIST:ADDRESS|*
+
+
+** Unsubscribe (*|UNSUB|*)

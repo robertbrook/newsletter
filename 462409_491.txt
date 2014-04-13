@@ -1,0 +1,43 @@
+491 - TEDDY - on the web (*|ARCHIVE|*)
+
+Good morning.
+
+https://github.com/Yonaba/Moses
+For Lua: "A utility library which provides a set of helpers acting as shortcuts for common programming tasks, and support for functional programming." ...
+
+https://github.com/Yonaba/Allen
+... "Allen is a Lua library which provides a set of utilities and helpers for strings operations. In a nutshell, Allen is to strings what Moses is to tables." ...
+
+https://github.com/robertbrook/webscript-lua-modules
+... both of those from Roland Yonaba of Ouagadougou - and very gratefully hoovered up into my webscript.io toolkit.
+
+I seems to be troubled by a headache. I should probably drink some water.
+
+My annual subscription to Dropbox has renewed. Again, I still think Apple would much prefer me to be using iCloud for everything. But they've some way to go before it's a functional replacement.
+
+http://www.bbc.co.uk/programmes/b03m40zj
+Another iPlayer pick, this one thanks to Mark Charmer: "In a special programme Andrew Marr looks back over the long career of Clive James." I always preferred him on the wireless.
+
+http://www.flickr.com/photos/lloyd-davis/11732829894/
+Another time-lapse from Lloyd, this one of the view down the the upper platforms at Waterloo from ... I'm not quite sure where. I do like these; they seem wonderfully detailed ...
+
+http://perfectpath.co.uk/2014/01/03/some-hows-of-timelapse/
+... "If only there was some way to Google that." Instagram's loss is my gain, so to speak. "I’ve been told by many people that they’ve had visions of me dying young." ...
+
+http://lloyddavis.tumblr.com
+... further delicacies and confections!
+
+http://akvo.org/blog/how-were-wired/
+Mark Charmer: "Trust takes time to build, but is very easy to break, and as an organisation changes it’s really easy to upset people, perhaps because they feel excluded from something, or because there is a different sense of underlying assumptions from different people, about what the organisation’s purpose is, what their role is, and what the roles of others are. But things like this will happen now and again, inevitably, and it’s just a case of getting on and fixing them."
+
+And now I will pay the electricity bill.
+
+http://www.inf.puc-rio.br/%7Eroberto/talks/www2013.pdf
+"Wouldn't the world be better if everybody used the same programming language?" ... "Lua is a library, not a language." Roberto's saying this now: it's still how he sees it. But I can't imagine ever using Lua as a library; it works fine as a language for me.
+
+Have fun.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

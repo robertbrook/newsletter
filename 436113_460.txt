@@ -1,0 +1,36 @@
+460 - TAIL
+
+On the web (*|ARCHIVE|*)  - Signup link (*|LIST:SUBSCRIBE|*)
+
+Good morning.
+
+http://www.nationalarchives.gov.uk/get-involved/current-opportunities.htm
+"We are looking for volunteers with a good knowledge of Latin to help us with this project."
+
+http://computer.org/computer-pioneers/organick.html
+Elliott Irving Organick, "foremost expository writer of computer science; a modern-day Menabrea." - "In the late 1970s Organick became convinced that he had not as yet made a lasting contribution to his profession. He resolved to put aside his book writing and to devote his prodigious energies to research." ...
+
+http://www.fourmilab.ch/babbage/sketch.html
+... L. F. Menabrea, 'of Turin, Officer of the Military Engineers', from his 'Sketch of The Analytical Engine / Invented by Charles Babbage / With Notes upon the Memoir by the Translator / Ada Augusta, Countess of Lovelace': "Again, who can foresee the consequences of such an invention? In truth, how many precious observations remain practically barren for the progress of the sciences, because there are not powers sufficient for computing the results!"
+
+http://scripting.com/2013/11/27/question
+"At what point in your life did what you think become important?" To which he answers: "what you think matters as much as what anyone else thinks. If they matter, then so do you. If you don't matter, neither do they."
+
+https://www.fpcomplete.com/user/tel/lens-aeson-traversals-prisms
+'Traversing JSON with Prisms': "Finally, we're looking at a Haskell example which rivals the original Python's terseness without sacrificing nearly as much type safety."
+
+http://blog.fastmail.fm/2013/09/25/exciting-news-fastmail-staff-purchase-the-business-from-opera/
+Fastmail got bought by Opera, then bought themselves back from Opera. Here's the roadmap: "A hugely improved mobile interface, CardDAV support to allow synchronisation of contacts between devices, a calendaring service including CalDAV support for synchronisation of events between devices, improved backend and searching performance."
+
+https://www.moneyadviceservice.org.uk/en/news/one-in-11-britons-has-less-than-gbp10-a-month-disposable-income-02102013
+"Across the UK, the average monthly disposable income was £224.50. However, there was a wide gender difference with men reporting having disposable incomes averaging £272.50, almost twice as much as women (£190.20)."
+
+http://www.economist.com/news/science-and-technology/21587195-thinking-about-it-makes-you-better-person-not-worse-one-time-not-money
+"It seems, then, that thinking about time has the opposite effect on people from thinking about money. It makes them more honest than normal, rather than less so. Moreover, the more reflective they are, the more honest they become."
+
+Enjoy today.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

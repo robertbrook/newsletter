@@ -1,0 +1,38 @@
+468 - HYDE PARK - on the web (*|ARCHIVE|*)
+
+Good morning colleagues.
+
+Today, Byzantine generals.
+
+http://research.microsoft.com/en-us/um/people/lamport/pubs/byz.pdf
+"The Byzantine Generals Problem seems deceptively simple. Its difficulty is indicated by the surprising fact that if the generals can send only oral messages, then no solution will work unless more than two-thirds of the generals are loyal. In particular, with only three generals, no solution can work in the presence of a single traitor. An oral message is one whose contents are completely under the control of the sender, so a traitorous sender can transmit any possible message." ...
+
+http://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Distributed%20Computation/An%20Optimal%20Probabilistic%20Algorithm%20for%20Byzantine%20Agreement.pdf
+... Society for Industrial and Applied Mathematics, 1997: "Broadcasting guarantees the recipient of a message that everyone else has received the same message. This guarantee no longer exists in a setting in which all communication is person-to-person and some of the people involved are untrustworthy: though he may claim to send the same message to everyone. an untrustworthy sender may send different messages to different people." ...
+
+https://code.google.com/p/upright/
+... Google chimes in: "UpRight is an infrastructure and library for building fault tolerant distributed systems. The goal is to provide a simple library that can ensure that systems remain up (available) and right (correct) despite faults." ...
+
+http://oceanstore.cs.berkeley.edu/info/overview.html
+... and Berkeley: "OceanStore is a global persistent data store designed to scale to billions of users. It provides a consistent, highly-available, and durable storage utility atop an infrastructure comprised of untrusted servers." ...
+
+http://www.pmg.lcs.mit.edu/papers/tdsc12.pdf
+... and in 'Automatic Reconfiguration for Large-Scale Reliable Storage Systems', March 2012: "Handling Byzantine faults is important because it captures the kinds of complex failure modes that have been reported for our target deployments. ... the Byzantine fault model makes it possible to tolerate malicious intrusions where an attacker gains control over a number of servers."
+
+I like hats.
+
+https://github.com/alexmufatti/Scripts/blob/master/scripts/opml.js
+Converting OPML to HTML with Javascript.
+
+http://www.mod-sales.com/direct/vehicle/home/61006/LHD_B6_Armoured_Mitsubishi_.htm
+"LHD B6 Armoured Mitsubishi L200 Double Cab Pick up, as new with only 92 miles on the clock. Very discreet armoured vehicle." ...
+
+http://www.mod-sales.com/direct/vehicle/,105,/43613/EPS.htm
+... or, for a touch over ten grand: "These vehicles were supplied to the UK Ministry of Defence by Enhanced Protection Systems (EPS) and have a ballistically protected crew compartment ..."
+
+Have fun today.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

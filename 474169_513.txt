@@ -1,0 +1,61 @@
+513 - SPROUTS - on the web (*|ARCHIVE|*)
+
+I've stopped using Apple's Photostream.
+
+https://github.com/koajs/koa
+"To use Koa you must be running node 0.11.9 or higher for generator support ..." - duh. Okay. Maybe later.
+
+http://mempko.wordpress.com/2013/09/08/big-data-and-the-soviet-ghosts/
+"In a 2009 CNBC, Maria Bartiromo asked Google’s Eric Schmidt if people should treat Google like their best friend. His reply reflects the ethos of the modern software world. He said that you shouldn’t do anything that you wouldn’t want to get on the internet. In other words, everything people do should be recorded. ... Just as the centralized Soviet economy and computer systems produced gross absurdities in Soviet society, the centralization of information has produced vast obscurities in the lives of this generation."
+
+https://github.com/paramiko/paramiko
+"Native Python SSHv2 protocol library"
+
+"If on this train
+you came unknown
+down the aisle
+sideways, your bad eye sliding,
+if you wore perhaps
+your beautiful velvet jacket,
+if I sat here and saw
+you for the first time,
+it would happen
+it would happen
+again." - Anja Konig, 'Refrain'
+
+http://www.w3.org/TR/xexpr/
+"XEXPR is a scripting language that uses XML as its primary syntax, making it easily embeddable in an XML document." Last updated 14 years ago.
+
+http://exist-db.org/exist/apps/eXide/index.html
+A sort-of in-browser IDE for eXist and XQuery.
+
+http://blog.teamtreehouse.com/thinking-ahead-native-css-feature-detection
+Guil Hernandez on '@supports' in CSS3 - will this be the end of Modernizr?
+
+http://nsl.com/k/xy/xy.htm
+"XY is a family of array-oriented, concatenative programming languages with first-class continuations. XY 1 has quotations, lists, functions, and patterns. XY 2 is flat. XY 0 has quotations and shuffle-symbols but dispenses with lists and patterns." ...
+
+http://nsl.com/k/xy/xy2.k
+... here's the source for XY 2.0, written in k ...
+
+http://nsl.com/k/xy/eg/life.xy
+... and here's "life in XY".
+
+http://www.arm.com/markets/mobile/smartphones.php
+"Today the Smartphone is no longer a device for the road warrior, but rather the must have consumer device that is the most personal electronic device that they own, allowing them to manage their online and offline lives."
+
+http://www.reddit.com/r/watchphonemasterrace
+#wearable
+
+http://www.apple.com/uk/batteries/iphone.html
+"Having Wi-Fi enabled helps consume less power when doing activities that access data."
+
+https://www.dropbox.com/help/80/en
+"File formats natively supported by Apple can be displayed within the Dropbox app just by tapping them."
+
+Onwards.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

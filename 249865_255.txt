@@ -1,0 +1,51 @@
+http://www.british-history.ac.uk/report.aspx?compid=45142 (http://www.british-history.ac.uk/report.aspx?compid=45142 )
+"The large and open space known as Trafalgar Square, occupying as it does a commanding position, ... was pronounced by the late Sir Robert Peel, perhaps with a little exaggeration, the finest site in Europe. Its formation was commenced ... on a spot of ground that up to that time was covered with a knot of filthy and disreputable abodes."
+
+Just like there's a thing called Microsoft Outlook Not Responding, there's a thing called The Chelsea Flower Show Sold Out.
+
+http://en.wikipedia.org/wiki/Chinese_Girl (http://en.wikipedia.org/wiki/Chinese_Girl )
+Early appearances of the portrait of Monika Sing-Lee (Pon-su-san): "... in a skit where a door-to-door documentary presenter describes the lurid sex lives of mollusks, and in an evening with the cheap laughs, where a moustache is painted on it."
+
+Build, build, build.
+
+http://www.bbc.co.uk/news/magazine-22398633 (http://www.bbc.co.uk/news/magazine-22398633 )
+"I just feel my effortless superiority will take me all the way." Brilliant.
+
+There's a guy at Grosvenor Gardens bus-spotting, I think. He's chewing gum. He has a copy of Time Out - it's free now. He looks like he's having fun. Or, at least, he's doing what he likes, what he wants to do. Right?
+
+http://www.bbc.co.uk/news/magazine-13338023 (http://www.bbc.co.uk/news/magazine-13338023 )
+Okay, funny, yes, but. Are they unwell?
+
+If you don't like what comes out, you'll have to change what goes in.
+
+http://www.bbc.co.uk/news/magazine-22449415 (http://www.bbc.co.uk/news/magazine-22449415 )
+Alex Ferguson: "So long as you can keep all your key people in the same room at the same time, you'll be fine."
+
+A recent high point: someone I thought was blanking me at the office wasn't. So that was nice.
+
+http://fadingcity.com/posts/leaders (http://fadingcity.com/posts/leaders )
+I wrote this on 'leaders'.
+
+I just didn't register a domain. I feel good about that.
+
+http://git-scm.com/docs/git-instaweb (http://git-scm.com/docs/git-instaweb )
+"A simple script to set up gitweb and a web server for browsing the local repository." I find this again and again - surprisingly useful. A simple 'git instaweb -d webrick' and you can be up and running without any big overheads ...
+
+http://git-scm.com/docs/gitweb.html (http://git-scm.com/docs/gitweb.html )
+... and this is what instaweb wraps: gitweb.
+
+http://blog.jgc.org/2012/01/international-object-sizing-tool.html (http://blog.jgc.org/2012/01/international-object-sizing-tool.html )
+John Graham-Cumming: "... I've created the International Object Sizing Tool that can be photographed alongside an object to give an idea of scale. It has five different ways of showing the size of the object: three common coins, a credit card and centimeter and inch scales."
+
+http://www.guardian.co.uk/lifeandstyle/2013/may/04/leave-them-kids-alone-griffiths (http://www.guardian.co.uk/lifeandstyle/2013/may/04/leave-them-kids-alone-griffiths )
+"... an environmental play project called Wild About Play asked children what they most wanted to do outdoors, and the answer was to collect and eat wild foods, to make fires and cook on them. This is the sign of independence demonstrated by children everywhere, controlling their own food and their own bodies."
+
+============================================================
+*|LIST:ADDRESS|*
+
+Doing it properly: Dave Briggs  - Giles Turnbull  - Roo Reynolds
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** http://gilest.org (http://gilest.org)
+** http://tinyletter.com/rooreynolds (http://tinyletter.com/rooreynolds)
+** Unsubscribe (*|UNSUB|*)

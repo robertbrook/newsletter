@@ -1,0 +1,69 @@
+567 - IT'S THE TV - on the web (*|ARCHIVE|*)
+"I'm not here for your opinion." - Chris Dancy
+
+http://en.wikipedia.org/wiki/Whittlesea_railway_station
+"Unlike many railway crossings, the gates are not automatic and are still opened and closed by hand by a person who sits in a small hut-like building by the crossing. In September 1968, the Flying Scotsman visited the station to have its tender refilled with water."
+
+Alabama!
+
+http://www.theawl.com/2014/03/seriously-burn-it-the-fuck-down
+What an odd URL.
+
+Too many tabs. To much email.
+
+http://docs.withdraft.com
+Michael Cote mentioned 'Draft' on a recent CCOS podcast as a possible Google Docs/Drive alternative: unfortunately editorial.ly bit the dust. The docs for 'Draft' are great ...
+
+http://writebin.io
+... this might eventually take off, too. It's a beta, but looks nice.
+
+I have a thing written in Coffeescript, then in Perl, then back to Coffeescript. That's 'sub-optimal'. I'm going to spend a bit of time with my parser now.
+
+http://search.cpan.org/~jsiracusa/Rose-HTML-Objects-0.621/
+Now this, this is old-school.
+
+Mobile phone cameras making the noise of an old analogue is on of the oddest things.
+
+http://search.cpan.org/~dfh/TPath-1.006/lib/TPath.pm
+A "general purpose path languages for trees". You know, like XPath, with less X.
+
+It turns out that drivers of the New Routemaster are as capable of swearing at other road-users as drivers of the old ones.
+
+http://search.cpan.org/~maros/MooseX-App-1.24/lib/MooseX/App.pm
+"Write user-friendly command line apps with even less suffering".
+
+I have a suggestion for you. If you don't like Coffeescript, don't use it.
+
+http://search.cpan.org/~djerius/IPC-PrettyPipe-0.02/lib/IPC/PrettyPipe.pm
+"manage human readable external command execution pipelines ... Connecting a series of programs via pipes is a time honored tradition."
+
+"It's going to take more than a wiki." - Merlin Mann
+
+https://store.statamic.com
+Finally: a static site generator you can pay for.
+
+https://www.wit.ai
+"Provide a few examples of the responses you expect ... Stream audio to the API. You get structured information in return." Clever!
+
+I've finally written a BBEdit text filter that runs js2coffee. Very simple, very useful.
+
+http://search.cpan.org/~beppu/Pod-Server-1.13/lib/Pod/Server.pm
+"I have no regrets about duplicating effort or reinventing the wheel ..."
+
+Honestly, Time Machine is getting too slow. Too slow.
+
+http://search.cpan.org/~dagolden/Meerkat-0.009/lib/Meerkat.pm
+Mongo: is it safe yet?
+
+"Many points of articulation."
+
+Amazon Prime prices going up ...
+
+... Google Drive prices going down.
+
+============================================================
+
+*|LIST:ADDRESS|*
+
+
+** Unsubscribe (*|UNSUB|*)

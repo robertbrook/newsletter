@@ -1,0 +1,57 @@
+A newsletter from Robert Brook
+------------------------------------------------------------
+*|ARCHIVE|*
+
+
+**
+------------------------------------------------------------
+http://maker.github.com/ratchet/ (http://maker.github.com/ratchet/ )
+Prototyping iPhone apps with HTML.
+
+http://kotaku.com/5972316/all-my-life-ive-been-told-i-was-special-it-was-a-lie (http://kotaku.com/5972316/all-my-life-ive-been-told-i-was-special-it-was-a-lie )
+"Over and over I was told that I was special, but I am not special at all. My story isn't even that unique. The reality is, the hardships of life shatter the fantasies we are told in childhood about our future. Greatness is not preordained. Except in video games. In video games greatness is inevitable. ... Games gives me hope in what seems like a hopeless world. But for all the comfort they provides it is part of what is delaying my adulthood."
+
+http://robertbrook.com/switching-from-alfred-to-launchbar (http://robertbrook.com/switching-from-alfred-to-launchbar )
+My post on the Mac launcher apps Alfred and LaunchBar has grown too far, too fast.
+
+http://www.faddict.io (http://www.faddict.io )
+"Make a $5 pledge to quit Facebook for 30 days. If you succeed, you get your pledge back!"
+
+https://github.com/storytlr/storytlr (https://github.com/storytlr/storytlr )
+"Storytlr is an opensource lifestreaming and microblogging platform written in PHP."
+
+I wonder how many personal blog engines run on MySQL, but could run on SQLite? Or even on a big JSON directory? Nutty idea, I realise, but ... how big is your MySQL database behind Wordpress?
+
+https://sites.google.com/site/arclanguagewiki/ (https://sites.google.com/site/arclanguagewiki/ )
+The arc language wiki. Are they still going? And there are Lisps in Javascript now, or pretty near ...
+
+https://github.com/Pauan/nulan (https://github.com/Pauan/nulan )
+... here's a Lisp in node, for example.
+
+http://bureauofminds.com/post/41028512430/facebook-is-impersonating-people-without-their (http://bureauofminds.com/post/41028512430/facebook-is-impersonating-people-without-their )
+"Any post made by Facebook on your behalf is completely invisible to you, and only shows up in your friends’ & family’s news feed."
+
+http://www.morrissey-solo.com/tour/1997/battersea.html (http://www.morrissey-solo.com/tour/1997/battersea.html )
+"... some of you might know that I used to be the drummer in The Smiths."
+
+http://www.centurions1911.org.uk/history-of-the-centurions.html (http://www.centurions1911.org.uk/history-of-the-centurions.html )
+"A Centurion is anyone who has walked 100 miles within 24 hours in competition"
+
+http://www.ot-colmar.fr/en/the-four-riots-of-colmar (http://www.ot-colmar.fr/en/the-four-riots-of-colmar )
+The Four Riots of Colmar: plonk ("The enraged townsfolk threatened to drag the Head of Taxation, the vicomte de Croismare, out into the street, throw him into a barrel of Bubberi and then pour the whole lot into the Sinn"), firewood ("a sale of wood in the Niederwald forest was interrupted by an excited bunch of locals, somewhat the worse for drink"), cucumber ("The sergeant and his escort were bombarded with cucumbers, marrows, turnips and Jerusalem artichokes ...") and hearses ("Burials conducted by the professional undertakers were attacked and had to have a police escort."). This place sounds great!
+
+http://www.newsfirex.com/safari140/ (http://www.newsfirex.com/safari140/ )
+Post direct to Twitter from Safari. Not being a Twitter customer, I've not seen this up and running, but it sounds jolly useful.
+
+https://github.com/capttaco/Briefs (https://github.com/capttaco/Briefs )
+"The Briefs toolkit was created for rapidly building & iterating app prototypes for the iPhone. These prototypes run directly on the phone, like actual apps, but require much less time and code to produce."
+
+See you tomorrow.
+
+============================================================
+-
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:ADDRESS|* *|END:IF|*
+
+** Unsubscribe (*|UNSUB|*)
+** Y (*|UPDATE_PROFILE|*)
+** our profile (*|UPDATE_PROFILE|*)

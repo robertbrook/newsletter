@@ -1,0 +1,28 @@
+Look, if I've not answered or acknowledged your email, I'm most likely still reading it and thinking about it. It's a good thing. I don't have any unread email, but I do have unanswered email - I try to keep it below twenty items. Not exactly inbox zero. I'm sorry, though. I'm thinking about shifting everything out of my inbox into an archive, but I'm not confident about how different mail clients would deal with that.
+
+Email is still a problem for me. Some people have a problem with spam, or they used to. I don't have a problem with spam, because I don't get that much email in the first place - and the email service I use has pretty good spam controls. I imagine any service that doesn't have good spam control just goes to the wall and we don't hear about it much after that.
+
+Ebury Square looks a bit sad at the moment.
+
+Anyway email. I want what I can describe as focus. Just show me flagged and unread, that would be a start. Merlin mentioned that he didn't even want to see that, but just something that will allow you to send email without showing you email. There's a thing here.
+
+"To ruminate upon evils, to make critical notes upon injuries, and be too acute in their apprehensions, is to add unto our own tortures, to feather the arrows of our enemies, to lash ourselves with the scorpions of our foes, and to resolve to sleep no more." - Thomas Browne
+
+http://5by5.tv/systematic/33 (http://5by5.tv/systematic/33 )
+I don't always agree with Merlin. On a recent issue of Systematic with Brett Terpstra, Merlin recommended Cue - formerly Greplin. It's a service that greps (see!) information you let it see and makes some sense of it. Dates from emails, that sort of thing. What worries me is that you have to hand over the keys, so to speak, to your various accounts. Yes, I do realise I probably do this all the time, but it just feels weird. Apart from my silly worries, this is a great podcast and you should listen to it.
+
+http://edgeguides.rubyonrails.org/ (http://edgeguides.rubyonrails.org/ )
+A new version of Rails is out. The 'edge guides' should be more useful than some of the rather dated blog posts you might come across.
+
+http://component.io/ (http://component.io/ )
+Looks interesting, but I'm still not exactly sure what it is. Some sort of JavaScript library listing?
+
+I hurt my neck. Serves me right, I suppose.
+
+============================================================
+
+*|LIST:ADDRESS|*
+*|LIST:ADDRESS|*
+
+** BACK ISSUES (*|ARCHIVE|*)
+** UNSUBSCRIBE (*|UNSUB|*)

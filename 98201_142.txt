@@ -1,0 +1,67 @@
+A newsletter from Robert Brook
+------------------------------------------------------------
+*|ARCHIVE|*
+
+
+**
+------------------------------------------------------------
+http://en.wikipedia.org/wiki/Battle_of_Leyte_Gulf (http://en.wikipedia.org/wiki/Battle_of_Leyte_Gulf )
+"... generally considered to be the largest naval battle of World War II and ... possibly the largest naval battle in history."
+
+http://webpy.org/docs/0.3/tutorial (http://webpy.org/docs/0.3/tutorial )
+A tutorial for web.py 0.3.
+
+http://blog.davidtate.org/2013/01/companies-that-support-remote-workers-win-against-those-that-dont/ (http://blog.davidtate.org/2013/01/companies-that-support-remote-workers-win-against-those-that-dont/ )
+David Tate: "... in order for a remote employee to succeed a company has to have clear communication, a standard process, and a clear focus on results above other secondary concerns."
+
+http://news.ycombinator.com/item?id=5036590 (http://news.ycombinator.com/item?id=5036590 )
+A discussion on f.lux. At first I just didn't see the point. I'm now using it wherever I can. It divides opinion, obviously.
+
+https://github.com/runemadsen/Magic-Book-Project (https://github.com/runemadsen/Magic-Book-Project )
+"The Magic Book Project is an open-source framework that facilitates the design and production of electronic and print books for authors."
+
+http://linux.die.net/man/1/linkchecker (http://linux.die.net/man/1/linkchecker )
+"check HTML documents for broken links" - simple and effective.
+
+http://news.ycombinator.com/item?id=5022457 (http://news.ycombinator.com/item?id=5022457 )
+A long discussion on 'favourite' UNIX commands.
+
+http://www.cs.elte.hu/zsh-manual/zsh_14.html (http://www.cs.elte.hu/zsh-manual/zsh_14.html )
+ZLE (zsh line editor) commands. Obvious, but I always seem to forget them.
+
+http://splasho.com/upgoer5/halloffame.php (http://splasho.com/upgoer5/halloffame.php )
+Explaining things using only the ten thousand most common words in English. Includes an explanation of Parliamentary democracy.
+
+http://angularjs.org (http://angularjs.org )
+"AngularJS lets you extend HTML vocabulary for your application. The resulting environment is extraordinarily expressive, readable, and quick to develop." Perhaps I mentioned this before. I can't remember.
+
+http://www.plainsite.org (http://www.plainsite.org )
+The law [of the United States] in plain sight.
+
+http://www.themindrobber.co.uk/tardis-sound-effects-materialisation.html (http://www.themindrobber.co.uk/tardis-sound-effects-materialisation.html )
+An in-depth examination of sounds made by the TARDIS: "Another oddity was at the end of the 2006 story 'The Runaway Bride' in which the TARDIS took off vertically like a rocket, harking back to the landing in 'Fury from the Deep'. This was in the same story where the TARDIS legendarily speeds down a motorway after Donna's taxi."
+
+http://bytbox.net/blog/2013/01/congressional-word-count.html (http://bytbox.net/blog/2013/01/congressional-word-count.html )
+Popular words in the US Congressional record: "centennial, cliff, hezbollah, neil, 171, bahai, armstrong, hugh, aeronautical, dryden".
+
+http://arstechnica.com/information-technology/2013/01/microsoft-goes-its-own-way-with-web-audiovideo-spec-despite-w3c-rebuff/ (http://arstechnica.com/information-technology/2013/01/microsoft-goes-its-own-way-with-web-audiovideo-spec-despite-w3c-rebuff/ )
+"Microsoft has published a working prototype of CU-RTC-Web, its proposed specification for enabling browser-based, plugin-free, real-time audio and video communication."
+
+http://canyoudomyhomework.com (http://canyoudomyhomework.com )
+"No."
+
+http://www.birmingham.ac.uk/Documents/college-artslaw/cels/essays/languageteaching/JoelBaker-ReactiveTokensatTurningPoints.pdf (http://www.birmingham.ac.uk/Documents/college-artslaw/cels/essays/languageteaching/JoelBaker-ReactiveTokensatTurningPoints.pdf )
+Joel Baker's 'Reactive Tokens at Turning Points' [PDF]: "Reactive tokens are short verbal signs provided by the listener(s) in English conversation that primarily affirm that the speaker can continue talking ..."
+
+http://www.persianmirror.com/culture/distinct/distinct.cfm#art (http://www.persianmirror.com/culture/distinct/distinct.cfm#art )
+"You go over to your aunt’s place and she makes a great Ghormeh Sabzi dish for lunch, which is your favorite. You help yourself to a healthy serving and at the end of it find that you are still hungry. Your kind, loving aunt will offer you another serving and you politely refuse. ... Some of us wish we could do away with this tradition entirely and just be more like Germans, but then again what would our mothers think?" I think I'm more German than Persian.
+
+See you again tomorrow.
+
+============================================================
+-
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:ADDRESS|* *|END:IF|*
+
+** Unsubscribe (*|UNSUB|*)
+** Y (*|UPDATE_PROFILE|*)
+** our profile (*|UPDATE_PROFILE|*)

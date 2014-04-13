@@ -1,0 +1,33 @@
+Vol. 2, No. 584. "GREENS".
+http://trydoorbell.com
+The podcast now has a real domain. I had forsworn domains, but a browser remembered a password for me so ... well, there we are.
+
+Big Data wasn't real. The Big Data Backlash is even less real.
+
+https://www.patientopinion.org.uk/info/professionals
+"Founded in 2005, over 65,000 patient stories have now been published and these have been viewed 51 million times by the public. More than half of these stories are positive, a third are mixed and a sixth negative."
+
+And now for something completely different.
+
+http://www.telegraph.co.uk/culture/books/10607727/Clarice-Lispector-Morbidly-insensitive.html
+Nicholas Shakespeare: "To read Lispector is to watch a sleepwalker with eyes open groping towards an unknown destination, or a woman at a seance practising automatic writing in order to discover what she actually thinks." He doesn't seem to be a fan ...
+
+http://www.theguardian.com/books/2014/jan/18/clarice-lispector-hour-of-the-star
+... Colm Tóibín is a bit more sympathetic: "Most late work has a spectral beauty, a sense of form and content dancing a slow and skilful waltz with each other. Lispector, on the other hand, as she came to the end of her life, wrote as though her life was beginning ..."
+
+I used to have - and still have - a rule of thumb for books. I turn to chapter two and see if it's interesting; if yes, read the book. I've transferred that rule into other places - domains, as you would say - and it's proving to be useful ...
+
+... an example: twitch.tv. I very rarely play video games, I've only seen the twitch.tv icon once. But, my method here is: as soon as I stop understanding what something is, that's the moment it gets interesting.
+
+https://github.com/snarfed/mockfacebook
+"A standalone HTTP server that implements Facebook's FQL and Graph API."
+
+http://mysociety.sayit.mysociety.org/akoma-ntoso-why-what
+A transcript of a conversation between Myfanwy Nixon of MySociety and Flavio Zeni: "A common standard for parliamentary documents allows parliaments to share and reuse information more freely, allows parliamentary monitoring organisations to build tools together that can be much more easily deployed all over the world, it allows monitoring of social and political issues on wider scale and in a much more accurate fashion." To be clear here: I'm quoting this without comment, as always. Although I have opinions about this sort of thing, minds immeasurably superior to mine are tasks with thinking properly about this.
+
+============================================================
+
+*|LIST:ADDRESS|*
+
+
+** Unsubscribe (*|UNSUB|*)

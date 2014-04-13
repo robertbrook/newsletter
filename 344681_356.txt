@@ -1,0 +1,44 @@
+http://grokin.gs/blog/2012/09/07/elegant-json-pretty-print-for-bbedit/
+Spiffy JSON tidy for BBEdit. I use an even fruitier version.
+
+http://brendansterne.com/2013/07/11/do-the-right-thing-wait-to-get-fired/
+"You've got to recognize that companies are schizophrenic."
+
+http://www.npg.org.uk/collections/search/portrait/mw65662
+A photo-portrait of Paula Yates, by Brian Aris, 1994. She died six years later.
+
+http://www.britishcomedy.org.uk/comedy/linesforehead.html
+"Spoof Queen's Christmas Message as written & delivered by a milkman. Courtroom sketch. Office party sketch. 48-year-old muses on whether Santa Claus will still visit (in verse). People wonder what to give each other. Song by Father Christmas. Couple putting their tree up. Dickensian-style song by homeless mother. Elephant delivered as present. Verbose version of 'White Christmas'."
+
+https://en.wikipedia.org/wiki/Drill_(music_genre)
+"Drill is defined by its grim, violent lyrical content and trap-influenced beats." ... "The lyrics of drill rap tend to focus on gritty daily life in Chicago." ...
+
+https://en.wikipedia.org/wiki/Trap_(music_genre)
+... "808 sub-bass kick drums, sped-up hi-hats, layered synthesizers ..." My goodness.
+
+http://5by5.tv/prompt
+"The Prompt is a weekly panel discussion on technology, and the culture surrounding Apple and related companies. With each co-host having a unique background — and accent — The Prompt covers the wide-reaching world of technology unlike any other show."
+
+http://mapcontest.greatergreaterwashington.org
+A contest to redesign the map of the Washington metro. Silly question: what would be the easiest way to put together such a map?
+
+http://lafo.ssw.uni-linz.ac.at/papers/2013_JVMLanguageSummit_OneVMToRuleThemAll.pdf
+A rather worrying suggestion from Christian Wimmer and Chris Seaton that the JVM will be the one to rule them all. From Oracle, notably: "The following is intended to provide some insight into a line of research in Oracle Labs." But I don't want to depend on the Oracle VM!
+
+https://www.opendesk.cc/how-it-works
+'Open source furniture'. Rather clever. You can download plans or pay for sawn, flatpack or assembled furniture.
+
+http://www.investopedia.com/university/commodities/commodities16.asp
+"Green Square-Cut Clear Seedless bellies from a federally inspected packing plant."
+
+http://voyager.jpl.nasa.gov/where/
+The Voyager spacecraft: distance from Earth, distance from the Sun, "Roundtrip Light Time from the Sun". Another Little Printer project, perhaps.
+
+http://www.winehq.org/announce/1.6
+"A native Mac OS X driver is implemented, for better integration with the Mac desktop environment. The full range of driver features are supported, including OpenGL, window management, clipboard, drag & drop ..."
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

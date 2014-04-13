@@ -1,0 +1,46 @@
+Good morning.
+
+I'm on a roll. Keep on typing.
+
+https://github.com/kevinburke/hulk
+I love this. "Hulk is an in-browser JSON editor."
+
+http://blog.typekit.com/2013/07/25/setting-subheads-with-css/
+Marko Dugonjić: "Setting subheads with CSS" #snazzy #tuftey
+
+http://www.geowayne.com/newDesign/electric/bourgeois.htm
+I though the Pet Shop Boys had ripped off Michael Nyman. I didn't know that Nyman had ripped off Henry Purcell. Also, homage, not ripoff. "The Draughtman's Contract" is still one of my favourite films.
+
+Thinking of signing off my rdio subscription. I don't enjoy music enough.
+
+https://flynn.io
+"Manages services in containers across a cluster" - oh dear, it's going to be written in Go.
+
+http://www.fordham.edu/halsall/source/paulsilent-hagsoph1.asp
+Paul the Silentiary: 'The Magnificence of Hagia Sophia' - a big hit most likely commissioned by Justinian. "A thousand others [lamps] within the temple show their gleaming light, hanging aloft by chains of many windings. Some are placed in the aisles, others in the centre or to east and west, or on the crowning walls, shedding the brightness of flame. Thus the night seems to flout the light of day, and be itself as rosy as the dawn ..."
+
+http://orgmode.org
+If Apple goes nuts and iCloud eats itself, I'm going back to org-mode and webdav.
+
+http://www.cozio.com/Instrument.aspx?id=111
+A description of a violin. This violin, by Stradivarius, called 'Messiah'. From 1737 until the present day, only one owner was a musician. It's now at the Hill Collection in the Ashmolean. I'm no musician either, though I think I'd like to see it, at least.
+
+https://code.google.com/p/xee/source/browse/XeePhotoshopLoader.m#108
+A classic, but I do like to come back to it now and then. "At this point, I'd like to take a moment to speak to you about the Adobe PSD format."
+
+http://forkthecookbook.com
+"Fork a recipe (make a copy to work on variations) into your personal cookbook"
+
+https://www.ovh.co.uk/dedicated_servers/kimsufi.xml
+Kimsufi's dedicated server prices: for around a tenner a month they'll provide 4GB/1TB.
+
+http://www.kuniyoshiproject.com/Actors%20off%20stage,%20Part%20I.htm
+"Kabuki actors were celebrities in 19th century Japan. In these prints, they are portrayed in off-stage activities. Onnagata (male actors who played female roles) are shown in female dress, and they often did wear female clothing off stage."
+
+I'm overrunning. I should stop soon. I should fit other things in. Everything to it's time, it's place.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

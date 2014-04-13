@@ -1,0 +1,40 @@
+http://en.wikipedia.org/wiki/Crunchie (http://en.wikipedia.org/wiki/Crunchie )
+"In 2003, a short-lived bourbon Crunchie was launched in test markets across the Nashville, TN area in partnership with 7-Eleven. The bourbon Crunchie was not well received because of a boycott initiated by western factions of the Southern Baptist Coalition and production was subsequently discontinued."
+
+http://www.englishheritagearchives.org.uk (http://www.englishheritagearchives.org.uk )
+Via Janet Davis. "Search over 1 million catalogue entries describing photographs, plans and drawings of England's buildings and historic sites, held in the English Heritage Archive."
+
+https://github.com/jashkenas/journo (https://github.com/jashkenas/journo )
+"A quick-and-dirty (literate) blogging engine" - with a really great writeup. I tried it, but didn't get the local server up. It's probably something to do with file paths.
+
+http://www.thecyclehub.org/ai1ec_event/the-newcastle-bike-jumble-is-back (http://www.thecyclehub.org/ai1ec_event/the-newcastle-bike-jumble-is-back )
+Via Janet Davis. "The Newcastle Bike Jumble is back in the swing of things for 2013 and they are taking place on the first Sunday of every month." That's today, folks! "Come down to the Cycle Hub for 10.00am or get here for a sneaky coffee and bring any old/spare bike parts you have."
+
+http://rcouch.org (http://rcouch.org )
+"rcouch is a custom distribution of couchdb statically linked using rebar." ...
+
+https://github.com/resource/backbone.rebar (https://github.com/resource/backbone.rebar )
+... and this is rebar, I think, an extension to backbone: "view transitions, subviews, view mediators, local storage for sync, dynamic route definitions, controllers, and a simple log wrapper." Nice.
+
+http://remote.bergcloud.com/developers/examples/ (http://remote.bergcloud.com/developers/examples/ )
+Right. I need to take another look at this. As a shortcut, I may try out the PHP example rather than doing it properly with Sinatra on Heroku. And thank you if you've sent me a test message - it did get through! I notice Little Printer got a namecheck from Merlin Mann and Dan Benjamin recently too.
+
+http://shapeshed.com/google-plus-is-not-the-internet/ (http://shapeshed.com/google-plus-is-not-the-internet/ )
+George Ornbo: "Google+ needs to be more open" - but, it doesn't.
+
+http://www.digitalclassicist.org/wip/wip2013-09ns.html (http://www.digitalclassicist.org/wip/wip2013-09ns.html )
+Neel Smith: "Since 2007, the Homer Multitext project (HMT) has worked from high-resolution digital photography to develop diplomatic editions recording all visible textual and graphic features in a series of important manuscripts of the Iliad with scholia." ...
+
+http://www.homermultitext.org (http://www.homermultitext.org )
+... amazing stuff! What a huge resource, complete with source data and software ...
+
+https://bitbucket.org/neelsmith/mdweb (https://bitbucket.org/neelsmith/mdweb )
+... including mdweb, "a light-weight system for managing a collection of files structured with markdown, and converting them to web sites." I think it's written in groovy, which must still be going, somewhere.
+
+Have fun today.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

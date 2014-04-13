@@ -1,0 +1,37 @@
+Looking rather sadly at this quarter's utility bills. Form the numbers here, I should be running a hot air balloon.
+
+http://blogaborty.blogspot.in/2013/04/no-country-for-old-programmers.html (http://blogaborty.blogspot.in/2013/04/no-country-for-old-programmers.html )
+"I personally don’t know a programmer who successfully survived the boredom, disrespect and disregard that comes with age and experience. I know that some people will choose to remain programmers and I know that not all environments are so grim, but most programmers under most situations have to give up and do something else."
+
+Time to steel myself for Outlook.
+
+http://cacm.acm.org/blogs/blog-cacm/162535-nerdy-strutting-how-to-put-women-off-the-tech-industry/fulltext (http://cacm.acm.org/blogs/blog-cacm/162535-nerdy-strutting-how-to-put-women-off-the-tech-industry/fulltext )
+For those with a pathalogical fear of confrontation, this seems to be a reasonable was to address some of the crappinesses in "the IT industry", if we can still call it that. Judy Robertson identifies the problem: "Behaviour doesn't have to be explicitly offensive to make colleagues feel uncomfortable; there are many ways to exclude people in a workplace." - and puts forward three methods to address it: "think of a way to demonstrate your knowledge which doesn't belittle or befuddle others ... draw attention to discourtesies ... help the majority of the class feel at ease".
+
+http://www.guardian.co.uk/commentisfree/2013/apr/11/every-woman-boardroom-pull-more-up (http://www.guardian.co.uk/commentisfree/2013/apr/11/every-woman-boardroom-pull-more-up )
+Karren Brady: "Any board executive can forget just how many people helped them get where they are. Those women who have got to the top need actively to ensure there is a pipeline of younger women, whether by networking or mentoring, who in turn are encouraging those below them." - rather stern comments below that article.
+
+http://www.guardian.co.uk/tv-and-radio/tvandradioblog/2013/apr/11/twee-tv-victoria-wood (http://www.guardian.co.uk/tv-and-radio/tvandradioblog/2013/apr/11/twee-tv-victoria-wood )
+A harsh review from Julia Raeside of "Victoria Wood's Nice Cup Of Tea": "Wood journeys to foreign lands to find out where the nice warm drink comes from and talks to Morrissey and Doctor Who about their favourite tea memories. Which is nice. ... You can dive in, enjoy the pretty colours and pretend it isn't raining outside."
+
+Goodness, the ads on the Guardian desktop site are huge.
+
+http://docs.racket-lang.org/parser-tools/Lexers.html (http://docs.racket-lang.org/parser-tools/Lexers.html )
+I'm enjoying Racket, even though I'm not entirely sure of the basics. The DrRacket GUI is odd, but fun ...
+
+http://docs.racket-lang.org/guide/pattern-macros.html (http://docs.racket-lang.org/guide/pattern-macros.html )
+... "The simplest way to create a macro is to use define-syntax-rule": the basics of macros in Racket.
+
+"Oh! Come and see the violence inherent in the system! Help, help, I'm being repressed!"
+
+http://taskwarrior.org/projects/taskwarrior/wiki/V220 (http://taskwarrior.org/projects/taskwarrior/wiki/V220 )
+I used to use taskwarrior and I still recommend it. It's a very simple but surprisingly powerful command-line task manager. If you have homebrew running on a Mac, you can get it with 'brew install task'. Frankly, it looks like a better bet than both Apple Reminders and Omnifocus, if you like the command line approach.
+
+============================================================
+*|LIST:ADDRESS|*
+
+Thanks to Dave Briggs at  and Giles Turnbull at
+
+** http://kindofdigital.com (http://kindofdigital.com)
+** http://gilest.org (http://gilest.org)
+** Unsubscribe (*|UNSUB|*)

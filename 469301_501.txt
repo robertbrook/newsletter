@@ -1,0 +1,47 @@
+501 - NUTS AND BOLTS - on the web (*|ARCHIVE|*)
+
+http://www.humaneinfo.com
+"Learn to hack on a smaller scale with the Humane PC 8-bit microcomputer - a classic style console which displays to your TV and accepts input from any PS/2 keyboard."
+
+http://www.flickr.com/photos/jonstripgoatee/6173771036/
+Jon Haywood's photo: 'Monkey Business'.
+
+http://fadingcity.com/suburbia/hercules-and-atlas
+Craters on the moon.
+
+http://thomaslevine.com/!/parsing-pdfs/
+"People see patterns in randomness." A nice overview of options for parsing PDFs ...
+
+https://github.com/tlevine/www.thomaslevine.com/tree/master/.plans/proposed
+... it's like peering into his brain.
+
+http://okfnlabs.org/blog/2013/10/04/data-as-code-dejavu.html
+Code as data. JS/JSON, a bit like ... Lisp! ...
+
+http://blog.okfn.org/2013/04/24/frictionless-data-making-it-radically-easier-to-get-stuff-done-with-data/
+... 'frictionless data'. It's comma-separated, all the way down. Is this dealing with the reality of ragged real-world data, giving up on the semantic golden path? I certainly hope so.
+
+http://data.parliament.uk/EDMi/EDMi.svc/help
+Not valid Atom, but has chunks of HTML, served as 'application/atom+xml'. Is this a standard output from some known system? Safari tries to pass it to a feed reader and fails. Chrome shows raw XML.
+
+Seeing as arc is built over Racket, how can I run arc in the DrRacket IDE? And these non-mutable datatypes are weird. I'm sure I'll get used to the idea.
+
+http://stackoverflow.com/questions/21035218/which-lisp-implementations-allow-me-to-modify-code-at-runtime
+"Lisp is homoiconic, meaning code can be treated as data. Which implementations allow me to do so at runtime?"
+
+http://www.akaipro.com/product/eiepro
+"ELECTROMUSIC INTERFACE EXPANDER" ... "The EIE Pro sends and receives four audio channels on a single USB cable for simple, universal interface to a computer."
+
+http://www.niemanlab.org/2013/11/ojr-an-old-web-icon-ends-up-repurposed-as-a-spamblog/
+"So it appeared that Lim (or someone working for him) had obtained control of OJR.org — presumably just by buying the domain once it had expired, although we don’t know that — and created as close of a facsimile of the old site as he could, with a lot of the old content." That's a bit weird.
+
+http://attending.io/events
+#drinkabout is trending. #trending
+
+https://support.google.com/accounts/answer/1333913
+"You have entered a birthday indicating you are not old enough to have a Google Account." ... "Accounts are inaccessible during the grace period. This is necessary to enforce our policies." Enforce our policies.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

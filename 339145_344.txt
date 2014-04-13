@@ -1,0 +1,54 @@
+Good morning.
+
+I'm using a 'text factory' in BBEdit to help markup the URLs rather than doing it my hand. I hope it all looks pretty much okay, but please do let me know if it looks a bit weird. You can mail me at mail@robertbrook.com.
+
+"Public grooming."
+
+www.kenthistoryforum.co.uk/index.php?topic=8604.30
+Motorbikes and hovercraft on the Goodwin Sands. And the "Goodwin Sands Potholing Club".
+
+I think I've been wagging my tail too much. I might try something different.
+
+Everyone's got their reasons.
+
+kb.mailchimp.com/article/getting-started-with-mailchimps-template-language/
+Of course, I should really get into Mailchimp's templating language. It looks pretty straighforward.
+
+Also, for those finding it difficult to UNSUBSCRIBE, the UNSUBSCRIBE link is down there at the bottom of the page. Down by law, as they say.
+
+www.hnsearch.com/api
+Something to experiment with using Backbone.
+
+Four kids busking near the Festival Hall. Saxophone, clarinet, another one. They were great. I gave them something under two quid.
+
+"Skepticism relieved two terrible diseases that afflicted mankind: anxiety and dogmatism." Sextus Empiricus
+
+www.ucc.ie/milmart/sergorig.html
+David Woods: "The Origin of the Cult of SS. Sergius and Bacchus"
+
+On the way to work. Well, on the way to an office. Kids behind me listening to awful sounds from a mobile phone. Old man in front eating chips from a plastic bag. From a plastic bag.
+
+www.tfl.gov.uk/gettingaround/transportaccessibility/dlr/3257.aspx
+"Coke machines"?!
+
+Does Foursquare still exist? I might start using that again. Wait a minute. No iPad app? I tried it for a day and it felt a bit ... old-fashioned, strangely.
+
+www.flickr.com/photos/ianwylie/sets/72157626133195125/
+Ian Wylie's photos of T. Adamou and Sons' last day.
+
+What's that land north-west of Gallions Reach Park? By the river?
+
+en.wikipedia.org/wiki/Waterloo_International_railway_station
+Includes a rather odd suggestion that the mothballed international platforms would be used for the sleepers services. I can't really understand how that would work.
+
+I want to ask Tom Morris about various things, but I'm too scared to mail him.
+
+I'm reading about "hyperlists". I think there's something there, but it feels wonky. Logic and markup squashed together. Like s-expressions, ish?
+
+"Growth results exclusively from technological progress, which in turn results from competition among research firms that generate innovations." Philippe Aghion, Peter Howitt: 'A model of growth through creative destruction', 1990. For some meanings of growth. And progress. And innovations.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

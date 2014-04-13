@@ -1,0 +1,43 @@
+Struggling with emacs. A good struggle.
+
+http://spilth.org/blog/2013/01/21/automated-vm-generation-with-veewee-jenkins-and-amazon-s3/
+"Automated VM Generation with veewee, Vagrant, Jenkins and Amazon S3" - part one ...
+
+https://github.com/jedi4ever/veewee
+... veewee: "Easing the building of vagrant boxes" ...
+
+http://f00bar.com/blog/2011/09/21/arch-linux-developer-vagrant-box/
+... and here's Jesse Nelson's 'Arch Linux Developer Vagrant Box' ...
+
+https://www.archlinux.org/news/binaries-move-to-usrbin-requiring-update-intervention/
+... though arch still requires you to get your hands dirty now and then.
+
+If I wasn't on a Macbook Air, Lenovo will tempt me with the 'Twist' and the 'Yoga'. Not quite the Thinkpad I used to use.
+
+I gave up entirely on Mac OS X Server and wrote off the cost. Ridiculous.
+
+http://www.sfgenealogy.com/sf/history/hbann3-1.htm
+San Francisco, 1849: "In the desire to make fortunes easily and in a hurry, the overtoiled people of San Francisco paid little attention to any thing but what immediately concerned themselves individually, and much crime was allowed to be committed with impunity, because nobody cared, or had time to think about it, or to interfere in the matter." - on the 'Hounds' group of vigilantes and enforcers ...
+
+http://en.wikipedia.org/wiki/San_Francisco_Committee_of_Vigilance
+... "who is to say that the Vigilance Committee may not be composed of the worst, instead of the best, elements of a community?"
+
+http://classes.dma.ucla.edu/Spring06/259M/readings/viola.pdf
+Bill Viola: 'Will There Be Condominiums in Data Space?', originally published in 1982. "Soon, the way we approach making films and videotapes will drastically change." ... On the 'schizo' model of data: "Everything is irrelevant and significant at the same time. Viewers may become lost in this structure and never find their way out." ... "Today, development of self must precede development of the technology or we will go nowhere ..."
+
+Headaches, now and then.
+
+http://www.blastr.com/2013-8-7/14-fantastic-foreign-sci-fi-movies-you-really-need-see
+Including '2046', 'The Clone Returns Home' and 'La Jetee' - a couple of my favourites: 'Solaris' and 'Metropolis'.
+
+http://www.npl.org/Pages/ProgramsExhibits/Exhibits/EWR08booklet.pdf
+A history of Newark International Airport, including a photo of "People Express captains Beverly Burns ... and Lynn Rippelmeyer ... in the cockpit of a Boeing 747 ... the first women to pilot Boeing 747 passenger jumbo jets on July 18, 1984."
+
+http://www.w3.org/2013/ValidatorSuite/beta/
+The new W3C validator wants me to sign up. Why? Oh, right, charging soon.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

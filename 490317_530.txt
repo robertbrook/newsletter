@@ -1,0 +1,39 @@
+530 - AT KEW AGAIN - on the web (*|ARCHIVE|*)
+
+http://www.postgresql.org/docs/9.3/static/functions-json.html
+"JSON Functions and Operators" in Postgres.
+
+I have lots of writing to do. More and more nowadays. I should probably make that whole process a bit easier for myself.
+
+http://www.thedailybeast.com/articles/2013/11/10/on-the-road-again-patrick-leigh-fermor-s-memoir-finished-at-last.html
+Edward Platt: "Leigh Fermor lost the first three diaries he kept as he made his way from London to Romania, but he rediscovered the one that covered the last section of the walk soon after he finished the draft of A Youthful Journey.  It was saved by his first love, Princess Balasha Cantacuzene, a Romanian aristocrat he met in Athens in 1935, and lived with until the outbreak of the Second World War."
+
+https://github.com/shapeshed/flim
+Yet Another "Lightweight, static page generator" - thankfully "JSON not YAML". YAML had it's day - and it was a good day - but JSON is preferable here.
+
+https://news.ycombinator.com/item?id=6805588
+A long to-and-fro on Rail performance. In the comments: "Getting a performance increase during an upgrade would be a highly welcomed change in our world." "I just wish someone would find it in their economic interest to do for Ruby what V8 did for Javascript." "... stick with Rails, the framework will give you the training wheels you probably need. Switch to Node.js and you'll probably end up with bowl of noodle code soup." Cold noodle soup. I've not heard that one before. It doesn't sound like a good thing ...
+
+http://installrails.com
+... that really looks like the Strand in the background image.
+
+http://ryancarson.com/post/61562761297/no-managers-why-we-removed-bosses-at-treehouse
+"In my experience, people want to be amazing at their job. I can’t count the number of times that people had really great ideas but were powerless to implement them. I watched as they went from zealous excitement to indifferent cynicism." ...
+
+http://ryancarson.com/post/21845066920/get-healthy
+... "Twice a week: Glass of whisky" ... "Blood Builder: Eviscerated beef liver. Straight up protein and testosterone". #nope
+
+I have to say I liked Ryan a lot better when he took his hat off.
+
+https://weworkremotely.com
+Still going strong ...
+
+http://signalvnoise.com/posts/3683-microsofts-dystopian-pitch-for-remote-work
+... "Remote work is not about working more hours in more places. It’s not about invading every crevasse of your life and stuffing it full of work, work, work."
+
+Onwards.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

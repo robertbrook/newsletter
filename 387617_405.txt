@@ -1,0 +1,62 @@
+Archive (*|ARCHIVE|*)
+
+Unsubscribe (*|UNSUB|*)
+
+
+Good morning folks.
+
+http://hiutdenim.co.uk/products/tailors-shears
+Tailors Shears from Ernest Wright: yours for £40.
+
+http://et-in-arcadia-ego.tumblr.com
+Tumblr. So, Tumblr.
+
+http://workshopwisdom.hiutdenim.co.uk
+The two above, mashup.
+
+https://duckduckgo.com/c/American_Internet_personalities
+I love URLs ...
+
+https://github.com/stretchr/arg.js
+... "Arg.js gives you quick and easy access to parameters in the URL."
+
+http://docs.racket-lang.org/net/imap.html
+Racket's IMAP library ...
+
+http://stackoverflow.com/questions/9856173/reading-emails-using-imap-in-racket
+... and here's a nice example written up on Stack Overflow. The whole 'handling return values' thing is alternately fascinating and frustrating to me.
+
+http://recipes.sinatrarb.com/p/embed/event-machine
+"Embedding Sinatra within EventMachine"
+
+https://github.com/charliesome/better_errors
+"Better Errors replaces the standard Rails error page with a much better and more useful error page. It is also usable outside of Rails in any Rack app as Rack middleware." - I've used in in Sinatra.
+
+Time for tea. Let's keep it matcha.
+
+http://en.wikipedia.org/wiki/Spaceward_Ho!
+I used to play Spaceward Ho! in the Turing Room on old Macs. Well, they were brand new at the time. This was before everyone knew who Turing was. "Ship graphics, which vary with weapon, shield, range and speed technology, can resemble dogs, wolves, sharks or ships with gigantic human noses for nosecones."
+
+http://www.macincloud.com
+"MacinCloud is a remote Mac rental service. Laptop, Desktop and Handheld users can access rented, Apple Manufactured Mac hardware through the Internet." Not particularly cheap, though.
+
+http://semantic-ui.com
+Another podcast: Jack Lukic on The Changelog. Why don't we just use the semantic elements in HTML5?
+
+http://www.theguardian.com/technology/2013/sep/29/apple-iphone-5s-ios7-secret-weapon
+John Naughton says multipath TCP is the best thing since sliced bread. The comments are as enlightening as one would expect.
+
+http://www.legislation.gov.uk/ukpga/Geo6/12-13-14/22
+British North America Act 1949: 'An Act to confirm and give effect to Terms of Union agreed between Canada and Newfoundland.' ...
+
+https://en.wikipedia.org/wiki/Newfoundland_English
+... not only was Newfoundland not part of Canada until 1949, there's a local dialect.
+
+http://www.rehobothbasters.org/history.php
+"The Basters are a people in Southern Africa descendent from European settlers and the Khoikhoi (the indigenous Southern-African population) ... the Basters were granted permission by the participants to permanently settle the area around Rehoboth as a buffer between the Nama and Herero. The Rehoboth Basters set up a constitution, elected political representatives and settled the Rehoboth area."
+
+Have fun today.
+
+Unit 7, Red Lion Quarter, Spalding PE11 1WD
+
+============================================================

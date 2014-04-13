@@ -1,0 +1,45 @@
+http://treeforapp.herokuapp.com (http://treeforapp.herokuapp.com )
+Graph visualisation of app.net followers.
+
+http://clojurewerkz.org (http://clojurewerkz.org )
+"A growing collection of open source Clojure libraries that support multiple Clojure & JDK versions" - no CPAN for Clojure yet?
+
+http://www.thoughtworks.com/insights (http://www.thoughtworks.com/insights )
+I wish these PDFs from ThoughtWorks came out more often.
+
+http://wit.io/posts/clojure-all-grown-up (http://wit.io/posts/clojure-all-grown-up )
+David Jacobs: "Clojure is the most pleasant language I’ve ever worked with, and that’s after 8 years of Ruby." I'm still not biting. It's the JVM on Mac thing that worries me.
+
+http://www.nrc.gov/reading-rm/basic-ref/glossary/lethal-dose-ld.html (http://www.nrc.gov/reading-rm/basic-ref/glossary/lethal-dose-ld.html )
+"The dose of radiation expected to cause death to 50 percent of an exposed population within 30 days (LD 50/30). Typically, the LD 50/30 is in the range from 400 to 450 rem (4 to 5 sieverts) received over a very short period."
+
+http://inessential.com/2013/03/14/why_i_love_rss_and_you_do_too (http://inessential.com/2013/03/14/why_i_love_rss_and_you_do_too )
+Brent Simmons on how RSS runs this joint. Sure, but won't it end up being like TCP/IP? There, but invisible? "RSS the format has remained as useful and cool as ever, but RSS readers haven’t done so well." I agree. We need something beyond readers and rivers. And not just datamining and stats.
+
+http://www.railsberry.com (http://www.railsberry.com )
+European Rails Conference 2013 - Krakow.
+
+http://www.rundemcrew.com (http://www.rundemcrew.com )
+"One hundred strong and growing daily, the RDC is a collective of creative heads with a passion for running and the exchange of ideas . We meet every Tuesday to run and explore the streets of London."
+
+http://www.airwaysmuseum.com/Q%20code.htm (http://www.airwaysmuseum.com/Q%20code.htm )
+"GJX GJX DE GADHL GADHL GADHL - GM - TEST - QRK - QSA - K" ... "GHL GHL GHL DE GJX - GM - QRK - QSA 5 - K"
+
+http://www.deafblind.com/card.html (http://www.deafblind.com/card.html )
+"Here is the Deafblind Manual Alphabet, if you are a sighted person I would be delighted if you would take a copy of this graphical picture of the Deafblind Manual Alphabet, so you can learn it when you have the time, you never know you may one day meet a Deafblind person, it also may help you to communicate to a Deaf person."
+
+http://www.guardian.co.uk/sport/video/2013/mar/12/tasmania-world-coal-shovelling-video (http://www.guardian.co.uk/sport/video/2013/mar/12/tasmania-world-coal-shovelling-video )
+"Every March the town of Fingal welcomes the best coal shovellers who have to heave half a ton of coal into a skip set on a 1m-high set of scales"
+
+http://www.falconspeciality.co.uk/rwanda%20cuop%20of%20excellence.html (http://www.falconspeciality.co.uk/rwanda%20cuop%20of%20excellence.html )
+I buy every 'Cup of Excellence' I see. I don't see them that often - once every four months at best. "Vunga is a cooperative in the Jomba sector of the Nyabihu district of Rwanda’s Western Province. The location is mountainous with steep slopes and rich fertile soil providing ideal conditions for coffee production."
+
+http://ilk.uvt.nl/timbl/ (http://ilk.uvt.nl/timbl/ )
+"TiMBL is an open source software package implementing several memory-based learning algorithms, among which IB1-IG, an implementation of k-nearest neighbor classification with feature weighting suitable for symbolic feature spaces, and IGTree, a decision-tree approximation of IB1-IG."
+
+Have fun today.
+
+============================================================
+Registered address: *|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

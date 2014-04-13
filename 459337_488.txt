@@ -1,0 +1,44 @@
+488 - PURPLE - on the web (*|ARCHIVE|*)
+
+http://fadingcity.com/suburbia/the-bore-hole
+The Kola Superdeep Borehole project closed in 2005 after the money ran out. The site was abandoned in 2008. Here's the cap bolted onto the deepest hole in the world.
+
+http://www.eclipse.org/koneki/ldt/
+Lua dev tools in Eclipse.
+
+http://www.independent.co.uk/news/people/obituary--vivian-stanshall-1610214.html
+Chris Welch remembers Viv Stanshall of The Bonzos: "On one famous trip to Ireland on a package show that included Yes and the Nice, the band found themselves expected to play on a football pitch near an abattoir, with only an old electric kettle flex for the band's power supply. When it blew up on the first attempt to use it, Stanshall chased his manager across the pitch shouting 'De-bag the rotter!'"
+
+http://www.lua.org/work/
+"This is the repository of work versions, release candidates, and other pre-releases of Lua."
+
+http://londonwithatoddler.com/2013/02/the-ragged-canteen-beaconsfield-gallery-and-vauxhall-city-farm-revisited/
+"Apologies for the lack of photos. I had chilli jam on my fingers." I love this place. I had what amounts to a vegan Christmas lunch there: it was excellent. I'm not a vegan, though.
+
+http://www.eluaproject.net/overview
+Lua for embedding.
+
+http://www.6pumpcourt.co.uk/files/articles/Challenging%20grant%20of%20permission%20by%20JR%5B1%5D.pdf
+A note on how to challenge planning permissions. If you're into that sort of thing.
+
+http://lua-users.org/files/wiki_insecure/users/thomasl/luarefv51.pdf
+A PDF reference sheet for Lua.
+
+http://www.code42.com/crashplan/
+Crashplan, like similar services, prices 'per computer'. I wish there was a version of this sort of thing that priced 'per Gb' ...
+
+http://support.code42.com/CrashPlan/Latest/Backup/Backing_Up_Your_Entire_Family
+... that said, could the 'family plan' be used to back up several devices?
+
+Are we designing for the process, or the people? Another true cliche, unfortunately.
+
+http://mirven.github.io/underscore.lua/
+"Underscore.lua is a Lua library that provides a set of utility functions for dealing with iterators, arrays, tables, and functions." Nice.
+
+http://blog.8thlight.com/steven-degutis/2011/08/15/future-of-lisp.html
+Steven Degutis: "The fact is, no other platform out there right now can provide the standard libraries, third-party support, extensibility, well-rounded featureset, community support, and portability like the jvm can. Clojure is currently the best incarnation of Lisp we have, and will remain for the foreseeable future." Yes, but what happens when Apple finally withdraw any support for the JVM? Who thinks that won't happen any more?
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

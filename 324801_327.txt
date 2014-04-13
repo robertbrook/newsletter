@@ -1,0 +1,51 @@
+http://www.themorningnews.org/article/songs-in-the-key-of-eno (http://www.themorningnews.org/article/songs-in-the-key-of-eno )
+Giles Turnbull: "Like Luke Skywalker was when I was seven, Brian Eno is a role model for 40-something me."
+
+http://canary.is (http://canary.is )
+A unified environmental sensor device - I think that's what it is, anyway.
+
+https://github.com/propublica/transcribable (https://github.com/propublica/transcribable )
+"Drop in crowdsourcing for your Rails app." - I can't quite work out if this depends on DocumentCloud being the host.
+
+https://github.com/propublica/upton (https://github.com/propublica/upton )
+"Upton is, in essence, sugar around RestClient and Nokogiri." Nothing wrong with that.
+
+https://github.com/peterc/pismo (https://github.com/peterc/pismo )
+"Extracts machine-readable metadata and content from Web pages" - I like this, especially the command-line shortcut.
+
+https://github.com/joeyAghion/spidey (https://github.com/joeyAghion/spidey )
+"A loose framework for crawling and scraping web sites."
+
+http://en.wikipedia.org/wiki/Doubles_(food) (http://en.wikipedia.org/wiki/Doubles_(food) )
+This sounds delicious. "Popular doubles venues are Sleepy's Doubles at St. Helena Junction, Deen's Doubles in San Juan, Ali's Doubles in San Fernando, Sauce Doubles in Curepe, and Johnny's Doubles in La Romaine and Golconda."
+
+https://github.com/propublica/vid-skim (https://github.com/propublica/vid-skim )
+"Transcripts and commentary for long boring videos on YouTube"
+
+http://en.wikipedia.org/wiki/List_of_sandwiches (http://en.wikipedia.org/wiki/List_of_sandwiches )
+Wikipedia's 'List of notable sandwiches'. Notable sandwiches! Including the Luther Burger (worrying), Beschuit met muisjes (baffling) and Vada pav ("A potato fritter coated in chickpea flour ... in a bun").
+
+http://www.tes.co.uk/article.aspx?storycode=6343981 (http://www.tes.co.uk/article.aspx?storycode=6343981 )
+Kevin Stannard: "Expectations of girls seem to be different from those of boys, in ways that increase the gulf between school and work."
+
+https://www.runscope.com (https://www.runscope.com )
+An API traffic inspector. "Everything is going to be 200 OK." I see what they did there.
+
+https://www.pkgr.io (https://www.pkgr.io )
+"Ruby [and] Node.js packaging for the rest of us" - private beta so far.
+
+http://www.bbc.co.uk/news/magazine-11759385 (http://www.bbc.co.uk/news/magazine-11759385 )
+"So is there nothing left that we do at home but not at work?" - I can never tell if Lucy Kellaway is being serious.
+
+http://www.kickstarter.com/projects/1136753854/one-thousand-free-ice-cream-cones-the-movie (http://www.kickstarter.com/projects/1136753854/one-thousand-free-ice-cream-cones-the-movie )
+"We want to buy a thousand strangers some ice cream. And make a little movie of it. Why? Because it's summer, and everyone loves ice cream, and it would be fun to buy a thousand people ice cream. We're not changing the world here, there will be no TED talk, we promise. We just think it would be a great thing to do with a weekend of our lives."
+
+People with a commanding voice seem always to imagine themselves to be persuasive. This is often not the case.
+
+Have an ice cream!
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

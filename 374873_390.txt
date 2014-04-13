@@ -1,0 +1,65 @@
+http://robertbrook.com/newsletter
+
+http://fadingcity.com
+
+Good morning.
+
+http://www.glias.org.uk/Chemicals_from_Coal/INDEX.HTM
+Cyril Arthur Townsend's 'History of Beckton Product Works'.
+
+I'm listening to Steptoe and Son on the wireless. Harold says he's getting old - "I'm pushing forty." Dear me.
+
+http://www.mcjones.org/dustydecks/
+'Preserving historic software' ...
+
+http://www.mcjones.org/paul/
+... from Paul McJones.
+
+Maybe I should have more arguments. Make more enemies. The problem is, I just don't care enough about things. And, incredibly, I don't like upsetting people.
+
+http://gaming.stackexchange.com/questions/8805/how-many-cities-should-i-build-for-a-cultural-victory
+"When does the combined culture / turn of an additional city outstrip the increase in social policy cost incurred by founding that city?" - wow; Civ V looks incredible.
+
+My Flickr Pro licence expired yesterday. Goodbye, Flickr. Goodbye, to the never-ending game.
+
+I'm looking forward to Mavericks. Well, I'm looking forward to saying goodbye to some of the odd Mac OS X design. iOS on my 'old' screens is hella laggy, though.
+
+https://dev.twitter.com/docs/api/1.1/overview#Authentication_required_on_all_endpoints
+Sadly, obviously, eventually: "... we're requiring applications to authenticate all of their requests with OAuth 1.0a or Application-only authentication."
+
+http://www.parliament.uk/site-information/rss-feeds/
+RSS feeds from the UK Parliament.
+
+https://rss.itunes.apple.com/us/
+Apple's generator for RSS feeds for iTunes content.
+
+https://trysignal.com
+If you still use Google Mail, you may enjoy Signal: a sort of text processor. Clever.
+
+http://lauraandrew.carbonmade.com/projects/4875016#1
+'Dandelions and Bluebells', a painting by Laura Andrew, 2012.
+
+http://letmestackoverflowthatforyou.herokuapp.com
+Harsh, but fair.
+
+http://mxcl.github.io/bs/
+"BullScript is Javascript, but with a handful of helpful new bits, so you can get on with web-development and do it a little faster; a little better." I know inline markup is weird, but I like it. Opa does that too ...
+
+https://github.com/MLstate/opalang/wiki/Developing-for-the-web
+... "Although xhtml and xml is not a built-in datastructure, there is a shorthand syntax for building it." Factor has something similar.
+
+http://fadingcity.com/posts/teaching-a-history-of-computing
+I wrote something on 'teaching a history of computing'.
+
+http://www.businessweek.com/printer/articles/153774-the-honey-launderers-uncovering-the-largest-food-fraud-in-u-dot-s-dot-history
+"One ICE agent called Giesselbach a marionette; the puppet master was Wolff. 'I feel that Stefanie and Magnus got the rough end of the pineapple,' says Funk."
+
+Really getting into my odd URLs idea. I'm writing the generator, slowly, in Racket. No, wait, Perl.
+
+Have fun.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

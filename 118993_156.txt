@@ -1,0 +1,64 @@
+A newsletter from Robert Brook
+------------------------------------------------------------
+*|ARCHIVE|*
+
+
+**
+------------------------------------------------------------
+https://github.com/begriffs/css-ratiocinator (https://github.com/begriffs/css-ratiocinator )
+"The CSS Ratiocinator automatically refactors your CSS and generates a new stylesheet for your site."
+
+http://books.google.co.uk/books?id=nWsWBl-9nU4C (http://books.google.co.uk/books?id=nWsWBl-9nU4C )
+"F.W. Woolworth and the American Five and Dime: A Social History" - "... the important role that Woolworth stores played in the sit-down strikes of the 1930s, the lunch counter sit-ins ... which tainted Woolworth's as the Big Business enemy of the downtrodden ... the closing of a Woolworth's in Germany by Nazi soldiers ..."
+
+http://en.wikipedia.org/wiki/Woolworths_Group (http://en.wikipedia.org/wiki/Woolworths_Group )
+... featuring a "Gallery of Defunct Stores".
+
+https://www.gov.uk/hs2-phase-two-initial-preferred-route-plan-and-profile-maps (https://www.gov.uk/hs2-phase-two-initial-preferred-route-plan-and-profile-maps )
+"Maps of the government's initial preferred route for phase two of HS2 from the West Midlands to Leeds and Manchester." - quite a handful of helpfully annotated PDFs.
+
+http://techcrunch.com/2013/01/27/marc-andreessen-on-the-future-of-the-enterprise/ (http://techcrunch.com/2013/01/27/marc-andreessen-on-the-future-of-the-enterprise/ )
+Meanwhile, back at the office: " ... the joke about SAP has always been, it’s making 50s German manufacturing methodology, implemented in 1960s software technology, delivered to 1970-style manufacturing organizations, like it’s really — yeah, the incumbency — they are still the lingering hangover from the dot-com crash." Ouch. That from Marc Andreessen. Also, he points to the skills gap.
+
+http://apple.stackexchange.com/questions/80587/what-are-the-regulatory-requirements-that-will-halt-the-sale-of-the-mac-pro-in-e (http://apple.stackexchange.com/questions/80587/what-are-the-regulatory-requirements-that-will-halt-the-sale-of-the-mac-pro-in-e )
+No more Mac Pro in Europe, since it falls foul of electrical safety regulations?
+
+http://webapps.stackexchange.com/questions/39851/is-google-docs-revision-history-a-stable-long-term-audit-trail (http://webapps.stackexchange.com/questions/39851/is-google-docs-revision-history-a-stable-long-term-audit-trail )
+If you're using Google Docs, how robust is the edit history? What if you actually need it?
+
+http://www.haskell.org/ghc/docs/7.2.2/html/users_guide/data-type-extensions.html (http://www.haskell.org/ghc/docs/7.2.2/html/users_guide/data-type-extensions.html )
+"[Haskell] allows type constructors, classes, and type variables to be operators, and to be written infix, very much like expressions." Cool!
+
+http://doubletree3.hilton.com/en/hotels/united-kingdom/doubletree-by-hilton-hotel-milton-keynes-LTNDTDI/index.html (http://doubletree3.hilton.com/en/hotels/united-kingdom/doubletree-by-hilton-hotel-milton-keynes-LTNDTDI/index.html )
+The DoubleTree hotel in Milton Keynes: "beautiful accommodation integrated into the West stand of the 32,000-seat Stadium MK. Enjoy stylish guest rooms with pitch-facing views, offering direct access from balconies to pitch facing seating (during match days only)."
+
+http://traintimes.org.uk/map/tube/skyfall/ (http://traintimes.org.uk/map/tube/skyfall/ )
+"Live train map for the London Underground, by Matthew Somerville". A homage.
+
+http://www.diariocordoba.com/noticias/cordobalocal/renfe-rebaja-un-11-billete-del-ave-y-hara-ofertas-de-hasta-70-_778901.html (http://www.diariocordoba.com/noticias/cordobalocal/renfe-rebaja-un-11-billete-del-ave-y-hara-ofertas-de-hasta-70-_778901.html )
+Renfe pushes down AVE fares.
+
+http://www.hacon.de/hafas (http://www.hacon.de/hafas )
+HAFAS, the big rail travel database for Europe.
+
+http://www.iata.org/whatwedo/safety/Documents/Guidance-On-Unruly-Passenger-Prevention-And-Management-1st-Edition.pdf (http://www.iata.org/whatwedo/safety/Documents/Guidance-On-Unruly-Passenger-Prevention-And-Management-1st-Edition.pdf )
+From IATA: 'Guidance on unruly passenger prevention and management'. [PDF]
+
+http://math.uga.edu/~pete/settheorypart1.pdf (http://math.uga.edu/~pete/settheorypart1.pdf )
+A paper on sets of things you can count and sets of things you can't. [PDF] - "... the set of all sets which are not members of itself is a logical contradiction."
+
+http://www.telegeography.com/telecom-resources/map-gallery/submarine-cable-map-2013/index.html (http://www.telegeography.com/telecom-resources/map-gallery/submarine-cable-map-2013/index.html )
+A map of undersea cables for 2013.
+
+http://andriasang.com/con0ow/ni_no_kuni_ps3_hino_interview/ (http://andriasang.com/con0ow/ni_no_kuni_ps3_hino_interview/ )
+'Ni no Kuni' is a game available in Japan on the Nintendo DS, which won't be available in a translated version: "Level-5 gave up on localizing this due to difficulties they foresaw selling the game with its thick Magic Master book, as well as potential difficulties with translating the book in the first place. The PS3 version of the game uses a digital version of the book which players can call up from the menu."
+
+London is bright and cold.
+
+============================================================
+-
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:ADDRESS|* *|END:IF|*
+
+** Unsubscribe (*|UNSUB|*)
+** Y (*|UPDATE_PROFILE|*)
+** our profile (*|UPDATE_PROFILE|*)

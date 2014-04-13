@@ -1,0 +1,49 @@
+Vol. 2, No. 587. "ENTWINE".
+Hi folks.
+
+http://www.fas.org/irp/agency/dod/eucom/jac/
+"MICROWEB, IMOM DATABASE, SUNSHINE, OILSTOCK, SENIOR MACE, CONSTANT SOURCE"
+
+Fallen, fallen, fallen.
+
+http://www.targetlocal.co.uk/wordoff
+"Wordoff strips and cleans the rubbish that is pasted into WYSIWYG editors from Microsoft Word".
+
+It is quiet now. At the desk, no-one else but the drills, drilling. Goodbye email, goodbye calendar, for a few hours.
+
+http://projects.militarytimes.com/pdfs/Uniform-Policy-Leaders-Training.pdf
+Updates to the US Army's guidelines on facial hair and more: "No mustache will extend sideways beyond a vertical line drawn upward from the corners of the mouth ...", "Any style of dreadlock ... are not authorized ...", "Males may not wear nail polish" but "Clear acrylic nails are authorized for females, provided they have a natural appearance and conform to Army standards", "Unnatural shaping of teeth for nonmedical reasons is prohibited", "Commanders must validate all Soldiers’ current tattoos located above the neckline ..." and, of course "Glasses may not be worn on top of the head at any time."
+
+Honestly, you see some right characters on Kings Road.
+
+http://blogs.telegraph.co.uk/news/author/andrewgilligan/
+"I'm a senior reporter for the Daily and Sunday Telegraph. This is my personal blog. I'm also cycling commissioner for London, but nothing below represents the view of the GLA or the mayor." A personal blog, on a newspaper's domain?
+
+"I think you know what I want."
+
+http://pyyaml.org/ticket/321
+"Build and install LibYAML 0.1.6 fails on MAC OS X Mavericks." Indeed.
+
+Someone just said hello to me. No idea what that was about.
+
+http://www.stationmasterapp.com
+"Created by the Guinness world Record Holder for travelling to all tube stations in the fastest time possible ..." - if I enjoyed the tube, I'm sure I'd enjoy this app.
+
+So someone is going to send me a github thing.
+
+http://pybossa.com
+"The only open source framework for making crowdsourcing projects." The only one? Really?
+
+Aren't we being a bit naive expecting the open web to survive? I mean, why would big companies value or preserve open protocols? How does that help them make money? The market is big and important enough for them to want their own, bigger slice of the pie - rather than having to share. They don't have to share any more, so they won't. Unless there's a reason why not, the future is closed.
+
+http://okfnlabs.org/textus/
+"An open source platform for presenting and working with cultural and historical texts."
+
+Have fun.
+
+============================================================
+
+*|LIST:ADDRESS|*
+
+
+** Unsubscribe (*|UNSUB|*)

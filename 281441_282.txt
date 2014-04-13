@@ -1,0 +1,25 @@
+"But his heart was in a constant, turbulent riot. The most grotesque and fantastic conceits haunted him in his bed at night. A universe of ineffable gaudiness spun itself out in his brain while the clock ticked on the wash-stand and the moon soaked with wet light his tangled clothes upon the floor." - F. Scott Fitzgerald, from 'The Great Gatsby'
+
+http://www.hortus.co.uk/acatalog/Current-Issue.html (http://www.hortus.co.uk/acatalog/Current-Issue.html )
+From the current issue of Hortus, 'A Gardening Journal': "Ash burns well, even when it is green. Ash turns well, its silky, hard, long-grained texture only faintly changing colour towards the heart, where it deepens and darkens, but only a little - almost orange, almost pink, but not quite. Ash bodges well, its pliant green boughs bending anxiously but very, very uniformly into the backs of chairs, the ribs of canoes, the beams on the outside of the old Morris Traveller."
+
+"The same feeling of not belonging, of futility, wherever I go: I pretend interest in what matters nothing to me, I bestir myself mechanically or out of charity, without ever being caught up, without ever being somewhere. What attracts me is elsewhere, and I don't know what that elsewhere is." Emil Cioran, from 'De l'inconvénient d'être né'
+
+http://chelseaphysicgarden.co.uk/wp-content/uploads/2013/03/POI-june-web.pdf (http://chelseaphysicgarden.co.uk/wp-content/uploads/2013/03/POI-june-web.pdf )
+"DO NOT TOUCH OR EAT ANY PLANTS" ... "The Garden has many highly poisonous plants".
+
+"In those vernal seasons of the year, when the air is calm and pleasant, it were an injury and sullenness against Nature not to go out, and see her riches, and partake in her rejoicing with heaven and earth." John Milton, from 'Tractate of Education'
+
+http://en.wikipedia.org/wiki/Debbie_Reynolds (http://en.wikipedia.org/wiki/Debbie_Reynolds )
+Debbie Reynolds, who appeared in 'June Bride' in 1948 - still working in 2013, in 'Behind The Candelabra'. Also, mother of Carrie Fisher.
+
+"For an impoverished child whose family could not afford to buy books, the library was the open door to wonder and achievement, and I can never be sufficiently grateful that I had the wit to charge through that door and make the most of it." Isaac Asimov
+
+https://postgres.heroku.com/blog/past/2013/6/5/javascript_in_your_postgres/ (https://postgres.heroku.com/blog/past/2013/6/5/javascript_in_your_postgres/ )
+The V8 JS engine, now in Postgres. "Want to write functions on your data without touching pl-pgsql? Want to put documents within your database? Want to run your CoffeeScript unit tests closer to your data? You now can do all of it with PL/V8."
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

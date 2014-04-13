@@ -1,0 +1,51 @@
+Good morning, friends.
+
+http://www.network-theory.co.uk
+Network Theory is a bookshop. Here is their delightfully straightforward catalogue.
+
+http://codereview.stackexchange.com/questions/30912/compare-file-with-ignore-some-line-last-line
+Comparing two files, but only up to a certain line. A solution is offered in diff.
+
+https://www.ruby-toolbox.com/categories/Rails_Activity_Feeds
+In Rails, how to "Build timelines of your user's activities".
+
+http://perfectpath.co.uk/2013/08/15/wp-to-opml-help-needed-getting-stuff-into-fargo-writing-htb2013/
+Lloyd asks: "could I make wordpress spit out a bunch of posts in OPML format which could then be read by Fargo?" ...
+
+https://gist.github.com/lloyddavis/6229746
+... here's how it's going so far: "OPML Feed Template for displaying Posts in Fargo readable format". I'm trying things out. It's going okay, so far.
+
+http://www.jocelynpook.com/news/re-release-of-untold-things-with-two-bonus-tracks/
+"In a world where everyone seems to know everyone else’s business, thoughts and shoe size, it’s good to have a little mystery. And the music of British composer/pianist/viola player Jocelyn Pook nearly always comes wrapped in plenty of delicious intrigue."
+
+http://melaniepappenheim.com/blog/2013/3/22/high-on-cake
+Photos of 'High on Cake'.
+
+http://en.wikipedia.org/wiki/Lloyd-Davies_position
+"... a medical term referring to a common position for surgical procedures involving the pelvis and lower abdomen." I had no idea.
+
+http://www.pasadena-roof-orchestra.com
+I don't like them and I can't quite put my finger on why.
+
+http://nanomsg.org
+"... a socket library that provides several common communication patterns."
+
+http://en.wikipedia.org/wiki/Hellboy
+"He has been described as smelling of dry-roasted peanuts."
+
+http://www.asktog.com/columns/034OSX-FirstLook.html
+Bruce Tognazzini on the Mac OS, thirteen years ago: "OS X is beautiful. ... The new aqua appearance is cool and clean, in sharp contrast to the ponderously-heavy 3D chrome look that Microsoft visited on the world and Macintosh quickly emulated." - This but confused me: "Apple has eliminated the Finder. Yes, I know that they are using the Finder label for the reworked NextStep browser, but the Finder we have known and loved for so many years appears dead." I didn't realise it was such a leap.
+
+http://www.sljfaq.org/afaq/edomoji.html
+Ben Bullock on Edomoji, Edo period lettering styles.
+
+http://www.unesco.org/culture/ich/index.php?lg=en&pg=00011
+The best things in the world. Last year's list included falconry, violin craftmanship in Cremona and 'the Daredevils of Sassoun'.
+
+Have a lovely day.
+
+*|LIST:ADDRESS|*
+
+Unsubscribe (*|UNSUB|*)
+
+============================================================

@@ -1,0 +1,50 @@
+467 - TWEED - on the web (*|ARCHIVE|*)
+
+Hello.
+
+http://lists.w3.org/Archives/Public/www-archive/2013Aug/0020.html
+TimBL on browsers storing and disclosing passwords: "... it turns out that the majority of users haven't the faintest idea what a bookmarklet is and tilt their head on one side when you start talking about settings menus."
+
+http://mnmlist.com/unknown/
+"Who the heck is Gabriel Garcia Marquez?"
+
+https://github.com/ChewingPencils/omnifocus-to-reminders
+"I am no longer a OmniFocus user. It would be irresponsible and careless of me to provide AppleScript that I have no intention to support."
+
+Spotify says: "Check out R. Kelly. Trending near you."
+
+http://www.atcnorway.com/index.php/en/aboutatctopmenu/83-atc-organization
+Royal Marine training exercise in Porsanger Garrison, Norway ...
+
+http://mil.no/education-training/coe-cwo/publications/Pages/default.aspx
+... "Here you will find Norwegian educational directives, folders etc. for use during exercises and operations with focus on winter operations and safety." I miss Eddie Mair.
+
+Increasingly irritated by UIs I'm compelled to use. What happens if I choose not to be compelled?
+
+After my old domain passed into the other world, I suppose the domain I care about most is the one cuddling up to fastmail. Oh, these things. I'd much prefer to let go of it all. Anyway: I'm scrabbling through archive.org to salvage what I can. It's pretty dated stuff, but it'll slowly come over.
+
+http://fadingcity.com/suburbia/greensleeves
+Henry VIII, right?
+
+http://tidbits.com/article/14219
+So when will Google shut off IMAP?
+
+http://carpeaqua.com/2013/10/27/my-ultimate-developer-and-power-users-tool-list-for-os-x-2013-edition-/
+Justin Williams, of Elements fame, "My Ultimate Developer and Power Users Tool List for OS X (2013 Edition)". I hope he's working on a 2014 version.
+
+http://www.usv.com
+Voting up and down with VCs.
+
+http://physics.stackexchange.com/questions/63811/is-the-universe-fundamentally-deterministic
+"Is the universe fundamentally deterministic?" - "The easy answer is 'no one knows'. The Schrödinger equation is just an equation that old Erwin threw together that happened to fit the experimental data. It is not even consistent with relativity theory ... so clearly something is wrong with it. It just happens to work real well for engineering."
+
+http://en.wikipedia.org/wiki/Quantum_Byzantine_agreement
+"With the advent and popularity of the Internet, there is a need to develop algorithms that do not require any centralized control that have some guarantee of always working correctly."
+
+http://arxiv.org/pdf/quant-ph/0206121v2.pdf
+Cheating and bias in coin-flipping games.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)

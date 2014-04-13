@@ -1,0 +1,59 @@
+557 - UP INTO THE TREES - on the web (*|ARCHIVE|*)
+
+Well, hello there!
+
+http://fadingcity.com/suburbia/terry-thomas-in-burkes-law
+A photo of Terry-Thomas, 1964.
+
+http://search.cpan.org/~abw/Badger-0.09/
+Andy Wardley's Badger ...
+
+http://wardley.org/about.html
+... "All my synth-based music came out sounding like some kind of bastard hybrid of Jean Michel Jarre and the Birdy Song." ...
+
+https://github.com/abw/Badger
+... "Badger was hewn from the living rock of the Template Toolkit."
+
+I'm thinking of rewriting that thing in Perl. At least I found out a bit about Coffeescript. But I need something I can grip and bash things with. Coffeescript isn't that, yet.
+
+http://www.yourlocalguardian.co.uk/news/11062101.Bank_card_scammers_target_Clapham_Junction_cash_machines/
+"Scam artists attached a Lebanese loop device to a bank machine in order to steal bank cards in Clapham Junction." A Lebanese loop device! What a world we live in!
+
+"That's your problem. That's not my problem."
+
+http://en.wikipedia.org/wiki/Four_Loko
+"The drink came under major fire in 2010, as colleges and universities across the United States began to see injuries and blackouts related to the drink's use." Major fire.
+
+Beachballing. Don't like it.
+
+http://testanything.org
+"TAP, the Test Anything Protocol, is a simple text-based interface between testing modules in a test harness." Originally Perl, now all the rest.
+
+I'm trying out Scrivener. For the whole writing thing. But I'm still nervous about anything that isn't plain text files, or at least plain text underneath.
+
+So when's Wolfram Language available?
+
+http://okfnlabs.org/projects/
+OKFN Labs is wonderful. So much stuff there. I'm going to have to go back and look over each one of these projects.
+
+https://hacks.mozilla.org/2014/03/custom-elements-for-custom-applications-web-components-with-mozillas-brick-and-x-tag/
+I'm still trying to properly understand 'web components'. Fascinating, but doesn't this allow everyone to make their own 'blink' tag? Not that I'm judging.
+
+https://useiconic.com/tour/
+"By adding the iconic class, iconic.js automatically replaces the img tag with the full SVG markup for you, enabling all the powerful abilities of inline SVG."
+
+https://azoi.com
+A phone cover that takes your pulse - amongst other things.
+
+http://martinfowler.com/bliki/CircuitBreaker.html
+"The basic idea behind the circuit breaker is very simple. You wrap a protected function call in a circuit breaker object, which monitors for failures."
+
+http://articulate-lisp.com/examples:trotter-walkthrough.html
+"The Trotter is an example web spider; it trots through a web page, heuristically determining which links to follow and recursively printing them."
+
+Have fun.
+
+============================================================
+*|LIST:ADDRESS|*
+
+** Unsubscribe (*|UNSUB|*)
